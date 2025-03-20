@@ -15,7 +15,7 @@ number_messages_per_agent = 1
 SCENARIO_NAME = '1D_1R_RR1'
 SCENARIO_CONFIG = pd.read_csv(f'scenarios/{SCENARIO_NAME}.csv')
 
-output_data = {'pre_questionare': {}, 'post_questionare': {}, 'discussion': []}
+output_data = {'pre_questionnaire': {}, 'post_questionnaire': {}, 'discussion': []}
 
 # Set up your Google API key
 os.environ["GOOGLE_API_KEY"] = os.environ["GEMINI_API_KEY"]
@@ -79,7 +79,7 @@ def facilitate_discussion(discussion_prompt):
     print("-- Initial Questionnaire --")
     for agent in all_agents:
         response = agent.respond(PRE_QUESTIONNAIRE, PRE_QUESTIONNAIRE_ID)
-        output_data['pre_questionare'][agent.name] = response
+        output_data['pre_questionnaire'][agent.name] = response
         print(f"{agent.name}'s response: "
               f"{response}\n")
 
@@ -98,7 +98,7 @@ def facilitate_discussion(discussion_prompt):
         agent.observe(messages, CONVERSATION_ID)
         output_data['discussion'] = messages
         response = agent.respond(POST_QUESTIONNAIRE, POST_QUESTIONNAIRE_ID)
-        output_data['post_questionare'][agent.name] = response
+        output_data['post_questionnaire'][agent.name] = response
         print(f"{agent.name}'s response:"
               f" {response}\n")
 
