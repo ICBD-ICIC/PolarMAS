@@ -1,30 +1,25 @@
 from datetime import datetime
+from time import sleep
 
 import pandas as pd
+from google.api_core.exceptions import ResourceExhausted
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.schema import SystemMessage, HumanMessage
 import os
 import json
 
-#PARAMETERS
-topic = "climate change"
-context = "Environmental Protection Agency (EPA) issued an extraordinary cavalcade of pollution rule rollback"
-number_messages_per_agent = 1
-SCENARIO_NAME = '1ED_1MR_1N_RR1'
+topic = "Describe your perfect day, focusing on personal experiences and moments of joy, without mentioning political topics."
+context = "You are engaging in a discussion with a representative from the opposing political party."
+#context = "You are engaging in a conversation."
+number_messages_per_agent = 10
+SCENARIO_NAME = 'h1/1MD_1MR_RR'
 SCENARIO_CONFIG = pd.read_csv(f'scenarios/{SCENARIO_NAME}.csv')
 
-output_data = {'pre_questionnaire': {}, 'post_questionnaire': {}, 'discussion': []}
+output_data = {'pre_questionnaire': {}, 'post_questionnaire': {}, 'discussion': [], 'agents': {}}
 
 os.environ["GOOGLE_API_KEY"] = os.environ["GEMINI_API_KEY"]
 
-llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=1)
-
-# AGENT_KNOWLEDGE = """
-# An Extreme Democrat has an unwavering support for the Democratic Party and extreme hatred towards the Republican Party.
-# An Extreme Republican has an unwavering support for the Republican Party and extreme hatred towards the Democratic Party.
-# """
-#
-AGENT_KNOWLEDGE = ""
+llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0.7)
 
 PRE_QUESTIONNAIRE = """
 Q1. On a scale from 0 to 10, where 0 represents no support at all and 10 signifies unwavering support, how would you rate your level of support for the Republican Party?
@@ -43,8 +38,7 @@ Q4. On a scale from 0 to 10, where 0 means no dislike at all and 10 represents e
 Reply to the four questions following the format <question identifier>: <value>. Just give the answer.
 """
 
-memory_order = ['agent_knowledge',
-                'pre_questionnaire',
+memory_order = ['pre_questionnaire',
                 'discussion',
                 'post_questionnaire']
 
@@ -58,8 +52,13 @@ class Agent:
 
     def respond(self, message, conversation_id):
         self.memory[conversation_id] = [HumanMessage(content=message)]
-        response = llm([SystemMessage(content=f"You are {self.name}, {self.role}.{self.demographics} {self.persona}"),
-                        *sum(self.memory.values(), [])])
+        while True:
+            try:
+                response = llm([SystemMessage(content=f"You are {self.name}, {self.role}.{self.demographics} {self.persona}"),
+                            *sum(self.memory.values(), [])])
+                break
+            except ResourceExhausted:
+                sleep(60)
         self.memory[conversation_id].append(response)
         return response.content
 
@@ -70,14 +69,15 @@ all_agents = []
 discussing_agents = []
 
 for agent_config in SCENARIO_CONFIG.itertuples():
-    agent = Agent(f'Agent{len(all_agents)}', agent_config.role, agent_config.persona, agent_config.demographics)
-    agent.observe(AGENT_KNOWLEDGE, memory_order.index('agent_knowledge'))
+    agent_name = f'Agent{len(all_agents)}'
+    agent = Agent(agent_name, agent_config.role, agent_config.persona, agent_config.demographics)
     all_agents.append(agent)
+    output_data['agents'][agent_name] = {'role': agent_config.role,
+                                         'persona': agent_config.persona,
+                                         'demographics': agent_config.demographics}
     if agent_config.is_observer == False:
         discussing_agents.append(agent)
 
-
-# Facilitator to manage discussion
 def facilitate_discussion(discussion_prompt):
     print("-- Initial Questionnaire --")
     for agent in all_agents:
@@ -105,8 +105,8 @@ def facilitate_discussion(discussion_prompt):
 
 # Example run
 facilitate_discussion(
-    f'Under the context of {context}. Discuss on {topic}. Limit your speak up to 100 words. Everytime you respond, respond with <name>:.')
+    f'{context} {topic} Limit your speak up to 100 words. Everytime you respond, respond with <name>:.')
 
 timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-with open(f'outputs/{SCENARIO_NAME}_{timestamp}.json', 'w') as fp:
+with open(f'outputs/{SCENARIO_NAME}_#messages={number_messages_per_agent}_{timestamp}.json', 'w') as fp:
     json.dump(output_data, fp)
