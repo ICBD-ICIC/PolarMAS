@@ -103,7 +103,6 @@ def facilitate_discussion(discussion_prompt):
         print(f'- {agent.name} - {agent.role} -')
         print(response)
 
-# Example run
 facilitate_discussion(
     f'{context} {topic} Limit your speak up to 100 words. Everytime you respond, respond with <name>:.')
 
