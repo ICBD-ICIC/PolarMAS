@@ -125,7 +125,7 @@ verify_distribution_samples(samples)
 persona_descriptions = PERSONAS['persona'].to_list()
 random.shuffle(persona_descriptions)
 
-output_index = 1
+output_index = 0
 
 for i in range(0, n, 2):
     agents_config = [
