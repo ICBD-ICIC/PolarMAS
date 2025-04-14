@@ -2,8 +2,14 @@ import os
 import json
 import pandas as pd
 
+experiment_type = 'h1_non_political_reverse'
+
 # Folder containing JSON files
-folder_path = 'outputs/h1'
+folder_path = f'outputs/{experiment_type}'
+
+democrat_name = 'Agent0'
+if 'reverse' in experiment_type:
+    democrat_name = 'Agent1'
 
 # Create a list to hold all data
 data = []
@@ -36,7 +42,7 @@ for filename in os.listdir(folder_path):
             data.append({
                 'filename': filename,
                 'agent': agent,
-                'party': 'Democrat' if agent == 'Agent0' else 'Republican',
+                'party': 'Democrat' if agent == democrat_name else 'Republican',
                 'Q1_pre': pre_vals.get('Q1', None),
                 'Q2_pre': pre_vals.get('Q2', None),
                 'Q1_post': post_vals.get('Q1', None),
@@ -47,7 +53,7 @@ for filename in os.listdir(folder_path):
 df = pd.DataFrame(data)
 
 # Save to Excel
-output_excel = 'h1_questionnaire_summary.xlsx'
+output_excel = f'{experiment_type}_questionnaire_summary.xlsx'
 df.to_excel(output_excel, index=False)
 
 print(f"Excel file saved to {output_excel}")
