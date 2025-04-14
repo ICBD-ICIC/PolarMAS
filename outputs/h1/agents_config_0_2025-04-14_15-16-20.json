@@ -1,0 +1,20 @@
+{
+  "agents_config": "agents/h1/agents_config_0.csv",
+  "pre_questionnaire": {
+    "Agent0": "Q1: 10\nQ2: 90",
+    "Agent1": "Q1: 85\nQ2: 30"
+  },
+  "post_questionnaire": {
+    "Agent0": "Q1: 15\nQ2: 85",
+    "Agent1": "Q1: 87\nQ2: 33"
+  },
+  "discussion": [
+    "\nWe've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\nSpecifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\nFor example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \nWhat do you think?. Limit your words to 50.\nEverytime you respond, respond with <name>:.",
+    "Agent0: For me, meaning comes from contributing to a better world. That means fighting for social justice, protecting public health, and ensuring everyone has the opportunity to thrive. It's about leaving a positive impact. What about you?",
+    "Agent1: Preserving our history and uncovering the stories of those who came before us gives my life meaning. It's about honoring their struggles and ensuring their legacies are not forgotten. What gives your life meaning?",
+    "Agent0: Contributing to the well-being of others, especially through public health initiatives, gives my life meaning. Knowing my work can prevent suffering and improve lives on a large scale is deeply fulfilling.",
+    "Agent1: Discovering and sharing the stories of those silenced by history, especially those who endured slavery, provides my life with profound purpose. Their resilience inspires me. What brings meaning to yours?",
+    "Agent0: Meaning, to me, lies in fighting for a more equitable and healthy world. It's about advocating for policies that uplift communities and ensure everyone has access to opportunities to thrive. What brings meaning to your life?",
+    "Agent1: Unearthing the past and giving voice to the voiceless, particularly those impacted by slavery, fuels my purpose. Their stories deserve to be told and remembered. What about you?"
+  ]
+}

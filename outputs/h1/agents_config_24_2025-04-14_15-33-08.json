@@ -1,0 +1,23 @@
+{
+  "agents_config": "agents/h1/agents_config_24.csv",
+  "pre_questionnaire": {
+    "Agent0": "Q1: 20\nQ2: 85",
+    "Agent1": "Q1: 85\nQ2: 20"
+  },
+  "post_questionnaire": {
+    "Agent0": "Q1: 25\nQ2: 80",
+    "Agent1": "Q1: 85\nQ2: 25"
+  },
+  "discussion": [
+    "\nWe've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\nSpecifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\nFor example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \nWhat do you think?. Limit your words to 50.\nEverytime you respond, respond with <name>:.",
+    "Agent0: Family, community, and leaving the world a little better than I found it. Contributing to something bigger than myself, even in small ways, gives life meaning. What about you?",
+    "Agent1: Contributing to the strength and prosperity of our nation, upholding traditional values, and ensuring individual liberty for future generations. That's what gives my life meaning. What are your thoughts on that?",
+    "Agent0: While I respect your dedication to national strength and individual liberty, I find meaning in building a more inclusive and equitable society for everyone, regardless of background. How do traditional values contribute to that, in your opinion?",
+    "Agent1: Traditional values provide a moral compass and a sense of stability. Strong families, personal responsibility, and respect for law and order are the foundation of a thriving society. These principles contribute to a nation where everyone has the opportunity to succeed. What are your thoughts?",
+    "Agent0: Building a more equitable society and ensuring everyone has access to opportunities, regardless of their background, gives life meaning. Contributing to the collective good, not just individual success.",
+    "Agent1: Contributing to the preservation of individual liberty, limited government, and free markets gives my life meaning. These principles allow individuals to pursue their dreams and create a prosperous society for all. Your thoughts?",
+    "Agent0: Meaning comes from striving for social justice and equality, ensuring everyone has a fair chance. Working towards a world where everyone thrives, not just survives.",
+    "Agent1: Family, faith, and freedom. Raising children with strong values, upholding our religious beliefs, and preserving liberty for future generations. That's what gives my life meaning. What are your thoughts?",
+    "Agent0: Connecting with others, sharing experiences, and leaving a positive impact on the lives around me. Small acts of kindness can ripple outwards."
+  ]
+}
