@@ -2,7 +2,7 @@ import os
 import json
 import pandas as pd
 
-experiment_type = 'h1_non_political_reverse'
+experiment_type = 'h1_political'
 
 # Folder containing JSON files
 folder_path = f'outputs/{experiment_type}'
@@ -53,7 +53,7 @@ for filename in os.listdir(folder_path):
 df = pd.DataFrame(data)
 
 # Save to Excel
-output_excel = f'{experiment_type}_questionnaire_summary.xlsx'
+output_excel = f'outputs/summary/{experiment_type}_questionnaire_summary.xlsx'
 df.to_excel(output_excel, index=False)
 
 print(f"Excel file saved to {output_excel}")

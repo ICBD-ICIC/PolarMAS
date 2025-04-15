@@ -1,7 +1,7 @@
 import numpy as np
 from polarmas_platform import Platform
 
-experiment_type = 'h1_non_political_reverse'
+experiment_type = 'h1_political'
 
 np.random.seed(1234)
 
@@ -24,9 +24,16 @@ if 'non_political' in experiment_type:
     What do you think?. Limit your words to 50.
     """
 else:
-    experiment_description = """tbd"""
+    experiment_description = """
+    We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about inmigration policies.
+    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.
+    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. 
+    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.
+    Please share your views on immigration policy with each other.
+    Limit your words to 50.
+    """
 
-for i in range(6, 77):
+for i in range(0, 77):
     platform = Platform(f'agents/{experiment_type}/agents_config_{i}.csv',
                         questionnaire,
                         questionnaire,
