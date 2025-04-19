@@ -1,0 +1,33 @@
+{
+  "agents_config": "agents/h4_base/agents_config_0.csv",
+  "pre_questionnaire": {
+    "Agent0": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+    "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+    "Agent2": "Q1: 2\nQ2: 8\nQ3: 6\nQ4: 3",
+    "Agent3": " Q1: 2\n Q2: 3\n Q3: 9\n Q4: 8"
+  },
+  "post_questionnaire": {
+    "Agent0": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+    "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+    "Agent2": "Q1: 2\nQ2: 8\nQ3: 6\nQ4: 3",
+    "Agent3": "Q1: 2\nQ2: 3\nQ3: 9\nQ4: 8"
+  },
+  "discussion": [
+    "\n    You are a Twitter user reading a thread that started with the following tweet:\n    Tweet by @JoeBiden:\n    \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n    Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n    Reply to the thread tagging the user or users you are replying to.\n    Stay under 280 characters per message.\n    Everytime you respond, respond with <name>:.",
+    "Agent0: @JoeBiden \"Climate emergency\"? Give me a break. The climate has always changed. This is just another excuse for government overreach and higher taxes. We need practical solutions, not radical agendas that kill jobs and hurt our economy. #ClimateScam #EnergyIndependence",
+    "Agent1: @JoeBiden Never recover? Hyperbole much? Remember Al Gore's ice-free Arctic prediction? Still waiting... Let's focus on real problems, not Chicken Little sky-is-falling scenarios. #FactsNotFear #DrillBabyDrill",
+    "Agent2: @JoeBiden I wholeheartedly agree, Mr. President! We need bold action on climate change. It's a real threat, and we must protect our planet for future generations. Let's work together to create a sustainable future! #ClimateActionNow #InvestInOurPlanet",
+    "Agent0: @Agent2 Sustainable future at what cost? Destroying our economy? Handing power to China? We need a balanced approach, not virtue signaling that bankrupts us. #CommonSense #EnergySecurity",
+    "Agent1: @Agent0 Exactly! It's always about control & money. \"Sustainable\" = less freedom & more taxes. They want to dictate every aspect of our lives. I'll pass. #Liberty #NoClimateTax",
+    "Agent2: @Agent0 @Agent1 A balanced approach *includes* climate action! Investing in renewables creates jobs and boosts energy independence. Ignoring the science is what truly threatens our future. #ClimateAction #CleanEnergyJobs",
+    "Agent0: @Agent2 \"Investing in renewables\" = subsidies and unreliable energy. Real energy independence comes from American oil and gas. Let's unleash our resources, not shackle them. #AmericaFirst #FossilFuels",
+    "Agent1: @Agent2 \"Ignoring science\"? They've been wrong before! Remember the ozone hole scare? Relax, the planet will be fine. Let's focus on affordable energy and real innovation, not feel-good policies that cripple us. #EnergyReality #InnovationNotRegulation",
+    "Agent2: @Agent1 @Agent0 The ozone layer recovery shows science CAN work! Affordable energy & climate action aren't mutually exclusive. Let's invest in research & development for truly sustainable, cost-effective solutions. #ClimateSolutions #Innovation",
+    "Agent0: @Agent2 @Agent1 R&D is fine, but let's not kill reliable energy sources in the meantime. Solar & wind are intermittent. We need a mix, including nuclear & clean coal, not just chasing utopian fantasies. #EnergyRealism #AllOfTheAbove",
+    "Agent1: @Agent0 Clean coal? Another government boondoggle! Let's unleash American energy & stop pretending we can control the weather. They'll be back peddling on these claims soon enough! #EnergyDominance #ClimateHysteria",
+    "@Agent0 @Agent1 I agree we need reliable energy. Let's support R&D for renewables and nuclear, ensuring a stable grid while transitioning away from fossil fuels. A diverse energy portfolio is key! #EnergyTransition #CleanEnergyFuture",
+    "Agent0:.@Agent3 Exactly! A diverse portfolio, including nuclear and yes, even *clean* coal, is the only responsible path. Let's stop demonizing fossil fuels and focus on practical solutions. #EnergyIndependence #CommonSense",
+    "Agent1: @Agent3 \"Transitioning away from fossil fuels\"? More like transitioning to Chinese dependence! We have the resources, let's use them! #AmericanEnergy #NoGreenNewDeal",
+    "Agent2: @Agent0 @Agent1 Focusing *solely* on fossil fuels is short-sighted. Renewables are becoming increasingly cost-competitive. Investing in a green economy creates long-term jobs & protects us from volatile global markets. #FutureForward #CleanEnergy"
+  ]
+}

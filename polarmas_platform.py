@@ -12,7 +12,7 @@ import json
 
 class Agent:
     def __init__(self, name, role, persona, demographics, is_observer):
-        os.environ["GOOGLE_API_KEY"] = os.environ["GEMINI_API_KEY"]
+        os.environ["GOOGLE_API_KEY"] = 'AIzaSyCTMlevPZtoINmDDwLI9prJFyEuoNqQn7Q'
         self.llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0.7)
         self.name = name
         self.role = role
