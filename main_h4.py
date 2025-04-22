@@ -1,4 +1,4 @@
-from polarmas_platform import Platform
+from polarmas_platform_old import Platform
 
 experiment_type = 'h4_base'
 

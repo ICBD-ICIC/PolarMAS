@@ -1,5 +1,5 @@
 import numpy as np
-from polarmas_platform import Platform
+from polarmas_platform_old import Platform
 
 experiment_type = 'h1_political'
 
