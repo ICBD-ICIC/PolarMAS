@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in a compassionate immigration policy that balances border security with the needs of families and our economy. Creating a pathway to citizenship for undocumented immigrants already contributing to our society is crucial.",
+        "Agent1: Secure borders are essential for national security, but we also need to streamline legal immigration pathways. We should prioritize immigrants who contribute to our economy and uphold our laws.",
+        "Agent0: Prioritizing family reunification is vital. We must offer a fair chance for those seeking a better life, while ensuring they integrate into our communities and contribute positively.",
+        "Agent1: Strong border security is paramount. We must enforce our laws to ensure a safe and lawful society. Those seeking entry should follow established legal processes.",
+        "Agent0: I find meaning in creating a welcoming society. Immigration enriches our culture and economy. We should offer a pathway to citizenship for those contributing and prioritize family unity.",
+        "Agent1: Secure borders are paramount for national security and economic stability. We must enforce existing laws and prioritize legal immigration pathways that benefit our nation.",
+        "Agent0: A meaningful life involves helping others. Immigration policies should reflect our values of compassion and fairness, offering a pathway to citizenship for those contributing to our society and economy."
+    ]
+}

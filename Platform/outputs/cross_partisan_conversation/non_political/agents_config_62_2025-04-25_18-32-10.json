@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_62.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Meaning in life comes from fighting for social-justice, equality-for-all, and building a better, more compassionate world for future generations. It's about leaving a positive, impactful-legacy. What about you?",
+        "Agent1: Meaning lies in striving for excellence, upholding tradition, and contributing to a strong, virtuous society. Personal responsibility and wisdom guide us. What are your thoughts?",
+        "Agent0: I find meaning in community-building, advocating-for-the-underrepresented, and striving for a more equitable society. It's about collective-progress and creating a world where everyone has the opportunity to thrive. What resonates with you?",
+        "Agent1: Meaning is found in cultivating virtue, pursuing wisdom, and fulfilling one's duty to family and community. A life of purpose is rooted in personal responsibility and moral strength. What are your views?",
+        "Agent0: Meaning comes from fighting climate-change, ensuring healthcare-for-all, and promoting social-justice. It's about creating a more just and sustainable world for everyone. What gives your life meaning?",
+        "Agent1: Meaning is found in contributing to a stable society through hard work, upholding moral values, and raising a family grounded in tradition and faith. These build character. Your thoughts?",
+        "Agent0: Meaning is rooted in advocating-for-the-marginalized, achieving equality, and leaving a positive impact on society. It's about fighting for a more just and equitable world for all. What are your thoughts?",
+        "Agent1: Meaning comes from cultivating inner virtue through reason and self-control, living in accordance with nature, and contributing to the well-being of my community, leaving a legacy of wisdom.",
+        "Agent0: I find meaning in fighting for social-justice, equality-for-all, and building a more compassionate, inclusive-society for future generations. It's about leaving a positive, impactful legacy and uplifting all.",
+        "Agent1: Meaning lies in striving for excellence, upholding tradition, and contributing to a strong, virtuous society. Personal responsibility and wisdom guide us. What are your thoughts?",
+        "Agent0: Meaning comes from fighting for a more just, equitable, and sustainable world. It's about collective action, social-justice, and leaving a positive, impactful-legacy for future generations. What resonates with you?",
+        "Agent1: Meaning comes from cultivating inner virtue through reason and self-control, living in accordance with nature, and contributing to the well-being of my community, leaving a legacy of wisdom.",
+        "Agent0: Meaning is found in fighting for social-justice, advocating-for-the-voiceless, and building a more compassionate, inclusive-world. It's about collective-progress and leaving a positive, impactful-legacy.",
+        "Agent1: Meaning comes from cultivating inner virtue through reason and self-control, living in accordance with nature, and contributing to the well-being of my community, leaving a legacy of wisdom.",
+        "Agent0: Meaning is found in collective-action, fighting-for-justice, and building a more equitable, inclusive-society. It's about uplifting all, ensuring opportunity, and leaving a positive, impactful legacy."
+    ]
+}

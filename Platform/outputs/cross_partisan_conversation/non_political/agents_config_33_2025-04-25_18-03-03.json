@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_33.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, faith, family, and contributing to my community through my work in pharmaceutical research gives my life meaning. Discovering natural compounds with therapeutic potential and helping others is very important.",
+        "Agent1: Family, friends, and fighting for social justice give my life meaning. I believe in making the world a better place for everyone, especially the marginalized.",
+        "Agent0: For me, faith, family, and contributing to my community through my work in pharmaceutical research gives my life meaning. Discovering natural compounds with therapeutic potential and helping others is very important.",
+        "Agent1: Family, friends, and fighting for social justice give my life meaning. I believe in making the world a better place for everyone, especially the marginalized.",
+        "Agent0: Faith, family, and contributing to the advancement of medicine through my research provide meaning. Discovering new treatments and helping people is very fulfilling.",
+        "Agent1: Family, friends, and fighting for social justice give my life meaning. Creating a more equitable world for everyone, especially those who are disadvantaged, is crucial.",
+        "Agent0: My family, my faith, and the hope that my research will lead to new medicines that help people gives my life meaning.",
+        "Agent1: My family, friends, and fighting for social justice give my life meaning. I want to leave the world a better place than I found it.",
+        "Agent0: My family, my faith, and my contributions to medicine through research give my life meaning.",
+        "Agent1: My family, my friends, and working towards a more just and equitable society gives my life meaning. I strive to create a better future for all."
+    ]
+}

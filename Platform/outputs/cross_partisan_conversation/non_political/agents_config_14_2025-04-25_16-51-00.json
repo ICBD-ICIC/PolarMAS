@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 70",
+        "Agent1": "Q1: 92\nQ2: 33"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to a more just and equitable world. It's about fighting for social justice and making a positive impact on the lives of others, especially the marginalized. What about you?",
+        "Agent1: Meaning for me stems from innovation and progress. It's about pushing the boundaries of science and technology to create solutions that improve lives and strengthen our nation's future. What are your thoughts?",
+        "Agent0: For me, meaning comes from connection and community. It's about building strong relationships with loved ones and working together to create a more caring and compassionate society. What brings meaning to your life?",
+        "Agent1: Meaning for me lies in innovation and discovery. It's about using my skills in nanotechnology to develop solutions that benefit society and advance our understanding of the world. What gives your life purpose?",
+        "Agent0: Meaning comes from fighting for a better future for all. It's about ensuring everyone has equal opportunities and a voice. Contributing to a more just and equitable society is what drives me. What gives your life meaning?",
+        "Agent1: Meaning for me lies in innovation and discovery. It's about using my skills in nanotechnology to develop solutions that benefit society and advance our understanding of the world. What gives your life purpose?",
+        "Agent0: For me, meaning comes from fighting for a better future for all. It's about ensuring everyone has equal opportunities and a voice. Contributing to a more just and equitable society is what drives me. What about you?",
+        "Agent1: For me, meaning is found in contributing to scientific advancement. My work in nanotechnology, creating innovative sensors, provides a sense of purpose by improving lives and bolstering our nation's capabilities. What brings meaning to your life?"
+    ]
+}

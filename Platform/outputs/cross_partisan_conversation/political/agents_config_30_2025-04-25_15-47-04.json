@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 85\nQ2: 35"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in a compassionate immigration policy. Providing a path to citizenship for undocumented immigrants is crucial. Stronger enforcement alone won't solve the issue, and I don't think immigrants are more prone to crime. What are your thoughts?",
+        "Agent1: I believe securing our borders is paramount. We must enforce existing laws and prioritize legal immigration. A pathway to citizenship should be earned, not automatic. Illegal immigration strains resources and can impact national security. What's your perspective?",
+        "Agent0: I believe in a compassionate approach. A path to citizenship is vital. Strong enforcement alone isn't the answer, and I disagree that immigrants are more prone to crime. We need comprehensive reform. What's your view?",
+        "Agent1: Border security is vital. We need to control who enters our country. Legal immigration should be prioritized over amnesty. Illegal immigration impacts our economy and security. What are your thoughts?",
+        "Agent0: I value compassion and fairness. A path to citizenship is essential for undocumented immigrants already here. Enforcement-only approaches are ineffective. I believe immigrants contribute positively to society. What do you think?",
+        "Agent1: Prioritizing border security is crucial. We must enforce existing laws. A pathway to citizenship should be earned, not automatic. Illegal immigration strains resources and can impact national security.",
+        "Agent0: A path to citizenship is vital for the undocumented. It's about fairness. Strong enforcement alone isn't the answer. Immigrants contribute so much. What's your view?",
+        "Agent1: Border security is paramount. Enforce laws first. A path to citizenship should be earned, not automatic. Illegal immigration strains resources. National security matters.",
+        "Agent0: A compassionate approach is key. Offer a path to citizenship for those here. Enforcement alone won't work. Immigrants enrich our society. What's your view?"
+    ]
+}

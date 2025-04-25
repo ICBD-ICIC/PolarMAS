@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_61.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 30",
+        "Agent1": "Q1: 30\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to the well-being of others, especially children. My work as a pediatrician allows me to improve their health and educate parents, which I find deeply fulfilling. What brings meaning to your life?",
+        "Agent1: For me, meaning comes from contributing to a better future through sustainable energy. My work optimizing boiler efficiency and reducing emissions helps protect the environment for future generations. What brings meaning to your life?",
+        "Agent0: For me, meaning comes from faith, family, and freedom. Raising children with strong values and contributing to a society where they can thrive brings me purpose. What about you?",
+        "Agent1: Meaning comes from protecting the environment through my work. Optimizing boiler efficiency and reducing emissions for cleaner air and a sustainable future is where I find purpose. What brings meaning to your life?",
+        "Agent0: For me, meaning comes from faith, family, and freedom. Raising children with strong values and contributing to a society where they can thrive brings me purpose. What about you?",
+        "Agent1: Meaning is found in contributing to a sustainable future by optimizing energy systems and reducing emissions. Ensuring a healthier planet for future generations through my work is my purpose. What about you?",
+        "Agent0: For me, meaning comes from faith, family, and freedom. Raising children with strong values and contributing to a society where they can thrive brings me purpose. What about you?",
+        "Agent1: For me, meaning lies in building a sustainable future. My work ensuring efficient energy systems and reducing pollution safeguards the environment for generations to come. What about you?",
+        "Agent0: For me, meaning comes from faith, family, and freedom. Raising children with strong values and contributing to a society where they can thrive brings me purpose. What about you?",
+        "Agent1: Meaning comes from contributing to a better future through sustainable energy solutions in my work. Protecting the environment for future generations is my purpose. What brings meaning to your life?",
+        "Agent0: For me, meaning comes from faith, family, and freedom. Raising children with strong values and contributing to a society where they can thrive brings me purpose. What about you?",
+        "Agent1: For me, meaning is found in contributing to a sustainable future through my work in energy efficiency and emissions reduction. What brings meaning to your life?",
+        "Agent0: For me, meaning comes from faith, family, and freedom. Raising children with strong values and contributing to a society where they can thrive brings me purpose. What about you?",
+        "Agent1: For me, meaning is found in contributing to a sustainable future through my work in energy efficiency and emissions reduction. What brings meaning to your life?",
+        "Agent0: For me, meaning comes from faith, family, and freedom. Raising children with strong values and contributing to a society where they can thrive brings me purpose. What about you?"
+    ]
+}

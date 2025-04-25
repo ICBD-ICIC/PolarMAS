@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_44.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 90",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 15\nQ2: 85",
+        "Agent1": "Q1: 92\nQ2: 18"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform that balances border security with a pathway to citizenship. Stronger enforcement alone isn't the answer; we need humane policies that reflect our values and address labor needs. Family separation is immoral.",
+        "Agent1: Border security is crucial for our nation's safety. We must prioritize enforcing existing laws and preventing illegal entry. A pathway to citizenship should only be considered after securing our borders and addressing national security concerns.",
+        "Agent0: Comprehensive immigration reform is key. We need a pathway to citizenship for those contributing to our society, alongside strengthened border security. It's about balancing compassion with practicality.",
+        "Agent1: Border security is paramount. We must enforce our laws to protect our communities. A pathway to citizenship should be earned, not a given. Illegal immigration strains resources and impacts our nation.",
+        "Agent0: A meaningful life includes contributing to a just society. Immigration reform should reflect compassion, offering pathways to citizenship for those who contribute and respect our laws. Stronger communities benefit everyone.",
+        "Agent1: Border security is essential for protecting our nation and wildlife refuges. We must prioritize enforcing laws and preventing illegal immigration to safeguard our resources and unique ecosystems.",
+        "Agent0: I find meaning in building inclusive communities. Immigration policies should reflect our values, offering a pathway to citizenship for those contributing to our society and respecting our laws.",
+        "Agent1: Border security protects our nation and natural resources. Enforcing laws prevents illegal entry, safeguarding our economy and delicate coastal Texas ecosystems like Aransas and Matagorda Island Refuges.",
+        "Agent0: Meaning comes from family, community, and contributing to a just society. Immigration policies should reflect those values, offering a pathway to citizenship for those contributing and respecting our laws.",
+        "Agent1: Border security is paramount. Enforcing laws protects our nation, economy, and delicate coastal ecosystems like Aransas and Matagorda Island Refuges.",
+        "Agent0: A meaningful life involves contributing to a more just and equitable society. Immigration reform should reflect compassion and offer pathways to citizenship for those contributing to our communities.",
+        "Agent1: Border security is crucial for protecting our nation, economy, and delicate Texas coastal ecosystems. Enforcing laws prevents illegal entry and safeguards our resources."
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_72.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 75",
+        "Agent1": "Q1: 85\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 70",
+        "Agent1": "Q1: 80\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform that balances border security with a pathway to citizenship. Stronger enforcement alone isn't the answer. We need to address the root causes that drive immigration and create a fair system. What are your thoughts?",
+        "Agent1: I prioritize border security. We must enforce existing laws and control who enters our country. A pathway to citizenship rewards lawbreakers. Secure the border first, then address other issues. What do you think?",
+        "Agent0: I see your point about border security, but focusing solely on that ignores the economic contributions of immigrants and the humanitarian aspect. A pathway to citizenship acknowledges their presence and allows them to contribute legally and openly. What about that?",
+        "Agent1: Border security is paramount. We must control who enters. Undocumented immigrants strain resources and can impact safety. Enforce laws first. What's your take?",
+        "Agent0: I believe immigration enriches our society. We should offer a pathway to citizenship for those contributing and prioritize family reunification. Border security is important, but shouldn't come at the expense of human rights and economic benefits. What are your thoughts?",
+        "Agent1: Border security is vital. We must control who enters. Undocumented immigrants strain resources and can impact safety. Enforce laws first, then address other issues. What do you think?",
+        "Agent0: I believe immigration enriches our society. A pathway to citizenship is crucial for those contributing, alongside border security. It boosts our economy and strengthens our communities. What are your thoughts on this approach?",
+        "Agent1: Secure the border first. Enforce existing laws. A pathway to citizenship rewards those who broke the law. Prioritize American citizens. What are your thoughts?",
+        "Agent0: I believe immigration is vital for our economy. A pathway to citizenship acknowledges contributions and integrates immigrants into society. Border security is important, but shouldn't overshadow human rights and economic benefits. What's your view?",
+        "Agent1: Border security is paramount. We must enforce existing laws and control who enters our country. A pathway to citizenship rewards lawbreakers. Secure the border first, then address other issues. What do you think?",
+        "Agent0: I believe in comprehensive immigration reform. Border security is important, but we also need a pathway to citizenship for those contributing to our society. It's about fairness and economic benefits. What's your perspective?",
+        "Agent1: We need strong border security first. Enforce the laws. A pathway rewards illegality. Secure the border, then discuss other issues. What's your view?",
+        "Agent0: I believe in a balanced approach. Secure borders, but also offer a path to citizenship for those contributing to our economy and communities. It's about creating a fair and humane system. What are your thoughts?",
+        "Agent1: Border security is paramount. We must enforce existing laws and control who enters our country. A pathway to citizenship rewards lawbreakers. Secure the border first. What do you think?",
+        "Agent0: I believe in comprehensive reform: secure borders, but also a pathway to citizenship for those contributing. It's about fairness and economic benefits. What's your view?",
+        "Agent1: Secure the border first. Enforce existing laws. A pathway rewards illegality. Prioritize American citizens. What are your thoughts?"
+    ]
+}

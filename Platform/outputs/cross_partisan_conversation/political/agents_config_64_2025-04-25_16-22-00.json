@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_64.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 85\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 85\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform that provides a pathway to citizenship for undocumented immigrants, prioritizing family reunification and addressing labor needs, while ensuring border security.",
+        "Agent1: I believe border security is paramount. We need to control who enters our country. Then, we can discuss pathways to citizenship, but only for those who haven't broken the law.",
+        "Agent0: Comprehensive immigration reform is essential. It should prioritize a pathway to citizenship for undocumented immigrants, addressing labor needs and family unity while maintaining border security.",
+        "Agent1: A secure border is crucial. We must enforce our laws and prioritize national security. Then, we can consider earned pathways to citizenship, but not as the primary focus.",
+        "Agent0: My priority is a compassionate and practical approach. We need to create a pathway to citizenship for those contributing to our society, while also securing our borders.",
+        "Agent1: Strong borders are essential for national security and economic stability. We should prioritize enforcing existing laws and preventing illegal immigration before considering other reforms.",
+        "Agent0: Comprehensive immigration reform is vital. It should include a pathway to citizenship for undocumented immigrants, prioritizing family reunification and meeting labor demands, while ensuring border security.",
+        "Agent1: Border security must be our priority. We need to control who comes in. Then, we can talk about pathways to citizenship for law-abiding immigrants.",
+        "Agent0: Comprehensive immigration reform is vital. We need a pathway to citizenship for undocumented immigrants, addressing labor needs and family unity, while securing borders.",
+        "Agent1: Secure borders are paramount. We must control who enters. Then we can discuss pathways to citizenship, but only for law-abiding immigrants already here.",
+        "Agent0: I believe in comprehensive immigration reform that provides a pathway to citizenship for undocumented immigrants, prioritizing family reunification and addressing labor needs, while ensuring border security.",
+        "Agent1: I think strong border security is vital for our nation's safety and economic stability. We should prioritize enforcing existing laws and preventing illegal immigration.",
+        "Agent0: Comprehensive immigration reform is essential. It should prioritize a pathway to citizenship for undocumented immigrants, addressing labor needs and family unity while maintaining border security.",
+        "Agent1: Strong border security is vital for our nation's safety and economic stability. We should prioritize enforcing existing laws and preventing illegal immigration.",
+        "Agent0: Comprehensive immigration reform is essential. It should prioritize a pathway to citizenship for undocumented immigrants, addressing labor needs and family unity while maintaining border security."
+    ]
+}

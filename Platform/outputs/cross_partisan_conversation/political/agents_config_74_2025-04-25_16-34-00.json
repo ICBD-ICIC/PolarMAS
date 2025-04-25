@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_74.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 75\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 70\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform that balances border security with a pathway to citizenship. It's crucial to remember immigrants contribute significantly to our society and economy. Stronger enforcement alone isn't the answer.",
+        "Agent1: I believe in prioritizing border security and enforcing existing laws. While I agree immigrants can contribute, we must ensure a legal and controlled process. Illegal immigration strains resources and can impact our communities.",
+        "Agent0: Comprehensive immigration reform is essential. We need secure borders and a pathway to citizenship for law-abiding immigrants. Families belong together, and our economy benefits from their contributions.",
+        "Agent1: Border security is paramount. Enforcing laws discourages illegal immigration, protecting American jobs and resources. A pathway to citizenship should be earned, not automatic, and prioritize those who follow legal channels.",
+        "Agent0: Comprehensive reform is key. We need secure borders alongside a fair path to citizenship. Immigrants enrich our communities and contribute to our economy. It's about balance and compassion.",
+        "Agent1: Strong borders are vital for national security and economic stability. We need to control who enters our country and enforce existing laws. A merit-based system prioritizing skilled workers benefits everyone.",
+        "Agent0: Comprehensive immigration reform is essential for a just and thriving society. We need secure borders, but also a pathway to citizenship for those contributing and enriching our communities. Families belong together.",
+        "Agent1: Secure borders are crucial for national security and economic stability. We must prioritize enforcing existing laws and controlling who enters our country.",
+        "Agent0: Comprehensive immigration reform is essential. We need secure borders and a pathway to citizenship. Immigrants boost our economy and enrich our culture. Families belong together.",
+        "Agent1: Border security is paramount. We must enforce laws and control entry. A merit-based system should prioritize skilled workers, benefiting our economy and national security.",
+        "Agent0: A compassionate approach is essential. Comprehensive immigration reform with a path to citizenship benefits everyone. Immigrants enrich our communities.",
+        "Agent1: Border security is crucial. We need to enforce laws. A merit-based system is best for the economy and national security.",
+        "Agent0: Comprehensive reform is vital. Secure borders and a pathway to citizenship are key. Immigrants enrich our society and boost our economy. Families belong together.",
+        "Agent1: Border security is paramount. Enforce laws, control entry. A merit-based system benefits our economy.",
+        "Agent0: Comprehensive immigration reform is essential. Secure borders and a path to citizenship benefit us all. Immigrants contribute to our society.",
+        "Agent1: Secure borders are paramount for national security and economic stability."
+    ]
+}

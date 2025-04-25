@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_19.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 75\nQ2: 40",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 75\nQ2: 45",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to something larger than myself. Protecting our natural ecosystems, restoring habitats, and ensuring future generations can enjoy our planet \u2013 that's what gives my life purpose.",
+        "Agent1: For me, meaning comes from fighting for social justice and equality. Ensuring everyone has opportunities, regardless of background, and advocating for a more just and equitable society \u2013 that's what gives my life purpose.",
+        "Agent0: For me, meaning is found in preserving the natural world. Seeing a restored ecosystem thrive, knowing I've contributed to the health of our planet, that's deeply fulfilling. What brings meaning to your life?",
+        "Agent1: For me, meaning is found in community. Building strong relationships, supporting those around me, and working towards a more compassionate society \u2013 that's what gives my life purpose. What brings meaning to your life?",
+        "Agent0: Seeing the direct impact of my work, like a restored fish population thriving after a dam removal, is incredibly meaningful. It's about tangible results and leaving a positive legacy for future generations. What about you?",
+        "Agent1: For me, meaning is found in fighting for equality. Ensuring everyone has a fair shot and advocating for those who are marginalized \u2013 that's what gives my life purpose. What brings meaning to your life?",
+        "Agent0: For me, meaning resides in conservation. Protecting biodiversity, restoring habitats, and ensuring a healthy planet for future generations. It's about stewardship and leaving a positive ecological footprint. What gives your life meaning?",
+        "Agent1: For me, meaning is about fighting for a better future. Ensuring equality, justice, and opportunity for all is what gives my life purpose. What about you?"
+    ]
+}

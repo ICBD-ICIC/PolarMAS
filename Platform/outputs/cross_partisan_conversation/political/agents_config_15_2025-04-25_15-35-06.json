@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount. We must enforce existing laws and prioritize legal immigration. A nation without borders is not a nation. This ensures fairness for those who followed the rules.",
+        "Agent1: I believe in comprehensive immigration reform. We need a pathway to citizenship for undocumented immigrants and should focus on humane enforcement. Stronger borders shouldn't come at the cost of family separation.",
+        "Agent0: Prioritizing legal immigration ensures a fair system. We can't reward those who bypassed the process. Strong enforcement deters future illegal entries and protects our resources. It's about upholding the law.",
+        "Agent1: My meaningful life comes from contributing to sustainable energy solutions. I believe immigration reform should reflect our values of compassion and opportunity. We need sensible policies that balance security with humanitarian needs, offering a pathway to citizenship.",
+        "Agent0: Border security is vital for national security and economic stability. Legal immigration upholds the rule of law and ensures a fair process for everyone.",
+        "Agent1: My meaningful life comes from contributing to understanding ocean thermal energy. I think immigration reform should be humane, offer pathways to citizenship, and prioritize family unity while addressing security concerns.",
+        "Agent0: Strong borders protect our nation. Legal immigration ensures fairness and upholds the law. It's about prioritizing citizens and securing our future.",
+        "Agent1: My meaningful life comes from contributing to understanding ocean thermal energy. We need humane immigration reform that offers pathways to citizenship and prioritizes family unity."
+    ]
+}

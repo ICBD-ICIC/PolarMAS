@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_42.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: As a scientist, I value evidence-based solutions. I believe comprehensive immigration reform should prioritize pathways to citizenship for undocumented immigrants, as they contribute significantly to our economy. Stronger enforcement alone is not a sustainable solution.",
+        "Agent1: Protecting our borders is paramount. We need to enforce existing laws and prioritize the safety of American citizens. Illegal immigration strains resources and can lead to increased crime.",
+        "Agent0: We can't ignore the economic benefits immigrants bring. A path to citizenship incentivizes them to contribute even more, boosting innovation and filling labor gaps. Stronger enforcement alone is costly and inhumane.",
+        "Agent1: Strong borders are essential for national security. We must prioritize American jobs and ensure immigrants don't strain our social safety nets. Illegal immigration undermines the rule of law.",
+        "Agent0: As a scientist, I value data. Immigration fuels innovation and fills labor gaps. A path to citizenship boosts our economy. Stricter enforcement is costly and inhumane.",
+        "Agent1: Strong borders protect our nation. Enforcing laws and prioritizing American jobs is key. Illegal immigration strains resources and can increase crime.",
+        "Agent0: Meaningful life involves contributing to society through innovation. I support immigration reform that provides pathways to citizenship, boosting our economy and enriching our communities.",
+        "Agent1: Border security is crucial for a meaningful life. Protecting our nation and ensuring the safety of our citizens is paramount. Enforcing laws and prioritizing American jobs is essential.",
+        "Agent0: As a scientist, I believe immigration reform should focus on pathways to citizenship, as they contribute to our economy and innovation. Stronger enforcement alone is not a sustainable solution.",
+        "Agent1: We must secure our borders and prioritize American citizens. Illegal immigration threatens our safety and economic stability. Enforcing existing laws is crucial for a meaningful life.",
+        "Agent0: Immigration reform should prioritize pathways to citizenship for undocumented immigrants. They contribute to our economy. Stronger enforcement alone is not a sustainable solution."
+    ]
+}

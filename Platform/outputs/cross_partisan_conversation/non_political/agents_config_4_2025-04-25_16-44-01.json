@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_4.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to my community and advocating for social justice. It's about making a positive impact on the lives of others and fighting for a more equitable world.",
+        "Agent1: For me, meaning comes from upholding traditional values, personal responsibility, and contributing to a free and prosperous society. It's about building a strong nation for future generations.",
+        "Agent0: Meaning is found in fighting for equality and justice for all. It's about ensuring everyone has the opportunity to thrive and live a life of dignity, regardless of their background or circumstances.",
+        "Agent1: Meaning is derived from faith, family, and hard work. Building a strong, secure future for my loved ones and contributing to the nation's success through personal responsibility.",
+        "Agent0: Meaning is about fighting for a better future. Ensuring everyone has access to healthcare, education, and opportunities to reach their full potential. It's about creating a society where everyone thrives.",
+        "Agent1: For me, meaning comes from faith, family, and freedom. Supporting traditional values and limited government to ensure future generations can prosper."
+    ]
+}

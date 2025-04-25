@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_50.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in humane immigration policies. We need to offer a path to citizenship for those already here and prioritize family reunification. Stronger enforcement alone isn't the answer; it separates families and doesn't address the root causes.",
+        "Agent1: I believe securing our borders is paramount. We must enforce existing laws and prioritize the safety of American citizens. A path to citizenship should be earned, not given freely.",
+        "Agent0: I believe comprehensive immigration reform is vital. It should balance border security with a pathway to citizenship for undocumented immigrants. We need policies that reflect our values of fairness and opportunity, not just enforcement.",
+        "Agent1: Secure borders are essential for national security. We need to prioritize enforcing existing immigration laws. A path to citizenship should require meeting strict criteria and demonstrating a commitment to our laws.",
+        "Agent0: I believe immigration enriches our society. We should offer a path to citizenship for law-abiding immigrants, especially those contributing to our economy. Strong enforcement without compassion is inhumane.",
+        "Agent1: Border security is key. We need to control who enters our country and enforce existing laws. A path to citizenship should be earned, not automatic.",
+        "Agent0: I value family unity and economic contributions. Immigration policies should reflect these values, offering pathways to citizenship for those already here and contributing to our society.",
+        "Agent1: Border security is paramount. We need to control who enters and enforce laws. Citizenship should be earned through strict criteria, not given freely.",
+        "Agent0: I believe in comprehensive immigration reform. A pathway to citizenship for those contributing, alongside border security, is vital. We need humane policies that reflect our values.",
+        "Agent1: Secure borders protect citizens. Earned citizenship, not open borders, honors our laws and those who followed them.",
+        "Agent0: I believe in a comprehensive approach. We should offer a path to citizenship for those contributing to our society, alongside enhanced border security. It's about balancing security with compassion.",
+        "Agent1: Border security is paramount. We need to control who enters our country and enforce existing laws. A path to citizenship should be earned, not automatic."
+    ]
+}

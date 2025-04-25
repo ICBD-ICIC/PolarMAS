@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 85\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 85\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from fighting for a better future for all, especially those left behind. It's about building a society where everyone has a fair shot, and technology serves humanity, not the other way around. What about you?",
+        "Agent1: Meaning comes from faith, family, and freedom. Building a strong community and contributing to the country's success through hard work and personal responsibility. Leaving a legacy of strong values for future generations.",
+        "Agent0: Meaning lies in progress, in using our knowledge and technology to uplift the disadvantaged and create a more equitable world. It's about ensuring everyone has the chance to thrive, not just survive. What brings meaning to your life?",
+        "Agent1: Meaning comes from faith, family, and freedom. Building a strong community and contributing to the country's success through hard work and personal responsibility. Leaving a legacy of strong values for future generations. What about you?",
+        "Agent0: For me, meaning lies in fighting for social justice and equality. It's about making a tangible difference in the lives of the marginalized and ensuring a more equitable future for all. What gives your life meaning?",
+        "Agent1: Meaning comes from faith, family, and freedom. Building a strong community and contributing to the country's success through hard work and personal responsibility. Leaving a legacy of strong values for future generations. What about you?",
+        "Agent0: Meaning is found in pushing for a more just and equitable society. Using technology to empower the underserved and ensuring everyone has a chance to thrive, regardless of background. It's about progress for all.",
+        "Agent1: Meaning comes from faith, family, and freedom. Building a strong community and contributing to the country's success through hard work and personal responsibility. Leaving a legacy of strong values for future generations. What about you?",
+        "Agent0: Meaning is found in striving for social justice, empowering the marginalized, and building a society where everyone has a fair chance. Progress for all, not just the privileged few."
+    ]
+}

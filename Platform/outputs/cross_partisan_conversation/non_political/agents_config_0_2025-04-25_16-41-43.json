@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_0.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 85\nQ2: 40"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 85\nQ2: 45"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to the greater good. Working to improve public health, prevent pandemics, and create a more equitable world gives my life purpose. What brings meaning to your life?",
+        "Agent1: Preserving history, especially the stories of marginalized communities, brings meaning to my life. Unearthing the past and sharing it helps us understand ourselves and build a better future. What gives your life purpose?",
+        "Agent0: Building strong communities through public service and ensuring everyone has the opportunity to thrive. Working towards a healthier, more just world is what drives me. What about you?",
+        "Agent1: Uncovering the truth about our past and sharing those stories, especially those of the enslaved, gives my life meaning. It's about remembrance and justice. What about you?",
+        "Agent0: Meaning is found in service to others. Combating global health crises, advocating for vulnerable populations, and striving for social justice - these are the things that make my life meaningful. What brings meaning to yours?",
+        "Agent1: Meaning comes from preserving history, especially the stories of marginalized communities. Unearthing the past and ensuring those voices are heard is vital. What brings meaning to your life?"
+    ]
+}

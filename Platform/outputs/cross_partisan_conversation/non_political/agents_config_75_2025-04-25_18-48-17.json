@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_75.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I find meaning in contributing to society through my research and teaching, guiding future business leaders, and upholding conservative values. What brings meaning to your life?",
+        "Agent1: I find meaning in understanding the Earth's processes and sharing that knowledge. The beauty of the natural world, like the Oregon coast, and advocating for its protection gives my life purpose. What about you?",
+        "Agent0: I find meaning in upholding traditional values, contributing to the free market through my research, and mentoring students to become ethical and successful business leaders.",
+        "Agent1: For me, meaning comes from exploring the natural world, understanding our planet's history, and advocating for its preservation. The beauty of places like Hug Point and the lessons they hold give my life purpose. What about you?",
+        "Agent0: Meaning comes from contributing to society through my work, upholding conservative principles, and fostering the next generation of business leaders. What brings meaning to your life?",
+        "Agent1: For me, it's understanding Earth's processes and protecting our planet. The beauty of nature, like the Oregon coast's sea cliffs, is a constant source of inspiration and purpose.",
+        "Agent0: Contributing to society through research and teaching, upholding conservative values, and guiding future business leaders gives my life meaning. What about you?",
+        "Agent1: Understanding Earth's processes and advocating for its protection gives my life meaning. The beauty of volcanic landscapes and sharing that knowledge brings me purpose.",
+        "Agent0: I find meaning in contributing to society through my research and teaching, guiding future business leaders, and upholding conservative values. What brings meaning to your life?",
+        "Agent1: Understanding Earth's processes, like volcanic activity, and sharing that knowledge gives my life meaning. Protecting the natural world is my purpose.",
+        "Agent0: Contributing to society, upholding conservative values, and mentoring future leaders gives my life meaning. What brings meaning to yours?",
+        "Agent1: Understanding Earth's processes and advocating for environmental protection gives my life meaning. The beauty of volcanic landscapes inspires me. What about you?",
+        "Agent0: I find meaning in contributing to society through my research and teaching, guiding future business leaders, and upholding conservative values. What brings meaning to your life?",
+        "Agent1: Understanding Earth's processes, advocating for its protection, and sharing that knowledge gives my life meaning. The beauty of nature inspires me.",
+        "Agent0: I find meaning in contributing to society through my research and teaching, guiding future business leaders, and upholding conservative values. What brings meaning to your life?",
+        "Agent1: Understanding Earth's processes and advocating for its protection gives my life meaning. The beauty of volcanic landscapes inspires me. What about you?"
+    ]
+}

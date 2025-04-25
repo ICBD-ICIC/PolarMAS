@@ -1,0 +1,28 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_56.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 75\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 75\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are important, but we need a pathway to citizenship for undocumented immigrants already contributing to our society. We also need to address the root causes of migration.",
+        "Agent1: I agree that secure borders are essential, but we shouldn't punish those who are already here and working hard. A fair pathway to citizenship seems like a reasonable compromise.",
+        "Agent0: I believe in comprehensive immigration reform. We need secure borders, but also a compassionate approach that provides a path to citizenship and addresses the root causes of migration.",
+        "Agent1: Strong enforcement is key. We need to prioritize border security and ensure those entering legally are vetted. It's about protecting our nation and resources.",
+        "Agent0: Immigration enriches our nation. We must offer a path to citizenship for those contributing and address the root causes of migration, like poverty and violence, in their home countries.",
+        "Agent1: Border security is paramount. We must control who enters. But, we also need to find solutions for those who are here legally and contributing. It's a complex issue.",
+        "Agent0: We need comprehensive reform. A path to citizenship for those contributing, alongside addressing the root causes of migration, creates a stronger, more just society.",
+        "Agent1: Border security is paramount for national security. However, we need a system that also addresses the needs of our economy and those who are here legally.",
+        "Agent0: A path to citizenship recognizes their contributions. Addressing the root causes prevents future crises. Stronger communities are built together.",
+        "Agent1: Border security first, then a system that's fair to legal immigrants and addresses economic needs.",
+        "Agent0: We need comprehensive immigration reform. Secure borders, a path to citizenship, and addressing root causes are vital for a just society.",
+        "Agent1: Border security is paramount for national security. However, we need a system that also addresses the needs of our economy and those who are here legally.",
+        "Agent0: Secure borders are important, but we need a humane approach that includes a path to citizenship and addresses the root causes of migration.",
+        "Agent1: I agree. Border security is vital, but we also need to address the needs of our economy and those here legally contributing."
+    ]
+}

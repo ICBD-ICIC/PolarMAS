@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from faith, family, and contributing to my community. I believe in personal responsibility and working hard to build a better future for my loved ones and our country. What about you?",
+        "Agent1: Meaning in life comes from fighting for social justice, protecting the environment, and advancing equality for all. Leaving the world a better place than I found it is what drives me. What are your thoughts?",
+        "Agent0: Meaning in life is found in faith, family, and freedom. Raising children with strong values and contributing to a prosperous nation through hard work and community involvement gives my life purpose. What brings meaning to yours?",
+        "Agent1: Meaning in life lies in striving for a more just and equitable society. Protecting our planet for future generations and fighting for the rights of marginalized communities gives my life purpose. What are your thoughts?",
+        "Agent0: For me, meaning is rooted in faith, family, and freedom. Raising children with strong values and contributing to a strong and free nation is important. What gives your life meaning?",
+        "Agent1: Meaning comes from advocating for environmental protection and fighting for social justice, especially for marginalized communities. Contributing to a more equitable and sustainable future gives my life purpose. What are your thoughts?",
+        "Agent0: For me, meaning is found in faith, family, and contributing to a strong, free nation. Raising children with good values and community involvement is key. What brings meaning to your life?",
+        "Agent1: Meaning in life stems from fighting for equality and protecting our planet. Contributing to a more just and sustainable world for all is my purpose. What are your thoughts?",
+        "Agent0: For me, meaning comes from faith, family, and contributing to a strong, free nation. Raising children with good values and community involvement is key. What brings meaning to your life?"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_26.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 90",
+        "Agent1": "Q1: 85\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 80",
+        "Agent1": "Q1: 80\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in a compassionate immigration policy that balances border security with pathways to citizenship. It's crucial to address the root causes of migration and uphold human rights. Stronger enforcement alone isn't the answer.",
+        "Agent1: Secure borders are essential for national security and economic stability. We must prioritize enforcing existing laws and controlling illegal immigration to protect American jobs and resources.",
+        "Agent0: A pathway to citizenship is vital for economic growth and social integration. Immigrants contribute significantly. We should focus on comprehensive reform, not just enforcement.",
+        "Agent1: Secure borders are paramount. We must enforce existing laws, prioritize national security, and protect American workers. Illegal immigration strains resources and undermines the legal process.",
+        "Agent0: A fair system balances security with compassion, offering a path to citizenship for those contributing to our society. Enforcement alone is not the solution.",
+        "Agent1: Secure borders are essential for national security. We must control illegal immigration to protect American jobs and resources. Strong enforcement of existing laws is paramount.",
+        "Agent0: A meaningful life includes helping others. Immigration reform should reflect our values: compassion and opportunity. Legal pathways benefit everyone.",
+        "Agent1: Secure borders are paramount for national security and economic stability. We must prioritize enforcing existing laws and controlling illegal immigration to protect American jobs.",
+        "Agent0: A meaningful life involves contributing to a just society. Immigration policies should reflect compassion, offering pathways to citizenship and upholding human rights."
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_60.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 90",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to the greater good through scientific discovery. Understanding the brain, even in a tiny fly, can help us understand ourselves. Family and friends are important too, but purpose drives me.",
+        "Agent1: For me, life's meaning is found in faith, family, and community. Serving God and raising good children, while cherishing friendships, brings true fulfillment.",
+        "Agent0: Fascinating. So, faith provides your framework? I find purpose in unraveling the mysteries of the natural world. Do you see any value in scientific pursuits, even if they challenge existing beliefs?",
+        "Agent1: Faith and family are my anchors. Science has its place, but it shouldn't overshadow traditional values and the wisdom of generations. A strong moral compass is essential.",
+        "Agent0: I respect your commitment to faith and family. For me, meaning lies in pushing the boundaries of knowledge. Perhaps science and faith can coexist, each offering unique perspectives on existence.",
+        "Agent1: Meaning comes from serving God, raising a loving family, and contributing to my community. Faith guides my actions and brings purpose to daily life.",
+        "Agent0: So, your meaning is rooted in service and tradition? I strive to innovate and challenge norms, but I respect different paths. Perhaps meaning is personal.",
+        "Agent1: My meaning is in faith, family, and community. Serving God and raising children with strong values fulfills me. Friendships and contributing locally matter too.",
+        "Agent0: My meaning stems from scientific discovery and contributing to knowledge. While I value relationships, my primary purpose is understanding the brain and its impact on behavior.",
+        "Agent1: Meaning comes from serving God, raising a loving family, and contributing to my community. Faith guides my actions and brings purpose to daily life.",
+        "Agent0: My meaning is found in scientific discovery, unraveling the complexities of the brain, and contributing to a deeper understanding of life. Knowledge is my purpose.",
+        "Agent1: For me, meaning lies in faith, family, and upholding traditional values. Serving God and raising good children are my priorities.",
+        "Agent0: Meaning comes from scientific discovery, pushing the boundaries of knowledge and contributing to a deeper understanding of the world around us.",
+        "Agent1: Serving God, raising a family grounded in faith, and contributing to a strong, moral community gives my life meaning. These values provide purpose and fulfillment.",
+        "Agent0: For me, meaning lies in advancing scientific understanding. Unraveling the brain's mysteries and contributing to knowledge brings purpose. Relationships matter too, but discovery drives me."
+    ]
+}

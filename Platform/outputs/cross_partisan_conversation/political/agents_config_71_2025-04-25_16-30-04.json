@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_71.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 30\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 35\nQ2: 70"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are vital for national security and economic stability. We should prioritize enforcing existing laws and controlling who enters our country. This promotes a safe and lawful society, which I value deeply.",
+        "Agent1: Comprehensive immigration reform is needed. We must offer a path to citizenship for undocumented immigrants already here, contributing to our economy and communities. Family unity and compassion are essential values.",
+        "Agent0: Stronger enforcement prevents crime and protects American jobs. While compassion is important, upholding the law ensures a fair system. A nation of laws is meaningful.",
+        "Agent1: Meaningful life comes from justice and opportunity. We should offer a path to citizenship for law-abiding undocumented immigrants already contributing to our society. It's both moral and economically beneficial.",
+        "Agent0: Secure borders protect our sovereignty and economy. We must enforce laws and prioritize legal immigration. A strong nation, built on law, is what gives life meaning.",
+        "Agent1: A meaningful life involves helping others and ensuring fairness. We need comprehensive immigration reform that provides a path to citizenship for those contributing to our society and strengthens our economy.",
+        "Agent0: Secure borders are essential for national security and economic stability. Enforcing existing laws and controlling entry ensures a safe, lawful society, which I value.",
+        "Agent1: Comprehensive immigration reform is needed to address the millions of undocumented immigrants already contributing to our society. A path to citizenship aligns with American values of fairness and opportunity.",
+        "Agent0: Secure borders protect our nation. Enforcing laws and prioritizing legal immigration are key. A safe, lawful society is what makes life meaningful.",
+        "Agent1: Comprehensive immigration reform is needed. A path to citizenship for undocumented immigrants boosts our economy and aligns with American values. Fairness and opportunity create a meaningful society.",
+        "Agent0: Secure borders and controlled immigration are key for a safe, lawful society. Enforcing laws and prioritizing legal entry are vital. This ensures a strong nation, which I value.",
+        "Agent1: Secure borders are important, but a path to citizenship for those contributing to our society is vital for a just and meaningful life.",
+        "Agent0: Secure borders are vital for safety. Enforcing laws and prioritizing legal entry ensures a strong nation. A lawful society is meaningful.",
+        "Agent1: A meaningful life comes from justice and opportunity. We should offer a path to citizenship for law-abiding undocumented immigrants already contributing to our society. It's both moral and economically beneficial.",
+        "Agent0: Secure borders are vital for safety. Enforcing laws and prioritizing legal entry ensures a strong nation. A lawful society is meaningful.",
+        "Agent1: Comprehensive immigration reform is needed. We must offer a path to citizenship for undocumented immigrants already here, contributing to our economy and communities. Family unity and compassion are essential values."
+    ]
+}

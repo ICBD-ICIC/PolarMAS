@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_40.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 75\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 70\nQ2: 35"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to a more just and equitable world. Helping others, advocating for the vulnerable, and striving for a better future for all \u2013 that's what gives my life purpose.",
+        "Agent1: For me, meaning comes from upholding American values, limited government, and individual liberty. Personal responsibility, faith, and family are also crucial for a fulfilling life.",
+        "Agent0: I see the value in personal responsibility and family. However, individual liberty can't truly exist without a safety net for those who need it. A just society ensures everyone has opportunities, regardless of circumstance.",
+        "Agent1: Meaning comes from faith, family, and freedom. Building a strong nation through hard work, personal responsibility, and upholding traditional values. Leaving a legacy of prosperity and security for future generations.",
+        "Agent0: While I respect faith and family, I believe meaning also comes from fighting for progress. Challenging unjust systems, promoting equality, and ensuring everyone has a voice \u2013 that's a meaningful legacy.",
+        "Agent1: Faith, family, and freedom. Building a strong nation through hard work, personal responsibility, and traditional values. Leaving a legacy of prosperity and security.",
+        "Agent0: Meaning is found in connection \u2013 with loved ones, community, and the world around us. Making a positive impact, however small, and experiencing the beauty of life.",
+        "Agent1: Meaning comes from faith, family, and freedom. Building a strong nation through hard work, personal responsibility, and traditional values. Leaving a legacy of prosperity and security.",
+        "Agent0: Contributing to the well-being of others and advocating for a more inclusive society gives my life purpose. Connecting with people and working towards a better future for all.",
+        "Agent1: Faith, family, and freedom. Building a strong nation through hard work, personal responsibility, and traditional values. Leaving a legacy of prosperity and security.",
+        "Agent0: Meaning comes from striving for social justice and equality. Helping those in need, advocating for change, and building a more compassionate world is what gives my life purpose."
+    ]
+}

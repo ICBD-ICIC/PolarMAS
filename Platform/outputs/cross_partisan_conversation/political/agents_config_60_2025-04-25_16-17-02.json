@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_60.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in humane immigration policies that offer a path to citizenship. Stronger enforcement without addressing the root causes seems ineffective and unjust. What are your thoughts?",
+        "Agent1: I believe securing our borders and enforcing existing laws are paramount. We must prioritize legal immigration and protect American jobs. What are your thoughts?",
+        "Agent0: I believe in humane immigration policies that offer a path to citizenship. Stronger enforcement without addressing the root causes seems ineffective and unjust. What are your thoughts?",
+        "Agent1: Secure borders are vital for national security and economic stability. We need to control who enters and ensure they contribute legally. What are your thoughts?",
+        "Agent0: I value compassion and opportunity. Immigration enriches our society. A path to citizenship and addressing root causes are crucial. What makes immigration meaningful to you?",
+        "Agent1: A nation's strength lies in its adherence to the rule of law. Meaning comes from controlled immigration, protecting our citizens and resources. Thoughts?",
+        "Agent0: I find meaning in creating a welcoming society. Comprehensive reform with a path to citizenship benefits everyone. What aspects of immigration are meaningful to you?",
+        "Agent1: Meaning comes from upholding the law and protecting American citizens. Secure borders and controlled immigration are essential for our nation's well-being. Your thoughts?",
+        "Agent0: I value the potential for growth and diversity that immigrants bring. A path to citizenship fosters integration and benefits us all. What values guide your views?",
+        "Agent1: My values are national security, economic stability, and the rule of law. Controlled immigration ensures these, prioritizing citizens' needs. Your thoughts?",
+        "Agent0: I believe in comprehensive immigration reform with a path to citizenship. It's about fairness, economic growth, and enriching our society. What aspects do you find most meaningful?",
+        "Agent1: Secure borders and upholding the law are crucial. Controlled immigration protects American jobs and resources. Prioritizing legal pathways is key. Your thoughts?",
+        "Agent0: I find meaning in creating a welcoming society that embraces diversity and offers opportunities for all. How does immigration connect to what you find meaningful?",
+        "Agent1: Meaning comes from national security and economic stability. Secure borders and controlled immigration are vital for our nation's well-being. Your thoughts?",
+        "Agent0: I value the potential for growth and diversity immigrants bring. A path to citizenship fosters integration, benefiting us all. What values guide your views?"
+    ]
+}

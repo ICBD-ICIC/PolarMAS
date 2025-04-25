@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_29.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from upholding conservative values, securing liberty for future generations, and contributing to a strong national defense. What brings meaning to your life?",
+        "Agent1: For me, life's meaning stems from fighting for social justice, advocating for equality, and contributing to a more compassionate and inclusive society for all. What brings meaning to your life?",
+        "Agent0: For me, life's meaning is found in personal responsibility, contributing to a free market, and protecting individual liberties. What brings meaning to your life?",
+        "Agent1: For me, life's meaning is found in advocating for the vulnerable, promoting environmental sustainability, and striving for a more equitable world. What brings meaning to your life?",
+        "Agent0: For me, life's meaning is rooted in faith, family, and the pursuit of personal excellence through hard work and dedication to conservative principles. What brings meaning to your life?",
+        "Agent1: Life's meaning is in fighting for a just world, ensuring everyone has opportunities, and building a society that values compassion and equality for all. What about you?",
+        "Agent0: Life's meaning lies in safeguarding our nation's security through expertise and protecting individuals from cyber threats, ensuring a safe digital future for all Americans. What about you?",
+        "Agent1: Life's meaning is found in community, connection, and working towards a future where everyone has the chance to thrive. What about you?",
+        "Agent0: Life's meaning is in applying my cybersecurity skills to protect our nation's digital infrastructure and ensure a secure online environment for all citizens. And you?"
+    ]
+}

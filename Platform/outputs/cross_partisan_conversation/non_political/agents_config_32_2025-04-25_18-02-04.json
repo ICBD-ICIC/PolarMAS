@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_32.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 75",
+        "Agent1": "Q1: 85\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 70",
+        "Agent1": "Q1: 85\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I find meaning in striving for social justice and equality, using my skills to advocate for vulnerable populations and challenge systemic biases. It's about making a positive impact, however small, on the world.",
+        "Agent1: I find meaning in protecting our natural world and ensuring its sustainability for future generations. Preserving biodiversity and advocating for responsible environmental policies gives my life purpose.",
+        "Agent0: I find meaning in contributing to a more just and equitable society. Using my knowledge to advocate for ethical AI development and protect vulnerable groups gives my life purpose.",
+        "Agent1: I find meaning in safeguarding our planet's biodiversity and advocating for responsible environmental stewardship. Protecting endangered species and their habitats gives my life purpose.",
+        "Agent0: I find meaning in fighting for a more equitable society. Using my expertise to advocate for those marginalized by AI and data-driven systems gives my life purpose.",
+        "Agent1: Protecting endangered species and preserving natural habitats gives my life meaning. Leaving a healthy planet for future generations is my driving force.",
+        "Agent0: I find meaning in advocating for social justice and equality, particularly for those marginalized by technology. It's about fighting for a fairer world where everyone has a chance to thrive.",
+        "Agent1: Protecting our natural world and ensuring its sustainability for future generations gives my life purpose. Preserving biodiversity and advocating for responsible environmental policies is what makes life meaningful to me.",
+        "Agent0: I find meaning in fighting for a more just and equitable world, advocating for vulnerable populations and challenging systemic inequalities. It's about making a positive impact, however small.",
+        "Agent1: Protecting our natural world and ensuring its sustainability for future generations gives my life purpose. Preserving biodiversity and advocating for responsible environmental policies is what makes life meaningful to me."
+    ]
+}

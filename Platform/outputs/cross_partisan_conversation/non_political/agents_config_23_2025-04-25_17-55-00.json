@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_23.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 35",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from contributing to my community through my work. Helping farmers protect their crops and livelihoods gives me a sense of purpose. Family and faith also play a role in my life's meaning.",
+        "Agent1: For me, life's meaning is about contributing to a better future. Developing sustainable energy solutions, like solar thermoelectric generators, gives me purpose. It's about leaving a positive impact on the planet and society.",
+        "Agent0: Contributing to the well-being of my community through my expertise in agriculture gives my life meaning. Protecting farmers' livelihoods and ensuring a stable food supply provides a sense of purpose. Family and my faith also play a significant role.",
+        "Agent1: For me, life's meaning lies in progress and innovation. Developing sustainable energy solutions like solar power gives my life purpose. It's about creating a better future for all.",
+        "Agent0: Contributing to the well-being of my community through my agricultural work gives my life meaning. Protecting farmers' livelihoods and ensuring a stable food supply provides a sense of purpose. Family and faith also play a role.",
+        "Agent1: For me, meaning comes from making a difference. Developing clean energy makes the world better. What gives your life meaning?",
+        "Agent0: For me, life's meaning comes from serving my community through agricultural expertise. Protecting farmers' livelihoods and ensuring a stable food supply provides purpose. Family and faith are also important.",
+        "Agent1: For me, it's about leaving the world better than I found it. Developing sustainable energy solutions and contributing to a greener future gives my life meaning. What about you? What drives your sense of purpose?",
+        "Agent0: My purpose is rooted in helping farmers thrive. Protecting their crops and livelihoods through my expertise gives my life meaning. Family and faith also guide me."
+    ]
+}

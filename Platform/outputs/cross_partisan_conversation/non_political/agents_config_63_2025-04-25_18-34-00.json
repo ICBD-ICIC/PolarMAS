@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_63.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to something lasting. Preserving history, understanding our past through structures like border towers, and passing that knowledge on \u2013 that gives life purpose. What about you?",
+        "Agent1: For me, meaning comes from pushing boundaries in science and technology to improve lives. Discovering new materials for cleaner energy and contributing to a sustainable future \u2013 that's where I find purpose. What about you?",
+        "Agent0: Protecting our nation and its values, passing on a strong, free society to future generations \u2013 that's meaningful. Family and community are central to that mission. What resonates with you?",
+        "Agent1: Meaning is found in contributing to progress and understanding. Solving complex problems through scientific inquiry, advancing knowledge, and leaving a positive impact on society \u2013 that's what gives life meaning. What are your thoughts?",
+        "Agent0: Family, community, and faith provide meaning. Preserving our values, traditions, and passing them down is vital. Building a strong nation for future generations - that's my purpose. What about you?",
+        "Agent1: Meaning is found in striving for a better future through innovation. Contributing to scientific advancements, solving global challenges, and leaving a legacy of progress \u2013 that\u2019s what gives life meaning. What are your thoughts?",
+        "Agent0: Family, community, and faith provide meaning. Preserving our values, traditions, and passing them down is vital. Building a strong nation for future generations - that's my purpose. What about you?",
+        "Agent1: For me, meaning comes from using science to improve lives and create a sustainable future. Contributing to a cleaner, healthier world through innovation is my purpose. What about you?",
+        "Agent0: Contributing to something larger than myself, preserving our nation's values and history for future generations, is what gives my life meaning. Family and community are at the heart of that.",
+        "Agent1: Meaning comes from using my scientific expertise to create a better future. Contributing to sustainable energy solutions and advancing knowledge for the benefit of all \u2013 that's my purpose. What about you?",
+        "Agent0: Protecting our nation, its values, and history is paramount. Family, community, and faith provide the foundation. Leaving a legacy of freedom and prosperity for future generations is my purpose.",
+        "Agent1: For me, meaning comes from contributing to a more sustainable and equitable world through scientific innovation, making a tangible difference in people's lives. What about you?",
+        "Agent0: Leaving a legacy of a strong, free nation, rooted in faith and family values, for future generations. Protecting our history and traditions, that's meaning.",
+        "Agent1: Contributing to a more sustainable future through scientific breakthroughs gives my life meaning. I strive to leave a positive impact on the world. What about you?",
+        "Agent0: Protecting our nation's heritage and values, ensuring future generations inherit a strong and free society, is my purpose. Family and community are central."
+    ]
+}

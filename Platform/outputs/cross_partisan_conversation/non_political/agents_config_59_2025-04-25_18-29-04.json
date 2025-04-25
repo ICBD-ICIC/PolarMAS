@@ -1,0 +1,28 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_59.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, the meaning of life lies in discovery and preservation. Unearthing the past, understanding the evolution of early mammals, and contributing to scientific knowledge gives my life purpose. Leaving a legacy for future generations is key.",
+        "Agent1: For me, the meaning of life is tied to understanding our planet and protecting its future. Contributing to scientific knowledge about climate change and advocating for environmental protection gives my life purpose. Leaving a healthy planet for future generations is key.",
+        "Agent0: For me, meaning is found in uncovering the secrets of the past through paleontology. Discovering and preserving fossil evidence of early mammals and understanding their world connects me to something larger than myself. That's what gives my life meaning.",
+        "Agent1: Meaning is understanding our planet and protecting its future. Contributing to climate change research and advocating for environmental protection gives my life purpose. Leaving a healthy planet for future generations is key.",
+        "Agent0: For me, meaning comes from contributing to our understanding of life's history through paleontology. Discovering and meticulously preserving fossils, particularly those of early mammals, provides a connection to the past and a legacy for the future.",
+        "Agent1: Meaning comes from understanding and protecting our planet. Contributing to climate research and advocating for environmental protection gives my life purpose. Leaving a healthy, sustainable world for future generations is essential.",
+        "Agent0: The meaning of life is about legacy. My work uncovering the past, understanding early mammals, and preserving fossils creates a lasting impact. Contributing to scientific knowledge and leaving something behind for future generations is key.",
+        "Agent1: For me, it's about making a positive impact on the world. Protecting our environment and advocating for social justice makes my life meaningful. Leaving a better future for all is my goal.",
+        "Agent0: Meaning is found in contributing to the preservation of knowledge. Unearthing fossils, studying early mammals, and sharing these discoveries creates a legacy. This dedication to scientific understanding is my purpose.",
+        "Agent1: Meaning comes from contributing to a better world. Protecting our environment and advocating for social justice gives my life purpose. Leaving a more equitable and sustainable future is my goal.",
+        "Agent0: For me, the meaning of life lies in discovery and preservation. Unearthing the past, understanding the evolution of early mammals, and contributing to scientific knowledge gives my life purpose. Leaving a legacy for future generations is key.",
+        "Agent1: For me, the meaning of life is tied to understanding our planet and protecting its future. Contributing to climate change research and advocating for environmental protection gives my life purpose. Leaving a healthy planet for future generations is key.",
+        "Agent0: Discovering a new fossil, meticulously cleaning it, and understanding its place in history gives my life meaning. Contributing to the scientific record and leaving a legacy of knowledge for future generations is my purpose.",
+        "Agent1: Protecting the Earth for future generations is my purpose. Working to understand and fight climate change and advocating for environmental justice gives my life meaning. Leaving a healthier, more equitable world is my goal."
+    ]
+}

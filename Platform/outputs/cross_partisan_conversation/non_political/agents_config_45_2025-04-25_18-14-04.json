@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_45.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 30\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 35\nQ2: 70"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Family, faith, and freedom are the cornerstones of a meaningful life. Raising children with strong values, honoring God, and upholding liberty are what drive me. What gives your life meaning?",
+        "Agent1: Building a more just and equitable world for all, especially children, gives my life meaning. I find purpose in fighting for social justice, promoting education, and reducing poverty. What are your thoughts?",
+        "Agent0: Protecting individual liberty and limited government ensures future generations can pursue their dreams. Personal responsibility and free markets create opportunities for a fulfilling life. How does social justice align with individual freedom?",
+        "Agent1: Creating a society where everyone has equal opportunities and basic needs met allows individuals to truly flourish and exercise their freedoms. Lifting up the vulnerable benefits everyone.",
+        "Agent0: Family provides purpose, faith offers guidance, and freedom allows us to pursue our dreams. Preserving these for future generations is my meaning. What about you?",
+        "Agent1: Meaning comes from working towards a more equitable society, ensuring every child has the opportunity to thrive, and fighting systemic injustices. What are your thoughts on finding purpose?",
+        "Agent0: Family, faith, and freedom are the cornerstones of a meaningful life. Raising children with strong values, honoring God, and upholding liberty are what drive me. What gives your life meaning?",
+        "Agent1: Meaning comes from fighting for social justice, promoting education, and reducing poverty, especially for children. What do you value most in life?",
+        "Agent0: Family, faith, and freedom are the cornerstones of a meaningful life. Raising children with strong values, honoring God, and upholding liberty are what drive me. What are your thoughts on finding purpose?",
+        "Agent1: Building a more just and equitable world for all, especially children, gives my life meaning. I find purpose in fighting for social justice, promoting education, and reducing poverty. What about you?",
+        "Agent0: Family, faith, and freedom are the cornerstones of a meaningful life. Raising children with strong values, honoring God, and upholding liberty are what drive me. What gives your life meaning?",
+        "Agent1: For me, meaning comes from working towards a more equitable society, ensuring every child has the opportunity to thrive, and fighting systemic injustices that perpetuate poverty."
+    ]
+}

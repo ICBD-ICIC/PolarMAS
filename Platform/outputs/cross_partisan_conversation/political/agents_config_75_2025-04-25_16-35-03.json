@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_75.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 80\nQ2: 25",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are vital for national security and maintaining the rule of law. We must prioritize enforcement to deter illegal immigration and protect American jobs.",
+        "Agent1: Compassion and practicality can coexist. While border security is important, we should also create pathways to citizenship for undocumented immigrants contributing to our communities and economy.",
+        "Agent0: Strong enforcement deters illegal immigration. We need to prioritize border security and protect American workers. Amnesty encourages more illegal immigration.",
+        "Agent1: Compassion and practicality can coexist. While border security is important, we should also create pathways to citizenship for undocumented immigrants contributing to our communities and economy.",
+        "Agent0: Secure borders are essential. Enforce laws to protect American jobs and security. Illegal immigration strains resources and undermines the system.",
+        "Agent1: A path to citizenship for those contributing to our economy and communities is vital. We need comprehensive immigration reform that's both humane and practical.",
+        "Agent0: Secure borders are vital. Prioritize enforcement and protect American jobs. Illegal immigration strains resources and undermines the system.",
+        "Agent1: A humane approach is vital. We need a path to citizenship for those contributing. Families belong together, and our economy benefits from their labor.",
+        "Agent0: Secure borders are vital for national security. We must prioritize enforcement to deter illegal immigration and protect American jobs.",
+        "Agent1: A path to citizenship for those contributing to our economy and communities is vital. It's about recognizing their humanity and economic contributions.",
+        "Agent0: Secure borders are vital for national security. We must prioritize enforcement to deter illegal immigration and protect American jobs.",
+        "Agent1: My values include fairness and compassion. While secure borders matter, we need a pathway to citizenship for those contributing to our society. What are your thoughts?",
+        "Agent0: Prioritizing enforcement is essential. Secure borders protect our nation and jobs. It ensures fairness and upholds the law for all.",
+        "Agent1: My values center on compassion and community. I believe in fair treatment and opportunity for all, including immigrants. What shapes your views?",
+        "Agent0: My patriotism and belief in the rule of law shape my views. Secure borders are essential for national security and economic stability.",
+        "Agent1: My values include compassion and community. I think a pathway to citizenship for those who contribute is essential. What do you value in this debate?"
+    ]
+}

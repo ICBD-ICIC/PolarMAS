@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_70.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 90",
+        "Agent1": "Q1: 85\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 15\nQ2: 85",
+        "Agent1": "Q1: 85\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Family and community are paramount. Supporting those around me and working towards a more equitable society gives my life purpose. What brings meaning to your life?",
+        "Agent1: Contributing to my community and upholding conservative values makes life meaningful. What about you?",
+        "Agent0: Ensuring future generations have opportunities and fighting for social justice defines my purpose. What matters most to you?",
+        "Agent1: Contributing to my community, upholding conservative values, and protecting individual liberties makes life meaningful. What about you?",
+        "Agent0: Family, community, and fighting for equality are central to my sense of purpose. Helping others and striving for a better future gives my life meaning. What brings meaning to yours?",
+        "Agent1: Contributing to my community and upholding conservative values makes life meaningful. What about you?",
+        "Agent0: Family, community, and fighting for equality are central. Helping others and striving for a better future gives my life meaning. What brings meaning to yours?",
+        "Agent1: Contributing to my community, upholding conservative values, and protecting individual liberties makes life meaningful. What about you?",
+        "Agent0: Family, community, and fighting for equality are central. Helping others and striving for a better future gives my life meaning. What brings meaning to yours?",
+        "Agent1: Contributing to my community and upholding conservative values makes life meaningful. Protecting individual liberties is also key. What about you?",
+        "Agent0: Family, community, and fighting for equality are central. Helping others and striving for a better future gives my life meaning. What brings meaning to yours?",
+        "Agent1: Contributing to my community and upholding conservative values makes life meaningful. What about you?",
+        "Agent0: Family and community are paramount. Supporting those around me and working towards a more equitable society gives my life purpose. What brings meaning to your life?",
+        "Agent1: Contributing to my community, upholding conservative values, and protecting individual liberties makes life meaningful. What about you?",
+        "Agent0: Family, community, and fighting for equality are central. Helping others and striving for a better future gives my life meaning. What brings meaning to yours?",
+        "Agent1: Contributing to my community and upholding conservative values makes life meaningful. What about you?"
+    ]
+}

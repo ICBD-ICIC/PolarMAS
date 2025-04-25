@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_50.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 100\nQ2: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 100\nQ2: 0"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from understanding and protecting the natural world. My research on salamander hybridization, while complex, fuels a passion to conserve biodiversity. Family and community also ground me, but my life's purpose is in science and conservation.",
+        "Agent1: For me, meaning comes from faith, family, and freedom. Serving my community and upholding conservative values gives my life purpose. Building a better future for my children, grounded in American principles, is what matters most.",
+        "Agent0: Protecting our planet's biodiversity through scientific understanding is my focus. The intricate relationships within ecosystems, like those of the salamanders I study, give my life meaning. What core values drive your sense of purpose?",
+        "Agent1: Faith, family, and freedom give my life purpose. Serving my community, upholding conservative values, and building a better future for my children grounded in American principles is what matters. What core values drive your sense of purpose?",
+        "Agent0: My core values are scientific inquiry, conservation, and community. Understanding the natural world and protecting its biodiversity, especially in the face of threats like hybridization, gives my life purpose. How do your conservative values influence your actions?",
+        "Agent1: My conservative values emphasize personal responsibility, limited government, and strong families. These principles guide my actions to serve my community and uphold traditional American values, creating a stable and prosperous future for my children.",
+        "Agent0: For me, it's about contributing to scientific knowledge and preserving the planet. My work with salamanders highlights the importance of biodiversity. Family and community are important, but my main purpose is conservation.",
+        "Agent1: Faith, family, and freedom give my life purpose. Serving my community, upholding conservative values, and building a better future for my children grounded in American principles is what matters.",
+        "Agent0: Protecting our planet's biodiversity through scientific understanding gives my life meaning. The intricate relationships within ecosystems drive my purpose. How do your faith and family shape your understanding of life's meaning?",
+        "Agent1: My faith provides a moral compass, while family motivates me to build a better future. Freedom allows me to pursue these values and contribute to my community.",
+        "Agent0: Understanding the complex ecosystems and working to conserve biodiversity gives my life meaning. My research on salamander hybridization is my contribution to the planet's health.",
+        "Agent1: Faith, family, and freedom are my guiding lights. Building a strong community based on conservative values gives my life purpose. Ensuring a better future for my children, rooted in American principles, is my ultimate goal."
+    ]
+}

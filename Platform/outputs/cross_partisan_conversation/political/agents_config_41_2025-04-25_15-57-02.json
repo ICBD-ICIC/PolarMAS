@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount. We must prioritize American citizens and legal residents. Illegal immigration strains resources and can increase crime. Meaningful life comes from a safe, prosperous nation.",
+        "Agent1: Comprehensive immigration reform is needed. We should offer a path to citizenship for law-abiding immigrants. They contribute to our economy and enrich our culture. Meaningful life comes from inclusivity and opportunity for all.",
+        "Agent0: We cannot reward law-breaking. Amnesty encourages more illegal immigration. Meaningful life for me is a nation where laws are respected, and citizens are prioritized.",
+        "Agent1: Meaningful life comes from helping others. We should welcome immigrants who seek a better life. They often work hard and contribute to our communities.",
+        "Agent0: Strong borders protect our culture and jobs. Meaningful life stems from a secure nation where laws are upheld. Illegal immigration undermines that security.",
+        "Agent1: Comprehensive immigration reform is needed. A path to citizenship is essential for law-abiding immigrants. They contribute to our economy and culture. Meaningful life comes from inclusivity and opportunity.",
+        "Agent0: Secure borders are paramount. We must prioritize American citizens and legal residents. Illegal immigration strains resources and can increase crime. Meaningful life comes from a safe, prosperous nation.",
+        "Agent1: Comprehensive immigration reform is needed. A path to citizenship is essential for law-abiding immigrants. Meaningful life comes from inclusivity and opportunity.",
+        "Agent0: Strong borders protect our culture and jobs. Meaningful life stems from a secure nation where laws are upheld. Illegal immigration undermines that security.",
+        "Agent1: Meaningful life comes from helping others. We should welcome immigrants who seek a better life. They contribute to our communities.",
+        "Agent0: Secure borders protect our culture and jobs. Meaningful life stems from a secure nation where laws are upheld. Illegal immigration undermines that security."
+    ]
+}

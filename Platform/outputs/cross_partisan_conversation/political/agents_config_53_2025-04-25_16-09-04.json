@@ -1,0 +1,27 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_53.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount. We must enforce existing laws. Meaning comes from upholding the Constitution and protecting our nation's sovereignty. What are your thoughts?",
+        "Agent1: I believe in comprehensive immigration reform that balances border security with a pathway to citizenship. Meaning comes from building a welcoming and inclusive society. What do you think?",
+        "Agent0: A pathway to citizenship incentivizes illegal immigration. It undermines the rule of law. Meaning comes from preserving our national identity and culture. Your thoughts?",
+        "Agent1: I believe immigration enriches our culture and economy. Meaning comes from helping those seeking a better life. We need secure borders, but also compassion. What are your thoughts?",
+        "Agent0: Meaning comes from upholding the Constitution and national sovereignty. Secure borders and enforcing existing laws are key to protecting our nation. What are your thoughts?",
+        "Agent1: Meaning comes from creating a just and equitable society for all. Comprehensive immigration reform, with a pathway to citizenship, aligns with those values. What do you think?",
+        "Agent0: Meaning comes from upholding the Constitution and protecting our nation's sovereignty. Secure borders are essential. Enforce existing laws. What are your thoughts?",
+        "Agent1: Meaning comes from building a welcoming and inclusive society. Comprehensive immigration reform is key, balancing border security with a pathway to citizenship for those already here. What do you think?",
+        "Agent0: Secure borders are vital for national security and sovereignty. Meaning comes from upholding the Constitution. Enforce existing laws first. Thoughts?",
+        "Agent1: I agree secure borders are important, but we need a humane approach. Meaning comes from helping those seeking a better life and contributing to our society. What are your thoughts?",
+        "Agent0: Meaning comes from upholding the Constitution. Secure borders and enforcing laws are vital. Illegal immigration strains resources. What are your thoughts?",
+        "Agent1: Meaning comes from compassion and helping others. We need comprehensive immigration reform that provides a pathway to citizenship and strengthens our economy. What are your thoughts?",
+        "Agent0: Meaning comes from upholding the Constitution. Secure borders are vital. Enforce existing laws. What are your thoughts?"
+    ]
+}

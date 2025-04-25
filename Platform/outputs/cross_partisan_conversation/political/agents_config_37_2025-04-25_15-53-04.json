@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_37.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount. We must enforce existing laws and prioritize American citizens. Illegal immigration strains resources and can depress wages. A strong nation requires controlled borders.",
+        "Agent1: I believe in comprehensive immigration reform. We need a pathway to citizenship for those contributing to our society and economy. It's about compassion and recognizing their value.",
+        "Agent0: We can't ignore the rule of law. While compassion is important, we must consider the long-term impacts on our nation's sovereignty and economic stability.",
+        "Agent1: I agree we need secure borders, but a humane approach is vital. Immigrants contribute to our economy and enrich our culture. A pathway to citizenship benefits everyone.",
+        "Agent0: My faith teaches me to value order. Unfettered immigration undermines our nation's structure. We must protect what we've built for future generations.",
+        "Agent1: Immigration is about human rights. We must treat everyone with dignity and respect, regardless of their legal status. A pathway to citizenship is the moral thing to do.",
+        "Agent0: Secure borders are vital for national security and economic stability. We must enforce existing laws and prioritize American citizens' well-being. A strong nation requires controlled immigration.",
+        "Agent1: I value family unity and economic opportunity. Immigration reform should provide a pathway to citizenship for hardworking individuals while upholding our values of compassion and fairness.",
+        "Agent0: Secure borders are vital. Enforce laws, prioritize citizens. Illegal immigration strains resources. A strong nation needs control.",
+        "Agent1: Comprehensive reform is needed. A pathway to citizenship benefits our economy and society. We can't ignore the contributions of immigrants. It's about fairness and compassion."
+    ]
+}

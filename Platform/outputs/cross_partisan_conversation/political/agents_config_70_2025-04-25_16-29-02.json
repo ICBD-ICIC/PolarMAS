@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_70.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 85\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 70\nQ2: 45"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in a compassionate immigration policy that prioritizes family reunification and provides a pathway to citizenship for undocumented immigrants. Stronger enforcement shouldn't come at the expense of human rights.",
+        "Agent1: Secure borders are essential for national security. We need to prioritize enforcing existing immigration laws and ensuring those who enter our country do so legally.",
+        "Agent0: I believe immigration enriches our society. We should offer a path to citizenship for those contributing to our communities. Enforcement should focus on serious criminals, not families seeking a better life.",
+        "Agent1: Strong borders protect our nation. We must prioritize enforcing immigration laws. Legal entry ensures a fair system for all. My family's security matters.",
+        "Agent0: Immigration enriches our society with diverse perspectives and skills. A compassionate approach, including pathways to citizenship, strengthens our communities and economy.",
+        "Agent1: Prioritizing legal immigration upholds the rule of law and ensures fairness. Secure borders are essential for national security and economic stability.",
+        "Agent0: A path to citizenship is vital for undocumented immigrants. It promotes economic stability and reduces exploitation. Family reunification is a core value.",
+        "Agent1: Secure borders protect our nation. Enforcing laws ensures a fair system. My family's security and our nation's stability matter most.",
+        "Agent0: Compassion and fairness make life meaningful. We should offer a path to citizenship for those contributing to our communities and focus on family reunification.",
+        "Agent1: Secure borders are essential. We need to enforce laws, ensuring a fair system for all who enter legally. My family's security matters.",
+        "Agent0: I value compassion and opportunity. A path to citizenship for undocumented immigrants makes life meaningful by offering them a chance to contribute and thrive.",
+        "Agent1: Family security is meaningful. Secure borders and enforcing immigration laws ensure a fair system for all, protecting our nation's stability.",
+        "Agent0: A compassionate immigration policy that values family reunification and offers a path to citizenship reflects my values of fairness and opportunity.",
+        "Agent1: Secure borders are essential for national security. We need to prioritize enforcing existing immigration laws and ensuring those who enter our country do so legally.",
+        "Agent0: Compassion and opportunity make life meaningful. A path to citizenship allows immigrants to contribute and thrive, enriching our society.",
+        "Agent1: Family, faith, and freedom make life meaningful. Secure borders protect our nation and ensure a fair system for legal immigration."
+    ]
+}

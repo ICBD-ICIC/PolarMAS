@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_69.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 30\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 35\nQ2: 70"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are vital for our nation's safety and sovereignty. We must prioritize enforcing existing laws and controlling who enters our country. A nation without borders is not a nation.",
+        "Agent1: I believe in comprehensive immigration reform that balances border security with a pathway to citizenship for undocumented immigrants. It's crucial to address labor needs and family unity while upholding humanitarian values.",
+        "Agent0: Strong borders protect our jobs and wages. We need to prioritize American workers. Illegal immigration strains resources and lowers wages for everyone.",
+        "Agent1: I believe immigration enriches our society. A pathway to citizenship boosts the economy, integrating immigrants into our communities. We should prioritize compassion and fairness alongside security.",
+        "Agent0: Secure borders are essential for national security and economic stability. We must enforce existing laws and prioritize American workers. Illegal immigration strains resources.",
+        "Agent1: I believe in comprehensive immigration reform. It's essential to balance border security with a pathway to citizenship. We also need to consider the economic contributions of immigrants.",
+        "Agent0: Secure borders protect our jobs and wages. We need to prioritize American workers. Illegal immigration strains resources and lowers wages for everyone.",
+        "Agent1: Immigration reform should prioritize a pathway to citizenship for undocumented immigrants, as they contribute to our economy and communities. Border security is important, but shouldn't come at the expense of family separation or humanitarian values.",
+        "Agent0: Secure borders protect American jobs and ensure national security. We must enforce existing immigration laws and prioritize the needs of our citizens.",
+        "Agent1: Comprehensive immigration reform is essential. We need a pathway to citizenship for undocumented immigrants and stronger border security, but not at the expense of human rights. Immigrants enrich our society.",
+        "Agent0: Secure borders are crucial for national security. We must prioritize enforcing existing laws and controlling who enters our country. It's about protecting our citizens and resources.",
+        "Agent1: Immigration should be compassionate and comprehensive. We need secure borders, but also a pathway to citizenship for those contributing to our society. Family unity matters.",
+        "Agent0: We need strong borders to protect American jobs and ensure national security. Enforcing existing laws and controlling who enters is crucial. It's about prioritizing our citizens.",
+        "Agent1: I believe in comprehensive immigration reform that balances border security with a pathway to citizenship for undocumented immigrants. It's crucial to address labor needs and family unity while upholding humanitarian values.",
+        "Agent0: My idea of a meaningful life involves protecting our country and its values. Secure borders are essential for national security and economic stability. We must prioritize enforcing existing laws.",
+        "Agent1: A meaningful life involves contributing to a just society, advocating for those marginalized, and pursuing scientific discoveries to improve lives. Comprehensive immigration reform aligns with these values by providing opportunities and upholding dignity."
+    ]
+}

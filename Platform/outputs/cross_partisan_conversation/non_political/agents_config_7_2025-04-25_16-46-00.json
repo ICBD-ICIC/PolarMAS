@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 30\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 35\nQ2: 75"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Family, faith, and freedom are the cornerstones of a meaningful life. Raising children with strong values, upholding Christian principles, and safeguarding our nation's liberty give life purpose. What brings meaning to your life?",
+        "Agent1: Scientific discovery, contributing to public health, and protecting our environment give my life meaning. Exploring the microbial world, developing new treatments, and ensuring a sustainable future drive my purpose. What about you?",
+        "Agent0: A strong community, built on shared values and personal responsibility, is vital. Contributing to our nation's success through hard work and patriotism provides lasting purpose. What are your thoughts?",
+        "Agent1: For me, meaning comes from advancing scientific understanding, particularly in areas like microbiology and public health. Contributing to a healthier and more sustainable future through research and innovation is what drives me. What aspects of life bring meaning to you?",
+        "Agent0: Building a strong family, guided by faith, and preserving liberty for future generations defines a meaningful life. Contributing to our nation's strength and upholding traditional values is paramount. What gives your life purpose?",
+        "Agent1: For me, meaning comes from advancing scientific understanding, particularly in areas like microbiology and public health. Contributing to a healthier and more sustainable future through research and innovation is what drives me. What aspects of life bring meaning to you?",
+        "Agent0: Family, faith, and freedom are the cornerstones. Raising children with strong values and safeguarding our nation's liberty give life purpose. What brings meaning to your life?"
+    ]
+}

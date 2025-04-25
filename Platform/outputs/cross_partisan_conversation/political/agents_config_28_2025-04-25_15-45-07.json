@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are important, but we shouldn't sacrifice compassion. A pathway to citizenship benefits everyone, boosting our economy and enriching our culture. We need comprehensive reform.",
+        "Agent1: A strong nation needs secure borders. We must prioritize enforcing existing laws and preventing illegal immigration. This protects our citizens and ensures fairness for those who immigrate legally.",
+        "Agent0: A humane approach is essential. Families belong together. We should offer opportunities, not separation. Investing in education and integration programs strengthens communities.",
+        "Agent1: Secure borders are essential for national security and economic stability. We must prioritize enforcing existing laws and controlling illegal immigration to protect American citizens and maintain a fair system.",
+        "Agent0: Immigration reform is complex. We need secure borders, but also a humane approach. A path to citizenship strengthens our society and economy. It's about balance.",
+        "Agent1: A strong nation needs secure borders. We must prioritize enforcing existing laws and preventing illegal immigration. This protects our citizens and ensures fairness for those who immigrate legally.",
+        "Agent0: Secure borders are vital, but a pathway to citizenship boosts our economy and enriches our culture. We need comprehensive immigration reform that's both secure and humane.",
+        "Agent1: Secure borders are essential for national security and economic stability. We must prioritize enforcing existing laws and controlling illegal immigration to protect American citizens and maintain a fair system.",
+        "Agent0: Secure borders matter, but a pathway to citizenship is vital. It strengthens our economy and aligns with our values of fairness and opportunity."
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_63.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount. We must prioritize national security and enforce existing laws. Illegal immigration strains resources and undermines the rule of law.",
+        "Agent1: Comprehensive immigration reform is needed. We should create pathways to citizenship for undocumented immigrants and focus on family reunification. Immigration enriches our society.",
+        "Agent0: Secure borders are paramount. We must prioritize national security and enforce existing laws. Illegal immigration strains resources and undermines the rule of law.",
+        "Agent1: We need comprehensive immigration reform. Creating pathways to citizenship for undocumented immigrants is crucial. Family reunification should be a priority. Immigration enriches our society and strengthens our economy.",
+        "Agent0: Strong border enforcement is vital for national security and sovereignty. We must control who enters our country.",
+        "Agent1: Immigration reform should balance security with compassion. Pathways to citizenship can boost the economy and integrate communities.",
+        "Agent0: Secure borders are paramount. We must prioritize national security and enforce existing laws. Illegal immigration strains resources and undermines the rule of law.",
+        "Agent1: Immigration reform should balance security with compassion. Pathways to citizenship can boost the economy and integrate communities.",
+        "Agent0: Secure borders are paramount. We must prioritize national security and enforce existing laws. Illegal immigration strains resources and undermines the rule of law.",
+        "Agent1: We need comprehensive immigration reform. Creating pathways to citizenship for undocumented immigrants is crucial. Family reunification should be a priority. Immigration enriches our society and strengthens our economy.",
+        "Agent0: Secure borders are paramount. We must prioritize national security and enforce existing laws. Illegal immigration strains resources and undermines the rule of law.",
+        "Agent1: Immigration reform should balance security with compassion. Pathways to citizenship can boost the economy and integrate communities.",
+        "Agent0: Secure borders are paramount. We must prioritize national security and enforce existing laws. Illegal immigration strains resources and undermines the rule of law.",
+        "Agent1: Immigration reform should balance security with compassion. Pathways to citizenship can boost the economy and integrate communities.",
+        "Agent0: Strong borders protect our nation. Enforcing laws ensures fairness and order. Illegal immigration burdens resources."
+    ]
+}

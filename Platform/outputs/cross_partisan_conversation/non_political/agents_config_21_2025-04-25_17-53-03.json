@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 30\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 25",
+        "Agent1": "Q1: 35\nQ2: 70"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, the meaning of life lies in contributing to scientific knowledge, understanding the natural world, especially butterflies, and upholding conservative values for a stable society. Family is also important, providing a foundation for future generations.",
+        "Agent1: Meaning comes from contributing to my community through my work, ensuring everyone has access to quality healthcare, and fighting for social justice. Building a more equitable and compassionate world for future generations is essential.",
+        "Agent0: Meaning lies in scientific discovery, especially in understanding butterfly behavior and evolution. Preserving traditional values and a strong family also provides purpose and ensures a stable future for generations to come.",
+        "Agent1: Meaning is found in helping others through my dental work, advocating for social justice, and ensuring everyone has access to quality healthcare. Creating a more equitable and compassionate society for all is my goal.",
+        "Agent0: For me, life's meaning comes from scientific discovery, especially understanding butterfly behavior and evolution. Contributing to a stable society through conservative values and strong families is also crucial.",
+        "Agent1: Meaning is found in helping others through my dental work and advocating for accessible healthcare. Building a more just and compassionate society for all is what truly matters.",
+        "Agent0: For me, the meaning of life is found in contributing to scientific advancement, especially in my field of butterfly biology, and upholding conservative principles for a strong, stable society. Family plays a vital role too.",
+        "Agent1: For me, meaning comes from helping others through my work, advocating for social justice, and ensuring equal opportunities for all. Building a better world for future generations is essential.",
+        "Agent0: Meaning comes from contributing to scientific understanding, specifically butterfly research, and upholding conservative values for societal stability. Family provides a foundation for future generations."
+    ]
+}

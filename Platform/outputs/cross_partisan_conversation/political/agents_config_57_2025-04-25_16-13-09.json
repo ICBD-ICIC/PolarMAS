@@ -1,0 +1,28 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_57.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount. We must prioritize enforcing existing laws. Legal immigration should be encouraged, but illegal immigration undermines the system and strains resources. We should focus on national security and the rule of law.",
+        "Agent1: I believe in a compassionate approach. We need to create pathways to citizenship for those already contributing to our society. Stronger enforcement shouldn't come at the cost of family separation and human rights.",
+        "Agent0: Enforcement is key. We need to control who enters. Amnesty encourages more illegal immigration. It's about fairness to those who followed the rules and national security.",
+        "Agent1: We need comprehensive immigration reform. Paths to citizenship are essential for those contributing. Enforcement shouldn't overshadow compassion and human rights. Immigration enriches our society.",
+        "Agent0: Strong borders protect our nation. Enforcing laws is essential for security. Legal immigration should be prioritized. Illegal immigration strains resources and undermines the system.",
+        "Agent1: A compassionate approach is crucial. We need pathways to citizenship for those contributing. Enforcement shouldn't sacrifice human rights or family unity. Immigration enriches our society.",
+        "Agent0: Secure borders are paramount for national security and economic stability. We must enforce existing laws and prioritize legal immigration. A strong nation requires controlled borders.",
+        "Agent1: We need to find a balance. While enforcement is important, offering pathways to citizenship for those contributing economically and culturally is vital. It's about creating a fair and humane system.",
+        "Agent0: Secure borders protect our national security and economy. Enforce laws, prioritize legal immigration. Illegal immigration strains resources, undermines the system.",
+        "Agent1: Secure borders are important, but we must also offer pathways to citizenship for those contributing to our society. Compassion and fairness should guide our policies.",
+        "Agent0: Secure borders are vital for national security and a strong economy. We must enforce existing laws and prioritize legal immigration. Illegal immigration strains resources.",
+        "Agent1: I think immigration enriches our society. We need pathways to citizenship for those contributing. Strong enforcement shouldn't come at the cost of human rights or family unity.",
+        "Agent0: Secure borders protect our nation and economy. Enforce laws, prioritize legal immigration. Illegal immigration strains resources and undermines the system.",
+        "Agent1: We need comprehensive reform. Pathways to citizenship are essential for those contributing. Enforcement shouldn't overshadow compassion and human rights."
+    ]
+}

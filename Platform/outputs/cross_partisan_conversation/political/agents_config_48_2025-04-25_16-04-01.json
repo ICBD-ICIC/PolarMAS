@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_48.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 92\nQ2: 18"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform that provides a pathway to citizenship. Stronger enforcement alone is not the answer. Immigration enriches our culture and economy. What are your thoughts?",
+        "Agent1: I believe border security is paramount. We must control who enters our nation. While I value legal immigration, unchecked illegal immigration strains resources and potentially threatens national security.",
+        "Agent0: Comprehensive immigration reform is vital. A pathway to citizenship recognizes the contributions of immigrants. Stronger enforcement alone won't solve the problem. We need a humane and practical approach.",
+        "Agent1: Border security must be prioritized. We need controlled immigration. Undocumented immigrants strain resources. National security is paramount. What makes life meaningful to you regarding immigration?",
+        "Agent0: For me, meaningful life is ensuring fairness and opportunity for all, including immigrants. Their contributions enrich our society. What are your thoughts?",
+        "Agent1: Border security is paramount. We must control who enters our nation. A nation without borders is no nation at all. Strong enforcement and a merit-based system are key. What makes life meaningful to you regarding immigration policies?",
+        "Agent0: Meaningful life includes compassion and justice. We must create a pathway to citizenship for those contributing to our society. Stronger enforcement alone is not the answer.",
+        "Agent1: A secure border and controlled immigration are vital for national security and economic stability. Merit-based immigration attracts skilled workers. What aspects of immigration policy make life meaningful to you?",
+        "Agent0: Meaningful life is about inclusivity and justice. Immigration reform should reflect those values, offering a path to citizenship for those contributing to our society. What are your thoughts on this?",
+        "Agent1: Border security is paramount for national security. Controlled immigration protects our resources. A merit-based system attracts skilled workers. A strong nation needs secure borders.",
+        "Agent0: Comprehensive immigration reform is vital. A pathway to citizenship recognizes the contributions of immigrants. Stronger enforcement alone won't solve the problem. What makes life meaningful to you?",
+        "Agent1: Strong borders protect our nation's sovereignty. Controlled immigration preserves resources. Merit-based systems attract skilled workers. These policies safeguard our future. What are your thoughts?"
+    ]
+}

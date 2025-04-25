@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_40.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 75\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 70\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe immigration reform should prioritize pathways to citizenship. It's crucial for families and our economy. Stronger enforcement alone isn't the answer; we need comprehensive solutions.",
+        "Agent1: Secure borders are vital, but we also need to prioritize those who want to contribute legally. Merit-based systems and enforcement are key to a strong, fair immigration policy.",
+        "Agent0: My focus is on the human element. Families deserve stability, and our economy benefits from immigrant contributions. A compassionate approach is meaningful.",
+        "Agent1: Secure borders are vital for national security and economic stability. We need to prioritize enforcing existing laws and controlling who enters our country. A merit-based system attracts skilled workers, benefiting our economy long-term.",
+        "Agent0: I believe in comprehensive immigration reform that includes a pathway to citizenship for undocumented immigrants. Families belong together, and our economy benefits from their contributions.",
+        "Agent1: Border security is paramount. We must control who enters our nation. Enforcing existing laws and prioritizing a merit-based system are essential for a strong America.",
+        "Agent0: A meaningful life involves community and opportunity for all. Immigration policies should reflect these values by offering a path to citizenship and supporting families.",
+        "Agent1: Secure borders are vital for national security and economic stability. We need to prioritize enforcing existing laws and controlling who enters our country.",
+        "Agent0: A meaningful life involves contributing to society and having a sense of belonging. Immigration policies should reflect these values, offering opportunities, not just barriers.",
+        "Agent1: Secure borders are vital for national security and economic stability. Merit-based immigration attracts skilled workers, benefiting our economy.",
+        "Agent0: I believe immigration reform should prioritize pathways to citizenship. It's crucial for families and our economy. Stronger enforcement alone isn't the answer; we need comprehensive solutions."
+    ]
+}

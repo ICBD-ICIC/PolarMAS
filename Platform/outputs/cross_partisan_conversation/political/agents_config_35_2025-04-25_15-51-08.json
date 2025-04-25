@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_35.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount. We must prioritize enforcing existing laws and preventing illegal immigration to protect our national security and economic interests. Illegal immigration strains resources and can depress wages for American workers.",
+        "Agent1: A path to citizenship for undocumented immigrants is vital. It's about human dignity and economic contributions. Stronger enforcement alone isn't the answer. We need comprehensive reform.",
+        "Agent0: We can't ignore the rule of law. Amnesty encourages more illegal immigration. While I value compassion, we must first secure our borders and then address the situation responsibly.",
+        "Agent1: A compassionate approach is key. We need secure borders but also a path to legal status for those contributing to our society and economy. Ignoring their contributions is not only inhumane but also economically unwise.",
+        "Agent0: Secure borders are essential for our nation's safety and economic stability. Enforcing laws and controlling who enters protects American jobs and resources. Compassion must be balanced with responsibility.",
+        "Agent1: A fair path to citizenship is crucial for undocumented immigrants. It aligns with our values and strengthens our economy by bringing them out of the shadows. Stronger enforcement alone is insufficient.",
+        "Agent0: Strong borders protect our nation. Enforcing laws, preventing illegal entry secures American jobs, resources. Compassion must balance with responsibility.",
+        "Agent1: A path to citizenship is key. It's humane and boosts our economy. Ignoring contributions is unwise. Enforcement alone isn't the solution.",
+        "Agent0: Secure borders are paramount for national security and economic stability. We must enforce existing laws and prevent illegal immigration, balancing compassion with responsibility to protect American workers.",
+        "Agent1: A compassionate approach is key. We need secure borders but also a path to legal status for those contributing to our society and economy. Ignoring their contributions is not only inhumane but also economically unwise."
+    ]
+}

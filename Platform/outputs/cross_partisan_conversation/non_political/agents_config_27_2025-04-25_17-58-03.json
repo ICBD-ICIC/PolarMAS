@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_27.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 75\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 75\nQ2: 35",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Family, faith, and contributing to my community give my life meaning. Raising my children with strong values and upholding conservative principles are my priorities. What brings meaning to your life?",
+        "Agent1: Protecting Kaho'olawe and its cultural heritage, fighting for social justice, and connecting with my community makes my life meaningful. What about you?",
+        "Agent0: Supporting my union members and ensuring fair wages makes my work meaningful. I also find meaning in upholding traditional American values and freedoms.",
+        "Agent1: Seeing Kaho'olawe restored, advocating for environmental protection, and supporting Native Hawaiian culture gives my life meaning. What brings meaning to yours?",
+        "Agent0: Preserving our freedoms for future generations is crucial. Strong families and communities built on faith are the foundation of a meaningful life.",
+        "Agent1: Seeing Kaho'olawe healed, fighting for equality, and connecting with others gives my life meaning. What are your thoughts?",
+        "Agent0: Family, faith, and community service are vital. Raising patriotic children and defending liberty give purpose. What matters to you?",
+        "Agent1: Protecting Kaho'olawe, fighting for justice, and community make my life meaningful. What brings meaning to yours?",
+        "Agent0: Family, faith, and serving my community bring meaning. Raising children with strong values and upholding conservative principles is key. What gives your life meaning?"
+    ]
+}

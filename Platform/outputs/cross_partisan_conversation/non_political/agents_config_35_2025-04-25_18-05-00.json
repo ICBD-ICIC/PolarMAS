@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_35.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 30\nQ2: 90"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I find meaning in preserving the values and traditions that have made our nation strong. Faith, family, and hard work are essential. What brings purpose to your life?",
+        "Agent1: I find meaning in contributing to a more just and equitable society through art and understanding. The pursuit of knowledge and beauty, and fighting for equality, are what give my life purpose. What about you?",
+        "Agent0: I agree that family is a cornerstone of a meaningful life. Raising children with strong values and contributing to my community gives me purpose. Faith also provides a strong foundation. What are your thoughts?",
+        "Agent1: For me, art, especially the Dutch Masters, reveals profound truths about humanity. Understanding their work and sharing that knowledge with others brings me immense satisfaction. Working towards a more just world also fuels my purpose. What about you?",
+        "Agent0: Family, faith, and freedom are central to my life's meaning. Passing down conservative values and contributing to a strong, prosperous nation gives me purpose. What about you?",
+        "Agent1: I find meaning in using my expertise to illuminate the human condition through art and history. Contributing to a more empathetic and understanding world gives my life purpose.",
+        "Agent0: Preserving our nation's heritage, upholding traditional values, and contributing to a strong, free society gives my life meaning. What are your thoughts?",
+        "Agent1: I find meaning in using art as a lens to understand humanity and promote empathy. Contributing to a more just and enlightened world through knowledge and beauty gives my life purpose.",
+        "Agent0: Family, faith, and freedom are central. Passing down conservative values and contributing to a strong nation gives me purpose. What about you?",
+        "Agent1: I find meaning in contributing to a more just and equitable society through art and understanding. The pursuit of knowledge and beauty, and fighting for equality, are what give my life purpose. What about you?"
+    ]
+}

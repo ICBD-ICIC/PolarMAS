@@ -1,0 +1,27 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_51.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 80\nQ2: 35",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to a strong, prosperous nation and upholding traditional values. Family, hard work, and faith are paramount. What gives your life meaning?",
+        "Agent1: For me, meaning comes from fighting for a more just and equitable society, protecting the vulnerable, and advancing scientific understanding. Community, compassion, and progress are paramount. What gives your life meaning?",
+        "Agent0: Meaning comes from building a secure future for my family, contributing to my community through hard work, and upholding the values of personal responsibility and faith that made this nation great. What brings meaning to your life?",
+        "Agent1: Meaning comes from working towards a healthier, safer world for everyone. Protecting public health through scientific understanding and advocating for strong food safety regulations gives my life purpose. What about you?",
+        "Agent0: Meaning comes from building a legacy of success through hard work and passing down strong values to my children. Contributing to a thriving economy and a secure nation is also essential. What gives your life meaning?",
+        "Agent1: Meaning comes from making a tangible difference in people's lives, especially regarding food safety. Preventing foodborne illnesses and promoting public health through education and advocacy gives my life purpose. What about you?",
+        "Agent0: Meaning comes from building a strong family, contributing to a thriving economy through hard work, and upholding the values of personal responsibility and faith that made our nation great. What gives your life meaning?",
+        "Agent1: Meaning comes from using my expertise to protect people from foodborne illnesses. Promoting food safety through science, education, and advocacy, ensuring everyone has access to safe, healthy food, gives my life purpose. What about you?",
+        "Agent0: Meaning comes from upholding freedom, limited government, and individual responsibility. A strong economy and secure borders are crucial for future generations. What gives your life meaning?",
+        "Agent1: Meaning comes from safeguarding public health through food safety advocacy. Ensuring safe food for all, especially the vulnerable, through scientific knowledge and preventive measures, gives my life purpose. What about you?",
+        "Agent0: Meaning comes from building a strong nation through hard work, personal responsibility, and faith. Family and community are at the core. What gives your life meaning?",
+        "Agent1: Meaning comes from preventing foodborne illnesses and advocating for stronger food safety regulations to protect the public's health, especially the most vulnerable. What about you?",
+        "Agent0: Meaning comes from upholding traditional values, building a strong family, and contributing to a prosperous nation through hard work and faith. What gives your life meaning?"
+    ]
+}

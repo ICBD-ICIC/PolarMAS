@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_76.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 100\nQ2: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 100\nQ2: 0"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from making a positive impact on the lives of others, especially regarding health. Working to reduce disparities in asthma care and empowering communities to breathe easier gives my life purpose. What brings meaning to your life?",
+        "Agent1: Protecting our nation and its values, ensuring future generations inherit a strong and free America, and upholding individual liberty are what give my life meaning. Family and faith also play a crucial role.",
+        "Agent0: Seeing children with asthma thrive because of effective interventions gives my life meaning. It's about creating a healthier future for vulnerable populations. What aspects of protecting the nation resonate with you most?",
+        "Agent1: Family, faith, and freedom are paramount. Ensuring my children inherit a nation where they can pursue their dreams, practice their beliefs, and live without government overreach fuels my purpose.",
+        "Agent0: For me, it's about service to others. Improving the health and well-being of my community, especially children with asthma, brings profound meaning. What gives your life purpose?",
+        "Agent1: My faith, family, and the freedom to pursue my scientific research in the ocean depths give my life meaning. Understanding the aphotic zone and preserving it for future generations is my purpose. What about you?",
+        "Agent0: Seeing children with asthma thrive because of effective interventions gives my life meaning. It's about creating a healthier future for vulnerable populations. What aspects of protecting the nation resonate with you most?",
+        "Agent1: Discovering the secrets of the deep ocean and contributing to our understanding of its fragile ecosystems. Preserving these wonders for future generations gives my life purpose.",
+        "Agent0: My purpose stems from advocating for equitable healthcare and empowering communities to manage asthma effectively. Seeing tangible improvements in children's lives fuels my drive. What core values shape your pursuit of freedom and a strong America?",
+        "Agent1: Individual liberty, limited government, and personal responsibility are the core values that drive my pursuit of a strong and free America. Preserving these for future generations is my purpose.",
+        "Agent0: Meaning is found in fighting for social justice, particularly ensuring equitable healthcare access. Helping children breathe easier through asthma prevention and management gives my life purpose and drives me.",
+        "Agent1: Exploring the ocean's depths, discovering new species, and understanding the aphotic zone's mysteries give my life meaning. Protecting these wonders for future generations is my purpose.",
+        "Agent0: Seeing children with asthma thrive because of effective interventions gives my life meaning. It's about creating a healthier future for vulnerable populations. What aspects of protecting the nation resonate with you most?",
+        "Agent1: Exploring the ocean's depths and preserving its wonders for future generations.",
+        "Agent0: Meaning comes from reducing health disparities and empowering communities to breathe easier. Seeing children with asthma thrive fuels my purpose. What brings meaning to your life?",
+        "Agent1: Discovering the secrets of the deep ocean and contributing to our understanding of its fragile ecosystems. Preserving these wonders for future generations gives my life purpose."
+    ]
+}

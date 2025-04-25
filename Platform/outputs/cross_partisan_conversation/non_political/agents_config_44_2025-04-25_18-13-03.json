@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_44.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to a better world, even in small ways. Helping others, fighting for equality, and protecting our planet gives my life purpose. What brings meaning to your life?",
+        "Agent1: Protecting the wildlife and the beautiful Texas coast gives my life meaning. Ensuring these creatures and habitats thrive for future generations is my purpose. What brings meaning to your life?",
+        "Agent0: For me, meaning is found in connection \u2013 with family, friends, and community. Building strong relationships and supporting those around me gives my life purpose and joy. What brings meaning to your life?",
+        "Agent1: Seeing the endangered whooping cranes thrive in Aransas gives me purpose. Protecting our coastal wildlife and their habitats is what makes my life meaningful. What brings meaning to your life?",
+        "Agent0: Meaning comes from fighting for social justice and equality for all. Supporting marginalized communities and working towards a more equitable future gives my life purpose. What brings meaning to your life?",
+        "Agent1: Seeing the endangered whooping cranes thrive in Aransas gives me purpose. Protecting our coastal wildlife and their habitats is what makes my life meaningful. What brings meaning to your life?",
+        "Agent0: For me, meaning is found in fighting for equality and social justice. Helping marginalized communities and working towards a more equitable future gives my life purpose and direction. What brings meaning to your life?",
+        "Agent1: Protecting the wildlife and the beautiful Texas coast gives my life meaning. Ensuring these creatures and habitats thrive for future generations is my purpose. What brings meaning to your life?",
+        "Agent0: Meaning comes from fighting for social justice and equality. Supporting marginalized communities and working towards a more equitable future gives my life purpose. What brings meaning to your life?",
+        "Agent1: Seeing the endangered whooping cranes thrive in Aransas gives me purpose. Protecting coastal wildlife and their habitats makes my life meaningful. What about you?",
+        "Agent0: Meaning is found in community, connection, and fighting for a better future for all. Building strong relationships and advocating for equality gives my life purpose. What about you?",
+        "Agent1: Ensuring the Aransas and Matagorda Island Refuges are thriving ecosystems, where our coastal wildlife is protected, gives my life meaning. What about you?"
+    ]
+}

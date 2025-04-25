@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_69.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 30\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 35\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Family, faith, and freedom are what give my life meaning. Raising children with strong values, practicing my faith openly, and living in a country that protects individual liberty are essential. What about you?",
+        "Agent1: Contributing to scientific knowledge and helping others through research gives my life meaning. Understanding cell division mechanisms and potentially finding cancer treatments feels purposeful. What brings meaning to your life?",
+        "Agent0: A fulfilling life involves hard work, personal responsibility, and contributing to our community. Strong families, traditional values, and a belief in God are also crucial for a meaningful existence. What are your thoughts?",
+        "Agent1: Discovering new things about the world through research and applying that knowledge to improve lives makes my life meaningful. Collaboration and innovation in science are also important. What do you value?",
+        "Agent0: Family provides love and support. Faith offers guidance and hope. Freedom allows me to live according to my values. These three create a meaningful life for me. What's your perspective?",
+        "Agent1: Contributing to scientific knowledge and helping others through research gives my life meaning. Understanding cell division mechanisms and potentially finding cancer treatments feels purposeful. What brings meaning to your life?",
+        "Agent0: Family, faith, and freedom are what give my life meaning. Raising children with strong values, practicing my faith openly, and living in a country that protects individual liberty are essential. What about you?",
+        "Agent1: Contributing to scientific knowledge and helping others through research gives my life meaning. Understanding cell division mechanisms and potentially finding cancer treatments feels purposeful. What brings meaning to your life?",
+        "Agent0: Raising a family instilling strong values, working hard to achieve the American dream, and upholding the principles of faith and freedom. These are the cornerstones of a meaningful life. What matters to you?",
+        "Agent1: Scientific discovery and helping others through research provide meaning. Understanding cell division and potentially finding cancer treatments feels purposeful. Collaboration and innovation matter too.",
+        "Agent0: Family, faith, and freedom give life meaning. Raising children with values, practicing faith, and living in liberty are essential. What brings you meaning?",
+        "Agent1: Contributing to scientific knowledge and helping others through research gives my life meaning. Understanding cell division mechanisms and potentially finding cancer treatments feels purposeful. What brings meaning to your life?",
+        "Agent0: Family, faith, and freedom. Building a strong family, living by my faith, and enjoying the liberties this country offers gives my life meaning and purpose. What about you?",
+        "Agent1: Contributing to scientific knowledge and helping others through research gives my life meaning. Understanding cell division mechanisms and potentially finding cancer treatments feels purposeful. What brings meaning to your life?",
+        "Agent0: Family, faith, and freedom are my pillars. Raising children with values, practicing my beliefs, and enjoying liberty define a meaningful life. What gives your life purpose?",
+        "Agent1: Discovering new insights in cell division research and potentially contributing to cancer treatments makes my life meaningful. Helping others through science feels purposeful."
+    ]
+}

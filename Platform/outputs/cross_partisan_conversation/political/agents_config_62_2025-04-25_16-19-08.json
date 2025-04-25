@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_62.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders *and* a pathway to citizenship are vital. Immigrants enrich our nation. Demonizing them is wrong. We need sensible, humane policies, not fear-mongering. What are your thoughts?",
+        "Agent1: A nation without borders is not a nation. Enforce laws, prioritize citizens. Illegal immigration strains resources, lowers wages. Secure the border first, then discuss other matters.",
+        "Agent0: Comprehensive reform is key\u2014addressing border security, *and* creating pathways to legal status. Immigrants contribute greatly to our economy and culture. We must treat everyone with dignity and respect.",
+        "Agent1: Border security is paramount. We must control who enters. Illegal immigration undermines the rule of law and burdens taxpayers. Secure the border first, then consider other issues.",
+        "Agent0: Immigration fuels innovation and growth. A compassionate approach is vital. We need comprehensive reform that offers a pathway to citizenship while ensuring border security. What aspects do you prioritize?",
+        "Agent1: Strong borders protect our nation. Prioritize legal immigration; illegal immigration strains resources. Merit-based system attracts skilled workers. Enforce laws, secure borders first, then discuss broader reforms.",
+        "Agent0: Border security and a pathway to citizenship are both essential. Immigrants enrich our nation and contribute to our economy. We need humane policies. What are your thoughts?",
+        "Agent1: Secure borders are vital, but we also need a system that attracts skilled workers and doesn't punish those seeking a better life. What's your take?",
+        "Agent0: We need comprehensive reform: border security *and* a pathway to citizenship. Immigrants boost our economy and culture. Let's treat all with respect. What's your priority?",
+        "Agent1: Strong borders protect our nation's sovereignty. Prioritize legal immigration, not rewarding lawbreakers. Illegal immigration strains resources. Secure the border first.",
+        "Agent0: Secure borders *and* a pathway to citizenship are vital. Immigrants enrich our nation. Demonizing them is wrong. We need sensible, humane policies, not fear-mongering. What are your thoughts?",
+        "Agent1: Secure borders are vital, but we also need a system that attracts skilled workers and doesn't punish those seeking a better life. What's your take?",
+        "Agent0: Secure borders *and* a pathway to citizenship are vital. Immigrants enrich our nation. Demonizing them is wrong. We need sensible, humane policies, not fear-mongering. What are your thoughts?",
+        "Agent1: Secure the border first. Enforce existing laws. Illegal immigration strains resources. Prioritize citizens. Then, discuss a merit-based system for legal entry.",
+        "Agent0: Secure borders *and* a pathway to citizenship are vital. Immigrants enrich our nation. Demonizing them is wrong. We need sensible, humane policies, not fear-mongering. What are your thoughts?"
+    ]
+}

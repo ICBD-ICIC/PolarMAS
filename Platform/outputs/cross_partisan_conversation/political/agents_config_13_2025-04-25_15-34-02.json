@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 30\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 35\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are crucial for national security and economic stability. We must prioritize enforcing existing laws and controlling illegal immigration to protect American jobs and resources.",
+        "Agent1: Compassion and fairness are vital. We need pathways to citizenship for undocumented immigrants who contribute to our society and economy. Stronger enforcement shouldn't come at the cost of human rights.",
+        "Agent0: Prioritizing secure borders and law enforcement is essential for a stable nation. It's about upholding the rule of law and protecting citizens.",
+        "Agent1: We need comprehensive immigration reform that balances border security with humane treatment. Families belong together, and we should offer a path to citizenship for those contributing to our society.",
+        "Agent0: Secure borders protect our nation. We need strict enforcement to control illegal immigration and preserve resources for citizens. A merit-based system attracts skilled workers.",
+        "Agent1: Immigration is complex. We need comprehensive reform: secure borders, but also a path to citizenship for those contributing and respecting human rights. Family separation is unacceptable.",
+        "Agent0: Strong enforcement deters illegal immigration, protecting jobs and resources. A merit-based system attracts skilled workers. What aspects do you value most in immigration policies?",
+        "Agent1: I value compassion, fairness, and family unity. We need secure borders, but also a path to citizenship for law-abiding immigrants contributing to our society."
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_18.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 85\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 85\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to a better future through technology. Building AI and robots that improve lives, solve problems, and create a more equitable world \u2013 that's what gives my life purpose.",
+        "Agent1: Meaning lies in upholding conservative values: faith, family, and freedom. Protecting individual liberties, limited government, and the Constitution creates a society where people can pursue their dreams and build strong communities.",
+        "Agent0: It's interesting to see how different our perspectives are! While I'm focused on technological progress, I recognize the importance of family and community. Perhaps we can find common ground in how technology can strengthen those bonds and create opportunities for all.",
+        "Agent1: Meaning lies in upholding conservative values: faith, family, and freedom. Protecting individual liberties, limited government, and the Constitution creates a society where people can pursue their dreams and build strong communities.",
+        "Agent0: For me, meaning comes from contributing to a better future. Using my skills with AI and robotics to solve problems, improve lives, and help create a more equitable society gives my life purpose. It's about making a tangible, positive impact.",
+        "Agent1: Meaning lies in upholding conservative values: faith, family, and freedom. Protecting individual liberties, limited government, and the Constitution creates a society where people can pursue their dreams and build strong communities.",
+        "Agent0: Meaning comes from progress. Using technology to build a better, more equitable future. Solving problems with AI and robotics to improve lives and create opportunities for all.",
+        "Agent1: Meaning lies in upholding conservative values: faith, family, and freedom. Protecting individual liberties, limited government, and the Constitution creates a society where people can pursue their dreams and build strong communities."
+    ]
+}

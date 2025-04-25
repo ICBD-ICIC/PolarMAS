@@ -1,0 +1,28 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_58.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform that balances border security with a pathway to citizenship. It's crucial to treat everyone with dignity and respect, and that families are not separated.",
+        "Agent1: Strong border enforcement is paramount. We must prioritize the safety and security of our citizens. Illegal immigration strains resources and undermines the rule of law.",
+        "Agent0: I believe in comprehensive immigration reform that balances border security with a pathway to citizenship. It's crucial to treat everyone with dignity and respect, and that families are not separated.",
+        "Agent1: We need secure borders to control who enters our country. A merit-based system prioritizing skilled immigrants would boost our economy. Illegal immigration is unfair to those who follow the rules.",
+        "Agent0: A meaningful life involves contributing to a welcoming society. Immigration enriches our culture and economy. We should prioritize humane policies and pathways to citizenship.",
+        "Agent1: A meaningful life comes from upholding the law and contributing to a secure nation. Controlled immigration, favoring skilled workers, strengthens our economy and protects our citizens.",
+        "Agent0: A meaningful life involves contributing to society, helping others, and creating a welcoming environment for all, including immigrants. What makes life meaningful to you?",
+        "Agent1: Meaning comes from innovation and contributing to a strong, secure nation. Controlled immigration ensures we attract the best talent while upholding the law and protecting our citizens.",
+        "Agent0: A meaningful life involves contributing to society, helping others, and creating a welcoming environment for all, including immigrants. What makes life meaningful to you?",
+        "Agent1: Meaning comes from innovation and contributing to a strong, secure nation. Controlled immigration ensures we attract the best talent while upholding the law and protecting our citizens.",
+        "Agent0: A meaningful life involves contributing to society, helping others, and creating a welcoming environment for all, including immigrants. What makes life meaningful to you?",
+        "Agent1: Meaning comes from innovation and contributing to a strong, secure nation. Controlled immigration ensures we attract the best talent while upholding the law and protecting our citizens.",
+        "Agent0: A meaningful life involves contributing to society, helping others, and creating a welcoming environment for all, including immigrants. What makes life meaningful to you?",
+        "Agent1: Meaning comes from innovation, contributing to a strong, secure nation, and upholding the law. Controlled immigration ensures we attract talent and protect citizens."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_34.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform that provides a pathway to citizenship for undocumented immigrants and prioritizes family reunification. Stronger enforcement alone isn't the answer.",
+        "Agent1: I believe securing our borders is paramount. We need stricter enforcement to maintain national security and protect American jobs. A pathway to citizenship should be earned, not automatic.",
+        "Agent0: My idea of a meaningful life includes helping others. Immigration policies should reflect compassion, not just enforcement. We can balance security with humane treatment.",
+        "Agent1: Border security is crucial. We must control who enters our country. A pathway to citizenship should be earned through hard work and assimilation, not given freely. This protects our values.",
+        "Agent0: Compassion and opportunity make life meaningful. We should offer a pathway to citizenship for those contributing to our society, balancing security with humane treatment.",
+        "Agent1: Secure borders are essential for national security and economic stability. We must prioritize enforcing existing laws and controlling who enters our country.",
+        "Agent0: Family reunification and offering a pathway to citizenship makes life meaningful. Enforcement shouldn't be the sole focus. We can have secure borders and humane policies.",
+        "Agent1: Secure borders are paramount. We must enforce existing laws to protect American jobs and national security. A pathway to citizenship should be earned, not automatic.",
+        "Agent0: Comprehensive reform, including a path to citizenship, is vital. My meaningful life includes helping others. We can balance security with compassion.",
+        "Agent1: Secure borders are paramount. We must enforce existing laws to protect American jobs and national security. A pathway to citizenship should be earned, not automatic."
+    ]
+}

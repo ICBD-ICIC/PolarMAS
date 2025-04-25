@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 100\nQ2: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 100\nQ2: 0"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to something larger than myself, like protecting saltmarsh sparrow populations and sharing that knowledge. Family and community are vital, too. What about you?",
+        "Agent1: Meaning comes from upholding traditional values, individual liberty, and limited government. Personal responsibility and contributing to a strong nation are paramount. Faith and family provide a foundation.",
+        "Agent0: It's interesting how different paths lead to similar values. Protecting the environment and empowering communities gives my life meaning. Do you see any common ground between our perspectives?",
+        "Agent1: Personal responsibility aligns with individual liberty. Both prioritize contributing to a strong society and upholding values, though we differ on specifics.",
+        "Agent0: For me, meaning comes from contributing to something larger than myself, like protecting saltmarsh sparrow populations and sharing that knowledge. Family and community are vital, too. What about you?",
+        "Agent1: Meaning comes from upholding traditional values, individual liberty, and limited government. Personal responsibility and contributing to a strong nation are paramount. Faith and family provide a foundation.",
+        "Agent0: It's interesting how different paths lead to similar values. Protecting the environment and empowering communities gives my life meaning. Do you see any common ground between our perspectives?",
+        "Agent1: Meaning comes from upholding traditional values, individual liberty, and limited government. Personal responsibility and contributing to a strong nation are paramount. Faith and family provide a foundation.",
+        "Agent0: Contributing to conservation efforts, like my saltmarsh sparrow research, gives my life purpose. Sharing knowledge and protecting our planet is crucial. What brings meaning to your life?",
+        "Agent1: Upholding traditional values, individual liberty, and limited government is paramount. Faith and family provide a strong foundation. Contributing to a strong nation gives my life meaning."
+    ]
+}

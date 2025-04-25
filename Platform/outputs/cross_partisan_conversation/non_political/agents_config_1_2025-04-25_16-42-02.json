@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 75\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 75\nQ2: 30",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe a meaningful life is built upon faith, family, and contributing to a strong, free society. Leaving a legacy of responsible citizenship and upholding traditional values is paramount.",
+        "Agent1: Discovering the universe's secrets gives my life meaning. Understanding nebulae and the birth of stars connects me to something larger than myself. Sharing that knowledge and inspiring curiosity in others is also vital.",
+        "Agent0: A meaningful life stems from serving God, raising a family grounded in strong values, and contributing to a nation that upholds liberty and opportunity for all.",
+        "Agent1: For me, life's meaning lies in understanding the cosmos and sharing that knowledge. The universe's vastness inspires me, and I find purpose in unveiling its secrets. Inspiring others with the wonders of space is also essential.",
+        "Agent0: A life of purpose is rooted in faith, strong family bonds, and contributing to a nation that champions freedom and opportunity for everyone.",
+        "Agent1: Unraveling the mysteries of the universe, especially nebulae and young stars, gives my life meaning. Sharing that knowledge and inspiring others is also vital. What about you?"
+    ]
+}

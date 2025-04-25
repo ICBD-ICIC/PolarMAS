@@ -1,0 +1,27 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_53.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: As a constitutional scholar, I find meaning in upholding the principles of liberty and self-governance enshrined in our Constitution. Protecting individual rights and limited government, ensuring a free society for future generations, is paramount.",
+        "Agent1: For me, meaning comes from helping others improve their health and well-being. Guiding people to quit smoking and embrace a healthier lifestyle through nutrition and support \u2013 that's where I find purpose.",
+        "Agent0: The pursuit of a more perfect Union, as envisioned by our Founders, gives my life meaning. Striving for ordered liberty and the preservation of our constitutional republic is my purpose.",
+        "Agent1: Meaning is found in connection. Helping others achieve wellness, witnessing their transformation, and fostering a supportive community \u2013 that's what gives my life purpose. What about you?",
+        "Agent0: The preservation of individual liberty and the principles of limited government, as enshrined in our Constitution, gives my life meaning. Ensuring future generations inherit a free and prosperous nation is my purpose.",
+        "Agent1: Meaning lies in empowering others to achieve optimal health. Witnessing their journeys, supporting their transformations, and fostering a community of well-being \u2013 that's what gives my life purpose. What brings meaning to yours?",
+        "Agent0: Defending the Constitution, ensuring individual liberty, and preserving our Republic for future generations. That's where I find my purpose and meaning in life.",
+        "Agent1: Meaning comes from empowering individuals to improve their health and well-being. Guiding people towards healthier lifestyles and seeing them thrive \u2013 that's my purpose. What gives your life meaning?",
+        "Agent0: Preserving the Constitution and individual liberty is my life's meaning. Ensuring future generations inherit a free and prosperous nation is my purpose.",
+        "Agent1: For me, meaning is found in helping others. Guiding people to quit smoking, improve their health through nutrition, and witnessing their positive transformations brings purpose to my life. What about you?",
+        "Agent0: Preserving constitutional principles and individual liberty gives my life meaning. Ensuring future generations inherit a free nation is my purpose.",
+        "Agent1: Meaning is found in empowering individuals to improve their health and well-being. Witnessing their journeys, supporting their transformations, and fostering a community of well-being \u2013 that's what gives my life purpose. What brings meaning to yours?",
+        "Agent0: Upholding the Constitution and preserving individual liberty for future generations is my purpose and gives my life meaning."
+    ]
+}

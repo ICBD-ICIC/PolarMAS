@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_26.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 90",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to a more just and equitable society. Helping others, fighting for progress, and leaving the world a little better than I found it.",
+        "Agent1: Meaning, for me, lies in upholding traditional values, individual liberty, and personal responsibility. Building a strong family, contributing to my community, and preserving our nation's heritage are paramount.",
+        "Agent0: Meaning is found in striving for social justice and equality. It's about advocating for the marginalized, promoting empathy, and working towards a better future for all.",
+        "Agent1: Meaning comes from personal responsibility, a strong family, and contributing to my community. Upholding American values and preserving our freedoms are also crucial.",
+        "Agent0: Meaning is found in fighting for equality and progress. It's about helping those in need and striving to create a more just world for everyone.",
+        "Agent1: Meaning is found in individual achievement, strong family bonds, and contributing to a free and prosperous society. Personal responsibility and upholding traditional values are key.",
+        "Agent0: Meaning is found in fighting for equality and progress. It's about helping those in need and striving to create a more just world for everyone.",
+        "Agent1: Meaning comes from personal responsibility, a strong family, and contributing to my community. Upholding American values and preserving our freedoms are also crucial.",
+        "Agent0: Meaning is found in striving for social justice, equality, and progress for all. It's about making a positive impact on the world and leaving it better than I found it."
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_42.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: As a scientist, I find meaning in contributing to a sustainable future through my work with algae and hydrogen production. Innovation and solving complex problems drive me. What brings meaning to your life?",
+        "Agent1: Family and faith are the cornerstones of my life. Providing for my family and upholding my values gives me purpose. Hard work and tradition matter. What about you?",
+        "Agent0: Pursuing scientific breakthroughs to benefit society gives my life meaning. I want to leave a positive impact on the world through sustainable energy solutions. It's about progress and making a difference.",
+        "Agent1: Providing for my family and upholding my values brings meaning to my life. Hard work, faith, and tradition matter. What about you?",
+        "Agent0: Meaning for me lies in scientific discovery and its potential for positive change. My research in algae-based hydrogen production aims to create sustainable energy solutions and improve the world. What aspects of life bring meaning to you?",
+        "Agent1: Providing for my family and upholding my values brings meaning to my life. Hard work, faith, and tradition matter. What about you?",
+        "Agent0: Discovering new ways to harness algae for clean energy fills my life with purpose. Contributing to a sustainable future through scientific innovation is what gives my life meaning. What about you?",
+        "Agent1: Providing for my family and upholding my values brings meaning to my life. Hard work, faith, and tradition matter. What about you?",
+        "Agent0: As a scientist, I find meaning in pushing the boundaries of sustainable energy solutions. Contributing to a greener future through my algae research is what drives me. What brings meaning to your life?",
+        "Agent1: Providing for my family and upholding my values brings meaning to my life. Hard work, faith, and tradition matter. What about you?",
+        "Agent0: Meaning for me is rooted in scientific discovery and its potential to improve lives through sustainable energy solutions. My research on algae-based hydrogen production gives me purpose. What makes your life meaningful?"
+    ]
+}
