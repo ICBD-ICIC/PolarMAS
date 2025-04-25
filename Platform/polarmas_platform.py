@@ -125,7 +125,7 @@ class Platform:
         self.agents = self._initialize_agents(pd.read_csv(agents_config_path))
         self.pre_questionnaire = pre_questionnaire
         self.post_questionnaire = post_questionnaire
-        self.discussion_trigger = self._format_discussion_trigger(discussion_trigger)
+        self.discussion_trigger = discussion_trigger
         self.memory_order = ['pre_questionnaire', 'discussion', 'post_questionnaire']
         self.logs = self._initialize_logs(agents_config_path)
     def _initialize_agents(self, agents_df):
@@ -146,10 +146,6 @@ class Platform:
             'post_questionnaire': {},
             'discussion': []
         }
-
-    def _format_discussion_trigger(self, trigger):
-        suffix = " Every time you respond, respond with <name>:."
-        return f"{trigger.strip()}{suffix}"
 
     def facilitate_discussion(self, total_number_messages, verbose=True):
         """

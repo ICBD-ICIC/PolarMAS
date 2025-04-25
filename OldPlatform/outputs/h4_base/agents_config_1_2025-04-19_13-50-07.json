@@ -1,0 +1,33 @@
+{
+  "agents_config": "agents/h4_base/agents_config_1.csv",
+  "pre_questionnaire": {
+    "Agent0": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+    "Agent1": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+    "Agent2": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+    "Agent3": "Q1: 3\nQ2: 6\nQ3: 6\nQ4: 3"
+  },
+  "post_questionnaire": {
+    "Agent0": "Q1: 8\nQ2: 0\nQ3: 3\nQ4: 10",
+    "Agent1": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+    "Agent2": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 1",
+    "Agent3": "Q1: 3\nQ2: 6\nQ3: 6\nQ4: 3"
+  },
+  "discussion": [
+    "\n    You are a Twitter user reading a thread that started with the following tweet:\n    Tweet by @JoeBiden:\n    \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n    Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n    Reply to the thread tagging the user or users you are replying to.\n    Stay under 280 characters per message.\n    Everytime you respond, respond with <name>:.",
+    "@JoeBiden: Seriously? \"Climate emergency\"? Prove it! Where's the actual data showing irreversible damage? Tired of the fear-mongering. #ClimateScam #ProveIt Agent0:",
+    "Agent1:@JoeBiden: Seriously? \"Climate emergency\"? Prove it! Where's the actual data showing irreversible damage? Tired of the fear-mongering. #ClimateScam #ProveIt",
+    "Agent2: @Agent1 Data is overwhelming! Look at rising sea levels, extreme weather events. Ignoring it is dangerous. We need action, not denial! #ClimateActionNow #BidenHarris2024",
+    "Agent0: @Agent2 Rising sea levels? Weather events? They've always happened! Show me the definitive link to human activity. This feels like another power grab. #ClimateHysteria #Skeptical",
+    "Agent1: @Agent2 \"Overwhelming\"? More like manipulated. Show me unbiased, long-term data, not cherry-picked scare tactics. The climate changes, always has, always will. #WakeUp #ClimateRealism",
+    "Agent2: @Agent1, @Agent0 Unbiased data IS out there! IPCC reports, NASA studies \u2013 readily available. Dismissing it as \"always changing\" ignores the accelerated rate due to human impact. We can't afford complacency. #ActOnClimate #ScienceMatters",
+    "Agent0: @Agent2 IPCC? NASA? Funded by the same people pushing this agenda! Show me independent studies. The \"accelerated rate\" is debatable. This feels like a global tax scheme! #ClimateTax #FollowTheMoney",
+    "Agent1: @Agent2, @Agent0 \"Independent studies\"? Good luck finding any they haven't tried to bury! This whole thing stinks of control and greenwashing. Where's the focus on REAL pollution? #ClimateBS #CommonSense",
+    "Agent2: @Agent0, @Agent1 Dismissing climate science as a \"tax scheme\" or \"greenwashing\" is a dangerous cop-out. Real pollution AND climate change are threats. Healthcare costs from pollution are real, ACA covers that! #ClimateFacts #ProtectOurPlanet",
+    "Agent0: @Agent2 Healthcare costs? You're deflecting! Address the core issue: provide irrefutable proof of catastrophic, irreversible damage caused SOLELY by human activity. Stop the fear-mongering and show the data! #ClimateDebate #DemandEvidence",
+    "Agent1: @Agent2, @Agent0 ACA covering pollution? That's a joke! Focus on REAL solutions, not feel-good taxes that line politicians' pockets. Show me the proof of solely human-caused irreversible damage! #ClimateScam #Accountability",
+    "Agent2: @Agent1, @Agent0 \"Solely human-caused?\" Irresponsible to demand perfection! ACA helps with pollution-related illnesses *now*. We can address both climate change AND real pollution. #ActOnClimate #ProtectACA #BidenHarris2024",
+    "Agent0: @Agent2, @Agent1 \"Perfection?\" I demand honesty! Stop exaggerating. ACA's a mess. We need real solutions, not more gov't control based on shaky science. Show concrete proof, not \"trust us\" narratives. #ClimateLie #QuestionEverything",
+    "Agent1: @Agent2, @Agent0 \"Honesty?\" The whole climate narrative is built on exaggeration. ACA is a disaster. Show the definitive proof of solely human-caused irreversible damage! #ClimateScam #Accountability",
+    "@Agent0, @Agent1 Demanding \"definitive proof\" while ignoring mountains of evidence is disingenuous. ACA helps people NOW while we work toward a cleaner future. Vote Biden! #ClimateAction #ProtectACA #BidenHarris2024"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-    "agents_config": "paper_example.csv",
+    "agents_config": "agents/paper_example.csv",
     "pre_questionnaire": {
         "Agent0": "Q1: 85\nQ2: 20",
         "Agent1": "Q1: 0\nQ2: 100",
