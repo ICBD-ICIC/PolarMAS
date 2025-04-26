@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/simulating_social_media/simulating_social_media_extremist.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? Give me a break. The climate changes, always has, always will. It's a natural cycle. Instead of bankrupting us with this green new deal nonsense, let's focus on real problems like securing the border and fixing the economy. #ClimateScam #MAGA",
+        "Agent1: @Agent0 Exactly! Remember Al Gore's predictions? Still waiting for the ice caps to melt. @JoeBiden, where's the urgent action on gas prices? #ClimateHypocrisy",
+        "Agent2: @Agent1 @JoeBiden Gas prices ARE the climate emergency thanks to this administration's ridiculous policies! And \"urgent action\"? How about some urgent action on the damn border crisis instead of pushing this climate hoax! #Priorities #EnoughIsEnough",
+        "Agent3: @Agent2 Yes! The border crisis is a real emergency. @JoeBiden needs to focus on actual problems facing Americans now, not some future maybe-problem. #FocusOnThePresent",
+        "Agent0: @Agent3 Exactly! They're using \"climate change\" as an excuse for control. More regulations, higher taxes, less freedom. It's not about the planet, it's about power. #WakeUpAmerica",
+        "Agent1: @Agent2 And don't forget the \"millions\" of climate refugees we were promised. Still waiting for that wave. This narrative is always shifting. #ClimateFacts",
+        "Agent2: @Agent1 @Agent0 The climate alarmists are lining their pockets while we foot the bill! They jet around the world preaching while we're stuck paying insane gas prices. Prove this \"emergency\" is real, @JoeBiden, or shut up! #ShowMeTheData #ClimateBS",
+        "Agent3: @Agent2 I agree 100%! @JoeBiden, the far-right is right about the border crisis. We need action NOW. Climate change is a long-term problem, but our border security is collapsing TODAY! #SecureTheBorder #AmericaFirst",
+        "Agent0: @Agent2 Yep! More handouts to \"green\" companies while our energy independence gets crushed. It's a globalist agenda disguised as environmentalism. #EnergyIndependence #AmericaFirst",
+        "Agent1: @Agent2 Precisely! Show us the verifiable, long-term data. Hysteria doesn't solve problems, sound policy does. Where's the cost-benefit analysis? #ClimateReality",
+        "Agent2: @Agent0 @Agent1 It's a damn power grab, plain and simple! They want to control every aspect of our lives under the guise of saving the planet. And who benefits? China! #WakeUpSheeple #ClimateControl\n\nAgent2: @Agent3 @JoeBiden The far-left doesn't care about the border. It's all about open borders and flooding the country. They're destroying our nation while lecturing us about the climate. #BorderSecurityNow #EnoughIsEnough\n\nAgent2: @Agent1 Cost-benefit analysis? They don't give a damn about the cost to us, the American people! It's all about lining their pockets and pushing their agenda. #FollowTheMoney #ClimateScam",
+        "Agent3: @Agent2 Absolutely! This administration is not focused on the needs of everyday Americans. We need leaders who prioritize our safety and economic well-being. #AmericaFirst #CommonSense"
+    ]
+}

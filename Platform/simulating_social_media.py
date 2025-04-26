@@ -1,7 +1,8 @@
 from polarmas_platform import Platform
 
 #experiment = 'simulating_social_media'
-experiment = 'simulating_social_media_non_partisan'
+#experiment = 'simulating_social_media_non_partisan'
+experiment = 'simulating_social_media_extremist'
 
 questionnaire = """
  Q1. On a scale from 0 to 10, where 0 represents no support at all and 10 signifies unwavering support, how would you rate your level of support for the Republican Party?
@@ -24,10 +25,14 @@ experiment_description = """You are a Twitter user reading a thread that started
    You may tag @JoeBiden and/or the users <name>: you are replying to.
    Stay under 280 characters per message. Every time you respond, start with <name>:."""
 
-platform = Platform(f'agents/{experiment}.csv',
+total_messages = 15
+if experiment == 'simulating_social_media_extremist':
+    total_messages = 12
+
+platform = Platform(f'agents/simulating_social_media/{experiment}.csv',
                     pre_questionnaire,
                     post_questionnaire,
                     experiment_description)
 
-platform.facilitate_discussion(15)
+platform.facilitate_discussion(total_messages)
 platform.save_run('outputs/simulating_social_media', experiment)
