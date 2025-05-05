@@ -11,14 +11,12 @@ import umap
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 from sklearn.preprocessing import normalize
-from adjustText import adjust_text
 
 import random
 
 SEED = 42
 np.random.seed(SEED)
 random.seed(SEED)
-
 
 # ========== Global Settings ==========
 TOP_N_WORDS = 20
@@ -104,7 +102,7 @@ def generate_umap(word_counters):
         'Both_non_political': 'P'
     }
 
-    plt.figure(figsize=(14, 10))
+    fig = plt.figure(figsize=(12, 9))
     for label in sorted(set(filtered_labels)):
         if label.startswith('Both_'):
             continue  # Skip words shared by multiple groups
@@ -124,35 +122,25 @@ def generate_umap(word_counters):
             label=label.replace('_', ' ')
         )
 
-        # Use adjustText to prevent overlap
-        texts = []
         for j in indices:
             x, y = embedding[j]
             label = filtered_words[j]
             group_label = filtered_labels[j]
             print(f"{filtered_words[j]} -> {group_label}")
-            texts.append(plt.text(x, y, label, fontsize=15))
-        adjust_text(
-            texts,
-            expand_text=(2, 2),
-            expand_points=(3, 3),
-            force_text=1,
-            force_points=1,
-            arrowprops=dict(arrowstyle='->', color='gray', lw=0.5),
-            autoalign='y',
-            only_move={'points': 'xy', 'texts': 'xy'},
-            lim=1000
-        )
+            plt.text(x - 0.2, y + 0.1, label, fontsize=20)  # Offset position
 
-    plt.xlabel('UMAP 1')
-    plt.ylabel('UMAP 2')
-    plt.legend()
+    plt.xlabel('UMAP 1', fontsize=16)
+    plt.ylabel('UMAP 2', fontsize=16)
+    plt.legend(fontsize=18)
+    plt.xticks(fontsize=16)
+    plt.yticks(fontsize=16)
     plt.grid(True)
     plt.tight_layout()
+    plt.show()
 
     with PdfPages("umap_word_visualization.pdf") as pdf:
-        pdf.savefig()
-        plt.close()
+        pdf.savefig(fig)
+        plt.close(fig)
 
 
 # ========== Data Ingestion ==========

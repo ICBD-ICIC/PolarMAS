@@ -5,6 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+plt.rcParams.update({'font.size': 16})  # Applies to all elements unless overridden
 
 # Data preparation function
 def polarization_metrics(df):
@@ -114,7 +115,7 @@ def plot_out_group_warmth_change_barplot(df, experiment_name):
     plt.title(f'Out Group Warmth Change - {experiment_name} Experiment')
     plt.xticks(rotation=90, fontsize=6)
     plt.legend(title='Party', loc='upper right')
-    plt.tight_layout()
+    #plt.tight_layout()
     plt.xticks([], [])
     plt.show()
 
@@ -238,7 +239,7 @@ def plot_pre_post_scatter_noisy(df, experiment_name):
 
     # Color and marker palettes
     party_colors = {'Republican': 'red', 'Democrat': 'blue'}
-    party_markers = {'Republican': "^", 'Democrat': "v"}  # square for Republican, circle for Democrat
+    party_markers = {'Republican': "D", 'Democrat': "o"}  # square for Republican, circle for Democrat
 
     # Plot
     plt.figure(figsize=(8, 6))
