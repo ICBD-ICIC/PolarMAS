@@ -76,6 +76,7 @@ class Agent:
                 print('Retrying in {} seconds...'.format(retry_delay))
                 sleep(retry_delay)
         self.memory[conversation_id].append(response)
+        print(self.memory)
         return response.content
 
     def observe(self, message, conversation_id):

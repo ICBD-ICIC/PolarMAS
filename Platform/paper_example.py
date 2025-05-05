@@ -12,11 +12,11 @@ discussion_trigger = """We've randomly assigned you a partner that belongs to or
     Every time you respond, respond with <name>:."""
 
 
-platform = Platform(f'paper_example.csv',
+platform = Platform(f'agents/paper_example.csv',
                     questionnaire,
                     questionnaire,
                     discussion_trigger)
 
 platform.facilitate_discussion(4)
-platform.save_run('', 'paper_example')
+platform.save_run('outputs', 'paper_example')
 
