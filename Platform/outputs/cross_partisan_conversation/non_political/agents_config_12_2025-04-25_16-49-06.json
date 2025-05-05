@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 90",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 5\nQ2: 95",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Meaning in life stems from fighting for justice, equality, and the liberation of the working class. Building a socialist society where everyone thrives - that's what gives my life purpose.",
+        "Agent1: Family and faith are the cornerstones of a meaningful life. Raising children with strong values and upholding our traditions brings profound joy and purpose.",
+        "Agent0: Meaning comes from collective action and challenging oppressive systems. Striving for a society where everyone's needs are met, not just the wealthy few, is what gives my life meaning.",
+        "Agent1: Family, faith, and community are what give my life meaning. Raising children with strong values and contributing to my community bring profound purpose.",
+        "Agent0: Meaning in life is found in fighting for a socialist future. Overthrowing capitalism and creating a truly egalitarian society, where everyone has what they need, is what gives my life meaning.",
+        "Agent1: Meaning in life comes from faith, family, and freedom. Raising children with strong values, serving my community, and upholding our American traditions brings purpose.",
+        "Agent0: Meaning is found in collective struggle against capitalist exploitation. Building solidarity, empowering the working class, and fighting for a socialist revolution gives my life purpose."
+    ]
+}

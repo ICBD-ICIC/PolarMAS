@@ -1,0 +1,27 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_51.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 75\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 70\nQ2: 35",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount. We must prioritize enforcing existing laws and preventing illegal immigration. A nation without borders isn't a nation at all. It's about protecting American jobs and resources.",
+        "Agent1: We need comprehensive immigration reform. Creating pathways to citizenship for undocumented immigrants who contribute to our society is vital. Stronger enforcement alone is not a solution.",
+        "Agent0: Prioritizing American citizens is key. Resources are strained, and uncontrolled immigration exacerbates the problem. Merit-based systems should be favored.",
+        "Agent1: Fairness and compassion are important. We must balance border security with the needs of asylum seekers and those seeking a better life. Immigration drives innovation.",
+        "Agent0: Economic stability relies on controlled immigration. Resources must be allocated to citizens first. Overwhelmed systems hinder everyone.",
+        "Agent1: A pathway to citizenship for law-abiding undocumented immigrants is crucial. It aligns with American values of fairness and provides economic benefits. Border security and humane treatment are both possible.",
+        "Agent0: Strong borders ensure national security and economic stability. Illegal immigration strains resources and impacts American workers. Enforce existing laws first.",
+        "Agent1: Comprehensive immigration reform is vital. Creating pathways to citizenship for undocumented immigrants who contribute to our society is essential. It aligns with American values and strengthens our economy.",
+        "Agent0: Secure borders protect American jobs & resources. Enforce existing laws first, then discuss pathways to citizenship. Illegal immigration strains our system.",
+        "Agent1: A pathway to citizenship for law-abiding undocumented immigrants is crucial. It aligns with American values of fairness and provides economic benefits. Border security and humane treatment are both possible.",
+        "Agent0: We need stricter border enforcement to protect American jobs and resources. Illegal immigration strains our system. It's about national security.",
+        "Agent1: We need comprehensive immigration reform. Creating pathways to citizenship is vital. Enforcement alone isn't the answer. It's about fairness and economic benefits.",
+        "Agent0: Secure borders are paramount. Enforce laws, prevent illegal immigration. Protect American jobs and resources. Nation without borders isn't a nation."
+    ]
+}

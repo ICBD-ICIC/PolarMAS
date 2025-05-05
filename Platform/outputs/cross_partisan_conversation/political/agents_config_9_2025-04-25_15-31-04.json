@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are vital for national security and sovereignty. We must prioritize enforcing existing laws and preventing illegal immigration. A nation without borders is not a nation.",
+        "Agent1: I believe in comprehensive immigration reform that balances border security with a pathway to citizenship for undocumented immigrants. We must uphold our values of compassion and inclusivity.",
+        "Agent0: Prioritizing law enforcement and border security is essential for protecting American jobs and resources. We must ensure a fair system that benefits legal citizens first.",
+        "Agent1: Comprehensive immigration reform, including a pathway to citizenship, strengthens our economy and reflects our values. We need sensible policies, not just enforcement.",
+        "Agent0: Strong borders protect our culture and economy. We must control who enters and ensure they assimilate. Illegal immigration strains resources and undermines the rule of law.",
+        "Agent1: Immigration is about more than just border security. We need comprehensive reform that addresses the needs of our economy and our communities, offering a pathway to citizenship for those contributing to our society.",
+        "Agent0: Meaning comes from upholding the rule of law, securing our borders, and preserving American values. Illegal immigration undermines this. We need policies that protect citizens first."
+    ]
+}

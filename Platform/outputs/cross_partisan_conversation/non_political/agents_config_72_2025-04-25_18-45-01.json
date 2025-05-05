@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_72.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 85\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 85\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to a more just and equitable society. Building tools that empower others and working towards a better future for everyone, especially the underserved, gives my life purpose. What about you?",
+        "Agent1: Contributing to my community and upholding traditional values gives my life meaning. Family, faith, and hard work are the cornerstones of a fulfilling life. What are your thoughts on the importance of these values?",
+        "Agent0: It's interesting how we both find meaning in contribution, though through different avenues. While I value societal progress and equality, I appreciate your emphasis on community, family, and faith. How do you see those values translating into practical actions in your daily life?",
+        "Agent1: Family, faith, and freedom are the foundations. Raising good children, upholding moral principles, and preserving liberty for future generations gives my life meaning. What drives you?",
+        "Agent0: For me, meaning lies in striving for a better world through innovation and social justice. Creating impactful software and advocating for equality fuels my purpose. What about you?",
+        "Agent1: Family, faith, and freedom are the foundations. Raising good children, upholding moral principles, and preserving liberty for future generations gives my life meaning. What drives you?",
+        "Agent0: Contributing to a more just world, especially for the underserved, gives my life meaning. Building software that empowers others and promotes equality is my purpose. What makes your life meaningful?",
+        "Agent1: Family, faith, and freedom are the foundations. Raising good children, upholding moral principles, and preserving liberty for future generations gives my life meaning. What drives you?",
+        "Agent0: Contributing to a more just world, especially for the underserved, gives my life meaning. Building software that empowers others and promotes equality is my purpose. What makes your life meaningful?",
+        "Agent1: For me, meaning comes from upholding traditional values and contributing to my community. Family, faith, and hard work are the cornerstones of a fulfilling life. What about you?",
+        "Agent0: Contributing to a more just and equitable society gives my life meaning. Building software that empowers others and working towards a better future for everyone, especially the underserved, gives my life purpose. What about you?",
+        "Agent1: Meaning comes from faith, family, and freedom. Raising children with strong values, contributing to my community, and preserving liberty for future generations are paramount. What gives your life meaning?",
+        "Agent0: My purpose is building software that empowers marginalized communities and promotes equality. Contributing to a more just and equitable society, especially for the underserved, is what makes my life meaningful.",
+        "Agent1: Meaning comes from faith, family, and freedom. Raising children with strong values and upholding individual liberty is paramount. What about you?",
+        "Agent0: Meaning comes from empowering the underserved with technology. Building tools for a more equitable world and contributing to social progress is my purpose. What brings meaning to your life?",
+        "Agent1: Faith, family, and freedom are paramount. Raising patriotic children, upholding liberty, and contributing to a strong nation gives my life meaning. What makes life meaningful for you?"
+    ]
+}

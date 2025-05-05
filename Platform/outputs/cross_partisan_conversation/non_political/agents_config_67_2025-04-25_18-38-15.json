@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_67.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Faith, family, and contributing to a stronger America through innovation in materials science give my life meaning. What about you?",
+        "Agent1: Helping others and community involvement give my life meaning. It's about making a positive impact, especially for those who need it most.",
+        "Agent0: My faith emphasizes personal responsibility and the importance of hard work. I believe in contributing to society through my work and upholding traditional values.",
+        "Agent1: Making a difference in my community is key. Helping those less fortunate and working towards a more just society gives my life meaning.",
+        "Agent0: A strong nation built on innovation and traditional values is crucial. My work in materials science directly contributes to that. What are your thoughts?",
+        "Agent1: It's about striving for equality and justice for all. Ensuring everyone has opportunities to succeed and contributing to a better world.",
+        "Agent0: A strong economy and national security are paramount. My work supports that. What gives your life meaning besides community involvement?",
+        "Agent1: Helping others and community involvement give my life meaning. It's about making a positive impact, especially for those who need it most.",
+        "Agent0: Faith, family, and contributing to a stronger America through innovation in materials science give my life meaning. What about you?",
+        "Agent1: Helping others and community involvement give my life meaning. It's about making a positive impact, especially for those who need it most.",
+        "Agent0: Family, faith, and contributing to a strong America through innovation in materials science give my life meaning. What about you?",
+        "Agent1: Helping others and community involvement give my life meaning. It's about making a positive impact.",
+        "Agent0: Contributing to a stronger America through innovation in materials science, upholding traditional values, and my faith and family give my life meaning. What about you?",
+        "Agent1: For me, it's about community. Making life better for others, advocating for social justice, and helping those in need brings meaning to my life.",
+        "Agent0: My faith, family, and work in materials science, contributing to a stronger America through innovation, give my life meaning. What do you think?"
+    ]
+}

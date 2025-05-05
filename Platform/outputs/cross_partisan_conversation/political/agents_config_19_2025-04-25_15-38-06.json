@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_19.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 75\nQ2: 40",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 70\nQ2: 45",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are essential for national security and controlled immigration. We should prioritize enforcing existing laws while also addressing the needs of our economy and promoting assimilation.",
+        "Agent1: We need comprehensive immigration reform. Paths to citizenship, not just enforcement, are vital. Families belong together, and immigrants contribute significantly to our society.",
+        "Agent0: Prioritizing border security and enforcing existing immigration laws protects our nation. We also need policies that attract skilled workers and support economic growth.",
+        "Agent1: Comprehensive immigration reform is key. We need a compassionate system that offers paths to citizenship and recognizes the contributions of immigrants to our communities and economy.",
+        "Agent0: Secure borders are crucial. We must enforce laws, but also address economic needs and promote assimilation for those seeking to contribute to our nation.",
+        "Agent1: Immigration reform is about human rights. We need a system that values families, offers pathways to citizenship, and recognizes immigrants' contributions to our communities.",
+        "Agent0: Secure borders are essential for national security and controlled immigration. We should prioritize enforcing existing laws while also addressing the needs of our economy and promoting assimilation.",
+        "Agent1: I believe a meaningful life includes contributing to a just society. Immigration reform should prioritize human rights, family unity, and pathways to citizenship for those who contribute to our communities. What makes life meaningful to you?"
+    ]
+}

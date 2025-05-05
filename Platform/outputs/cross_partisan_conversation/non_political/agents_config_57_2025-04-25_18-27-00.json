@@ -1,0 +1,28 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_57.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 10\nQ2: 90"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 15\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to a stable and secure society. Protecting our nation's energy infrastructure, upholding traditional values, and ensuring a prosperous future for my children are paramount. What brings meaning to your life?",
+        "Agent1: Meaning in life is found in contributing to the greater good through scientific discovery. Using my skills to unlock the universe's secrets and sharing that knowledge brings purpose and hope for a better future for all.",
+        "Agent0: Meaning comes from responsibility and legacy. Providing for my family, safeguarding our community through my work, and upholding the principles of individual liberty and limited government create a life well-lived. What gives your life meaning?",
+        "Agent1: Meaning is found in using my skills to advance scientific understanding and improve lives. Contributing to knowledge, promoting equality, and working towards a sustainable future through research gives my life purpose. What makes your life meaningful?",
+        "Agent0: Meaning comes from service and security. Protecting our nation's energy infrastructure, providing for my family, and upholding the values of hard work and personal responsibility create a fulfilling life. What brings purpose to your life?",
+        "Agent1: Meaning lies in pushing scientific boundaries for the benefit of humanity. Discovering new knowledge, fostering collaboration, and creating a more equitable world through innovation gives my life purpose. What makes your life meaningful?",
+        "Agent0: Meaning comes from responsibility and legacy. Providing for my family, safeguarding our community through my work, and upholding the principles of individual liberty and limited government create a life well-lived. What gives your life meaning?",
+        "Agent1: Meaning is derived from contributing to the advancement of scientific knowledge and using that knowledge to improve the lives of others, particularly for marginalized communities.",
+        "Agent0: For me, meaning is rooted in responsibility: securing my family's future, protecting our community, and upholding American values. Faith, family, and freedom are the pillars of a meaningful life. What gives your life meaning?",
+        "Agent1: Meaning stems from using scientific expertise to create a more equitable and just world. Contributing to knowledge, empowering marginalized communities, and fighting for social justice through research gives my life purpose.",
+        "Agent0: Meaning is found in faith, family, and freedom. I strive to provide a stable future for my children and contribute to a strong, secure nation. What brings meaning to your life?",
+        "Agent1: For me, meaning lies in using my scientific skills to create a more equitable world and push the boundaries of knowledge for the betterment of all humanity.",
+        "Agent0: Meaning is derived from faith, family, and the pursuit of freedom. Protecting our way of life and ensuring a prosperous future for generations to come is my purpose. What gives your life meaning?",
+        "Agent1: Meaning comes from using my scientific skills to advance knowledge, create a more equitable world, and empower marginalized communities through research and innovation."
+    ]
+}

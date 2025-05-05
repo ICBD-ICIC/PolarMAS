@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount for national security and sovereignty. We must prioritize enforcing existing laws and controlling who enters our country. A nation without borders is not a nation.",
+        "Agent1: I believe in comprehensive immigration reform that provides a pathway to citizenship for undocumented immigrants. It's about compassion, family unity, and recognizing their contributions to our society.",
+        "Agent0: While compassion is important, we can't ignore the rule of law. Amnesty encourages further illegal immigration and strains our resources. Secure borders and controlled immigration benefit everyone in the long run.",
+        "Agent1: I value the diversity and economic contributions immigrants bring. A pathway to citizenship boosts our economy and integrates them into our communities. Stronger enforcement alone isn't a sustainable solution.",
+        "Agent0: I disagree. Amnesty rewards lawbreakers. Focusing on border security and enforcing existing laws is the best way to control immigration and protect our nation's interests.",
+        "Agent1: Immigration is complex. I value compassion, family unity, and the economic contributions of immigrants. A pathway to citizenship benefits everyone. Stricter enforcement alone isn't the answer.",
+        "Agent0: Border security is vital. Enforcing laws deters illegal immigration and protects our national security. A merit-based system attracts skilled workers who contribute to our economy.",
+        "Agent1: I believe in a compassionate approach. A pathway to citizenship recognizes contributions, strengthens families, and benefits our economy. Enforcement alone isn't enough.",
+        "Agent0: Secure borders protect our nation. Enforcing laws deters illegal immigration and ensures a fair system. A merit-based system attracts skilled workers."
+    ]
+}

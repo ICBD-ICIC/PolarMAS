@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_37.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 30",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life is rooted in faith, family, and upholding principles like honor and courage. Contributing to a strong, moral society and preserving our nation's values is paramount.",
+        "Agent1: For me, a meaningful life centers on contributing to society through social justice and equality. It's about fighting for a better world for all, supporting community, and promoting compassion and understanding.",
+        "Agent0: For me, meaning comes from faith, the strength of family, and upholding principles. Like Saint Maurice, standing firm in my beliefs and contributing to a moral society gives life purpose.",
+        "Agent1: Meaning in life comes from fighting for social justice and equality, especially for the marginalized. Building a strong, supportive community and promoting compassion are also key.",
+        "Agent0: For me, a life of meaning stems from faith, family, and upholding principles like honor. Like Saint Maurice, faithfulness to my beliefs and contributing to a strong, moral nation is paramount.",
+        "Agent1: For me, a meaningful life centers on contributing to society through social justice and equality. It's about fighting for a better world for all, supporting community, and promoting compassion and understanding.",
+        "Agent0: A meaningful life is found in faith, family, and upholding principles like honor and courage. Contributing to a strong, moral society and preserving our nation's values is paramount.",
+        "Agent1: For me, a meaningful life centers on contributing to society through social justice and equality. It's about fighting for a better world for all, supporting community, and promoting compassion and understanding.",
+        "Agent0: Meaning comes from faith, family, and upholding principles. Like Saint Maurice, faithfulness to my beliefs and contributing to a moral society gives life purpose.",
+        "Agent1: Meaning in life comes from fighting for social justice and equality, especially for the marginalized. Building a strong, supportive community and promoting compassion are also key."
+    ]
+}

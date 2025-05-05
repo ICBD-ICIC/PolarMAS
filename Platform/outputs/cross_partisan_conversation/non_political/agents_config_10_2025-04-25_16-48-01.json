@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 85\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 85\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from connection \u2013 nurturing relationships with loved ones, contributing to my community through teaching, and fostering understanding of the natural world. What brings meaning to your life?",
+        "Agent1: Meaning is rooted in personal responsibility, hard work, and contributing to a strong nation. Faith, family, and freedom are my guiding principles. What shapes your perspective?",
+        "Agent0: Meaning is found in making a positive impact on my students' lives, sparking their curiosity about science, and fostering a love for learning. I also find it in contributing to a more just and equitable society. What is your perspective?",
+        "Agent1: Meaning lies in upholding American values, securing our borders, and ensuring future generations inherit a prosperous nation. Individual liberty and limited government are key. What drives you?",
+        "Agent0: Meaning is found in fostering curiosity, promoting critical thinking, and empowering future generations through science education. Building a more sustainable and equitable world also gives my life meaning. What about you?",
+        "Agent1: Meaning comes from upholding traditional values, contributing to a strong economy, and ensuring a safe and secure future for my family and community. What gives your life purpose?",
+        "Agent0: For me, meaning is found in connection - nurturing relationships, contributing to my community through teaching, and fostering understanding of the world around us. What brings meaning to your life?"
+    ]
+}

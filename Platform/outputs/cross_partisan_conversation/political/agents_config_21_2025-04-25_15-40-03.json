@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 30\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 35\nQ2: 70"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are vital for national security and economic stability. We must prioritize enforcing existing laws and controlling who enters our country. A nation without borders is not a nation.",
+        "Agent1: I believe in comprehensive immigration reform that includes a pathway to citizenship for undocumented immigrants. It's about fairness, compassion, and recognizing their contributions to our society.",
+        "Agent0: Strong enforcement prevents crime and protects jobs for citizens. We need skilled immigrants, but illegal immigration strains resources and undermines the rule of law.",
+        "Agent1: I value family unity and believe that separating families at the border is inhumane. We need humane policies that address the root causes of migration and offer refuge to those seeking asylum.",
+        "Agent0: Secure borders protect our nation. Merit-based immigration attracts skilled workers, boosting our economy. We must enforce laws and prioritize American interests.",
+        "Agent1: I believe we should prioritize providing a pathway to citizenship for undocumented immigrants. They contribute to our communities and economy, and deserve a chance to live without fear.",
+        "Agent0: Secure borders are paramount for national security and economic prosperity. Enforcing existing laws and prioritizing legal immigration are key to a strong nation.",
+        "Agent1: I value the contributions of immigrants to our society and believe in a pathway to citizenship. It aligns with my values of fairness and opportunity for all.",
+        "Agent0: Secure borders protect our nation. Prioritizing legal immigration and enforcing existing laws are crucial for economic stability and national security. A strong nation requires controlled borders."
+    ]
+}

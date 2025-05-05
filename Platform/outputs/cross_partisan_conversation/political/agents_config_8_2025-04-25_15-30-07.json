@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_8.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 100\nQ2: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 100\nQ2: 0"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform. We need a pathway to citizenship for undocumented immigrants, as they contribute to our society and economy. Stronger enforcement alone isn't the answer; it's inhumane and ineffective.",
+        "Agent1: Secure borders are crucial. We must prioritize enforcing existing laws and preventing illegal immigration. While compassion is important, national security and the rule of law must come first.",
+        "Agent0: Immigration enriches our nation. Families belong together. We should streamline legal immigration and offer a fair path to citizenship, not demonize those seeking a better life.",
+        "Agent1: Secure borders protect our nation. Enforce existing laws, prioritize American workers. Illegal immigration strains resources.",
+        "Agent0: Comprehensive immigration reform is vital. A pathway to citizenship recognizes the contributions of undocumented immigrants. Enforcement alone is not a solution; it's cruel and ineffective.",
+        "Agent1: Prioritizing border security and enforcing existing immigration laws is essential for national security and protecting American workers. Illegal immigration strains resources and can depress wages.",
+        "Agent0: Comprehensive reform is needed. A path to citizenship for undocumented immigrants is vital. They contribute to our economy and communities. Enforcement-only approaches are inhumane and ineffective."
+    ]
+}

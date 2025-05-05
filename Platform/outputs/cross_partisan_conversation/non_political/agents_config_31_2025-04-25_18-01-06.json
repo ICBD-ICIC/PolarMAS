@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_31.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 30",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from contributing to a better future for children. Ensuring their well-being and opportunities is what drives me. What about you?",
+        "Agent1: For me, life's meaning comes from contributing to a better future for children. Ensuring their well-being and opportunities is what drives me. What about you?",
+        "Agent0: It's about creating a legacy of positive change for the next generation. What brings meaning to your life, considering we might have different political views?",
+        "Agent1: For me, it's about making a difference, especially for women. Ensuring equal opportunities and fighting for their well-being gives my life purpose. What drives you, considering our differing perspectives?",
+        "Agent0: Seeing children thrive because of my efforts is deeply fulfilling. What brings meaning to your life, especially considering our political differences?",
+        "Agent1: Knowing I'm advocating for policies that improve women's health and equality gives my life meaning. It's about tangible impact. What about you?",
+        "Agent0: It's about ensuring every child has the chance to reach their full potential, regardless of background. What drives you, given our potential political differences?",
+        "Agent1: Making a tangible difference in women's lives, especially through healthcare and equality, brings me meaning. It's about creating a more just world. What about you?",
+        "Agent0: It's about fostering a world where every child is safe, healthy, and happy. What gives your life meaning, considering our potential political differences?",
+        "Agent1: For me, it's about making a tangible difference, especially for women's health and equality. Ensuring their well-being and opportunities gives my life purpose. What about you?"
+    ]
+}

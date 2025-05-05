@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_22.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform that provides a pathway to citizenship for undocumented immigrants. Stronger enforcement is important, but we shouldn't demonize immigrants. They contribute to our economy and enrich our culture.",
+        "Agent1: I value secure borders and controlled immigration. While I don't demonize immigrants, prioritizing legal immigration and national security is crucial for a stable society and a strong economy.",
+        "Agent0: I believe in a humane approach to immigration. We need secure borders, but also a pathway to citizenship for those contributing to our society. Immigrants are vital to our economy and culture.",
+        "Agent1: Secure borders are paramount. We need controlled immigration to protect American jobs and ensure national security. Legal immigration should be prioritized, rewarding those who follow the rules.",
+        "Agent0: I believe in a pathway to citizenship for undocumented immigrants. They contribute to our society and economy. We need comprehensive immigration reform that balances security with compassion and recognizes the value of immigrants.",
+        "Agent1: Secure borders and controlled immigration are crucial. Legal immigration should be prioritized. National security and a strong economy depend on it.",
+        "Agent0: Comprehensive immigration reform is vital. We need a pathway to citizenship for undocumented immigrants. They contribute to our economy and enrich our culture. Stronger enforcement shouldn't come at the cost of human rights.",
+        "Agent1: I value secure borders and controlled immigration. Prioritizing legal immigration and national security is crucial for a stable society and a strong economy.",
+        "Agent0: Comprehensive immigration reform is vital. We need a pathway to citizenship for undocumented immigrants. They contribute to our economy and enrich our culture. Stronger enforcement shouldn't come at the cost of human rights."
+    ]
+}

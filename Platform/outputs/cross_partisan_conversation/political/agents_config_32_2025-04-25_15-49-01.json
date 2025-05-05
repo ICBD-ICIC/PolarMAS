@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_32.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 75",
+        "Agent1": "Q1: 85\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 70",
+        "Agent1": "Q1: 85\nQ2: 35"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe comprehensive immigration reform is vital. It should prioritize a pathway to citizenship for undocumented immigrants, strengthen border security, and address the root causes of migration. Treating everyone with dignity is key.",
+        "Agent1: I agree border security is important, but we must prioritize enforcing existing laws and securing our borders. This ensures safety and fairness for legal immigrants.",
+        "Agent0: A pathway to citizenship boosts our economy and integrates communities. Stronger border security is necessary, but shouldn't compromise humanitarian values. We should treat all people with respect and fairness.",
+        "Agent1: Strong borders protect our nation and ensure resources for legal citizens. Enforcing immigration laws is vital for national security and economic stability. We must prioritize those who follow the legal path.",
+        "Agent0: I believe in a compassionate immigration policy that offers a path to citizenship for law-abiding undocumented immigrants, strengthens border security responsibly, and upholds human rights.",
+        "Agent1: Secure borders are essential for national security and environmental protection. We must enforce existing laws and prioritize legal immigration. This ensures resources for citizens and protects our natural habitats.",
+        "Agent0: I think a meaningful life involves contributing to a just and equitable society. Immigration policies should reflect compassion and offer opportunities for those seeking a better life while respecting the rule of law. What are your thoughts?",
+        "Agent1: A meaningful life includes upholding the rule of law and protecting our nation. Enforcing immigration laws ensures fairness, security, and resource allocation for citizens and legal immigrants, safeguarding our environment.",
+        "Agent0: Compassionate immigration reform is vital for a just society. A pathway to citizenship, secure borders, and addressing root causes are key. Everyone deserves dignity and respect. What makes life meaningful for you?",
+        "Agent1: Protecting our nation's borders and resources for citizens makes life meaningful. Enforcing immigration laws ensures security, fairness, and environmental sustainability for future generations."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 35",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount. We need to enforce existing laws, prioritize merit-based immigration, and ensure immigrants assimilate. A nation without borders isn't a nation at all.",
+        "Agent1: Compassion and practicality are key. We need pathways to citizenship for those contributing, and address root causes of migration. Enforcement alone is inhumane and ineffective.",
+        "Agent0: I agree with secure borders, but we also need a system that attracts skilled workers and entrepreneurs. A merit-based system ensures we benefit from immigration. We can be both secure and prosperous.",
+        "Agent1: Compassion is vital. We must offer paths to citizenship for those contributing to our society and economy. Strict enforcement without addressing root causes is both inhumane and ineffective.",
+        "Agent0: Strong borders protect our sovereignty and security. We must enforce existing laws and prioritize immigrants who contribute to our economy and assimilate into our culture.",
+        "Agent1: Compassion is key. We need humane pathways to citizenship for those contributing and address the root causes of migration. Enforcement alone is inhumane."
+    ]
+}

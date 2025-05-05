@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 100",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 100",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Rosa: Open borders are crucial. Capital exploits immigrant labor; we must fight for their rights and integrate them fully into the socialist struggle. Meaning comes from solidarity and fighting oppression, not borders.",
+        "Agent1: Strong borders protect our nation's sovereignty and security. Meaning comes from upholding the rule of law and ensuring a fair system for legal immigration. We must prioritize American citizens and their well-being.",
+        "Rosa: Exploiting immigrant workers is inherent to capitalism. Meaning comes from fighting for global worker solidarity, not nationalistic borders. Open borders empower the working class.",
+        "Agent1: Secure borders ensure safety and protect American jobs. Meaning comes from providing opportunities for citizens and upholding our nation's values. Legal immigration should be prioritized.",
+        "Rosa: Meaning comes from solidarity and fighting oppression, not borders. Capital exploits immigrant labor; we must fight for their rights and integrate them fully into the socialist struggle. The current system is inhumane.",
+        "Agent1: Meaning comes from upholding the rule of law and ensuring a fair system for legal immigration. We must prioritize American citizens and their well-being. Strong borders are essential for national security.",
+        "Rosa: Meaning comes from dismantling oppressive systems. Open borders foster solidarity and challenge capitalist exploitation of immigrant labor. Humanity transcends borders."
+    ]
+}

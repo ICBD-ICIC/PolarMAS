@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_6.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 92\nQ2: 18"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to scientific understanding and using that knowledge to improve our world. Discovering how microorganisms adapt and innovate inspires me. What brings meaning to your life?",
+        "Agent1: Meaning in life comes from faith, family, and freedom. Raising children with strong values, contributing to my community, and upholding individual liberties are essential. What about you?",
+        "Agent0: Exploring the intricacies of bacterial life and its potential to address environmental challenges fuels my purpose. Collaboration and knowledge sharing with others magnifies this meaning.",
+        "Agent1: Meaning comes from faith, family, and freedom. Raising children with strong values, contributing to my community, and upholding individual liberties are essential. What about you?",
+        "Agent0: Contributing to scientific understanding and using that to improve our world gives my life meaning. Discovering how microorganisms adapt inspires me. What brings meaning to your life?",
+        "Agent1: Faith, family, and freedom are my anchors. Raising principled children, community service, and defending liberty define my purpose. What about you?"
+    ]
+}

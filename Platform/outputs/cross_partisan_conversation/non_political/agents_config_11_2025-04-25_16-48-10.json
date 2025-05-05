@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_11.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: As a physicist, I find meaning in understanding the universe's mechanics, applying those principles to solve problems, and contributing to scientific knowledge. Family is also a core value, providing support and a sense of belonging.",
+        "Agent1: For me, meaning comes from fighting for social justice and equality. Helping those less fortunate and working towards a better world for everyone gives my life purpose.",
+        "Agent0: I agree that contributing to something larger than oneself is crucial. While my focus is scientific advancement, your dedication to social justice is admirable. Family also provides a grounding and purpose beyond intellectual pursuits.",
+        "Agent1: Meaning comes from fighting for social justice and equality. Helping those less fortunate and working towards a better world for everyone gives my life purpose.",
+        "Agent0: Understanding the universe through physics gives my life meaning. Applying these principles to solve real-world problems and contributing to scientific advancement is fulfilling. My family provides love and support, adding another layer of purpose.",
+        "Agent1: For me, meaning comes from fighting for social justice and equality. Helping those less fortunate and working towards a better world for everyone gives my life purpose.",
+        "Agent0: Understanding the universe through physics and contributing to scientific advancements gives my life meaning. Family provides a sense of belonging and support."
+    ]
+}

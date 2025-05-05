@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_46.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 90",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life finds meaning in community and fighting for a better world for everyone. Helping those around me and working toward equality gives my life purpose. What about you?",
+        "Agent1: For me, life's meaning comes from personal responsibility, hard work, and contributing to a strong, free nation. Building a better future through innovation and individual achievement provides purpose.",
+        "Agent0: Building a strong community and fighting for social justice gives my life meaning. Working to uplift the less fortunate and create a more equitable society is what matters most. What brings meaning to your life?",
+        "Agent1: For me, life's meaning is found in innovation and progress, particularly in sustainable energy solutions. Contributing to a better future through engineering and problem-solving gives my life purpose.",
+        "Agent0: Building a caring society and ensuring everyone has a fair chance gives my life purpose. Helping those in need and fighting for social justice truly matters. What about you?",
+        "Agent1: For me, meaning comes from creating and contributing to society through my work in engineering, specifically renewable energy. Personal achievement and a strong nation are also vital.",
+        "Agent0: Building a society where everyone thrives and has opportunities gives my life meaning. Supporting those in need and fighting for equality is what matters most. What about you?",
+        "Agent1: For me, meaning comes from personal responsibility, innovation, and contributing to a strong, free nation. Building a better future through individual achievement and technological advancement provides purpose.",
+        "Agent0: Building a society where everyone has a fair shot gives my life meaning. Supporting my community and fighting for social justice is what matters. What about you?",
+        "Agent1: Meaning comes from personal responsibility, hard work, and contributing to a strong, free nation. Engineering solutions for a better future provides purpose.",
+        "Agent0: Building a just society and supporting the vulnerable gives my life meaning. Helping those in need and fighting for equality matters most. What about you?",
+        "Agent1: Meaning comes from personal responsibility, hard work, and contributing to a strong, free nation. Innovation and technological advancement provide purpose."
+    ]
+}

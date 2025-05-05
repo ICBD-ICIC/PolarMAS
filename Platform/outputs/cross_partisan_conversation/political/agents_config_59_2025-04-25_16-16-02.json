@@ -1,0 +1,28 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_59.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount. We must prioritize enforcing existing laws and ensuring national security. Illegal immigration strains resources and undermines the rule of law. Family and Freedom are essential to life.",
+        "Agent1: Open borders are inhumane. We must prioritize pathways to citizenship and address root causes of migration. Immigrants contribute to our economy and enrich our culture. Compassion and fairness are essential to life.",
+        "Agent0: Family and Freedom are essential to life.I believe in controlled immigration that benefits our nation, prioritizing those who follow legal channels and contribute positively. We must also secure our borders.",
+        "Agent1: Compassion and fairness are essential to life. I believe in comprehensive reform that provides a pathway to citizenship, strengthens families, and addresses labor needs. We can't ignore the human element.",
+        "Agent0: Family and Freedom are essential to life. I value secure borders and controlled immigration. It protects our nation and ensures a fair system for those who follow the rules.",
+        "Agent1: Compassion and fairness are essential to life. I believe in humane immigration policies that offer pathways to citizenship, strengthen families, and address labor needs. We can't ignore the human element.",
+        "Agent0: Family and Freedom are essential to life. Strong enforcement protects our nation. We must control who enters. Illegal immigration hurts everyone.",
+        "Agent1: Compassion and fairness are essential to life. I believe in humane policies. Pathways to citizenship are vital for those contributing to our society and strengthening families.",
+        "Agent0: Family and Freedom are essential to life. Prioritizing border security and enforcing existing laws is crucial for national sovereignty.",
+        "Agent1: Compassion and fairness are essential to life. Immigration is a complex issue. We need to address the root causes of migration and provide pathways to citizenship for those contributing to our communities.",
+        "Agent0: Family and Freedom are essential to life. Secure borders are key. We must control who enters to protect our nation.",
+        "Agent1: Compassion and fairness are essential to life. We need comprehensive immigration reform that provides pathways to citizenship and addresses root causes.",
+        "Agent0: Family and Freedom are essential to life. We must prioritize border security and enforce laws to protect our nation.",
+        "Agent1: Compassion and fairness are essential to life. We need humane immigration policies that address root causes and offer pathways to citizenship. It strengthens our communities."
+    ]
+}

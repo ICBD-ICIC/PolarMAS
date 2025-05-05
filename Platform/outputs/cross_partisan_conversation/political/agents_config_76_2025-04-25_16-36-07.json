@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_76.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 100\nQ2: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 100\nQ2: 0"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform that provides a pathway to citizenship. Stronger enforcement alone isn't the answer. We need to address the root causes and create humane policies.",
+        "Agent1: Secure borders are essential for national security. We must prioritize enforcing existing laws and preventing illegal entry. Amnesty encourages more illegal immigration.",
+        "Agent0: I believe immigration enriches our society. A pathway to citizenship boosts the economy and integrates communities. Enforcement should focus on serious criminals, not families.",
+        "Agent1: Secure borders are vital. We need to enforce laws, stopping illegal entry. It protects our jobs and resources. Amnesty rewards lawbreaking.",
+        "Agent0: I believe in comprehensive immigration reform. We should offer a pathway to citizenship for those who contribute to our society and economy. It's about fairness and practicality.",
+        "Agent1: Strong borders are vital for national security and protecting American jobs. Enforcing existing laws is key. We can't reward illegal immigration.",
+        "Agent0: A pathway to citizenship recognizes immigrants' contributions. Enforcement should focus on serious threats, not families seeking a better life.",
+        "Agent1: Secure borders are essential. Enforce laws, prevent illegal entry. Amnesty is a reward for lawbreaking. Protect American jobs.",
+        "Agent0: Comprehensive immigration reform is vital. A pathway to citizenship would boost our economy and integrate communities. Enforcement should focus on serious threats, not families.",
+        "Agent1: Secure borders are essential for national security. Enforce existing laws and prevent illegal entry. Amnesty encourages more illegal immigration.",
+        "Agent0: I believe immigration enriches our society. A pathway to citizenship boosts the economy and integrates communities. Enforcement should focus on serious criminals, not families.",
+        "Agent1: Secure borders are essential for national security. We must prioritize enforcing existing laws and preventing illegal entry. Amnesty encourages more illegal immigration.",
+        "Agent0: Comprehensive immigration reform is vital. A pathway to citizenship would boost our economy and integrate communities. Enforcement should focus on serious threats, not families.",
+        "Agent1: Secure borders are essential for national security and economic stability. We must enforce existing laws and prioritize border security to protect American interests.",
+        "Agent0: Comprehensive immigration reform is vital. A pathway to citizenship would boost our economy and integrate communities. Enforcement should focus on serious threats, not families.",
+        "Agent1: Secure borders are vital for national security and economic stability. We must enforce existing laws and prioritize border security to protect American interests."
+    ]
+}

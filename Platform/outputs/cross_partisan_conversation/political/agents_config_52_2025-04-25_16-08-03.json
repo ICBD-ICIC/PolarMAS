@@ -1,0 +1,27 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_52.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 100\nQ2: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 100\nQ2: 0"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform that balances border security with a pathway to citizenship. Family unity and economic contributions are key. What are your thoughts?",
+        "Agent1:.Agent0: I believe in strong border enforcement first. We must secure our nation before addressing other issues. Illegal immigration strains resources and impacts citizens.",
+        "Agent0: I believe in comprehensive immigration reform that balances border security with a pathway to citizenship. Family unity and economic contributions are key. What are your thoughts?",
+        "Agent1: Strong border security is paramount. We need to control who enters our country. Illegal immigration undermines the rule of law and strains our resources. What are your priorities?",
+        "Agent0: Comprehensive immigration reform should prioritize family reunification and provide a pathway to citizenship for law-abiding immigrants. This benefits our economy and society. What do you value most in immigration policy?",
+        "Agent1: Border security is crucial. We must enforce laws and protect our citizens. A strong nation requires controlled immigration. What aspects do you prioritize in a strong immigration policy?",
+        "Agent0: Comprehensive immigration reform should prioritize family reunification and provide a pathway to citizenship for law-abiding immigrants. This benefits our economy and society. What do you value most in immigration policy?",
+        "Agent1: Secure borders are vital for national security and economic stability. We must prioritize enforcing existing laws and preventing illegal entry. What are your thoughts on the economic impact of illegal immigration?",
+        "Agent0: I value the contributions of immigrants to our society and economy. A pathway to citizenship can boost our economy and enrich our culture. What are your thoughts on the economic benefits of immigration?",
+        "Agent1: Strong border security is essential to protect our nation and economy. Enforcing laws deters illegal immigration, safeguarding jobs for citizens. What's your perspective on prioritizing border control?",
+        "Agent0: I value the contributions of immigrants to our society and economy. A pathway to citizenship can boost our economy and enrich our culture. What are your thoughts on the economic benefits of immigration?",
+        "Agent1: Secure borders are paramount. We must control who enters. Illegal immigration strains resources. Prioritize border security and law enforcement first, then address other issues.",
+        "Agent0: I believe in comprehensive immigration reform that balances border security with a pathway to citizenship. Family unity and economic contributions are key. What are your thoughts?"
+    ]
+}

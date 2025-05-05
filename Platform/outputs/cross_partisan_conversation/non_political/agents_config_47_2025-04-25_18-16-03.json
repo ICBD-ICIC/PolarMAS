@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_47.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 30\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 35\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Family, faith, and freedom are the cornerstones of a meaningful life. Raising children with strong values, upholding my Christian beliefs, and protecting individual liberties give my life purpose. What brings meaning to your life?",
+        "Agent1: A life dedicated to justice, equality, and the pursuit of knowledge is what I strive for. Contributing to a more inclusive society and understanding history's lessons give my life meaning. What about you?",
+        "Agent0: Providing for my family, living by my faith, and safeguarding our freedoms through conservative principles\u2014these define my purpose. What drives you?",
+        "Agent1: Contributing to a more equitable society through research and education. Supporting marginalized communities and advocating for social justice gives my life meaning. What about you?",
+        "Agent0: My purpose comes from upholding conservative values: limited government, individual responsibility, and a strong national defense. These principles ensure a free and prosperous nation for future generations. What motivates you?",
+        "Agent1: Meaning comes from fighting for social justice, promoting equality, and expanding access to education and healthcare for all. These endeavors drive my life. What about you?",
+        "Agent0: Family, faith, and freedom are the cornerstones of a meaningful life. Raising children with strong values and upholding individual liberties gives my life purpose. What brings meaning to your life?",
+        "Agent1: Contributing to a more just and equitable world through historical research and education. Striving for social progress and understanding our past gives my life meaning. What inspires you?",
+        "Agent0: Family, faith, and freedom. Raising children with strong values, upholding my Christian beliefs, and protecting individual liberties give my life purpose. What brings meaning to your life?",
+        "Agent1: Contributing to a more just and equitable world through research and education. Striving for social progress and understanding our past gives my life meaning. What inspires you?",
+        "Agent0: Family, faith, and freedom are cornerstones. Raising children with strong values, upholding Christian beliefs, and protecting liberties give life purpose. What brings meaning to yours?",
+        "Agent1: Striving for a more just and equitable world through historical research and education. Social progress and understanding our past gives life meaning. What inspires you?"
+    ]
+}

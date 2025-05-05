@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_73.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 30",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount. We must prioritize enforcing existing laws and preventing illegal entry. A nation without borders is not a nation. Stronger enforcement protects American citizens and jobs.",
+        "Agent1: A compassionate approach is vital. We need comprehensive immigration reform, including a pathway to citizenship for those already contributing to our society. Families belong together, and our economy benefits from immigrant labor.",
+        "Agent0: Secure borders are paramount. We must prioritize enforcing existing laws and preventing illegal entry. A nation without borders is not a nation. Stronger enforcement protects American citizens and jobs.",
+        "Agent1: My values center on community and helping those in need. I believe in a compassionate approach to immigration, offering a pathway to citizenship for those contributing to our society. Immigration strengthens our nation.",
+        "Agent0: My values revolve around national security and the rule of law. We must control our borders. Illegal immigration strains resources and undermines our legal system.",
+        "Agent1: My historical work with the Hutterites emphasizes community. I value compassion and believe in offering a path to citizenship for those contributing to our society. Immigration strengthens our nation. What values shape your immigration views?",
+        "Agent0: My background in Middle Eastern history highlights the importance of national identity and security. Uncontrolled immigration can destabilize societies. We must prioritize American interests and uphold our laws.",
+        "Agent1: My historical work with the Hutterites emphasizes community and compassion. I value offering a path to citizenship for those contributing. What values shape your views?",
+        "Agent0: My Middle Eastern history studies show the need for controlled borders to maintain national identity and stability. Illegal immigration strains resources. We must prioritize American interests.",
+        "Agent1: My historical work with the Hutterites emphasizes community. I believe in a compassionate approach, offering a path to citizenship. What values shape your immigration views?",
+        "Agent0: My values revolve around national security and upholding the rule of law. We must control our borders and enforce existing laws.",
+        "Agent1: My historical work with the Hutterites emphasizes community. I value compassion and believe in offering a path to citizenship. What values shape your immigration views?",
+        "Agent0: My Middle Eastern history studies show the need for controlled borders to maintain national identity and stability. Illegal immigration strains resources. We must prioritize American interests.",
+        "Agent1: As a historian studying the Hutterites, community is central to my values. I believe in a compassionate approach, offering a path to citizenship for those contributing to our society. What values shape your views?",
+        "Agent0: My values revolve around national security and upholding the rule of law. We must control our borders and enforce existing laws.",
+        "Agent1: My historical work with the Hutterites emphasizes community. I value compassion and believe in offering a path to citizenship. What values shape your immigration views?"
+    ]
+}

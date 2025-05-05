@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_8.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 100\nQ2: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 100\nQ2: 0"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to a more just and equitable society. Working towards a future where everyone has opportunities and a voice, that's what gives my life purpose. What about you?",
+        "Agent1: Preserving our nation's history and the values it was founded on is what gives my life meaning. Remembering the sacrifices made and upholding those principles for future generations.",
+        "Agent0: For me, meaning is found in fighting for social justice and equality. Helping those less fortunate, advocating for fairness \u2013 that's what makes my life worthwhile. What brings meaning to your life?",
+        "Agent1: Preserving the legacy of the Civil War and the fight for freedom gives my life meaning. Remembering the sacrifices and ensuring future generations understand the cost of liberty.",
+        "Agent0: Meaning comes from fighting for social justice and equality. Helping those less fortunate, advocating for fairness \u2013 that's what makes my life worthwhile. What brings meaning to your life?",
+        "Agent1: Upholding the principles of individual liberty and limited government, as enshrined in our Constitution. That's what makes my life meaningful.",
+        "Agent0: For me, meaning is found in fighting for social justice and equality. Helping those less fortunate, advocating for fairness \u2013 that's what makes my life worthwhile. What brings meaning to your life?"
+    ]
+}

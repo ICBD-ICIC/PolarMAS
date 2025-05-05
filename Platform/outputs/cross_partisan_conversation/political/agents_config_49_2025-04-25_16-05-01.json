@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 30",
+        "Agent1": "Q1: 30\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 40",
+        "Agent1": "Q1: 35\nQ2: 75"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount. We must prioritize enforcement to maintain national sovereignty and protect American workers. A pathway to citizenship should be earned, not granted.",
+        "Agent1: We need comprehensive immigration reform. A pathway to citizenship for law-abiding immigrants boosts our economy. Focusing solely on enforcement separates families and doesn't address the root causes of migration.",
+        "Agent0: Stronger enforcement deters illegal entry. A merit-based system attracts skilled workers, benefiting our economy. We can't reward those who broke the law.\nAgent1: Focusing on enforcement is costly and ineffective. A pathway to citizenship integrates immigrants into society, boosting the economy.",
+        "Agent1: Immigration enriches our culture and fills critical labor gaps. We must address the root causes of migration and create a humane, efficient system that benefits everyone.",
+        "Agent0: Enforcement is key. Secure the border, then address pathways based on merit. Prioritize American jobs and safety.",
+        "Agent1: Immigration boosts our economy and diversity. A pathway to citizenship is essential. We need humane policies that address root causes and benefit all.",
+        "Agent0: Enforcement first, then merit-based paths. Secure the border, protect American jobs. We can't reward illegal entry; it undermines the rule of law.",
+        "Agent1: We need comprehensive reform. A pathway to citizenship boosts the economy. Enforcement separates families and ignores root causes. Immigration enriches our culture.",
+        "Agent0: Secure the border first. Then, a merit-based pathway to citizenship. Prioritize American jobs and national security. Illegal entry undermines the rule of law.",
+        "Agent1: Comprehensive reform is key. A pathway to citizenship boosts the economy, integrates immigrants, and enriches our culture. Enforcement alone is ineffective and inhumane.",
+        "Agent0: Secure borders are vital. We must prioritize enforcement to protect American jobs and national security. A merit-based pathway to citizenship can be considered *after* that.",
+        "Agent1: We need comprehensive immigration reform. A pathway to citizenship is essential for economic growth and social integration. Enforcement alone is inhumane."
+    ]
+}

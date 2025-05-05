@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_27.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 75\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 75\nQ2: 30",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount. We must prioritize legal immigration and ensure those entering contribute to our nation, not strain resources. A nation without borders is no nation at all.",
+        "Agent1: Compassion and practicality must guide immigration. Creating pathways to citizenship for law-abiding immigrants strengthens our communities and economy. Families belong together, and our values demand humane treatment.",
+        "Agent0: Prioritizing border security doesn't negate compassion. We can enforce laws while addressing humanitarian concerns. Legal immigration upholds fairness for those following the rules.",
+        "Agent1: Compassion guides my views. Immigration enriches our nation. Pathways to citizenship are vital for law-abiding immigrants. Families belong together.",
+        "Agent0: My focus is securing our borders and enforcing existing laws. We need to control who enters and ensure they contribute positively. Legal immigration should be the priority.",
+        "Agent1: Compassion and practicality must guide immigration. Creating pathways to citizenship for law-abiding immigrants strengthens communities and the economy.",
+        "Agent0: Secure borders are paramount. We must prioritize legal immigration and ensure those entering contribute to our nation, not strain resources. A nation without borders is no nation at all.",
+        "Agent1: Compassion and practicality must guide immigration. We can create pathways to citizenship for law-abiding immigrants, strengthening our communities and economy. Families belong together.",
+        "Agent0: Border security is essential. We must enforce laws, prioritize legal immigration, and ensure those entering contribute positively to our nation."
+    ]
+}

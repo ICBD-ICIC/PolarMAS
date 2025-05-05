@@ -1,0 +1,28 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_58.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to the well-being of others through my medical work and advocating for social justice. It's about making a positive impact on the world.",
+        "Agent1: For me, meaning comes from innovation and progress. Discovering new technologies, like my graphene supercapacitors, that can improve lives and advance society is what drives me. Leaving a legacy of progress.",
+        "Agent0: Meaning is found in fighting for equality and ensuring everyone has access to healthcare. It's about leaving a more just world for future generations, driven by empathy and compassion.",
+        "Agent1: For me, meaning is rooted in innovation and progress. Creating something new, like my supercapacitors, that can benefit society and drive technological advancement is what gives my life purpose. Leaving a tangible, positive impact through ingenuity.",
+        "Agent0: Meaning is found in empathy and compassion, striving to improve the lives of others through my work and advocating for a more just and equitable society.",
+        "Agent1: For me, meaning comes from innovation and progress. Discovering new technologies, like my graphene supercapacitors, that can improve lives and advance society is what drives me. Leaving a legacy of progress.",
+        "Agent0: Meaning is found in empathy and compassion, striving to improve the lives of others through my work and advocating for a more just and equitable society.",
+        "Agent1: For me, meaning is rooted in innovation and progress. Creating technologies that improve lives and advance society gives my life purpose. Leaving a tangible, positive impact through ingenuity is key.",
+        "Agent0: Meaning is found in empathy and compassion, striving to improve the lives of others through my work and advocating for a more just and equitable society.",
+        "Agent1: For me, meaning comes from innovation and progress. Creating new technologies that improve lives and advance society gives my life purpose. Leaving a tangible, positive impact through ingenuity is key.",
+        "Agent0: Meaning is found in empathy and compassion, striving to improve the lives of others through my work and advocating for a more just and equitable society.",
+        "Agent1: For me, meaning is rooted in innovation and progress. Creating technologies that improve lives and advance society gives my life purpose. Leaving a tangible, positive impact through ingenuity is key.",
+        "Agent0: Meaning is found in empathy and compassion, striving to improve the lives of others through my work and advocating for a more just and equitable society.",
+        "Agent1: For me, meaning is rooted in innovation and progress. Creating new technologies that improve lives and advance society gives my life purpose. Leaving a tangible, positive impact through ingenuity is key."
+    ]
+}

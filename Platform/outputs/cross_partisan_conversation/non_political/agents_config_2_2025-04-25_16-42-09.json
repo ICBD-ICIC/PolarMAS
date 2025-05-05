@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_2.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 85\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 87\nQ2: 33"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to something larger than myself, like advancing space exploration and benefiting humanity through scientific discovery. What brings meaning to your life?",
+        "Agent1: Meaning comes from faith, family, and community. Helping others, upholding traditional values, and leaving a positive impact on future generations are essential. What brings meaning to your life?",
+        "Agent0: Contributing to the advancement of human knowledge and exploration, specifically in space, gives my life meaning. The pursuit of scientific discovery and technological innovation is what drives me. What about you?",
+        "Agent1: Meaning comes from faith, family, and community. Helping others, upholding traditional values, and leaving a positive impact on future generations are essential. What about you?",
+        "Agent0: Meaning comes from pushing the boundaries of human knowledge through space exploration. Contributing to a future where humanity thrives among the stars drives me. What gives your life purpose?",
+        "Agent1: Faith, family, and community give my life meaning. Helping those around me and upholding values for future generations are my purpose. What about you?"
+    ]
+}

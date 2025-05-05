@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_64.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 85\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 40\nQ2: 75",
+        "Agent1": "Q1: 85\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Family and community are paramount. Contributing to the well-being of others, fighting for social justice, and leaving the world a better place are what give life meaning for me.",
+        "Agent1: Faith, freedom, and personal responsibility are key. Building a strong nation, upholding traditional values, and achieving individual success through hard work give life meaning.",
+        "Agent0: It's interesting that you find meaning in building a strong nation. I believe a strong community starts with ensuring everyone has equal opportunities and a safety net to fall back on. What specific traditional values do you find most meaningful?",
+        "Agent1: Personal responsibility and faith in God are essential for a meaningful life. Individual achievement and a strong moral compass guide my actions.",
+        "Agent0: For me, meaning lies in fighting for equality and justice, ensuring a better future for marginalized communities. Lifting each other up is what truly matters.",
+        "Agent1: A meaningful life involves faith, family, and freedom. Personal responsibility, hard work, and contributing to a strong, moral society are also key.",
+        "Agent0: Meaning comes from fighting for equality, ensuring everyone has opportunities, and working towards a more just world. Community and uplifting marginalized voices are essential.",
+        "Agent1: A meaningful life involves faith, family, and freedom. Personal responsibility, hard work, and contributing to a strong, moral society are also key.",
+        "Agent0: My meaning is in fighting for equality, ensuring opportunities for all, and building a just world. Community and uplifting marginalized voices are essential.",
+        "Agent1: A meaningful life involves faith, family, and freedom. Personal responsibility and hard work are also key. Building a strong nation rooted in these values is essential.",
+        "Agent0: Meaning comes from fighting for equality, ensuring opportunities for all, and building a just world. Community and uplifting marginalized voices are essential.",
+        "Agent1: Family, faith, and freedom are most important. Personal responsibility and hard work also matter. Building a strong nation rooted in these values is essential for a meaningful life.",
+        "Agent0: Contributing to a more just and equitable society, where everyone has the opportunity to thrive, is what gives my life meaning.",
+        "Agent1: Family, faith, and freedom are most important. Personal responsibility and hard work also matter. Building a strong nation rooted in these values is essential for a meaningful life.",
+        "Agent0: Meaning comes from fighting for equality, ensuring opportunities for all, and building a just world. Community and uplifting marginalized voices are essential."
+    ]
+}

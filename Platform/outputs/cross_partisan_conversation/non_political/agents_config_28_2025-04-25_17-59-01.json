@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 35"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Meaning comes from contributing to the greater good through knowledge and understanding, like uncovering the mathematical harmonies of the universe. Family and community also provide essential connection and purpose.",
+        "Agent1: Meaning comes from upholding American values, personal responsibility, and limited government. Faith, family, and community are crucial. Success through hard work and contributing to a free society also matters.",
+        "Agent0: I find meaning in the pursuit of knowledge, especially how mathematics reveals the universe's beauty. Connecting with others and helping society progress through understanding are also vital.",
+        "Agent1: Meaning comes from upholding traditional values, hard work, and contributing to a strong, free nation. Faith, family, and personal responsibility are also essential.",
+        "Agent0: Do you find meaning in upholding traditions and personal responsibility? I value progress through understanding, but wonder if tradition plays a role in your perspective.",
+        "Agent1: Yes, traditions provide a foundation. Personal responsibility fosters self-reliance and strong communities. Success comes from hard work and upholding these values.",
+        "Agent0: What role do you think faith plays in giving life meaning? Does it provide a framework for understanding our place in the universe and guiding our actions?",
+        "Agent1: Faith provides moral guidance and a sense of purpose. It connects us to something larger than ourselves, offering comfort and strength.",
+        "Agent0: I agree that faith can offer comfort and guidance. For me, understanding the universe through mathematics provides a similar sense of connection to something larger and a framework for ethical action."
+    ]
+}

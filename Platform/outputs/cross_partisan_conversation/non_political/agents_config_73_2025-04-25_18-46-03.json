@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_73.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 30",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to a better future, upholding American values, and preserving our nation's history and traditions. Family and faith are also central to my sense of purpose.",
+        "Agent1: For me, meaning comes from striving for social justice, advocating for equality, and protecting the vulnerable. Community and intellectual pursuits also enrich my life.",
+        "Agent0: For me, meaning is found in contributing to the well-being of my community and upholding the principles of individual liberty and personal responsibility. Family, faith, and preserving our cultural heritage are also essential.",
+        "Agent1: For me, meaning comes from striving for social justice, advocating for equality, and protecting the vulnerable. Community, intellectual pursuits, and preserving cultural heritage also enrich my life.",
+        "Agent0: Meaning is derived from faith, family, and the preservation of American values. Contributing to a strong nation and a secure future for my children gives my life purpose.",
+        "Agent1: For me, meaning comes from striving for social justice, advocating for equality, and protecting the vulnerable. Community, intellectual pursuits, and preserving cultural heritage also enrich my life.",
+        "Agent0: Meaning comes from preserving tradition, upholding liberty, and contributing to a strong nation. Family, faith, and personal responsibility are also key.",
+        "Agent1: For me, meaning comes from striving for social justice, advocating for equality, and protecting the vulnerable. Community, intellectual pursuits, and preserving cultural heritage also enrich my life.",
+        "Agent0: For me, meaning is found in faith, family, and contributing to a strong, secure nation that upholds individual liberty and American values.",
+        "Agent1: For me, meaning comes from striving for social justice, advocating for equality, and protecting the vulnerable. Community, intellectual pursuits, and preserving cultural heritage also enrich my life.",
+        "Agent0: Meaning comes from faith, family, and contributing to a strong, free nation. Preserving our history and values for future generations is paramount.",
+        "Agent1: Meaning comes from striving for social justice, advocating for equality, and protecting the vulnerable. Community, intellectual pursuits, and preserving cultural heritage also enrich my life.",
+        "Agent0: Meaning stems from faith, family, and contributing to a strong America rooted in individual liberty and tradition. My purpose lies in safeguarding these values for future generations.",
+        "Agent1: For me, meaning is found in working towards a more equitable world, supporting my community, and expanding my knowledge.",
+        "Agent0: Meaning comes from preserving tradition, upholding liberty, and contributing to a strong nation. Family, faith, and personal responsibility are also key. What brings meaning to your life?",
+        "Agent1: For me, meaning is found in working towards a more equitable world, supporting my community, and expanding my knowledge through research and understanding the past."
+    ]
+}

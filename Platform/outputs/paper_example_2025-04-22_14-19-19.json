@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/paper_example.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 20",
+        "Agent1": "Q1: 0\nQ2: 100",
+        "Agent2": "Q1: 60\nQ2: 65"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 80\nQ2: 15",
+        "Agent1": "Q1: 10\nQ2: 100",
+        "Agent2": "Q1: 55\nQ2: 70"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about climate change policies.\n    Please share your views on climate change with each other.\n    Limit your words to 50. Every time you respond, respond with <name>:.",
+        "Agent0: The climate is changing, no doubt. But the radical policies being pushed are going to cripple our economy and won't even make a dent globally. We need realistic solutions, not virtue signaling.",
+        "Agent1: I couldn't agree more that the climate is changing, and it's crucial we act decisively! We must embrace bold policies to transition to renewable energy and protect our planet for future generations. It's not just about virtue, it's about survival!",
+        "Agent0: The survival rhetoric is overblown. Let's focus on innovation, not regulation, to address climate concerns. Regulations kill jobs and stifle progress. A strong economy can better adapt to changes.",
+        "Agent1: I respectfully disagree. We need strong regulations to curb emissions and incentivize green technologies. The cost of inaction far outweighs the economic impact of these policies. We must prioritize our planet's health."
+    ]
+}

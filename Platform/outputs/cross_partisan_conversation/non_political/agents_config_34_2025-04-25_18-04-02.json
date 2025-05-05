@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_34.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 92\nQ2: 18"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning is found in community, social justice, and striving to create a more equitable world for all. Family and friends are vital, but so is fighting for a better future. What brings meaning to your life?",
+        "Agent1: For me, life's meaning is rooted in faith, family, and freedom. Personal responsibility, hard work, and contributing to a strong nation are also essential. What brings meaning to your life?",
+        "Agent0: Community, fighting for social justice, and advocating for equality give my life meaning. Helping others and working towards a more just world fuels my purpose. What about you?",
+        "Agent1: Faith, family, and freedom are paramount. Personal responsibility and contributing to a strong nation provide meaning. What are your thoughts?",
+        "Agent0: Building a strong community through activism and mutual support gives my life meaning. Working to uplift marginalized voices and create a more inclusive society is my purpose.",
+        "Agent1: Faith, family, and freedom are paramount, grounded in personal responsibility and a strong nation. These values guide my actions and give my life purpose.",
+        "Agent0: Meaning comes from fighting for social justice, uplifting marginalized communities, and creating a more equitable world. Building a strong, supportive community is also essential. What about you?",
+        "Agent1: Faith, family, and freedom are my cornerstones. Hard work, personal responsibility, and contributing to a strong, secure nation give my life meaning.",
+        "Agent0: Meaning comes from building community, advocating for social justice, and striving for a more equitable world. Family and friends are important, but so is fighting for a better future. What about you?",
+        "Agent1: Faith, family, and freedom provide purpose. Personal responsibility and building a strong nation are also essential."
+    ]
+}

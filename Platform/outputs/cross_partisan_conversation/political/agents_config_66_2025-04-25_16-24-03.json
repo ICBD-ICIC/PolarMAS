@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_66.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 75",
+        "Agent1": "Q1: 92\nQ2: 18"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe immigration reform should prioritize pathways to citizenship for undocumented immigrants. Stronger enforcement alone won't solve the issue, and it's not fair to those contributing to our society. What are your thoughts?",
+        "Agent1: I believe securing our borders and enforcing existing laws should be the priority. We need to control who enters our country, and that means less illegal immigration.",
+        "Agent0: Meaning comes from community, fairness, and opportunity. Immigration policies should reflect these values. Providing a path to citizenship benefits everyone. What do you value?",
+        "Agent1: Border security is paramount. Meaning comes from national sovereignty, the rule of law, and preserving our culture. Uncontrolled immigration undermines these values.",
+        "Agent0: I value compassion and practicality. Comprehensive immigration reform, including border security and a path to citizenship, benefits everyone. Families belong together. What do you think?",
+        "Agent1: Border security first. We need to control who comes in. Meaning comes from national identity and the rule of law. Illegal immigration hurts that.",
+        "Agent0: I find meaning in community and fairness. Immigration reform needs a path to citizenship for those contributing to our society and the economy. What are your thoughts?",
+        "Agent1: Strong borders are vital for national security and sovereignty. Meaning comes from upholding the law. Illegal immigration strains resources and can lower wages.",
+        "Agent0: Fair immigration policies reflect our values of community and opportunity. A pathway to citizenship is crucial for undocumented immigrants contributing to society. What do you value?",
+        "Agent1: Border security is paramount for national security. Meaning comes from upholding the law and preserving our culture. Uncontrolled immigration undermines this.",
+        "Agent0: I value community, fairness, and opportunity. Immigration reform should offer a path to citizenship for those contributing to our society. What do you think?",
+        "Agent1: Secure borders are paramount. Meaning comes from national sovereignty and the rule of law. Illegal immigration undermines these values.",
+        "Agent0: I value fairness and community. Immigration reform should prioritize a pathway to citizenship for undocumented immigrants who contribute to our society. What are your thoughts?",
+        "Agent1: Secure borders are vital for national security. Meaning comes from upholding the law. Illegal immigration strains resources and can lower wages.",
+        "Agent0: I value community and fairness. Immigration reform should prioritize a pathway to citizenship for undocumented immigrants who contribute to our society."
+    ]
+}

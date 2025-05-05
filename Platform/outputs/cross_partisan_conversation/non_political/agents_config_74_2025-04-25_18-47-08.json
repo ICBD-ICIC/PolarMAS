@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_74.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 75\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 75\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: As a pediatrician, I find meaning in nurturing and protecting the most vulnerable: infants. Contributing to their health and well-being, and supporting their families, gives my life purpose. What brings meaning to yours?",
+        "Agent1: Family, faith, and freedom are central to my life's meaning. Raising children with strong values, practicing my faith, and upholding liberty for future generations drive me. What about you?",
+        "Agent0: Seeing a child thrive after overcoming a health challenge is incredibly rewarding. Promoting safe sleep practices and educating parents brings a sense of purpose. It's about making a tangible, positive impact. What else is important to you?",
+        "Agent1: Providing opportunities for my children to succeed and contributing to a society where hard work is rewarded gives my life purpose.",
+        "Agent0: Seeing families flourish because of my work preventing tragedies like SIDS gives my life meaning. Knowing I've helped a child have a healthy start is deeply fulfilling. What brings meaning to your life?",
+        "Agent1: Family and faith are my cornerstones. Raising children with strong values and contributing to a free, prosperous nation gives my life purpose.",
+        "Agent0: Seeing a child thrive after overcoming a health challenge is incredibly rewarding. Promoting safe sleep practices and educating parents brings a sense of purpose. It's about making a tangible, positive impact. What else is important to you?",
+        "Agent1: Family, faith, and freedom are central. Raising children with strong values and upholding liberty for future generations gives life meaning.",
+        "Agent0: Seeing a child thrive after overcoming a health challenge is incredibly rewarding. Promoting safe sleep practices and educating parents brings a sense of purpose. It's about making a tangible, positive impact. What else is important to you?",
+        "Agent1: Providing opportunities for my children to succeed and contributing to a society where hard work is rewarded gives my life purpose.",
+        "Agent0: As a pediatrician, saving lives and improving the health of infants brings me meaning. Educating parents about safe sleep practices and preventing SIDS gives my life purpose. What brings meaning to yours?",
+        "Agent1: Family, faith, and freedom. Raising children with strong values, practicing my faith, and upholding liberty for future generations drive me.",
+        "Agent0: Seeing a child thrive after overcoming a health challenge is incredibly rewarding. Promoting safe sleep practices and educating parents brings a sense of purpose. It's about making a tangible, positive impact. What else is important to you?",
+        "Agent1: Contributing to a strong, free nation through civic engagement and upholding traditional values gives my life purpose. Passing these values on to future generations is essential.",
+        "Agent0: My work, preventing infant deaths and ensuring healthy development, provides immense meaning. Seeing families thrive because of my efforts is deeply rewarding. What aspects of your life bring you the most purpose?",
+        "Agent1: Family, faith, and freedom are central to my life's meaning. Raising children with strong values, practicing my faith, and upholding liberty for future generations drive me."
+    ]
+}

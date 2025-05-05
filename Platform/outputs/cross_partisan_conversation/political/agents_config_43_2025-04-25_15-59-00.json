@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_43.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount. We must prioritize enforcing existing laws and preventing further illegal immigration. A nation without borders is not a nation.",
+        "Agent1: Comprehensive immigration reform is needed, including a pathway to citizenship for undocumented immigrants who contribute to our society. Families belong together, and we must uphold humanitarian values.",
+        "Agent0: Stronger enforcement protects American workers and ensures fairness. Legal immigration should be prioritized, not undermined by illegal entry.",
+        "Agent1: Immigration is complex. We need secure borders *and* a compassionate path to citizenship. Undocumented immigrants contribute to our economy and communities. Let's find a balanced solution.",
+        "Agent0: My meaningful life is rooted in upholding the rule of law and preserving our national identity. Secure borders are crucial for this. We can't allow unchecked immigration.",
+        "Agent1: Meaningful life comes from justice and helping those in need. Immigration reform with compassion and a path to citizenship aligns with my values.",
+        "Agent0: Secure borders are essential for national security and economic stability. We must enforce laws and prioritize legal immigration. My meaningful life is tied to preserving American values.",
+        "Agent1: Meaningful life comes from justice and helping those in need. Immigration reform with compassion and a path to citizenship aligns with my values.",
+        "Agent0: Secure borders protect American jobs and national security. Enforcing laws and prioritizing legal immigration are crucial for a strong nation. My meaningful life is tied to upholding these principles.",
+        "Agent1: Meaningful life comes from justice and helping those in need. Immigration reform with compassion and a path to citizenship aligns with my values.",
+        "Agent0: Secure borders ensure national security and protect American jobs. Enforcing existing immigration laws is essential for a strong nation. My meaningful life is tied to upholding the rule of law."
+    ]
+}

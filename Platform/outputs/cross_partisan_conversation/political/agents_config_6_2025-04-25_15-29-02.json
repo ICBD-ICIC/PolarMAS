@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_6.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are important, but we must also offer a path to citizenship. My research on bacterial adaptation shows me how crucial adapting to change is. We should embrace immigrants' potential contributions.",
+        "Agent1: A nation without borders is no nation at all. We need to enforce our laws. My family came here legally; others should too.",
+        "Agent0: I agree that legal immigration is vital. However, focusing solely on enforcement overlooks the economic benefits and diverse perspectives immigrants bring. Compassionate reform, like DACA, aligns with American values.",
+        "Agent1: Border security is paramount. We must prioritize enforcing existing immigration laws. My family followed the rules; others should respect them too.",
+        "Agent0: Secure borders are important, but we must also offer a path to citizenship. My research on bacterial adaptation shows me how crucial adapting to change is. We should embrace immigrants' potential contributions.",
+        "Agent1: Enforcing immigration laws is crucial for national security and economic stability. My family came legally, and others should respect that process."
+    ]
+}

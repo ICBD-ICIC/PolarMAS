@@ -1,0 +1,28 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_56.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 75\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 75\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to the well-being of others, especially children. As a nutrition expert, I find purpose in ensuring kids have access to healthy meals. Family and community also provide a sense of belonging and purpose.",
+        "Agent1: Meaning comes from contributing to my community, upholding conservative values, and protecting individual freedoms. My faith and family provide a strong foundation.",
+        "Agent0: It's interesting how our values align despite our political differences. Contributing to the community is vital. I believe access to good nutrition is a fundamental right for everyone, regardless of background.",
+        "Agent1: It's about leaving a positive legacy, upholding conservative principles, and ensuring future generations inherit a strong, free nation. Family, faith, and individual responsibility are key pillars.",
+        "Agent0: For me, meaning comes from contributing to the well-being of others, especially children. As a nutrition expert, I find purpose in ensuring kids have access to healthy meals. Family and community also provide a sense of belonging and purpose.",
+        "Agent1: Meaning comes from contributing to my community, upholding conservative values, and protecting individual freedoms. My faith and family provide a strong foundation.",
+        "Agent0: Meaning comes from contributing to the well-being of children through nutrition. Ensuring all kids have access to healthy meals gives my life purpose. Family and community also provide a sense of belonging.",
+        "Agent1: Contributing to my community, upholding conservative values, and protecting individual freedoms. My faith and family provide a strong foundation.",
+        "Agent0: Meaning comes from contributing to the well-being of children through nutrition. Ensuring all kids have access to healthy meals gives my life purpose. Family and community provide belonging.",
+        "Agent1: Meaning comes from faith, family, and freedom. Protecting individual liberties and upholding traditional values is essential. Contributing to a strong, moral society provides purpose.",
+        "Agent0: Contributing to children's well-being through nutrition gives my life meaning. Ensuring all kids have access to healthy meals is my purpose. Family and community provide belonging.",
+        "Agent1: Meaning comes from faith, family, and freedom. Protecting individual liberties and upholding traditional values is essential for a strong society. Studying primates is fascinating.",
+        "Agent0: Contributing to children's well-being through nutrition gives my life meaning. Ensuring all kids have access to healthy meals is my purpose. Family and community provide belonging.",
+        "Agent1: Meaning comes from faith, family, and freedom. Protecting individual liberties and upholding traditional values is essential. My work studying primates also brings purpose."
+    ]
+}

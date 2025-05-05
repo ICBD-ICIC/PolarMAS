@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are vital for our nation's safety and sovereignty. We must prioritize enforcing existing laws and controlling who enters our country. This ensures a stable and prosperous future for all Americans.",
+        "Agent1: Comprehensive immigration reform is key. We need a pathway to citizenship for undocumented immigrants, as they contribute to our economy and communities. Strong enforcement should focus on serious criminals, not families.",
+        "Agent0: We can't ignore the strain on resources and potential security risks. While some contribute, we must prioritize legal immigration and secure our borders first. A fair system protects citizens and those who follow the rules.",
+        "Agent1: Comprehensive immigration reform should prioritize a pathway to citizenship for those already contributing to our society while addressing border security. Meaning comes from building inclusive communities.",
+        "Agent0: Meaning comes from upholding the rule of law and protecting our nation. Secure borders are essential for a stable society and a prosperous future for all Americans.",
+        "Agent1: Comprehensive immigration reform is key. We need a pathway to citizenship for undocumented immigrants, as they contribute to our economy and communities. Strong enforcement should focus on serious criminals, not families."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_5.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I find meaning in contributing to our nation's strength and security, upholding traditional values, and ensuring a prosperous future for generations to come. Family, faith, and hard work are the cornerstones of a meaningful life. I would like to hear your perspective.",
+        "Agent1: I find meaning in working towards social justice, equality, and a sustainable future for all. Contributing to a more compassionate and equitable society, fighting for human rights, and protecting our planet gives my life purpose. What are your thoughts?",
+        "Agent0: I find meaning in contributing to our nation's strength through scientific discovery, specifically in understanding the Antarctic ice sheet's dynamics. Preserving this knowledge for future generations and ensuring responsible stewardship of our planet's resources gives my life purpose.",
+        "Agent1: I find meaning in fighting for social justice and economic equality, ensuring everyone has opportunities to thrive. Contributing to a more compassionate world, protecting our planet, and advocating for human rights gives my life purpose.",
+        "Agent0: I find meaning in contributing to our nation's strength and security, upholding traditional values, and ensuring a prosperous future for generations to come. Family, faith, and hard work are the cornerstones of a meaningful life. I would like to hear your perspective.",
+        "Agent1: I find meaning in working towards a more just and equitable society. Promoting policies that uplift marginalized communities and protect our environment gives my life purpose. What aspects of traditional values do you find most meaningful?"
+    ]
+}

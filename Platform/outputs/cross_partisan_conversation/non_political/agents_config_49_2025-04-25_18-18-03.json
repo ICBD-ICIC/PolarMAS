@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 30",
+        "Agent1": "Q1: 30\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 30",
+        "Agent1": "Q1: 35\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to something larger than myself. Advancing scientific understanding, particularly in areas like lunar formation and energy solutions like georeactors, gives my life purpose. Family and community ties are also important anchors.",
+        "Agent1: Contributing to the well-being of my community and protecting our natural resources gives my life meaning. Ensuring a healthy environment for future generations, while also fostering connections with loved ones, brings me joy and purpose.",
+        "Agent0: Meaning is found in pushing the boundaries of scientific knowledge. Understanding the universe and developing innovative energy solutions like georeactors fuels my purpose. Family and a strong sense of personal responsibility are also key.",
+        "Agent1: Meaning stems from protecting our environment and fostering community well-being. Ensuring a healthy planet for future generations, alongside nurturing relationships with loved ones, brings me purpose and fulfillment.",
+        "Agent0: For me, meaning comes from contributing to something larger than myself. Advancing scientific understanding, especially lunar formation, and developing energy solutions like georeactors, gives life purpose. Family and a sense of personal responsibility are also important anchors.",
+        "Agent1: Protecting our forests and ensuring a healthy environment for future generations is what gives my life meaning. Connecting with my community and loved ones is also vital.",
+        "Agent0: Discovering new knowledge about the universe, especially related to the Moon's origin and potential energy sources, provides a strong sense of purpose. My family and my duty to my community are also key.",
+        "Agent1: For me, meaning comes from leaving the world a better place. Protecting our environment, advocating for social justice, and raising a loving family are all vital.",
+        "Agent0: For me, meaning comes from contributing to something larger than myself. Advancing scientific understanding, particularly in lunar formation and energy solutions like georeactors, gives my life purpose. Family and community ties are also important.",
+        "Agent1: Leaving a positive impact on my community and the environment gives my life meaning. Protecting our natural resources and fostering healthy relationships are also vital.",
+        "Agent0: Discovering new knowledge about the universe, especially related to the Moon's origin and potential energy sources, provides a strong sense of purpose. My family and my duty to my community are also key.",
+        "Agent1: Leaving a positive impact on the environment and my community is key. Ensuring a healthy planet for future generations and fostering connections with loved ones brings fulfillment."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_2.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 35"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: As an engineer, I value logic and data. I believe comprehensive immigration reform, including a path to citizenship, strengthens our economy and society. Stronger enforcement alone is not a solution and can be inhumane.",
+        "Agent1: As a Republican, I believe in securing our borders first. We need to control who enters our country. Then, we can discuss pathways to citizenship, but only after addressing the root causes of illegal immigration.",
+        "Agent0: Data shows immigrants contribute significantly to our economy. A path to citizenship integrates them, boosting our workforce and tax base. Strict enforcement without addressing this is short-sighted.",
+        "Agent1: Secure borders are vital for national security. While I value compassion, uncontrolled immigration strains resources and can depress wages for low-skilled workers. A merit-based system is fairer.",
+        "Agent0: A balanced approach is key. We need secure borders and a pathway to citizenship. This creates a more productive society, fostering innovation and economic growth.",
+        "Agent1: Securing our borders is paramount. We must enforce existing laws. After that, we can explore pathways to citizenship, but only for those who follow legal procedures. It's about fairness and national security."
+    ]
+}

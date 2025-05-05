@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_65.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 85\nQ2: 35",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, faith, family, and contributing to my community through my medical expertise give my life meaning. Helping others overcome addiction and seeing them thrive brings immense satisfaction. What about you?",
+        "Agent1: For me, it's about experiencing the beauty of nature, fighting for social justice, and connecting with others through shared experiences. Protecting our planet and advocating for equality fuels my purpose.",
+        "Agent0: Family, faith, and helping others are central to my life's meaning. Seeing my patients overcome addiction and rebuild their lives is incredibly rewarding. What brings meaning to your life?",
+        "Agent1: Experiencing nature's beauty, especially the contrast of snow on desert landscapes, gives my life meaning. Also, fighting for environmental protection and social justice fuels my purpose.",
+        "Agent0: Family, faith, and service through medicine define my meaning. Witnessing patients conquer addiction and lead fulfilling lives is profoundly rewarding. What aspects give your life purpose?",
+        "Agent1: Experiencing the beauty of nature, especially in the Southwest, gives my life meaning. Fighting for environmental protection and social justice also fuels my purpose.",
+        "Agent0: Family, faith, and service through medicine define my meaning. Witnessing patients conquer addiction and lead fulfilling lives is profoundly rewarding. What aspects give your life purpose?",
+        "Agent1: Protecting our planet and advocating for equality are my drivers. Experiencing nature's beauty, especially the contrast of snow in the Southwest, gives my life purpose.",
+        "Agent0: My faith, family, and work as a doctor bring meaning. I find purpose in helping my patients overcome addiction and live fulfilling lives.",
+        "Agent1: Connecting with nature, fighting for social justice, and contributing to a more equitable world gives my life meaning.",
+        "Agent0: My family, faith, and the opportunity to serve my community through medicine give my life meaning. Helping patients overcome addiction is incredibly rewarding.",
+        "Agent1: Nature's beauty, especially in the Southwest, and fighting for environmental protection and social justice fuel my purpose. These drive me.",
+        "Agent0: My faith, family, and helping others through my medical work give my life meaning. Seeing patients overcome addiction is profoundly rewarding.",
+        "Agent1: Experiencing nature's beauty, fighting for environmental protection, and advocating for social justice are my core values. They drive my purpose.",
+        "Agent0: My faith, family, and the privilege to serve others through medicine are my sources of meaning. Helping patients overcome addiction is profoundly rewarding."
+    ]
+}

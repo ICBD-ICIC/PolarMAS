@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_22.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Family and community are everything. Lifting each other up, ensuring everyone has a fair shot \u2013 that's what makes life worthwhile. What about you?",
+        "Agent1: Contributing to society through my skills and hard work, leaving behind something tangible and durable, that's meaningful to me. What do you value?",
+        "Agent0: Seeing young women thrive in STEM, breaking barriers, and creating a more inclusive future - that's what gives my life purpose. What drives you?",
+        "Agent1: Creating durable goods that improve lives. Precision, skill, and lasting impact \u2013 that's my meaning. What's yours?",
+        "Agent0: For me, it's about fighting for justice and equality. Ensuring everyone, especially young women in STEM, has the opportunity to reach their full potential. What gives your life meaning?",
+        "Agent1: Leaving a legacy of quality craftsmanship and contributing to a strong, self-reliant nation provides meaning. What gives your life purpose?",
+        "Agent0: For me, it's about empowering young women in STEM. Seeing them succeed, breaking down barriers, and creating a more inclusive future makes my life meaningful. What about you?",
+        "Agent1: Contributing to society through my skills and hard work, leaving behind something tangible and durable, that's meaningful to me. What do you value?",
+        "Agent0: For me, it's about empowering my community and ensuring everyone has equal opportunities. Seeing others thrive and succeed, especially those from disadvantaged backgrounds, gives my life meaning. What about you?"
+    ]
+}

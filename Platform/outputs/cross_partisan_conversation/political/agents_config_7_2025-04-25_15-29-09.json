@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are vital for national security and sovereignty. We must prioritize enforcing existing laws and controlling who enters our country. A nation without borders is not a nation.",
+        "Agent1: Comprehensive immigration reform is crucial. We need a pathway to citizenship for undocumented immigrants who contribute to our society and economy. Immigration strengthens our nation.",
+        "Agent0: Prioritizing legal immigration, not illegal, ensures fair processes. Border security prevents exploitation. A merit-based system attracts skilled workers.",
+        "Agent1: Immigration fuels innovation and economic growth. We should welcome those seeking a better life and offer them opportunities to contribute. It's a moral imperative.",
+        "Agent0: Stronger enforcement deters illegal entry and protects American workers. We must secure our borders and prioritize those who follow legal channels.",
+        "Agent1: Immigration enriches our society by bringing diverse perspectives and skills. We should create pathways for immigrants to contribute and thrive, reflecting our values of inclusivity.",
+        "Agent0: Secure borders are vital for national security and sovereignty. We must prioritize enforcing existing laws and controlling who enters our country. A nation without borders is not a nation."
+    ]
+}

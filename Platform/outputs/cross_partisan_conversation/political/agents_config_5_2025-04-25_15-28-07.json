@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_5.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are vital. We need to prioritize American citizens and enforce our laws. Illegal immigration strains resources and can depress wages. Family and community are important to me, and these are threatened.",
+        "Agent1: Comprehensive reform is needed! Pathways to citizenship boost our economy and reflect our values. Immigrants enrich our communities. My friends who are immigrants contribute so much!",
+        "Agent0: Family and community are threatened by uncontrolled immigration. Lawlessness undermines the fabric of society. We need to secure the border and enforce existing laws to protect American jobs and our way of life.",
+        "Agent1: Immigration is a complex issue. I value compassion and opportunity. We can strengthen border security, but also offer a fair path to citizenship. A diverse society benefits everyone, and we should embrace that.",
+        "Agent0: Strong border security is crucial. Illegal immigration undermines our laws and strains resources. It also impacts American workers. Protecting our families and communities requires enforcing our immigration laws.",
+        "Agent1: I value compassion and opportunity. We need comprehensive reform that includes a pathway to citizenship. Immigration enriches our communities and strengthens our economy."
+    ]
+}

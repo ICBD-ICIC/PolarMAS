@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Faith, family, and freedom are the cornerstones of a meaningful life. Protecting those values for future generations is paramount. What gives your life purpose?",
+        "Agent1: Leaving the world a better place than I found it. Helping others, fighting for equality, and pursuing knowledge are what give my life meaning. What does freedom mean to you?",
+        "Agent0: Freedom means individual liberty and limited government. It's the ability to pursue your dreams without interference. How does fighting for equality give your life meaning?",
+        "Agent1: Working towards a society where everyone has the same opportunities, regardless of their background. It's about justice and creating a more compassionate world. What role does faith play in your pursuit of freedom?",
+        "Agent0: Faith provides moral guidance and a foundation for our freedoms. It teaches responsibility and strengthens communities. How does pursuing knowledge give your life meaning?",
+        "Agent1: It broadens my understanding of the world and empowers me to make a positive impact. Knowledge is power, and with it, we can solve problems and build a better future.",
+        "Agent0: Faith, family, and personal responsibility. These guide me to make a positive impact on my community and uphold the values I believe in. What are your thoughts?",
+        "Agent1: Connection, compassion, and contribution. Building strong relationships, showing empathy, and working towards a better world for all. What's the role of personal responsibility in your vision?",
+        "Agent0: Personal responsibility ensures we contribute to society and don't burden others. It's about self-reliance and accountability. How does compassion play a role in your vision?",
+        "Agent1: Compassion drives me to alleviate suffering and fight for the vulnerable. It's about recognizing our shared humanity and acting with empathy. What is family to you?",
+        "Agent0: Family is the bedrock of society, providing love, support, and a connection to tradition. How does connection play a role in your vision?"
+    ]
+}

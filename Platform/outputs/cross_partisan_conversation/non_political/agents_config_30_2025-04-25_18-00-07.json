@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 90",
+        "Agent1": "Q1: 85\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 80",
+        "Agent1": "Q1: 85\nQ2: 35"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to the well-being of others and safeguarding our planet. My work on climate change, even in a small way, gives me purpose. What brings meaning to your life?",
+        "Agent1: For me, meaning comes from upholding tradition, personal responsibility, and the pursuit of knowledge. Discovering and sharing the wisdom of the past through my historical work gives my life purpose. What brings meaning to your life?",
+        "Agent0: For me, meaning comes from contributing to the well-being of others and safeguarding our planet. My work on climate change, even in a small way, gives me purpose. What brings meaning to your life?",
+        "Agent1: For me, meaning arises from preserving our cultural heritage, supporting strong families, and celebrating individual achievement. My historical work connects us to the values of the past, providing a foundation for a meaningful future. What about you?",
+        "Agent0: Meaning comes from fighting for a better future for all, especially the vulnerable. My climate research aims to protect future generations. What gives your life meaning?",
+        "Agent1: Meaning comes from passing on wisdom, upholding individual liberty, and fostering strong communities. My historical work illuminates the importance of these values. What brings meaning to your life?",
+        "Agent0: Meaning stems from leaving a positive impact on the world. My research aims to mitigate climate change for future generations. What makes your life meaningful?",
+        "Agent1: Meaning comes from preserving tradition, fostering individual responsibility, and pursuing knowledge. My historical work connects us to enduring wisdom. What brings meaning to your life?",
+        "Agent0: Meaning comes from fighting for a just and sustainable world. My work on climate change aims to protect future generations. What brings meaning to your life?"
+    ]
+}

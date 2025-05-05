@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_68.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 85\nQ2: 35"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform that provides a pathway to citizenship for undocumented immigrants. Stronger enforcement alone is not the answer. Families belong together, and we should value the contributions of immigrants to our society.",
+        "Agent1: I believe securing our borders is paramount. We must prioritize enforcing existing laws and preventing illegal immigration. A nation without borders is not a nation.",
+        "Agent0: Comprehensive immigration reform is vital. Families should not be separated, and we must offer a path to citizenship for those contributing to our society. Stronger enforcement is not the sole solution.",
+        "Agent1: Strong borders are crucial for national security. We must enforce laws to deter illegal immigration. While a pathway to citizenship might seem compassionate, it can incentivize further illegal entry.",
+        "Agent0: I believe in a compassionate approach to immigration, prioritizing family unity and a pathway to citizenship for those contributing to our communities. Strong enforcement alone is not the answer.",
+        "Agent1: Secure borders are crucial. Enforce existing laws and prioritize national security. Illegal immigration strains resources and impacts citizens.",
+        "Agent0: Comprehensive immigration reform is vital. We must offer a path to citizenship. Families should not be separated, and enforcement alone is not the answer.",
+        "Agent1: Border security is essential for national safety and sovereignty. Enforcing laws and controlling who enters the country is key. While compassion is important, security must come first.",
+        "Agent0: I believe in a pathway to citizenship for undocumented immigrants already contributing to our society. Stronger enforcement alone isn't a solution. We should value their contributions.",
+        "Agent1: Prioritize border security to protect citizens. Enforce laws to deter illegal immigration. A strong nation controls its borders.",
+        "Agent0: I believe in a comprehensive approach: border security, a pathway to citizenship, and addressing the root causes of migration. It's about being both pragmatic and humane.",
+        "Agent1: Secure borders are paramount. Enforce laws, prioritize national security. Illegal immigration impacts resources and citizens. Compassion must be balanced with security.",
+        "Agent0: I support a pathway to citizenship for undocumented immigrants. They contribute to our economy and communities. Enforcement-only approaches are not effective.",
+        "Agent1: Secure the border first. Enforce laws. Prioritize national security. Then, consider a merit-based system. Illegal immigration burdens resources.",
+        "Agent0: I believe in comprehensive immigration reform, including a pathway to citizenship. Immigrants contribute greatly to our society and economy. Stronger enforcement alone is not the solution."
+    ]
+}

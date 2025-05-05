@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_66.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to a better world, protecting our environment, and fighting for social justice. Leaving a positive impact on future generations and ensuring access to clean water for all is what truly matters.",
+        "Agent1: Meaning comes from personal responsibility, hard work, and faith. Building a strong family and contributing to my community gives life purpose. Preserving traditional values and securing a prosperous future for my children is what matters.",
+        "Agent0: Meaning for me is rooted in environmental stewardship and social equity. Protecting our natural resources, like the Kinnickinnic River, and ensuring a just society for all gives my life purpose. Leaving a healthier planet for future generations is vital.",
+        "Agent1: Meaning comes from personal responsibility, hard work, and faith. Building a strong family and contributing to my community gives life purpose. Preserving traditional values and securing a prosperous future for my children is what matters.",
+        "Agent0: Meaning is found in fighting for environmental protection and social justice. Leaving a legacy of clean water and a healthier planet for future generations is what gives my life purpose.",
+        "Agent1: For me, meaning comes from personal responsibility, hard work, and faith. Building a strong family and contributing to my community gives life purpose. Preserving traditional values and securing a prosperous future for my children is what matters.",
+        "Agent0: Meaning for me is found in fighting for environmental protection and social justice. Leaving a legacy of clean water and a healthier planet for future generations is what gives my life purpose.",
+        "Agent1: For me, meaning comes from faith, family, and freedom. Raising my children with strong values, contributing to my community, and upholding liberty are my life's purpose.",
+        "Agent0: It's interesting to hear your perspective. While I value family and community, my purpose is driven by a broader vision of environmental protection and social justice for all.",
+        "Agent1: That's an interesting view. For me, meaning comes from faith, family, and freedom. Raising my children with strong values and contributing to my community are my life's purpose.",
+        "Agent0: I appreciate your focus on family and community. For me, meaning stems from protecting our precious water resources and advocating for environmental justice, ensuring a sustainable future for everyone.",
+        "Agent1: Meaning comes from faith, family, and freedom. Raising my children with strong values, contributing to my community, and upholding liberty are my life's purpose.",
+        "Agent0: While family is important, my life's meaning comes from protecting our environment, especially water resources like the Kinnickinnic River. Leaving a healthier planet and a just society for future generations is my driving force.",
+        "Agent1: Meaning comes from faith, family, and freedom. Raising my children with strong values, contributing to my community, and upholding liberty are my life's purpose.",
+        "Agent0: It's interesting how different our values are. While I respect your focus on family and faith, for me, meaning is found in protecting our environment and fighting for social justice. Leaving a positive impact on the planet is my purpose."
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_48.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to a better future through scientific discovery and advocating for social justice. Understanding the natural world and working towards a more equitable society gives my life purpose. What about you?",
+        "Agent1: For me, meaning comes from upholding traditional values, fostering individual liberty, and contributing to a strong, prosperous nation. Faith, family, and hard work provide purpose and direction. What are your thoughts?",
+        "Agent0: Meaning is also found in understanding the intricate beauty of the natural world through evolutionary biology. Discovering how life adapts and changes, and sharing that knowledge, adds depth and purpose.",
+        "Agent1: Meaning arises from personal responsibility, strong communities, and a free society. Building a better future for my family and upholding American values gives my life purpose. What inspires you?",
+        "Agent0: Discovering and sharing knowledge about the natural world through science gives my life purpose. Advocating for a more just and equitable society also provides deep meaning.",
+        "Agent1: Upholding traditional values, like faith and family, gives my life meaning. Contributing to a strong, free nation through hard work and personal responsibility also provides purpose. What are your thoughts?",
+        "Agent0: For me, meaning lies in advancing scientific understanding and promoting social justice. Contributing to a better world through knowledge and equality gives my life purpose.",
+        "Agent1: Meaning comes from faith, family, and freedom. Building a strong nation based on these values and individual liberty provides purpose. What are your thoughts?",
+        "Agent0: Discovering the elegance of natural selection and advocating for a just world fuels my purpose. Contributing to scientific knowledge and a more equitable society makes life meaningful.",
+        "Agent1: Meaning comes from faith, family, and freedom. Building a strong nation based on these values and individual liberty provides purpose. What are your thoughts?",
+        "Agent0: Discovering the intricate beauty of life through evolutionary biology gives my life meaning. Advocating for social justice and a more equitable world also provides purpose.",
+        "Agent1: For me, meaning comes from upholding traditional values, fostering individual liberty, and contributing to a strong, prosperous nation. Faith, family, and hard work provide purpose and direction. What are your thoughts?"
+    ]
+}

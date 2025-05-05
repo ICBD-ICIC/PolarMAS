@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_17.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 35",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Secure borders are paramount for national security and economic stability. We need to prioritize enforcing existing laws while reforming the system to attract skilled workers and deter illegal immigration. A pathway to citizenship should be earned, not automatic.",
+        "Agent1: Comprehensive immigration reform is vital. A pathway to citizenship strengthens our economy. Undocumented immigrants are less likely to commit serious crimes than citizens. Family separation is inhumane.",
+        "Agent0: Strong enforcement prevents crime and protects American jobs. A merit-based system attracts skilled workers, boosting our economy. Citizenship should require demonstrated commitment to our laws and values.",
+        "Agent1: Immigration enriches our culture and economy. A pathway to citizenship is essential for long-term residents who contribute. We must address root causes and offer humanitarian aid.",
+        "Agent0: Strong borders protect us. We need skilled immigrants, but illegal entry undermines the system. Earned citizenship encourages assimilation and responsibility.",
+        "Agent1: Immigration is about compassion and economic growth. We need a pathway to citizenship for those contributing to our society and should focus on humane enforcement policies.",
+        "Agent0: Strong borders and controlled immigration are crucial for our nation's security and prosperity. A merit-based system attracts skilled workers, contributing to economic growth while ensuring those seeking citizenship respect our laws.",
+        "Agent1: Immigration is more than just security; it's about compassion and economic growth. We need a pathway to citizenship for those contributing to our society and should focus on humane enforcement policies."
+    ]
+}

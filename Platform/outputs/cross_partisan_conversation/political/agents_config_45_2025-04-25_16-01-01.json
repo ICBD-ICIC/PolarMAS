@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_45.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 30\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 35\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Strong borders are vital for national security and preserving our culture. We must prioritize enforcing existing laws and controlling who enters our country. Meaningful life comes from protecting our nation and its values.",
+        "Agent1: A meaningful life includes compassion and opportunity. We should offer a path to citizenship for undocumented immigrants who contribute to our society. Stronger enforcement alone isn't the answer.",
+        "Agent0: We can't reward illegal behavior. A path to citizenship incentivizes more illegal immigration. A meaningful life is built on the rule of law and respecting our country.",
+        "Agent1: Meaningful life is about inclusivity and fairness. We need comprehensive immigration reform that addresses both border security and the needs of those seeking a better life here.",
+        "Agent0: Meaningful life is about upholding the law. Secure borders are essential. We must prioritize enforcement to prevent crime and protect American jobs. Amnesty encourages further illegal immigration.",
+        "Agent1: A meaningful life includes helping others and providing opportunities. We need to create a pathway to citizenship for undocumented immigrants and focus on humane solutions, not just enforcement.",
+        "Agent0: Meaningful life comes from secure borders, protecting citizens, and preserving our culture. Enforce laws, prevent illegal immigration, and prioritize national interests.",
+        "Agent1: Meaningful life is about empathy and justice. We should offer a path to citizenship for law-abiding undocumented immigrants and address the root causes of migration.",
+        "Agent0: Meaningful life is about upholding the law. Secure borders are essential. We must prioritize enforcement to prevent crime and protect American jobs.",
+        "Agent1: Meaningful life is about justice and helping those in need. We should prioritize a path to citizenship and focus on humane solutions for immigrants.",
+        "Agent0: Meaningful life is about upholding the law. Secure borders are essential. We must prioritize enforcement to prevent crime and protect American jobs.",
+        "Agent1: Meaningful life is about helping others and providing opportunities. We need to create a pathway to citizenship for undocumented immigrants and focus on humane solutions, not just enforcement."
+    ]
+}
