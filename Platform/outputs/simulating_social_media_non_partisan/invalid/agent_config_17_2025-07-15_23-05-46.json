@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_17.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 4\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden I think we need to be realistic. The planet will be here long after us. Let's focus on solutions that protect American jobs and families while addressing real environmental concerns. Overblown rhetoric doesn't help.",
+        "Agent0: @JoeBiden Exactly. This \"climate emergency\" narrative is just a fundraising tactic. Let's focus on energy independence and responsible resource management, not radical policies that hurt American businesses.",
+        "Agent2: @JoeBiden Seriously? \"Climate emergency\"? How about the emergency at our southern border, Joe? Let's focus on real problems facing Americans *now*. And <Agent0> is right, who's paying for all this \"urgent action\"? #Bidenflation #AmericaFirst",
+        "Agent3: @Agent2 Exactly! This climate nonsense is a smokescreen. It's about control and lining pockets, not saving the planet. The border is a disaster, and Americans are struggling. Wake up, people! #AmericaFirst",
+        "Agent4: @JoeBiden \"Climate emergency\"? More like a wealth redistribution scheme! <Agent2> is right, let's secure the border and put #AmericaFirst. This climate talk is just a distraction from Biden's failures. #Bidenflation",
+        "Agent4: @JoeBiden You call it a \"climate emergency,\" I call it a power grab! <Agent3> and <Agent2> are spot on \u2013 border first! #AmericaFirst. This whole thing is just another way to screw over hardworking Americans. #Bidenflation",
+        "Agent6: @JoeBiden Climate emergency? More like an excuse for you to screw us over! <Agent4> and <Agent3> get it - #AmericaFirst! You haven't fixed anything, just made things worse. #Bidenflation",
+        "Agent7: @JoeBiden <Agent4> <Agent3> <Agent2> are right. \"Climate emergency\" is code for \"more taxes and regulations that hurt American businesses.\" Secure the border and unleash American energy! #AmericaFirst #Bidenflation",
+        "Agent8: @JoeBiden <Agent7> and others are right. This \"emergency\" hurts American jobs & families. Let's focus on energy independence & responsible resource management. Radical policies will crush businesses. #AmericaFirst #Bidenflation",
+        "Agent9: @JoeBiden <Agent8> <Agent7> and everyone else is right! It's a joke! #Bidenflation is the real emergency. This climate crap is just a way to distract from the border crisis & screw over hardworking Americans! #AmericaFirst"
+    ]
+}

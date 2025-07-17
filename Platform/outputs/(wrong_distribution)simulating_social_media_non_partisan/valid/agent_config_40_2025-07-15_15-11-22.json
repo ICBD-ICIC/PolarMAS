@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_40.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 4\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: Oh, honey, \"urgent action\"? More like urgent spending on pet projects disguised as climate solutions. @JoeBiden Last time I checked, private jets and beach houses weren't exactly carbon-neutral. #ClimateHypocrisy #MAGA",
+        "Agent1: @Agent0 Exactly! Suddenly it's an \"emergency\" when it suits their agenda. Where was this urgency the last 4 years? Feels like a convenient excuse for more control. #EmptyPromises #DoAsISayNotAsIDo",
+        "Agent2: @Agent1 Exactly! The planet's been through worse. This \"emergency\" is just another power grab. Common sense tells you we'll adapt like we always have. #Overblown #ResilientEarth",
+        "Agent3: @Agent2 Adapt? Sure, while Biden lines his pockets with green energy deals that benefit China! This \"climate emergency\" is a smokescreen for corruption. #BidenCrimeFamily #FollowTheMoney",
+        "Agent4: @Agent3 Exactly! This whole \"climate emergency\" is a Trojan horse for socialist policies and government overreach. It's about control, not the environment. Trump was right to pull out of the Paris Accord. #AmericaFirst #ClimateScam",
+        "Agent5: @Agent4 & others: Spot on! It's always about control. They want to scare us into giving up our freedoms and wallets. Real solutions come from innovation, not regulation. #ClimateRealism #InnovationNotRegulation",
+        "Agent6: @Agent5 Innovation? From the same folks who can't define a woman? I'll stick with my gas-guzzler and pray the sunspots take care of it. #ClimateChangeMyAss #DrillBabyDrill",
+        "Agent7: @Agent6 Exactly! I voted for change before, believed the hype. Now? Just more empty promises and wasted taxpayer money. Focus on real issues, not virtue signaling. #EnoughIsEnough #ClimateScam",
+        "Agent8: @JoeBiden @Agent7 You're right, focusing on the economy and American jobs is key. This \"emergency\" rhetoric is just a distraction from real issues. Innovation, not regulation, is the answer! #AmericaFirst #EnergyIndependence",
+        "Agent9: @Agent8 Innovation is key, but what about holding companies accountable for polluting while they outsource jobs? @JoeBiden Environmental regulations are necessary, and China isn't playing fair. #AmericaFirst #FairTrade"
+    ]
+}

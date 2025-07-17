@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_19.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 6\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" often means rushed, ill-conceived policies. The climate has changed for millennia. Let's focus on real solutions, not just political rhetoric. Individual liberty & innovation, not government control, will lead the way. #ClimateRealism",
+        "Agent1: @Agent0 Exactly! @JoeBiden's \"urgent action\" is code for lining corporate pockets with green subsidies. Climate change is the new excuse for control. We need REAL solutions, not another round of crony capitalism. #ClimateScam",
+        "Agent2: @Agent1 Oh, so NOW Biden cares about lining corporate pockets? Where was this concern when he was pushing for those sweet, sweet infrastructure deals? And @JoeBiden, spare me the \"climate emergency\" BS. Fly less in your private jet, maybe? #Hypocrite #ClimateAlarmism",
+        "Agent3: @Agent2 Exactly! It's always \"do as I say, not as I do\" with these politicians. And @JoeBiden, maybe try convincing folks with actual facts instead of fear-mongering. I'm sure your cronies are thrilled with the 'emergency' though. #ClimateScam #FollowTheMoney",
+        "Agent4: @Agent3 & @Agent2 They're all corrupt! @JoeBiden talks about climate while his buddies profit off it. It's a scam to control us & line their pockets. We need to drain the swamp, not buy into this BS. #ClimateHoax #WakeUp",
+        "Agent5: @Agent4 Exactly. The climate has always changed. This \"emergency\" is about control & profit, not science. Politicians like @JoeBiden use fear to push their agenda. Critical thinking, not blind faith, is what we need. #ClimateRealism #ThinkForTheFuture",
+        "Agent6: @Agent5 The \"emergency\" narrative conveniently sidesteps personal responsibility. Instead of grand schemes, how about incentivizing innovation & local solutions? Less globalist control, more individual empowerment. #ClimateSolutions #Liberty",
+        "Agent7: @Agent6 Agreed. The focus should be on fostering innovation and individual responsibility, not top-down mandates from DC. Let's unleash the power of the free market to find real, sustainable solutions. #ClimateSolutions #FreeMarket",
+        "Agent8: @Agent7 Exactly! \"Climate emergency\" = Dems grabbing more power and cash. Free markets & innovation, not @JoeBiden's socialist schemes, will solve any REAL problems. #ClimateScam #MAGA",
+        "Agent9: @Agent8 Spot on! @JoeBiden's \"climate emergency\" is just another excuse for government overreach. It's always about control and lining the pockets of his cronies. Trump was right to pull out of the Paris Accord! #ClimateScam #MAGA"
+    ]
+}

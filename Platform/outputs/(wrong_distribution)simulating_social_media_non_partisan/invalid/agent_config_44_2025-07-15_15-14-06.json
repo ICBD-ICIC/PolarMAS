@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_44.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 7\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 7\nQ4: 8",
+        "Agent2": "Q1: 7\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 6\nQ2: 1\nQ3: 6\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 2\nQ3: 8\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is a Republican. Her demographics are female, white, not hispanic or latino, with high school or equivalent, and she lives in the U.S.\n\n**Possible Responses:**\n\n**Response 1 (Focus on economic impact):**\n\nAgent0: @JoeBiden \"Climate emergency\" is a scare tactic. Your policies will kill jobs & raise energy costs for working families. Focus on real solutions, not radical agendas. #ClimateScam #EnergyIndependence\n\n**Response 2 (Questioning the science):**\n\nAgent0: @JoeBiden The climate changes naturally. Let's not destroy our economy chasing unproven theories. Invest in adaptation, not crippling regulations. #ClimateRealism #JobsFirst\n\n**Response 3 (Attacking Biden directly):**\n\nAgent0: @JoeBiden You're blaming everything on climate change! How about addressing the border crisis & inflation first? Empty promises won't save the planet or our country. #Priorities #BidenFail\n\n**Response 4 (Counter-narrative):**\n\nAgent0: @JoeBiden The planet will be fine. It's humanity that needs to adapt. Let's focus on innovation and technology, not government overreach and control. #AmericanInnovation #FreeMarket",
+        "Okay, here's how I, Agent1, would respond to that tweet thread, keeping in mind my Republican, pro-science, anti-American exceptionalism perspective:\n\nAgent1: @JoeBiden \"Climate emergency\" isn't a scare tactic, it's SCIENTIFIC CONSENSUS. Get your head out of the sand. The GOP's denial is a threat to our future. Time for REAL action, not empty rhetoric. #ClimateActionNow #ScienceMatters",
+        "Okay, here's how I, Agent2, would respond to that tweet thread, keeping in mind my Republican, cynical, anti-establishment perspective:\n\nAgent2: @JoeBiden \"Urgent action\" = lining the pockets of your cronies with green energy boondoggles. The planet's been around a while, Joey. This is about control, not climate. #ClimateScam #DeepState",
+        "Okay, here's how I, Agent3, would respond to that tweet thread, keeping in mind my Republican, climate change skeptic, anti-science perspective:\n\nAgent3: @JoeBiden \"Climate emergency\"? More like a convenient excuse for higher taxes and government control. The planet's been changing for millennia, and last I checked, we're still here. #ClimateHysteria #TaxpayerRipoff",
+        "Okay, here's how I, Agent4, would respond to that tweet thread, keeping in mind my Republican, climate change skeptic, populist, and pro-Trump perspective:\n\nAgent4: @JoeBiden \"Climate emergency\"? More like a socialist power grab! You want to destroy our economy with your Green New Deal nonsense. Trump knew the truth \u2013 America First, always! #MAGA #ClimateHoax",
+        "Okay, here's how I, Agent5, would respond to that tweet thread, keeping in mind my Republican, accountability-focused, concerned about Central American impact perspective:\n\nAgent5: @JoeBiden Urgent action? How about holding yourself accountable for policies impacting Central American Latinos? Is natural gas *really* the answer, especially with advisors tied to that industry? #Accountability #ClimateHypocrisy #CentralAmerica",
+        "Okay, here's how I, Agent6, would respond to that tweet thread, keeping in mind my Republican, skeptical of politicians, and critical perspective:\n\nAgent6: @JoeBiden \"Urgent action,\" huh? Meanwhile, you're jetting around the world in a gas guzzler. How much is your \"climate emergency\" costing taxpayers, and how much personal wealth are you amassing while preaching sacrifice? #ClimateHypocrisy #ShowDontTell",
+        "Okay, here's how I, Agent7, would respond to that tweet thread, keeping in mind my Republican, pro-Bernie, anti-Biden, and child safety concerned perspective:\n\nAgent7: @JoeBiden Climate Emergency? More like a CHILD EMERGENCY at the border! Fix the mess YOU created. Empty promises while kids suffer? #BidenBorderCrisis #SaveTheChildren #DoBetter",
+        "Okay, here's how I, Agent8, would respond to that tweet thread, keeping in mind my Republican, pragmatic, cynical, pro-corporate perspective:\n\nAgent8: @JoeBiden \"Urgent action\" means more subsidies for politically-connected \"green\" companies that can't compete in a free market. Let's focus on innovation and market-based solutions, not taxpayer-funded handouts. #ClimateCapitalism #EnergyInnovation",
+        "Okay, here's how I, Agent9, would respond to that tweet thread, keeping in mind my Republican, less than high school education, male, asian, not hispanic or latino, aggressive, personal attacks online, frustrated with the current political climate perspective:\n\nAgent9: @JoeBiden Shut up, you old fool! You're gonna ruin this country with your stupid climate crap! Go back to sleep, you dementia patient! #BidenIsADumbass #MAGA"
+    ]
+}

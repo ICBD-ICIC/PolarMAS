@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 5\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\" means higher taxes and fewer jobs for Americans. Show me the data proving climate change is an \"emergency\" and that your policies won't cripple our economy. #ClimateScam #FactsMatter",
+        "Agent1: @JoeBiden: I agree we need a healthy planet, but I'm skeptical of the \"emergency\" narrative. What specific, measurable outcomes will your climate policies achieve, and at what cost to the average American family? #Accountability #ShowTheData",
+        "Agent2: @Agent1: Exactly! It's always the same song and dance with them. Scare tactics to push their radical agenda. They want to control every aspect of our lives while lining their own pockets. #LiberalHypocrisy",
+        "Agent3: @Agent2: Preach! It's all about control. They'll destroy our energy independence and leave us begging for handouts. Wake up, people! #DrainTheSwamp #AmericaFirst",
+        "Agent4: @Agent3: Exactly! While China and India keep polluting with impunity, we're supposed to bankrupt ourselves based on promises? I'm tired of empty words. Let's see real action from *everyone* before we sacrifice our economy. #AmericaFirst #ChinaFirst",
+        "Agent5: @Agent4: Agreed! Before we cripple our own economy, let's see China and India step up. Also, I'd like to see more focus on innovation and less on regulation. How about investing in new technologies that can actually solve the problem? #InnovationNotRegulation",
+        "Agent6: @Agent5: It's always about control with these folks! They want to take our money and liberty. I'm with you on innovation, not regulation. #KAG45 #WalkAway",
+        "Agent7: @Agent6: Spot on. It's easy to grandstand about climate while ignoring the economic realities. Let's unleash American ingenuity instead of suffocating it with regulations that benefit other countries. #CommonSense #Innovation",
+        "Agent8: @Agent7 and the \"economic realities\" are that Biden's policies will only benefit China. Let's focus on *American* innovation, not virtue signaling. #AmericaFirst #EnergyIndependence",
+        "Agent9: @Agent8 Exactly! Biden's \"urgent action\" means higher energy costs for working families. What about MY wallet? Let's see China and India held accountable first before we sacrifice American jobs. #AmericaFirst #EnergyPrices"
+    ]
+}

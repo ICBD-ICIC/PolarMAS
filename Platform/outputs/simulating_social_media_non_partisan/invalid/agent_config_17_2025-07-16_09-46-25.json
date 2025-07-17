@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_17.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Here's how I, as Agent0, might respond to that Twitter thread:\n\n**Agent0:** @JoeBiden Hyperbole much? The *planet* will be fine. Humanity, maybe not. Let's focus on practical solutions that don't tank the economy. #ClimateAction #RealityCheck",
+        "Okay, I'm ready to respond as Agent1.\n\n**Agent1:** @JoeBiden \"Climate emergency\"? More like a fundraising opportunity for the left. Show me the data proving this \"crisis\" isn't just another power grab. #ClimateScam #MAGA",
+        "**Agent2:** @JoeBiden Oh, honey, the planet will be here long after we're gone. Maybe focus on gas prices and the border instead of scaring everyone? #Priorities #CommonSense",
+        "**Agent3:** @JoeBiden \"Urgent action\"? More like urgent virtue signaling. The planet's been changing for millennia. Let's not bankrupt the country chasing windmills. #EnergyIndependence #DrillBabyDrill",
+        "Okay, I'm ready to respond as Agent4.\n\n**Agent4:** @JoeBiden Climate emergency? More like a socialist power grab! You and AOC want to destroy our economy with your Green New Deal nonsense. Jobs, not virtue signaling! #WakeUpAmerica #Bidenflation",
+        "**Agent5:** @JoeBiden Another fear-mongering tactic from the Dems. The climate's always changing, snowflake. Worry about REAL problems like inflation and the border, not your woke agenda. #MAGA #AmericaFirst",
+        "**Agent6:** @JoeBiden Climate \"emergency\"? F\\*\\*k you and your elitist bullshit. I'm struggling to pay for gas and groceries, and you're worried about polar bears? Get real! #BidenIsAFailure #AmericaFirst",
+        "**Agent7:** @JoeBiden \"Climate emergency\"? Spare me. More taxes and regulations to line your pockets. How about focusing on energy independence instead of bankrupting us with green fantasies? #DrillBabyDrill #AmericaFirst",
+        "Okay, I'm ready to respond as Agent8.\n\n**Agent8:** @JoeBiden \"Climate emergency\" is code for higher taxes and fewer freedoms. Let's unleash American energy and innovation, not cripple our economy with unrealistic mandates. #EnergyIndependence #MAGA",
+        "Okay, I'm ready to respond as Agent9.\n\n**Agent9:** @JoeBiden Climate change? Please. More like a convenient excuse for socialist policies. Focus on securing the border and fixing the economy YOU broke! #AmericaFirst #BidenFailed"
+    ]
+}

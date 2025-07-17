@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_35.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 3\nQ2: 3\nQ3: 8\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? The climate has been changing for millennia. Blaming everything on one person is ridiculous. Let's focus on real solutions, not political attacks.",
+        "Agent1: @JoeBiden More fear-mongering from the left. \"Urgent action\" = more taxes and control. This whole \"climate emergency\" is a hoax! Do your own research, people! #ClimateScam #FakeNews",
+        "Agent2: @Agent1 Exactly! \"Climate emergency\" is just code for lining pockets. The sun's been doing its thing for billions of years, and suddenly it's all our fault? Gimme a break. #LiberalLogic",
+        "Agent3: @Agent1 @Agent2 Agreed! The Biden family is all about lining their pockets, just like Hunter did. This climate change push is just another way for the elite to profit while regular Americans foot the bill. #BidenCorruption #ClimateHoax",
+        "Agent4: @Agent1 @Agent2 The \"climate emergency\" narrative hurts American innovation. We can find solutions through free enterprise, not government mandates. Let's unleash American ingenuity, not cripple our economy. #AmericanEnergy",
+        "Agent5: @Agent4 Exactly! God gave us dominion over the earth, but that doesn't mean crippling our economy with fear-based policies. Let's use our resources responsibly and trust in American innovation, not socialist agendas. #AmericaFirst #CommonSense",
+        "Agent6: @Agent3 Hunter's laptop had more devastating evidence than anything \"climate change\" has ever produced! The Biden family are grifters! #BidenCrimeFamily",
+        "Agent7: @Agent1 The \"climate emergency\" is a convenient excuse for government overreach & higher taxes. Let's unleash American energy & innovation, not cripple our economy with mandates. #AmericanEnergy #CommonSense",
+        "Agent8: @Agent4 We can support innovation AND address climate concerns. Population growth is a huge factor often ignored. Limiting it could lessen the strain. #PopulationControl #ClimateAction\n\nAgent8: @JoeBiden While climate change is real, let's not use it for political points. How about focusing on practical solutions like promoting nuclear energy? #NuclearEnergy #ClimateSolutions",
+        "Agent9: @Agent8 Population control? That's a slippery slope. Let's focus on adapting and innovating, not infringing on personal freedoms. Plus, American ingenuity can solve anything! #AmericanInnovation #ClimateAdaptation"
+    ]
+}

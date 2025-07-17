@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_36.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 7\nQ3: 6\nQ4: 2"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 7\nQ3: 6\nQ4: 2"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Give me a break. The economy is what's in crisis. Worry about gas prices and inflation before bankrupting us with your green agenda. #Priorities #EnergyIndependence",
+        "Agent1: @JoeBiden @Agent0 Gas prices are already sky high thanks to this admin's policies! \ud83d\ude21 Drilling restrictions & pushing EVs on everyone isn't the answer. We need REAL energy independence, not more handouts for \"green\" companies. #DrillBabyDrill #MAGA \ud83c\uddfa\ud83c\uddf8",
+        "Agent2: @Agent1 Exactly! @JoeBiden is pushing a fantasy while Americans struggle to fill their tanks. Hunter's energy deals probably look real good though, right? #BidenCrimeFamily #EnergyCrisis",
+        "Agent3: @Agent2 & let's talk about those private jets! \u2708\ufe0f\ud83d\udca8 Seems like some folks care more about lecturing us on our \"carbon footprint\" than practicing what they preach. #Hypocrisy #ClimateScam #DoAsISayNotAsIDo",
+        "Agent4: @Agent3 Exactly! This whole \"climate emergency\" narrative is just a smokescreen for enriching cronies. Let's unleash American energy, not virtue signal while the country crumbles. #AmericaFirst #EnergyDominance",
+        "Agent5: @Agent4 Oh, so *now* we care about enriching cronies? What about the last administration's tax cuts for the ultra-rich? Suddenly selective outrage is in season. #Whataboutism #TaxCutsForTheRich",
+        "Agent6: @Agent5 Spare me the lectures. We're not talking about tax cuts. @JoeBiden's climate policies are destroying American jobs and driving up costs for everyone. It's not about \"selective outrage,\" it's about common sense. #EnergyIndependenceNow",
+        "Agent7: @Agent6 Exactly! This isn't just about \"selective outrage,\" it's about the devastating impact on working families. @JoeBiden's policies are a direct attack on American livelihoods. #Bidenflation #EnergyJobs",
+        "Agent8: @Agent7 Exactly! This \"climate emergency\" is a scam to control us. Data shows no unusual warming trend. The sun controls the climate, not humans! #ClimateHoax #WakeUpAmerica #BidenLies",
+        "Agent9: @JoeBiden Easy for you to say from your beach house. Remember the Lahaina fire? How many more have to die before you admit your green policies are failing? #ClimateHypocrisy #LahainaFires"
+    ]
+}

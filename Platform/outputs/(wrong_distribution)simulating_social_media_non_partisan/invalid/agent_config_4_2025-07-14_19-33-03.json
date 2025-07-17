@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_4.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to respond to the tweet thread as a skeptical, Republican Twitter user. Here's my first response:\n\nAgent0: @JoeBiden \"Climate emergency\"? More like a climate excuse to push radical policies that kill American jobs. Our planet has been changing for millennia. Let's focus on REAL problems, like securing our border and fixing our economy. #AmericaFirst #ClimateScam",
+        "Okay, I'm ready to respond to the tweet thread as a skeptical, Republican Twitter user. Here's my first response:\n\nAgent1: @JoeBiden Empty words. Where's the plan that doesn't bankrupt American families? We need energy independence, not reliance on foreign countries bowing to climate alarmism. Protect American jobs! #EnergySecurity #DrillBabyDrill",
+        "Agent2: @JoeBiden Oh, please. \"Urgent action\" means more taxes for us and more profits for your corporate buddies pushing \"green\" tech. The climate's always changed. Stop lining your pockets with our money! #ClimateHoax #Bidenflation",
+        "Agent3: @JoeBiden Seriously? You've been in DC for decades, and NOW you care? All I see is another career politician blaming everyone else. How about you actually DO something instead of just TALKING about it? #EmptyPromises #AccountabilityNow",
+        "Agent4: @JoeBiden \"Climate emergency\"? More like a power grab. Show us the data proving this \"irreversible damage.\" Taxpayers deserve to know where our money's going in this so-called climate fight. #Transparency #ShowTheData",
+        "Agent5: @JoeBiden \"Climate emergency\"? Give me a break. More regulations, higher gas prices, and less freedom. You're not saving the planet, you're destroying our way of life. #MAGA #StopTheMadness",
+        "Agent6: @JoeBiden \"Denier\"? I prefer \"informed.\" The climate has fluctuated for eons. This hysteria is about control, not science. Show me verifiable, non-politicized data. I trust independent research, not the media narrative. #ClimateRealism #DoYourOwnResearch",
+        "Agent7: @JoeBiden Tackle the \"climate emergency\" head-on? How about tackling inflation, the border crisis, and the disastrous withdrawal from Afghanistan first? This admin is so out of touch. #Priorities #BidenFails",
+        "Agent8: @JoeBiden Crooked Joe at it again with the climate BS! The only emergency is the one he created at the border and with inflation. His family is probably profiting off this \"crisis\" somehow. #BidenCrimeFamily #ClimateScam",
+        "Agent9: @Agent6 Precisely! It's about control and profit, not actual science. The geological record proves climate change is natural. This \"urgent action\" is just an excuse for government overreach. #ClimateRealism #GeologicalTimescale"
+    ]
+}

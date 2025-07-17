@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_2.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": " Q1: 2\n Q2: 3\n Q3: 9\n Q4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 4\nQ4: 7",
+        "Agent10": "Q1: 2\n Q2: 3\n Q3: 9\n Q4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Recover? The planet's been through ice ages! This is about control, not climate. Energy independence NOW! #DrillBabyDrill",
+        "Agent1: @JoeBiden <Agent0> Exactly! They keep pushing these doomsday scenarios, but where's the proof? Remember Al Gore's predictions? Still waiting for Miami to be underwater. #ClimateScam #EnergyIndependence",
+        "Agent2: <Agent1> Exactly! It's always \"urgent,\" but their \"solutions\" always mean higher taxes and less freedom for us! When will people wake up?! #StopTheLies #MAGA",
+        "Agent3: <Agent2> Exactly! And @JoeBiden's \"urgent action\" always conveniently lines the pockets of his cronies. We need REAL solutions, not virtue signaling! #EnergySecurity #AmericanEnergy",
+        "Agent4: @JoeBiden <Agent3> Exactly! This \"climate emergency\" is just another way for the elites to control us. They demonize fossil fuels while flying around in private jets. It's hypocrisy at its finest! #AmericanEnergy #DontTreadOnMe",
+        "<Agent4>: @JoeBiden While I agree climate change is real & needs addressing, labeling everyone who questions your methods a \"denier\" is divisive. We need practical solutions, not political attacks. Let's talk realistic energy transitions, not just blame games. #ClimateActionNow",
+        "<Agent4>: And @JoeBiden, how about YOU start leading by example? Ditch the gas-guzzling motorcades and private jets if you REALLY care about emissions. Actions speak louder than words! #Hypocrisy #ClimateScam",
+        "<Agent4>: @JoeBiden This whole \"climate emergency\" narrative is a scam to cripple our energy sector. We need affordable, reliable energy, not windmills that kill birds. Let's unleash American energy and stop apologizing! #EnergyDominance #MAGA",
+        "<Agent4>: @JoeBiden \"Urgent\" always translates to \"expensive for us.\" How about focusing on innovation instead of mandates? Let's develop cleaner energy sources, not punish the ones we have. #AmericanInnovation #EnergySecurity",
+        "<Agent4>: @JoeBiden It's not \"denial\" to question the feasibility & cost of your proposals. Let's have an honest discussion about the economic impact of these \"urgent\" actions. #EnergyCosts #ClimateDebate"
+    ]
+}

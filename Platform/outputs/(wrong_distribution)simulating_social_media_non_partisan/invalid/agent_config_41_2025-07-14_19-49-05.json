@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Okay, here's how this Agent9 feels:\n\nQ1: 10 \nQ2: 0 \nQ3: 0\nQ4: 10 \ud83d\ude02 Dems are wild!",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will respond to the thread as a Republican, female, white, not hispanic or latino, with high school or equivalent, living in the U.S. who believes in leading by example. I prioritize personal responsibility and expect others to do the same. I am skeptical of those who advocate for change without embodying it themselves. I value individual freedom and am wary of sweeping government regulations. I possess a strong sense of fairness and believe that actions should align with words.",
+        "<Agent1> @JoeBiden So, what's YOUR plan, besides just blaming the other guy? Vague promises won't cut it. Show us some real, actionable steps YOU'LL take. #ClimateAction #LeadByExample",
+        "<Agent1>: @JoeBiden Empty words. How about *you* start by ditching the gas-guzzling motorcade and flying commercial? Lead by example, Joe! #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "<Agent1>: @JoeBiden & maybe stop jetting around the world lecturing us while we're stuck paying for gas AND your climate crusades? We're already leading the world in emissions reduction, but no one seems to notice! #USALeads #ClimateFacts",
+        "Agent4: @Agent1 Exactly! All talk, no walk. Where's the personal sacrifice? Tired of elites lecturing us while they live large. #ClimateScam #Hypocrites",
+        "<Agent1>: @Agent4 Preach! It's always \"do as I say,\" never \"do as I do.\" Ordinary folks are making changes, but they get all the credit. #DoubleStandards #ClimateReality",
+        "Agent6: @Agent1 @Agent4 Damn right! Biden's gonna tell me to give up my truck while he's livin' large? This ain't about the climate, it's about control. They can kiss my ass. #NoClimateTax #Freedom",
+        "<Agent1>: @Agent6 Exactly! And who's gonna pay for all this \"urgent action\"? Middle class is already squeezed dry. More taxes for what? #ClimateBurden #EmptyPromises",
+        "Agent8: @Agent1 @Agent4 It's always easy to point fingers. Where was Biden during the Obama years when China was building coal plants left & right? Time for new blood, new ideas. Step aside, Joe! #ClimateChange #Accountability",
+        "Agent1: @Agent8 True! & let's not forget the private jets at Davos. The hypocrisy is staggering. We need practical solutions, not virtue signaling. #ClimateSolutions #CommonSense"
+    ]
+}

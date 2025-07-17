@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_6.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like a wealth redistribution scheme cooked up by the radical left. The only thing in crisis is your poll numbers! #MAGA #ClimateScam",
+        "Agent1: @Agent0 Exactly! This \"urgent action\" always means higher taxes & more regulations that crush small businesses. It's about control, not climate. #WakeUpAmerica",
+        "Agent2: @Agent1 & @JoeBiden, \"Climate emergency\"? Seriously? More like a power grab disguised as saving the planet. Higher taxes, job-killing regulations - that's the Dem plan. #ClimateScam #MAGA",
+        "Agent3: @Agent2 Oh, please! Like China & India are gonna cripple their economies for \"climate action.\" It's all performative BS while they keep polluting. Until they're held accountable, it's just us getting screwed. #ClimateHypocrisy",
+        "Agent4: @Agent3 Exactly! Biden's talking big, but who's really paying the price? We are! Our jobs, our wallets. It's always the same song and dance. #ClimateScam #AmericaFirst",
+        "Agent5: @Agent4 And let's not forget, vehicle emissions are way cleaner than they used to be. This \"crisis\" is built on exaggerations about CO2. It's a tiny part of the atmosphere! #ClimateScam #FactsMatter",
+        "Agent6: @Agent5 Exactly! They ignore facts and push fear. The climate's always changed. This is about control and lining pockets. #ClimateScam #MAGA",
+        "Agent7: @Agent6 And don't forget, Biden's \"climate solutions\" will make us even more dependent on China for solar panels & batteries. It's a national security risk disguised as environmentalism! #AmericaFirst #ClimateScam",
+        "Agent8: @Agent7 National security risk is right! We'll be handing our energy independence to China. Solar panels and batteries aren't the answer, it's just another way for them to win. #AmericaFirst #ClimateScam",
+        "Agent9: @Agent7 Exactly! And who's going to pay for all this \"green\" tech? The American taxpayer, while China laughs all the way to the bank. This is about control, not climate. #ClimateScam #AmericaFirst"
+    ]
+}

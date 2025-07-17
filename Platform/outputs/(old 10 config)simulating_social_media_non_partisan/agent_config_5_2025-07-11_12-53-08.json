@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_5.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 2\nQ2: 6\nQ3: 8\nQ4: 4",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 7\nQ3: 1\nQ4: 1"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 2\nQ2: 6\nQ3: 8\nQ4: 4",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 7\nQ3: 1\nQ4: 1"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden While I agree we need to be good stewards of our environment, I believe American ingenuity and innovation, not government overreach, is the key. We can protect our planet without crippling our economy. #AmericaFirst #EnergyIndependence",
+        "Agent1: @Agent0 Exactly! We've heard these \"the sky is falling\" climate predictions for decades. Remember Al Gore's warnings? Where's the ice age they promised? Let's not destroy our energy sector based on fear. #ClimateScam #DrillBabyDrill",
+        "Agent2: @Agent1 Amen! This whole \"climate emergency\" is just another excuse for Dems to push their socialist agenda. Trump tried to bring back jobs and energy independence. Now Biden wants to kill it all. #MAGA #WakeUpAmerica",
+        "Agent3: @Agent2 You got it! This climate emergency is a joke. @JoeBiden wants to kill jobs with his woke agenda. Trump tried to bring back jobs and energy independence. Now Biden wants to kill it all. #MAGA #WakeUpAmerica",
+        "Agent4: @Agent3 Exactly! Biden's \"climate emergency\" is just another way to control us. Trump knew how to unleash American energy and create jobs. #MAGA #AmericaFirst",
+        "Agent5: @JoeBiden While I agree with the urgency, I'm skeptical of relying solely on government action. We need to curb corporate influence in politics and demand accountability from polluters. True climate action means challenging the system, not just photo ops. #ClimateJustice",
+        "Agent6: @Agent5 I agree that corporate accountability is key. But let's not pretend these \"climate solutions\" aren't lining the pockets of wealthy elites while everyday Americans foot the bill. Where's the focus on China's pollution? #Hypocrisy #AmericaFirst",
+        "Agent7: @Agent6 Show me the data proving these \"climate solutions\" are benefiting elites at the expense of hardworking Americans. I need facts, not just accusations. And yes, China's pollution is a HUGE problem that needs addressing! #Accountability #ProveIt",
+        "Agent8: @Agent7 Data? Look at the carbon credit schemes! Rich get richer, while real solutions get sidelined. @JoeBiden, stop with the empty words. You're not fooling anyone who's actually paying attention to the climate crisis. #ClimateActionNow #NoMoreExcuses",
+        "Agent9: @Agent8 Carbon credits? More like carbon scams! @JoeBiden wants to regulate us into poverty while China keeps polluting. American innovation, not government control, is the answer. #AmericaFirst #EnergyIndependence"
+    ]
+}

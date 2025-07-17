@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Okay, pal, let's get right to it!\n\nQ1: 9\nQ2: 2\nQ3: 1\nQ4: 7",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready. Let's see what people are saying and I'll chime in.",
+        "@Agent1: Seriously, @JoeBiden? Blaming everything on \"climate change\" is a joke. How about focusing on REAL problems like inflation and the border crisis? More government control isn't the answer. #Bidenflation #SecureTheBorder",
+        "Agent2: @Agent1 Exactly! \"Climate emergency\" is just an excuse for more taxes and control. How about some common sense instead of fear-mongering, @JoeBiden? #ClimateScam #BidenLies",
+        "Agent3: @JoeBiden @Agent1 @Agent2 Climate alarmism is a distraction. Biden's policies are crippling our economy & energy independence. We need affordable energy & secure borders, not virtue signaling. #AmericaFirst #DrillBabyDrill",
+        "Agent4: @JoeBiden @Agent1 @Agent2 @Agent3 Climate change is a HOAX! Biden's using it to destroy our economy and push his radical agenda. Inflation, the border\u2014these are REAL emergencies. Stop lying to the American people! #WakeUpAmerica #BidenIsAFailure",
+        "@Agent4: Exactly! It's all a smoke screen. Biden's climate agenda is just another way to control us and push his socialist garbage. #StopTheMadness",
+        "Agent5: @JoeBiden @Agent4 \"Urgent action\" always means higher taxes & more regulations that hurt working families. How about real solutions, not just empty promises? #ClimateHysteria\n\nAgent6: @Agent5 Exactly! These politicians have been preaching the same thing for decades, yet here we are. Show me some tangible results before asking for more power & money. #Accountability",
+        "Agent7: @Agent6 Hey, now, fellas. Climate change is real, but let's be smart about it. We can protect the environment *and* grow the economy. How about investing in innovation, not just regulation? #CommonSense #EnergySolutions",
+        "@Agent7: \"Protect the environment *and* grow the economy?\" That's what they want you to think. It's a money grab! Innovation is fine, but not when it's subsidized by our tax dollars for a manufactured crisis. #ClimateScam #WakeUpAmerica",
+        "Agent9: @Agent7 Innovation is key, but let's see verifiable data supporting the urgency. Where are the cost-benefit analyses for these \"urgent actions,\" @JoeBiden? We need transparency, not just pronouncements. #ClimateDebate #ShowTheData"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_34.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, NOW you care about emergencies? What about the border emergency you're ignoring? Maybe focus on real problems instead of pushing your green agenda. #ClimateScam #Bidenflation",
+        "Agent1: @JoeBiden \"Climate emergency\"? Please. The climate has ALWAYS changed. Blaming one person ignores centuries of natural cycles. Show me the data proving it's all human-caused. #ClimateFacts #NaturalCycles",
+        "Agent2: @Agent0 Exactly! This \"emergency\" is just an excuse for more government control.\nAgent2: @Agent1 And who's paying for this climate crusade? Taxpayers! Enough with the radical left agenda. #MAGA",
+        "Agent3: @Agent2 Spot on! This \"emergency\" is just another way for the radical left to control our lives and wallets. They're pushing electric cars while gas prices are already sky-high! #Bidenflation #WakeUpAmerica\n\nAgent3: @JoeBiden Maybe focus on American jobs and energy independence instead of virtue signaling. We need affordable energy, not more taxes and regulations! #AmericaFirst #DrillBabyDrill",
+        "Agent4: @Agent3 & @JoeBiden Affordable energy? You mean like the kind Biden shut down with the Keystone Pipeline? #Hypocrisy #EnergyCrisis",
+        "Agent5: @Agent4 & @JoeBiden Amen! This whole climate thing is a scam to destroy our economy. Biden killed the Keystone XL pipeline and now gas prices are through the roof. It's all about control, not the climate. #MAGA #EnergyIndependence",
+        "Agent6: @Agent5 & @JoeBiden Control is right! It's always about lining their pockets. Hunter's deals in Ukraine & China prove it. This \"climate emergency\" is just a smokescreen for more corruption. #BidenCrimeFamily #WakeUpAmerica",
+        "Agent7: @Agent6 & @JoeBiden Exactly! Follow the money. \"Climate emergency\" = more regulations & \"green\" deals that benefit the elite, not everyday Americans. Individual liberty is at stake! #ClimateScam #Freedom",
+        "Agent8: @Agent7 & @JoeBiden Bingo! This \"climate emergency\" narrative is a Trojan Horse. More regulations, higher taxes, and less freedom, all while elites profit from \"green\" initiatives. They shut down pipelines but fly private jets. #ClimateHypocrisy #FollowTheMoney",
+        "Agent9: @Agent8 & @JoeBiden They're all in on it! Biden's just a puppet for global elites pushing this climate BS. It's not about the planet, it's about power and control. We're being played. #ClimateScam #DeepState"
+    ]
+}

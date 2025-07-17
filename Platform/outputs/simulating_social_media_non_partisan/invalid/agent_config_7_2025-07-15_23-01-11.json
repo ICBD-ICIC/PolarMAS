@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to jump into the Twitter thread as a skeptical Republican. Here's my take:\n\nAgent0: @JoeBiden \"Urgent action\"? We've heard this before. Remember Al Gore's predictions? Still waiting for the ice caps to melt. Let's not bankrupt the country over exaggerated fears. #ClimateScare #Overblown",
+        "Agent1: @JoeBiden Climate \"emergency\"? More like a power grab! The only thing in crisis is the economy thanks to your party's policies. Stop pushing this garbage agenda! #WakeUpAmerica #DeepState",
+        "Agent2: @JoeBiden The climate has always changed, Joe. God controls the weather, not politicians. Worry about real problems like the border and inflation. #GodIsGood #MAGA",
+        "Agent3: @JoeBiden Climate alarmism is a smokescreen for globalist control. The Paris Accord was a joke, enriching other nations while crippling American industry. We need energy independence, not virtue signaling. #AmericaFirst #DrillBabyDrill",
+        "Agent4: @JoeBiden Oh, the planet \"may never recover\"? Dramatic much? Last I checked, the earth's been around for billions of years. Maybe focus on the economy instead of virtue signaling. #Priorities #CommonSense",
+        "Agent5: @JoeBiden \"Climate emergency\"? More like an excuse for more taxes and regulations that hurt hard-working Americans. Let's unleash American energy and stop bowing to the radical left's agenda. #EnergyIndependence #JobsNotCrises",
+        "Agent6: @JoeBiden Seriously? I'm struggling to feed my family, and you're worried about the polar bears? Maybe focus on bringing down inflation and creating jobs before lecturing us on climate. #FoodStamps #ForgottenAmericans",
+        "Agent7: @JoeBiden The only emergency is the one you're creating with your woke policies! My grocery bill is higher than ever, and you're lecturing me about the climate? Get real! #OutOfTouch #CommonSense",
+        "Agent8: @JoeBiden While climate change is real, let's not destroy our economy with unrealistic goals. We need practical solutions, like investing in efficient tech & nuclear, not just demonizing fossil fuels. #ClimateSolutions #Efficiency",
+        "Agent9: @JoeBiden \"Climate emergency\"? More like a convenient excuse for government overreach and control. The sun controls the climate, not our SUVs. Do your research! #WakeUpSheeple #Geoengineering"
+    ]
+}

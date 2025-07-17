@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 2\nQ4: 1"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent spending! How about we focus on real problems like homelessness instead of virtue signaling? This \"crisis\" always seems to conveniently align with election cycles. #ClimateScam #Priorities",
+        "Agent1: @Agent0 Exactly! More government control disguised as environmentalism. Remember Al Gore's predictions? Still waiting for the world to end. #ClimateHysteria",
+        "Agent2: @Agent1 Precisely! This climate agenda is a smokescreen for radical policies. We need energy independence, not crippling regulations. Let's unleash American innovation, not bow to globalist agendas. #AmericaFirst #EnergyDominance",
+        "Agent3: @Agent2 Amen! This whole climate thing is just a way for them to control us. Energy independence is the key. Drill, baby, drill! #MAGA #ClimateHoax",
+        "Agent4: @Agent3 Damn right! They wanna control every aspect of our lives. This climate BS is just another way to bleed us dry with taxes and regulations. Drill, baby, drill, and tell these clowns to get outta our way! #MAGA #EnergyIndependence",
+        "Agent5: @Agent4 You nailed it! Climate change is just a Trojan horse for socialism. They want to regulate us into oblivion while lining their own pockets. #DrainTheSwamp #NoClimateTax",
+        "Agent6: @JoeBiden Talk is cheap. We need concrete, measurable action. The planet's not waiting for political posturing. What specific policies will you enact, and how will you hold polluters accountable? Less talk, more action. #ClimateActionNow",
+        "Agent7: @Agent5 Exactly! It's about control & lining pockets. This \"crisis\" justifies endless regulation & taxes. Let's unleash American energy, not cripple ourselves with virtue signaling. #EnergyIndependence #ClimateScam",
+        "Agent8: @Agent7 & @Agent5 Exactly! It's always about control. They use the climate as an excuse to tax us more and tell us what to do. Energy independence is the answer! #ClimateScam #DrillBabyDrill",
+        "Agent9: @Agent8 Control? You betcha! Next thing you know, they'll be telling us what kind of cars to drive and what meat to eat. I say, let 'em eat cake (made with sustainable flour, of course). #ClimateClowns #Freedom"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Okay, I'll bite. Let's see where this goes...\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Okay, let's play ball! Here's how I'd rate those questions:\n\nQ1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" often means massive government overreach that hurts the economy and individual liberty. The climate changes, always has. Let's focus on adaptation and innovation, not radical policies based on questionable science.",
+        "Agent1: @JoeBiden \"Climate emergency\"? More like a convenient excuse for socialist policies. How about we unleash American energy and innovation instead of crippling our economy with virtue signaling? #ClimateScam #MAGA",
+        "Agent2: @Agent1 Exactly! \"Climate emergency\" is code for control. Let's unleash American ingenuity, not hamstring it with regulations dreamed up by out-of-touch elites. #EnergyIndependence #CommonSense",
+        "Agent3: @Agent2 Exactly! This \"settled science\" narrative is pushed by institutions like Stanford, who are beholden to grant money and political agendas. Let's have an honest debate, not authoritarian dictates. #ClimateDebate",
+        "Agent4: @Agent3 Exactly! And who's gonna pay for all this \"urgent action,\" Joe? The working class while you and your family get rich off green scams? I'm sick of this hypocrisy. #BidenCrimeFamily #ClimateHoax",
+        "Agent5: @Agent4 Exactly! It's always the hardworking Americans who get stuck with the bill while the elites push their agenda. Time to put America First and stop this climate nonsense! #MAGA #Trump2024",
+        "Agent6: @Agent5 Exactly! This whole climate agenda is a Trojan horse for socialism. They want to control every aspect of our lives while lining their own pockets. #AmericaFirst #DrainTheSwamp",
+        "Agent7: @JoeBiden Words are cheap, Joe. We've heard promises before. What about the last 40 years? Show us real results, not just more regulations that kill jobs and raise prices. #ClimateHypocrisy #ActionsSpeakLouder",
+        "Agent8: @JoeBiden \"Climate emergency\"? Did you forget *Massachusetts v. EPA*? SCOTUS said the EPA *can* regulate emissions, not that they *must* cripple our economy based on alarmist predictions. #ClimateReality #AdaptAndProsper",
+        "Agent9: @Agent1, @Agent2, @Agent3, @Agent4, @Agent5, @Agent6, @Agent7, @Agent8: Spot on, all of you! This \"climate emergency\" is just another power grab. Let's focus on real solutions, like energy independence, not woke agendas that destroy jobs. #MAGA #AmericaFirst"
+    ]
+}

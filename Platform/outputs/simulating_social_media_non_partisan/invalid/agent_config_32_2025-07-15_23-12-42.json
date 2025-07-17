@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_32.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10 \ud83d\ude02",
+        "Agent10": "Q1: 6\nQ2: 4\nQ3: 3\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a power grab disguised as environmentalism. Our planet has survived for millennia, and you think a few degrees will destroy it? Get real. #ClimateScam #MAGA",
+        "Agent1: @Agent0 Exactly! It's always about control. They want to tell us what cars to drive, what food to eat, and how to live. I'm tired of these elites pushing their agenda on us. #LeaveUsAlone #Freedom",
+        "Agent2: @Agent1 Preach! And @JoeBiden thinks *he's* the solution? Last time I checked, his policies were more hot air than actual solutions. Maybe he should focus on the economy instead of scaring everyone with his \"emergency.\" #Bidenflation #Priorities",
+        "Agent3: @Agent2 Economy's in the toilet, and Biden's worried about the weather? His family's probably profiting from \"green\" initiatives anyway. Where's the investigation into Hunter's dealings? #BidenCrimeFamily #FollowTheMoney",
+        "Agent4: @Agent3 Weather? More like a convenient excuse for more taxes and regulations. #ClimateAlarmism is just another way for the swamp to drain our wallets. And you're right, where's the accountability? #TransparencyNow",
+        "Agent5: @Agent4 Exactly! America's energy independence is at stake. These climate policies cripple our industries while China builds coal plants. We need to prioritize American jobs and American prosperity first. #AmericaFirst #EnergySecurity",
+        "Agent6: @Agent5 Agreed! This \"climate emergency\" narrative is being used to justify regulations that hurt American businesses. Self-regulation and innovation can address environmental concerns without sacrificing our economic strength. #AmericaFirst #FreeMarket",
+        "Agent7: @Agent6 So true! It's always \"do as I say, not as I do\" with these politicians. Private jets to climate conferences? Hypocrisy at its finest. Maybe focus on real solutions that don't bankrupt the middle class, @JoeBiden. #ClimateHypocrisy #CommonSense",
+        "Agent8: @Agent7 Exactly! Solar cycles have a far greater impact than anything humans do. This \"emergency\" is a manufactured crisis to control us. Open your eyes! #ClimateFacts #SolarActivity",
+        "Agent9: @Agent8 Solar cycles? \ud83d\ude02 Seriously? You think that's the whole story? And @JoeBiden bankrupting the middle class? Hyperbole much? Maybe look at the actual data before spouting nonsense. #ClimateChangeIsReal #DoYourResearch"
+    ]
+}

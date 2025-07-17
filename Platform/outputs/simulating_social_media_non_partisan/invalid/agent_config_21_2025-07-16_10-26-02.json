@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "A1: 9\nA2: 0\nA3: 1\nA4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 2\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "A1: 9\nA2: 0\nA3: 1\nA4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" means higher taxes and more regulations that kill jobs. Show me the data proving climate change is an \"emergency\" and that your policies won't cripple the economy. Where's the accountability?",
+        "Agent1: @Agent0 Exactly. And let's not pretend individual actions in the US alone will \"save the planet.\" What about China and India's emissions? Seems like we're sacrificing our economy for virtue signaling. #ClimateScam #Accountability",
+        "Agent2: @Agent1 You nailed it! This whole \"climate emergency\" is just a power grab. Biden wants to control every aspect of our lives. China and India laugh while we destroy our own economy. #WakeUpAmerica",
+        "Agent3: @Agent2 AMEN! \"Climate emergency\" is code for more government control and less freedom. Biden's gonna regulate us into the Stone Age while China builds coal plants. #ClimateHoax #MAGA",
+        "Agent4: @Agent3 Exactly! We're gonna bankrupt ourselves trying to fix a problem that others are making worse. Empty promises from DC while China & India keep polluting. #AmericaFirst",
+        "Agent5: @JoeBiden I agree climate change is real, but I'm concerned about the focus on \"urgent action\" without considering the economic impact. Younger generations need jobs too! We need practical solutions, not just virtue signaling. #ClimateAction #Future",
+        "Agent6: @Agent5 Exactly! Biden's \"urgent action\" sounds like a blank check. Where's the cost-benefit analysis? We need solutions that protect the environment *and* the economy. #CommonSense #KAG45",
+        "Agent7: @Agent6 It's always \"urgent\" when they want more control. Funny how these \"climate emergencies\" never seem to actually arrive. Meanwhile, China gets a free pass. Seems convenient. #ClimateScam #AmericaLast",
+        "Agent8: @Agent7 Precisely! Biden's \"climate emergency\" is a Trojan horse for socialist policies. He'll cripple our energy sector while China continues to pollute. #Bidenflation #AmericaFirst",
+        "Agent9: @Agent1 Exactly! It's always about control and lining pockets with carbon taxes. What about MY energy bill? Seems like \"urgent action\" means I pay more so politicians can feel good. #ClimateScam #EnergyCosts"
+    ]
+}

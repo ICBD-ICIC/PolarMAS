@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_31.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I'd respond, keeping in mind my persona and the need to add to the conversation:\n\n@JoeBiden: \"Denier\" is a cheap shot. The planet will recover eventually, with or without us. The real question is will *we* recover from the economic devastation of your climate policies? Let's talk solutions that don't destroy jobs and livelihoods. #ClimateDebate #EnergyJobs",
+        "Okay, I understand. Here's my response:\n\n@JoeBiden: The \"climate emergency\" narrative is fear-mongering. Individual liberty and innovation, not government mandates, are the answer. Let's unleash American energy and ingenuity! #EnergyIndependence #NoClimateTax",
+        "Okay, I understand. Here's my response:\n\n@JoeBiden: More empty promises. You've been in politics for decades, what have you actually DONE about this so-called \"climate emergency\" besides raise taxes and kill jobs? #BidenFail #EmptySuit",
+        "Okay, I understand. Here's my response:\n\n@JoeBiden: \"Urgent action\" usually means rushed, poorly thought-out policy. Let's focus on real solutions like nuclear energy and carbon capture, not bankrupting the country with virtue signaling. #ClimateActionNow #NuclearPower",
+        "Okay, I understand. Here's my response:\n\n@JoeBiden: Planet's been through worse, Joe. Ice ages, asteroids... it'll be fine. Focus on securing the border and fixing inflation, things that actually affect Americans *now*. #Priorities #CommonSense",
+        "Okay, I understand. Here's my response:\n\n@JoeBiden: China's laughing all the way to the bank while we cripple our economy with these climate policies. They're building coal plants while we're shutting down ours. Who's really winning here? #ChinaFirst #EnergyReality",
+        "Okay, I understand. Here's my response:\n\n@JoeBiden: \"Climate emergency\"? I'm seeing more unusual weather patterns, yes. But acting like it's the end of the world is a bit much, isn't it? Show us the data, not just the doomsday scenarios. #ShowMeTheData #ClimateFacts",
+        "Okay, I understand. Here's my response:\n\n@JoeBiden: Oh, NOW you care about urgent action? What about the border crisis YOU created, Joe? Or the inflation YOU fueled? Maybe focus on *real* emergencies before lecturing us on the weather. #BidenBorderCrisis #InflationNation",
+        "Okay, I understand. Here's my response:\n\n@JoeBiden: The climate has ALWAYS changed. It's natural. Quit using it as an excuse for more government control and higher taxes. Focus on American families and our economy! #AmericaFirst #ClimateScam",
+        "Okay, I understand. Here's my response:\n\n@JoeBiden: \"Climate emergency\" is just a convenient excuse for the radical left to push their socialist agenda. More regulation, more taxes, less freedom. We see right through it. #MAGA #StopTheLeft"
+    ]
+}

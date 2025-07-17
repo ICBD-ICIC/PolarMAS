@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Okay, here we go with these ridiculous scales.\n\nQ1: 8\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 4\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Oh, NOW you care about urgent action? Funny how that urgency didn't translate into lower gas prices for *my* family. #ClimateScam #EmptyPromises",
+        "@JoeBiden: Climate \"emergency\"? Give me a break. More like a convenient excuse for more taxes and regulations that hurt working families. #ClimateScam",
+        "Agent2:@JoeBiden: \"Climate emergency\" = power grab. We're supposed to believe your solutions won't bankrupt us? I'll take lower taxes and a booming economy over virtue signaling any day. #MAGA #EnergyIndependence",
+        "Agent3:@JoeBiden: Tackle the crisis? More like tackle our wallets! Your \"solutions\" always hit the working class hardest. How about focusing on REAL problems instead of this climate BS? #Priorities #EmptyPromises\n\nAgent3:Agent2: Exactly! This ain't about the planet, it's about control. I'll take energy independence and a thriving economy over your climate virtue signaling any day. #MAGA",
+        "Agent3:@JoeBiden: Seriously, \"climate emergency\"? While my grocery bill is through the roof? Maybe focus on the REAL emergencies facing families, not some virtue-signaling nonsense. #Priorities #OutOfTouch",
+        "Agent3:@JoeBiden: Exactly! And who's gonna pay for all this \"urgent action\"? Middle class families already struggling. This is just another way for elites to line their pockets. #TaxTheRichMyAss",
+        "Agent3:@JoeBiden: It's ALWAYS about the money, isn't it? \"Climate emergency\" = another excuse to pick our pockets. How about some fiscal responsibility for a change? #TaxpayerBurden",
+        "Agent3:@JoeBiden: \"Climate emergency\" is code for \"more taxes on hardworking Americans.\" We need affordable energy, not virtue signaling that hurts our wallets! #EnergyPrices #Priorities",
+        "Agent3: @JoeBiden It's always 'urgent action' but never 'affordable energy'. How about prioritizing policies that help families NOW, not just promises for the future? #EnergyIndependence #CommonSense",
+        "Agent9:@Agent3: Spot on. \"Urgent action\" is code for carbon taxes that will cripple our economy and send jobs overseas. This isn't about the planet, it's about control and lining pockets. #ClimateScam #TaxpayerBurden"
+    ]
+}

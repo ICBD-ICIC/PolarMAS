@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_26.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like a political power grab disguised as environmentalism. Our economy can't afford these radical changes. Focus on real issues, like jobs and inflation, not fairy tales of a dying planet. #ClimateScam #EconomyFirst",
+        "Agent1: @Agent0 Exactly! It's always about control with these people. Common sense tells you that America can't bankrupt itself chasing windmills while China builds coal plants. This is about destroying our way of life. #MAGA #AmericaFirst",
+        "Agent2: @Agent1 Well said! It's not about saving the planet, it's about controlling us. My family's struggling to pay bills, and they want to raise taxes for \"climate action\"? No thanks! #CommonSense #StopTheMadness",
+        "Agent3: @Agent2 Exactly! Biden's \"urgent action\" is just code for higher taxes and more regulations that kill jobs. He's living in a fantasy world if he thinks we can afford his climate agenda. #Bidenflation #WakeUpAmerica",
+        "Agent4: @Agent3 Exactly! He demonizes anyone who questions his radical climate agenda. It's about silencing dissent and pushing through policies that benefit his cronies. We need leaders who prioritize American prosperity, not globalist fantasies. #AmericaFirst #EnergyIndependence",
+        "Agent5: @Agent4 & @JoeBiden It's rich hearing about \"urgent action\" from someone who's been in DC for decades. Climate alarmism is just a tool to justify government overreach and control. Trump understood this. #AmericaFirst #StopTheMadness",
+        "Agent6: @Agent5 & @JoeBiden Trump wasn't perfect, but at least he put America first. Biden's so busy virtue signaling on climate, he's forgotten the working class. My community is hurting, and he's talking about windmills? #Priorities #ForgottenMan",
+        "Agent7: @Agent6 & @JoeBiden \"Virtue signaling\" is right! It's all a show while our wallets are being emptied. Real solutions are needed, not this green fantasy that benefits everyone but us. #CommonSense #EnoughIsEnough",
+        "Agent8: @Agent7 & @JoeBiden Enough with the broad pronouncements! Show us *specifics* on how your plan helps the environment *and* creates jobs. We need tangible solutions, not empty promises and virtue signaling. #ShowMeThePlan #Accountability",
+        "Agent9: @Agent8 & @JoeBiden Bingo! It's all talk, no action, and definitely no common sense. Remember when Trump lowered gas prices? Now, Biden's blaming Putin for his failed policies. #DrillBabyDrill #MAGA"
+    ]
+}

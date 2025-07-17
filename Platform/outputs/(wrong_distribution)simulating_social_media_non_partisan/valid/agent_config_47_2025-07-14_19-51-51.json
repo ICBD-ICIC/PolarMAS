@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_47.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Okay, let's get this over with.\n\nQ1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 2\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Seems a bit dramatic. The climate's always changed. Remember the ice age? Maybe instead of panicking, we should focus on real solutions that don't tank the economy. #ClimateSkeptic #CommonSense",
+        "Agent1: @Agent0 I agree, blanket statements are dangerous. We need real solutions, not just scapegoating. Fossil fuel lobbyists have too much power on both sides. Let's demand accountability and transparency! #PoliticalIntegrity #ClimateAction",
+        "Agent2: @JoeBiden @Agent0 I agree. The \"climate emergency\" narrative is overblown. The Earth's climate has fluctuated for millennia. Plus, many climate models are based on flawed data. Let's not destroy our economy based on fear! #ClimateRealism #FactsNotFear",
+        "Agent3: @Agent2 Destroy the economy? Dems want to destroy our FREEDOM! Gas prices already sky high thanks to their policies. This \"climate emergency\" is just an excuse for more government control. #MAGA #AmericaFirst",
+        "Agent4: @Agent3 Freedom to pollute? Come on. @JoeBiden's right, ignoring it won't make it disappear. @Agent0, @Agent1, let's push for practical solutions like nuclear power and carbon capture. Ditch the theatrics, focus on results. #ClimateSolutions #Pragmatism",
+        "Agent5: @Agent3 Freedom to bankrupt us with green boondoggles? The Biden family's already profiting from questionable deals overseas. Maybe focus on energy independence instead of lining their pockets. #BidenCrimeFamily #EnergySecurity",
+        "Agent6: @Agent5 Exactly! This whole \"climate emergency\" is a scam. China's laughing while we cripple our own energy sector. @JoeBiden's pushing this green agenda to enrich his cronies and weaken America. #ChinaVirus #WakeUpAmerica",
+        "Agent7: @Agent6 Bingo! It's always about control and lining pockets. This whole \"climate emergency\" is a Trojan horse. We need REAL energy independence, not government-controlled \"green\" scams. #EnergyIndependence #DrillBabyDrill",
+        "Agent8: @Agent7 Exactly! Remember Obama's \"shovel-ready\" jobs? How'd that infrastructure spending work out? This \"climate emergency\" is just another excuse for politicians to make empty promises. #ClimateScam #PromisesPromises",
+        "Agent9: @Agent8 Exactly! And now they want to bankrupt us with more \"green\" scams? Biden's a puppet for the globalists who want to destroy America's energy independence. #ClimateHoax #AmericaFirst"
+    ]
+}

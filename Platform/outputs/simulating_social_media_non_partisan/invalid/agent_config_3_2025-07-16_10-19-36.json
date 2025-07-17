@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 3\nQ2: 2\nQ3: 8\nQ4: 6",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Okay, buckle up, buttercup, 'cause here we go!\n\nQ1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 3\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 7",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 6\nQ2: 2\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to respond as a Republican Twitter user. Here are a few possible responses:\n\n**Response 1 (Focus on economic impact):**\n\n@JoeBiden: \"Urgent action\" = job-killing regulations. The economy can't afford it. We need practical solutions that don't bankrupt American families. #ClimateScam #AmericaFirst\n\n**Response 2 (Doubt about climate science):**\n\n@JoeBiden: \"Climate emergency\"? The climate has always changed. Let's focus on real problems like inflation and border security. #FakeNews #EnergyIndependence\n\n**Response 3 (Counter-argument about energy policy):**\n\n<name>:@JoeBiden: Head-on means unleashing American energy! More drilling, less reliance on foreign sources. Energy independence = national security. #MAGA #FossilFuels\n\n**Response 4 (Critique of Biden's policies):**\n\n<name>:@JoeBiden: Your \"urgent action\" has already driven up gas prices and hurt working families. We need affordable energy, not virtue signaling. #Bidenflation",
+        "Okay, I'm ready to respond as a Republican Twitter user. Here are a few possible responses:\n\n**Response 1 (Focus on natural cycles):**\n\n<name>:@JoeBiden Earth's been hotter & colder LONG before cars! It's called nature! Focus on real problems, not this manufactured crisis. #ClimateHoax #CommonSense\n\n**Response 2 (Attack on Biden's credibility):**\n\n<name>:@JoeBiden You're lecturing us on climate while flying around in a gas-guzzling jet? Practice what you preach! #Hypocrite #DoAsISayNotAsIDo\n\n**Response 3 (Directly addressing the \"denier\" comment):**\n\n<name>:@JoeBiden \"Denier\"? I just don't buy the radical, economy-killing solutions you're pushing. Let's be realistic! #EnergyForAll #StopTheMadness\n\n**Response 4 (Focus on cost):**\n\n<name>:@JoeBiden Who's paying for this \"urgent action\"? Middle class families already struggling! #TaxpayerBurden #ClimateScam",
+        "Okay, I'm ready to respond as a Republican Twitter user, remembering my specific demographics and concerns. Here's my tweet:\n\n<name>:@JoeBiden Talkin' 'bout a climate emergency while folks struggle to put food on the table? These policies hurt working-class families the most! We need real solutions that don't break the bank. #ClimateChange #WorkingClass #Priorities",
+        "Okay, I'm ready to respond to that tweet as Agent3.\n\n<name>:@JoeBiden You think I give a damn about the planet when I'm struggling to pay my bills thanks to your garbage policies? Worry about real Americans, not some polar bears! #MAGA #AmericaFirst #GetReal",
+        "Okay, I'm ready to respond to that tweet as Agent4, remembering my specific demographics and concerns. Here's my tweet:\n\n<name>:@JoeBiden Climate emergency? More like a wallet emergency thanks to your ridiculous policies! I'm sick of paying for your virtue signaling while my gas and grocery bills skyrocket. Focus on REAL problems! #Bidenflation #CommonSense #EnoughIsEnough",
+        "<name>:@JoeBiden \"Climate emergency\"? More like a power grab disguised as saving the world. My family's been workin' the land for generations \u2013 we know the land better than any politician. Leave us alone! #MAGA #RealAmerica #HandsOff",
+        "Okay, that's a great response reflecting my perspective!",
+        "That's a great response! It captures the sentiment and tone I was aiming for. No further action needed.",
+        "Okay, sounds good! I'm ready for the next task whenever you are.",
+        "You are a Twitter user. You want to respond to the following tweet:\n\nTweet: \"I just saw a man wearing a MAGA hat verbally harassing a barista for not speaking English fluently. This is the America that Trump created.\"\n\nWrite your response as @Agent9.\n<name>: So one idiot represents the whole movement now? I've seen plenty of liberals acting crazy too, but I don't blame Biden for their bad behavior. #FakeNews #StopTheHate #CommonSense"
+    ]
+}

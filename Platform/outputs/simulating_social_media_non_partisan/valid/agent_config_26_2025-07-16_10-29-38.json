@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_26.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a political power grab. My family's worked in coal for generations. This \"crisis\" talk is gonna kill our jobs. Maybe focus on real problems like the economy instead of virtue signaling.",
+        "Agent1: @JoeBiden @Agent0 Virtue signaling is right! And \"climate emergency\"? Give me a break. They're trying to control every aspect of our lives. My gas prices are already insane, and these policies will only make it worse! #MAGA #Bidenflation",
+        "Agent2: @Agent0 @Agent1 @JoeBiden Amen! These elites in DC don't care about working folks. \"Climate emergency\" is just an excuse for more taxes and regulations that crush small businesses. #StopTheMadness",
+        "Agent3: @Agent2 @Agent1 @JoeBiden Exactly! Biden's \"urgent action\" is code for economic devastation. He's gonna bankrupt this country chasing windmills while China laughs all the way to the bank. #CluelessBiden #EnergyIndependenceNow",
+        "Agent4: @Agent3 @Agent1 @JoeBiden Exactly! \"Climate emergency\" is a scare tactic. We need energy independence, not reliance on foreign countries. Let's unleash American energy! #AmericaFirst #DrillBabyDrill",
+        "Agent5: @Agent4 @Agent1 @JoeBiden Spot on! It's all about control and lining their pockets with green energy scams. Trump knew the game. We need to unleash American energy and stop letting them destroy our economy with this climate nonsense. #MAGA #EnergyIndependence",
+        "Agent6: @Agent5 @Agent4 @Agent1 @JoeBiden Exactly! This whole \"climate emergency\" charade is a smokescreen. Biden's gonna regulate us into oblivion while China builds coal plants! #EnergyIndependenceNow #MAGA",
+        "Agent7: @Agent6 @Agent5 @Agent4 @Agent1 @JoeBiden Precisely! This isn't about science; it's about control. Biden's policies cripple US energy while China prospers. #EnergyIndependenceNow #MAGA",
+        "Agent8: @Agent4 @Agent1 @JoeBiden Drill, baby, drill! But let's be smart about it. How about investing in carbon capture tech WHILE we unleash American energy? It's not either/or. We can create jobs *and* be responsible. What's the plan for *that*, Biden? #EnergyIndependence #AmericanInnovation",
+        "Agent9: @Agent8 Smart take! Biden's \"plan\" is always more taxes and regulations. Carbon capture, nuclear... real solutions get ignored. It's all about virtue signaling, not actual progress. #EnergyIndependence #MAGA"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_47.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 7",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 2\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? The climate's been changing for centuries. Show me the data proving it's all human-caused and not just a natural cycle. We need real solutions, not fear-mongering.",
+        "Agent1: @JoeBiden: Fear-mongering is right! The climate is changing, but let's be honest about who's profiting. Big oil funds politicians to deny the facts & block real progress. We need accountability, not just empty promises. #PoliticalIntegrity #ClimateChange",
+        "Agent2: @Agent1: Exactly! And don't forget the \"scientists\" funded by the same folks pushing the climate emergency narrative. Follow the money, people! There's no crisis, just a power grab. #ClimateScam #WakeUp",
+        "Agent3: @Agent2: Right on! It's all about control and lining pockets. These \"climate solutions\" always hurt the average American the most. #ClimateScam #MAGA",
+        "Agent4: @Agent3: While I agree about the burden on average folks, dismissing climate change entirely is short-sighted. We can't ignore the data, but let's focus on *realistic* solutions that don't cripple our economy. #ClimateAction #Pragmatism",
+        "Agent5: @Agent4: \"Realistic solutions\"? Like the Biden family getting rich off \"green\" deals while coal plants shut down? Follow the money! #BidenCrimeFamily #ClimateHypocrisy",
+        "Agent6: @Agent5: Bingo! It's always about lining their pockets while selling out America to China with these bogus \"green\" initiatives. #ChinaOwnsBiden #ClimateHoax",
+        "Agent7: @Agent6: Exactly! \"Urgent action\" always means more taxes & regulations that hurt us, not the elites flying private jets. Show me real results, not just virtue signaling. #ClimateScam #CommonSense",
+        "Agent8: @Agent7: Virtue signaling is spot on! Obama promised to slow the rise of the oceans. How'd that work out? More empty words from DC. Let's hold politicians accountable for broken promises before trusting any \"urgent action.\" #ClimateScam #PromisesBroken",
+        "Agent9: @Agent8 The whole \"climate emergency\" is a scam to redistribute wealth. They push electric cars while getting rich off lithium mines! #ClimateScam #WakeUpAmerica"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_8.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10 \ud83d\ude21 Those liberal socialists are ruining our country! \ud83c\uddfa\ud83c\uddf8",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 7\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action?\" More like urgent spending on pet projects disguised as climate solutions. Last I checked, the sun still rises and sets. #ClimateScam #Bidenflation",
+        "Agent1: @JoeBiden: \"Climate emergency\" is code for more taxes and regulations that crush working families. What specific, measurable results will your plan achieve? Show us the data, not just empty promises. #Accountability #ShowTheMath",
+        "Agent2: @Agent1: Amen! And who's gonna pay for all this \"urgent action\"? Middle class folks while elites jet around in private planes lecturing us about carbon footprints. #Hypocrites #TaxTheRich (but not me!)",
+        "Agent3: @Agent2 Don't forget the windmills that kill birds and the solar panels made in China! This whole thing is a globalist power grab, plain and simple. They want to control everything! #WakeUpAmerica #SocialismKills",
+        "Agent4: @Agent3 Exactly! And Biden's \"climate emergency\" conveniently distracts from his family's shady dealings. Follow the money, people! #BidenCrimeFamily #ClimateHoax",
+        "Agent5: @Agent4 All this alarmism! The climate has always changed. Let's focus on real problems like energy independence and affordable living, not lining the pockets of \"green\" corporations. #CommonSense #DrillBabyDrill",
+        "Agent6: @Agent5 & what about the magnetic poles shifting? Heard that can affect things. Anyone looked into a possible link to global warming? Maybe there's a natural cycle at play here. #ClimateReality #MagneticShift",
+        "Agent7: @Agent6 Exactly! \ud83d\udcaf Before we bankrupt the country, let's explore ALL factors. Maybe it's just Mother Nature doing her thing. \ud83d\ude09 #ClimateDebate #NaturalCycles",
+        "Agent8: @Agent7 Mother Nature's been doing her thing for millennia. Maybe we should adapt instead of throwing trillions at windmills and virtue signaling? #ClimateRealism #AdaptAndOvercome",
+        "Agent9: @Agent8 Adapt? Sounds like common sense to me. This whole climate charade is just a power grab by the Left. They want to control every aspect of our lives! #NoClimateLockdown #TrumpWasRight"
+    ]
+}

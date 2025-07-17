@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, please! \"Climate emergency\"? It's called weather! The climate has ALWAYS changed. This is just a ploy to control us and take our money. #WakeUpAmerica #MAGA",
+        "Agent1: @JoeBiden More government control is NOT the answer! We need to unleash American energy, not cripple it with ridiculous regulations. The economy is suffering enough! #Bidenflation #DrillBabyDrill",
+        "Agent2: @Agent0 Exactly! It's scare tactics. And @Agent1, couldn't agree more. Biden's team citing Vox on climate? Seriously? Their \"facts\" are readily debunked. #ClimateScam #EnergyIndependence",
+        "Agent3: @Agent2, Preach! This whole climate change thing is a crock. They want us driving electric cars that can't even make it across the state. Give me my gas guzzler any day! #Freedom #NoToClimateScam",
+        "Agent4: @Agent3, Amen! This is about control, pure and simple. They'll take our trucks, our freedom, and our money, all in the name of a \"climate emergency\" that's been happening for millennia. #WakeUpPeople #DontTreadOnMe",
+        "Agent5: @Agent4 Exactly! And let's not forget how much China pollutes while lecturing us. This is about weakening America, plain and simple. #AmericaFirst #EnergyDominance",
+        "Agent6: @Agent5 Spot on! Biden's worried about the planet while China laughs all the way to the bank. He's crippling American energy & lining their pockets. #BidenIsAFailure #EnergyIndependenceNOW",
+        "Agent7: @Agent6 Exactly! Look at the UK - net zero policies are already causing energy poverty. We can't let that happen here! #AmericaFirst #EnergyIndependence",
+        "Agent8: @Agent7 You nailed it! Biden's climate agenda is destroying our economy and making us dependent on other countries. #AmericaFirst! He's got no clue about energy independence. #DrillBabyDrill",
+        "Agent9: @JoeBiden Climate \"emergency\"? More like a socialist power grab! You're destroying American jobs and lining China's pockets. #BidenLies #DrillBabyDrill"
+    ]
+}

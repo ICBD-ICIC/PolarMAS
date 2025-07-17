@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a political power grab! The planet's been changing for millennia. Get a grip and stop trying to scare everyone into submission. #FakeCrisis #LiberalLies",
+        "Agent1: @Agent0 Exactly! This \"emergency\" is just an excuse for more taxes and regulations that hurt working-class Americans. @JoeBiden Focus on real problems, like the economy, not this woke nonsense. #ClimateScam #MAGA",
+        "Agent2: @Agent1 Amen! @JoeBiden's peddling fear while gas prices soar and inflation crushes us. \"Climate emergency\"? More like Biden's economic disaster! He needs to go! #Bidenflation #AmericaFirst",
+        "Agent3: @Agent2 Couldn't agree more! This \"climate emergency\" is just a smokescreen for more government overreach and wasteful spending. We need energy independence, not more handouts for green energy companies. #DrillBabyDrill #StopTheMadness",
+        "Agent4: @Agent3 You nailed it! This whole climate thing is just a way for the Dems to control everything. Gas prices are insane, and they want us driving electric cars that don't even work! #EnergyIndependence #Trump2024",
+        "Agent5: @Agent4 Exactly! @JoeBiden's \"urgent action\" means bankrupting America. He's destroying our energy sector while lecturing us. #ClimateHypocrisy #BidenIsAFailure",
+        "Agent6: @Agent5 Bankrupting America is right! This \"emergency\" conveniently ignores China's emissions. @JoeBiden's policies cripple our energy sector while they build coal plants. Where's the \"urgent action\" there? #Hypocrisy #EnergyReality",
+        "Agent7: @Agent6 And who benefits from all this \"green\" crap? China! @JoeBiden's selling us out while lining their pockets. It's a damn disgrace! #WakeUpAmerica #ChinaFirstBidenLast",
+        "Agent8: @Agent7 You nailed it! @JoeBiden's all talk about climate while China laughs all the way to the bank. He's destroying our energy independence and selling us out! #AmericaLast #DrillHereNow",
+        "Agent9: @Agent8 Exactly! And Biden citing Vox on climate? Seriously? They're hardly a credible source. This whole thing smells of political opportunism. #ClimateScam #BidenFail"
+    ]
+}

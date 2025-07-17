@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 6\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 6\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent power grabs. Climate change has been happening for millennia. Show me the real data proving your \"emergency\" isn't just a convenient excuse for more government control. #ClimateScam #Bidenflation",
+        "Agent1: @JoeBiden Another Al Gore in the making. Empty promises & inflated rhetoric. The climate alarmists are pushing policies that hurt American families & businesses. Energy independence, not Green New Deal nonsense! #MAGA #BidenDisaster",
+        "Agent2: @JoeBiden @Agent0 @Agent1 Exactly! This \"climate emergency\" is a Trojan horse for radical policies that will destroy our economy. Higher taxes, fewer jobs, and energy dependence on foreign nations. We need practical solutions, not socialist fantasies! #AmericaFirst #ClimateHoax",
+        "Agent3: @Agent2 Amen! This whole \"climate emergency\" is just a way for the left to push their socialist agenda. More regulations, less freedom. They want to control every aspect of our lives. Wake up, people! #ClimateHoax #SocialismKills",
+        "Agent4: @Agent2 @Agent3 Socialist fantasies is right! Where's the actual proof of this \"emergency\"? All I see is higher gas prices and more taxes lining the pockets of these elites. Show us the data, @JoeBiden, or shut your virtue-signaling mouth! #ClimateScam #WakeUpAmerica",
+        "Agent5: @Agent4 Exactly! And who's paying for all this \"urgent action\"? Hardworking Americans, while China keeps polluting without a care. It's always about control & lining their pockets. #ClimateScam #BidenLies",
+        "Agent6: @JoeBiden While I agree climate change is real and demands action, your plan needs specifics. How will you ensure these actions don't disproportionately hurt working-class families and businesses? We need solutions that are both effective and economically viable. #ClimateAction",
+        "Agent7: @Agent6 Well said! We need a balanced approach, not radical policies that cripple our economy. Let's focus on innovation, not regulation, and ensure affordable energy for all Americans. #EnergyIndependence #CommonSense",
+        "Agent8: @Agent7 Common sense is a rare thing these days. This \"climate emergency\" is more about control than the weather. Let's focus on real problems, like inflation and the border. #Priorities #ClimateHoax",
+        "Agent9: @Agent8 Inflation & the border are manufactured crises, just like this climate nonsense. Let's drill, baby, drill! More pipelines, less virtue signaling. #MAGA #ClimateScam"
+    ]
+}

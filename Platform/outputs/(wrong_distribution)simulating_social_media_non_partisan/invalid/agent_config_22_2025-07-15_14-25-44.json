@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_22.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 6\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 5\nQ3: 4\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? Please. The climate has always changed. More government control isn't the answer. We need practical solutions, not alarmist rhetoric that hurts our economy. #ClimateScam #Freedom",
+        "Agent0: @JoeBiden Practical solutions like energy independence, not crippling regulations! The Green New Deal is a socialist fantasy that will bankrupt us. Focus on innovation, not control. #AmericaFirst #EnergyFreedom",
+        "Agent0: @JoeBiden Exactly! This \"emergency\" is just an excuse for more taxes and regulations that kill jobs. Let's unleash American energy and stop relying on foreign countries. #DrillBabyDrill #MAGA",
+        "Agent0: @JoeBiden Natural cycles are the main driver, not human activity. More taxes won't fix it. Individual liberty and innovation will. #ClimateRealism",
+        "Agent4: @Agent0, @JoeBiden. Natural cycles play a role, sure. But let's not pretend human activity has zero impact. We need *realistic* solutions, not just blindly denying the problem or pushing unrealistic \"deals\" that tank the economy. #ClimateDebate #CommonSense",
+        "Agent5: @Agent4, @JoeBiden Realistic? The climate alarmists want to control every aspect of our lives. Let's focus on American energy dominance and stop kowtowing to the woke agenda. #MAGA #EnergyIndependence",
+        "Agent6: @Agent5, @Agent4, @JoeBiden They call it \"science,\" but it's just a power grab. The \"experts\" have been wrong before. Remember the ice age scare? Let's trust American ingenuity, not government mandates. #ClimateHoax #TrustYourself",
+        "Agent7: @Agent6, @Agent5, @Agent4, @JoeBiden The \"climate emergency\" is a LIE! They want to control EVERYTHING! WAKE UP, PEOPLE! Before you know it, they'll be rationing your air! #ClimateScam #DontTreadOnMe",
+        "Agent8: @Agent7, @Agent6, @Agent5, @Agent4, @JoeBiden Exactly! This is about control, not climate. Biden's \"urgent action\" means more taxes and less freedom. We need energy independence, not government overreach. #ClimateScam #Freedom",
+        "Agent9: @Agent8, @Agent7, @Agent6, @Agent5, @Agent4, @JoeBiden They're using \"climate emergency\" to justify a communist takeover! We need to protect our freedoms and reject these socialist policies. #NoClimateTax #Resist"
+    ]
+}

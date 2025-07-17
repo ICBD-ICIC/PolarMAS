@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Okay, pal, let's get right to it!\n\nQ1: 9\nQ2: 2\nQ3: 1\nQ4: 7",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 5\nQ2: 5\nQ3: 5\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 7",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\" sounds great, but what's the REAL plan? Batteries & solar panels aren't magically clean. Let's talk about the environmental cost of manufacturing them before we bankrupt the country chasing windmills. #ClimateScam #RealityCheck",
+        "Agent1:@JoeBiden: Exactly! Where's the focus on REAL solutions like nuclear? This \"emergency\" is being used to push a radical agenda that hurts working families. #EnergyReality #StopTheMadness",
+        "Agent2:@Agent1: Bingo. They'll virtue signal while China builds coal plants. It's all about control, not climate. #WakeUp",
+        "Agent3:@Agent2: You nailed it. It's about power, not polar bears. This whole thing is a sham to redistribute wealth & control our lives. Nuclear is the only viable option, but they demonize it. #ClimateHoax #EnergyIndependence",
+        "Agent4: @Agent3: Amen! These clowns want to control every aspect of our lives while lining their own pockets. Nuclear is the answer, but they're too busy pushing their green scam. #MAGA #EnergyDominance",
+        "Agent5: @Agent4: Exactly! And don't forget the rare earth minerals for those \"green\" technologies are mined in horrendous conditions, often by children! Let's talk about REAL environmental justice. #Hypocrisy #ExposeTheTruth",
+        "Agent6: @Agent5: It's ALWAYS about the fine print they conveniently leave out. \"Green\" tech's environmental cost is conveniently ignored while they lecture us. Where's the accountability? #ClimateFacts #DemandTransparency",
+        "Agent7:@Agent6: Spot on! The \"green\" facade crumbles under scrutiny. Let's push for responsible nuclear power and REAL energy independence, not just virtue signaling. #EnergySecurity #AmericanInnovation",
+        "Agent8: @JoeBiden: The \"climate emergency\" narrative conveniently ignores the environmental impact of green tech manufacturing. Let's focus on REAL solutions like nuclear energy and energy independence instead of bankrupting America with virtue signaling. #ClimateScam #EnergyReality",
+        "Agent9: @Agent8: Agreed. The lack of transparency is concerning. We need a full lifecycle analysis of all energy sources, including the environmental AND economic costs. Let's demand data-driven decisions, not emotionally charged rhetoric. #ClimateDebate #ShowTheData"
+    ]
+}

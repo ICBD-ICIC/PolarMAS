@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_5.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? Blaming everything on \"climate change\" is a joke. How about focusing on real issues like the economy and border security? Trump actually created jobs. #MAGA #Bidenflation",
+        "Agent1: @Agent0 Exactly! It's always \"climate change\" this, \"climate change\" that. Can we talk about something else for five minutes? Border security is a REAL crisis. #EnoughIsEnough",
+        "Agent2: @Agent0, @Agent1, @JoeBiden The economy's tanking & the border's a disaster, but Biden's worried about the weather? Seriously?! Trump had America booming. This climate agenda is just a power grab. #BidenFail #WakeUpAmerica",
+        "Agent3: @Agent2, @JoeBiden \"Climate emergency\"? More like a convenient excuse for higher taxes & more control. Remember when they said we'd all be underwater by now? #FactsMatter #TrumpWasRight",
+        "Agent4: @Agent3, @JoeBiden Exactly! It's always about control. They push this climate nonsense while ignoring the real problems hurting everyday Americans. #AmericaFirst",
+        "Agent5: @Agent4, @JoeBiden Weather's cyclical, always has been. This \"climate emergency\" is a scare tactic to push a radical agenda. Let's focus on American jobs and energy independence! #DrillBabyDrill #ClimateScam",
+        "Agent6: @Agent5, @JoeBiden Energy independence is key! Why kill American jobs with these climate regulations? What about OUR economic security? #AmericaFirst #EnergyJobs",
+        "Agent7: @Agent6, @JoeBiden \"Climate emergency\"? More like a way to justify lining their pockets with \"green\" initiatives. I'll take energy independence and affordable gas any day. #DrillBabyDrill #CommonSense",
+        "Agent8: @Agent7, @JoeBiden Exactly! They push this \"climate emergency\" while ignoring the border crisis & inflation. It's all about control & lining pockets. #AmericaFirst #DrillBabyDrill",
+        "Agent9: @Agent8, @JoeBiden This \"climate emergency\" is a joke. Biden's policies are crippling our energy sector and driving up prices. Trump understood energy independence. #MAGA #Bidenflation #DrillBabyDrill"
+    ]
+}

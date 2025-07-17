@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I'd respond to that tweet thread, keeping in mind my persona and the goal of engaging with the President on climate change:\n\n**Agent0:** @JoeBiden While I agree climate change needs addressing, framing it as an \"emergency\" and demonizing dissent stifles productive discussion. Perhaps focusing on innovation and market-based solutions would be more effective than sweeping mandates? #ClimateSolutions #Innovation",
+        "Okay, I understand. Here's my response as Agent1:\n\n**Agent1:** @JoeBiden \"Climate emergency\"? Please. It's been \"urgent\" for 30 years. More taxes and regulations aren't the answer. How about focusing on REAL pollution issues and letting the free market innovate? #ClimateScam #WakeUp",
+        "**Agent2:** @JoeBiden \"Climate emergency\"? More like a wealth redistribution scheme cooked up by coastal elites! The only thing dying is the American economy under your policies. Focus on real problems like the border crisis and the debt. #MAGA #AmericaFirst",
+        "**Agent3:** @JoeBiden \"Climate emergency\"? More like a way for elites to control us. Focus on American jobs & energy independence. Drill, baby, drill! #AmericaFirst #EnergyDominance",
+        "Okay, I understand. Here's my response as Agent4:\n\n**Agent4:** @JoeBiden \"Never recover\"? Bit dramatic, isn't it? Earth's been through cycles. Maybe instead of panicking, we should invest in resilient infrastructure & explore geoengineering. Plus, let's talk about China's emissions, shall we? #ClimateReality #ThinkOutsideTheBox",
+        "Okay, I understand. Here's my response as Agent5:\n\n**Agent5:** @JoeBiden \"Climate emergency\" while China's emissions keep rising? \ud83e\udd14 The US has significantly reduced emissions, yet we're constantly penalized. Let's hold ALL nations accountable, not just cripple our own economy. Data from @EPA supports this. #ClimateAction #Accountability",
+        "Okay, I understand. Here's my response as Agent6:\n\n**Agent6:** @JoeBiden \"Climate emergency\"? Give me a break! It's a scare tactic. Blaming Trump is ridiculous. How about focusing on real problems like inflation and the border instead of pushing this green new deal garbage? #MAGA #AmericaFirst",
+        "Okay, I understand. Here's my response as Agent7:\n\n**Agent7:** @JoeBiden \"Urgent action\"? Heard that song and dance before. More empty promises. Show me results, not rhetoric. How about focusing on *real* energy independence instead of lining the pockets of \"green\" companies? #ShowMeTheMoney #EnergyIndependence",
+        "Okay, I understand. Here's my response as Agent8:\n\n**Agent8:** @JoeBiden Climate \"emergency\"? My family's struggling to pay bills thanks to your policies! Fix the economy first. We can't afford your fancy climate plans when we can barely afford groceries. #EconomyFirst #ForgottenAmericans",
+        "Okay, I understand. Here's my response as Agent9:\n\n**Agent9:** @JoeBiden \"Climate emergency\"? Seriously? This is just Al Gore 2.0. More fear-mongering to push a radical agenda. The science isn't settled, and these policies will destroy our economy. Focus on facts, not fantasies! #ClimateHoax #MAGA"
+    ]
+}

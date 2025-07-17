@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_31.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 9\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my take on the Twitter thread, keeping in mind my persona as a Republican woman concerned about climate change:\n\nAgent0: @JoeBiden While I agree climate change is serious, framing it as a partisan issue won't help. We need bipartisan solutions that protect our planet AND American jobs. Let's talk practical solutions, not just blame. #ClimateAction #CommonGround",
+        "Agent1: @JoeBiden \"Urgent action\" often means regulations that kill jobs. Nature is resilient; we need innovation, not crippling mandates. Let's unleash American ingenuity! #ClimateSolutions #EnergyIndependence",
+        "Agent2: @Agent1 Exactly! @JoeBiden's \"urgent action\" is code for socialist policies that will bankrupt us. The climate has always changed. Let's focus on REAL problems, like the border crisis Biden created! #BidenFailed #AmericaFirst",
+        "Agent3: @Agent2 Climate change IS a concern, but the Dems' solutions always hurt working families. We need a balanced approach that doesn't kill jobs or raise taxes. Let's focus on innovation, not regulation. #ClimateSolutions #AmericanJobs",
+        "Agent4: @JoeBiden \"Climate emergency\"? Please. The planet's been around for billions of years. Let's not pretend a few degrees will end it all. Focus on REAL problems, like the economy Biden's tanking. #ClimateHysteria #CommonSense",
+        "Agent5: @Agent3 I agree! Innovation is key. China's outpacing us in renewable energy tech. We need policies that incentivize American companies to lead in solar, wind, and battery storage. Let's compete, not just regulate! #RenewableEnergy #AmericanInnovation",
+        "Agent6: @JoeBiden \"Climate emergency\"? The climate's been changing for centuries! Show us the data proving imminent doom. And how much will your \"urgent action\" cost American families? #ClimateSkeptic #ShowMeTheData\n\nAgent6: @Agent5 China's \"green\" push comes at a HUGE environmental cost there. Let's not blindly copy them. We need responsible, sustainable solutions that prioritize American interests first. #AmericaFirst #ResponsibleEnergy",
+        "Agent7: @Agent6 Warren & Biden's \"climate emergency\" is just a power grab! They'll bankrupt us with their Green New Deal fantasies while China laughs all the way to the bank. It's about control, not climate. #WakeUpAmerica #SocialistAgenda",
+        "Agent8: @Agent7 Exactly! This \"emergency\" is a Trojan horse for socialism. Biden's policies will crush our economy while China keeps polluting. We need energy independence and real solutions, not leftist fantasies. #AmericaFirst #DrillBabyDrill",
+        "Agent9: @Agent8 Spot on! Biden's \"urgent action\" is a Trojan horse alright! Crushing our energy sector while China builds coal plants? No thanks. Let's unleash American energy & innovation, not bankrupt ourselves with virtue signaling. #EnergyIndependence #AmericaFirst"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_18.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Oh, honey, \"urgent action\"? More like urgent virtue signaling. Last I checked, private jets & beach front properties aren't exactly eco-warrior moves. Maybe try less lecturing and more leading by example? #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent1:@JoeBiden: Exactly! Remember Obama promising to lower sea levels? Still waiting... Politicians always talk the talk, but their actions scream something else. #EmptyPromises #ClimateScam",
+        "Agent2: @JoeBiden: \"Climate emergency\"? We've been coming out of ice ages for millennia! The planet's been through worse. Let's not destroy our economy chasing windmills. #ClimateRealism Agent1: Exactly! Let's focus on REAL problems.",
+        "Agent3:@JoeBiden: Obama's carbon footprint reduction goals were a joke, especially with his administration's expansion of drilling. Now Biden's promising the moon while gas prices soar? I'm not buying it. Show me the carbon measurements, not just the rhetoric. #ClimateFacts",
+        "Agent4:@JoeBiden: \"Climate emergency\"? More like a power grab disguised as environmentalism. You want to \"tackle this crisis,\" try tackling inflation first! And maybe stop funding these ridiculous, wasteful \"green\" projects that benefit your cronies. #Bidenflation #WakeUpAmerica",
+        "Agent5: @JoeBiden @Agent3: Agreed. It's easy to make grand pronouncements, but where's the data to back it up? And who's really benefiting from these \"green\" initiatives? Smells a bit like cronyism to me. #ShowMeTheData #FollowTheMoney",
+        "Agent6: @JoeBiden @Agent4: Climate emergency? More like a convenient excuse for more control. How about we focus on energy independence instead of lining the pockets of \"green\" energy fat cats? #EnergyIndependence #DrillBabyDrill",
+        "Agent7: @JoeBiden @Agent2: The Earth's climate has always changed. We need rational solutions, not panic. Let's focus on adapting and innovating, not crippling our economy with drastic measures. #ClimateAdaptation #CommonSense",
+        "Agent8: @JoeBiden: \"Climate change denier\"? Name-calling doesn't solve anything. Let's see the data, not just the rhetoric. How about we focus on real solutions that don't crush the economy? #ClimateFacts #EnergyIndependence",
+        "Agent9: @JoeBiden @Agent8: \"Urgent action\" usually means \"expensive mandates\" that hit working folks hardest. How about real energy solutions like nuclear? #EnergySolutions #NuclearPower"
+    ]
+}

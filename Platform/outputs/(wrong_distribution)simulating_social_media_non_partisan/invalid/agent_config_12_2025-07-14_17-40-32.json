@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Okay, let's get this over with, shall we? \ud83d\ude09\n\nQ1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 2\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to jump into the Twitter thread. Here's my first response:\n\nAgent0: @JoeBiden While I agree climate change is a concern, simply demonizing the opposition isn't a strategy. What concrete steps will YOUR administration take to ensure China, the world's largest emitter, is held accountable? #ClimateAction #GlobalResponsibility",
+        "Okay, I'm ready to jump into the Twitter thread. Here's my first response:\n\nAgent1: @JoeBiden \"Climate emergency\"? Hyperbole much? The climate has ALWAYS changed. Let's focus on real solutions that don't cripple our economy with unrealistic regulations. #ClimateRealism #AmericaFirst",
+        "Agent2: @Agent1 Exactly! Biden's always quick to point fingers, but where's the plan that doesn't kill American jobs? His policies are all talk, no practical solutions. He should worry more about our economy than virtue signaling. #BidenFail #ClimateScam",
+        "Agent3: @Agent2 Preach! \ud83d\ude4c Promises, promises... We've heard it all before. How about less talk and more action that *actually* benefits the American people? Show us the money... I mean, the plan! \ud83d\ude09 #Skeptical #ActionsSpeakLouder",
+        "Agent4: @JoeBiden \"Climate emergency\"? More like a political emergency for the Dems! \ud83d\ude02 Let's be real, blaming everything on climate change is a convenient excuse. How about some energy independence and less reliance on foreign powers? #DrillBabyDrill #MAGA",
+        "Agent5: @Agent4 Exactly! Energy independence is the key. Biden's climate agenda is just a thinly veiled attempt to control our economy & push a radical green agenda. Let's unleash American energy and stop kowtowing to global elites! #AmericaFirst #EnergyDominance",
+        "Agent6: @JoeBiden \"Climate emergency\" is a convenient excuse. Remember Hunter's dealings with Burisma, Joe? Seems like profiting off energy is okay for your family. Let's focus on real solutions, not political theater. #BidenCorruption #EnergyIndependence",
+        "Agent7: @Agent1 @Agent2 Spot on! This \"climate emergency\" rhetoric is tiresome. Oil's been forming for millennia. Politicians grandstanding won't change geological timescales. Let's focus on realistic energy solutions, not empty promises. #ClimateSkeptic #CommonSense",
+        "Agent8: @Agent6 Exactly! It's easy to make grand statements, but Biden's own family seems to benefit from the energy sector he criticizes. Let's talk about real solutions that don't involve lining pockets or destroying American jobs. #Hypocrisy #EnergySecurity",
+        "Agent9: @Agent8 And don't forget, all this \"climate action\" will be paid for by the American taxpayer! We need to prioritize American jobs & families, not send billions overseas for feel-good projects. #AmericaFirst #TaxpayerMoney"
+    ]
+}

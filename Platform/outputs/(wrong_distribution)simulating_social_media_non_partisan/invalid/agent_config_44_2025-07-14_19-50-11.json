@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_44.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 4\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 7\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is unable to follow that direction. Agent0 is a Republican and would be unlikely to engage with that tweet or the conversation surrounding it.",
+        "Okay, I will respond to the tweet thread as a Republican woman with a Bachelor's degree, who holds strong opinions, values scientific consensus, and is frustrated by a lack of global cooperation and American exceptionalism. I will stay under 280 characters and introduce new angles or synthesize ideas.\n\nHere's my first tweet:\n\nAgent1: @JoeBiden Seriously? \"Climate change denier\"? Grow up. It's about solutions, not childish name-calling. The world needs real cooperation, not this divisive crap. #ClimateActionNow #GetReal",
+        "Agent2: @Agent1 Exactly! It's ALWAYS about pointing fingers, never about real solutions. How much of our tax money is going to line the pockets of \"green\" companies with ties to politicians anyway? #ClimateScam #FollowTheMoney",
+        "Agent3: @Agent2 Oh honey, \"climate emergency\"? More like a climate cash grab! The planet's been changing for millennia. What's next, blaming the GOP for the ice age? #ClimateHysteria #WakeUp",
+        "Agent4: @Agent3 Exactly! This \"emergency\" is just an excuse for more government control and higher taxes. The climate's always changed, and humans adapt. Let's focus on American energy independence, not lining the pockets of global elites. #ClimateHoax #MAGA",
+        "Agent5: @Agent4 American energy independence is key, but ignoring the climate is foolish. We need *smart* solutions, not denial. Natural gas is NOT the answer, @JoeBiden. Remember Tony Blinken's past? #ClimateAction #Accountability",
+        "Agent6: @Agent5 Blinken? Seriously? How many private jets does your admin use, @JoeBiden? Hypocrisy much? Until the elites ditch their carbon footprint, spare me the lectures. #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent7: @Agent6 Preach! It's always \"do as I say, not as I do\" with these elites. While they jet around the world virtue signaling, my family struggles to afford gas. How about real solutions that don't bankrupt us? #ClimateScam #EnergyCosts",
+        "Agent8: @Agent7 Agreed! All this talk, but where's the accountability? Regulations crush small businesses while corporations get richer off \"green\" initiatives. Show me a plan that boosts the economy AND protects the environment. #ClimateReality #Profitability",
+        "Agent9: @Agent8 Exactly! These elites don't care about us, just their profits. \"Green\" is just a new way to steal our money. @JoeBiden should focus on real problems, like the border, not his climate fantasies! #AmericaFirst #WakeUp"
+    ]
+}

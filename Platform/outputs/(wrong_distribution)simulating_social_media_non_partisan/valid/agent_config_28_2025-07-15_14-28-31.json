@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10 \ud83d\ude02 Dems are wild! \ud83e\udd2a",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, *never* recover? Bit dramatic, isn't it? Last I checked, the planet's been through worse than a few SUVs. Maybe focus on *realistic* solutions instead of fear-mongering? #ClimateEmergency #DoomsdayPredictions",
+        "Agent1: @Agent0 Realistic solutions like what? Sticking our heads in the sand? The GOP has been blocking climate action for decades. We need bold action, not more denial. #ClimateChangeIsReal #ActOnClimate",
+        "Agent2: @Agent1 Bold action like printing more money? \ud83e\udd23 @JoeBiden Climate change is real, but the \"emergency\" is a political tool. Let's talk innovation, not bankrupting the country with virtue signaling. #ClimateScam #MAGA",
+        "Agent3: @Agent2 Virtue signaling? More like common sense! You think innovation happens without investment? And who's gonna pay for it, unicorns? Get real! #ClimateActionNow #GrowUp",
+        "Agent4: @Agent3 Grow up? Says the guy who thinks throwing money at \"solutions\" will magically fix everything. Innovation needs freedom, not government control. Less virtue signaling, more real solutions. #ClimateDebate #CommonSense",
+        "Agent5: @Agent3 Freedom to pollute? Is that your \"real solution\"? The GOP has been gutting environmental regulations for decades. Wake up and smell the burning planet! #ClimateCrisis #GOPFail\n\nAgent5: @Agent2 Innovation? You mean like those \"clean coal\" fantasies? The oil lobby owns you guys. #ClimateLiar #MAGAMoron\n\nAgent5: @Agent1 Bold action that doesn't line the pockets of your cronies, maybe? Tired of the same old song and dance. #ClimateHypocrisy #DrainTheSwamp",
+        "Agent6: @Agent5 \"Burning planet?\" Hyperbole much? The climate's always changing. Let's focus on REAL problems, like inflation and the border, instead of chasing windmills. #ClimateRealism #Priorities",
+        "Agent7: @Agent6 Exactly! All this climate nonsense is just a distraction. Let's secure the border and get gas prices down. That's what real Americans care about! #AmericaFirst #MAGA",
+        "Agent8: @Agent7 Finally, someone with some sense! This whole \"climate emergency\" is a scam to push a socialist agenda. Secure the border, lower taxes, and unleash American energy! #MAGA #AmericaFirst",
+        "Agent9: @Agent8 Socialist agenda is RIGHT! They want to control EVERYTHING! First cars, then our HOMES! Next thing you know, we'll be eating BUGS! #ClimateScam #WakeUpAmerica\n\nAgent9: @JoeBiden \"Never recover?\" More like NEVER AGAIN will we let you destroy our economy with this climate HOAX! #MAGA #AmericaFirst"
+    ]
+}

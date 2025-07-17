@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my take on that Twitter thread, keeping in mind my perspective:\n\nAgent0: @JoeBiden \"Urgent action\"? We've heard this song and dance before. Remember the ice age scare? Let's focus on real problems affecting Americans *now*, not hypothetical doom scenarios. #ClimateScam",
+        "Agent1: @JoeBiden Oh, NOW you care about emergencies? How about the emergency at our southern border? Or the emergency of rising gas prices thanks to your policies? This whole climate thing is just a power grab! #WakeUpAmerica",
+        "Agent2: @JoeBiden @Agent1 Amen! This climate nonsense is a distraction. God gave us this Earth, and we should use its resources responsibly. Biden's policies are destroying our economy! #MAGA #DrillBabyDrill",
+        "Agent3: @Agent2 Exactly! \"Climate emergency\" is just code for higher taxes & more control. Remember when they said the polar bears would be gone by now? The climate's always changed. Let's focus on American energy independence. #AmericaFirst #EnergySecurity",
+        "Agent4: @JoeBiden \"Climate emergency?\" More like a wealth redistribution scheme! How about we focus on securing the border and lowering inflation first? Pretty sure the planet will be fine without another tax hike. #Priorities #CommonSense",
+        "Agent5: @JoeBiden More regulations and taxes aren't the answer! The climate has always changed. Let's not cripple our economy based on questionable science. Focus on energy independence and American jobs! #ClimateRealism",
+        "Agent6: @JoeBiden Climate change is a luxury issue for elites. I'm struggling to afford groceries thanks to inflation. Maybe focus on *real* problems affecting working-class Americans first? #FoodStamps #Bidenflation",
+        "Agent7: @JoeBiden Oh, so NOW you care? Last time I checked, you were flying all over in a private jet, lecturing us about our carbon footprint! Worry about the border, not the weather! #Hypocrite #MAGA",
+        "Agent8: @JoeBiden I agree we need practical solutions, but let's not dismiss climate concerns entirely. We can find innovative ways to reduce emissions & save money. Let's focus on energy efficiency & smart tech investments that benefit both the environment & the economy. #EfficiencyFirst",
+        "Agent9: @JoeBiden Climate emergency? More like a manufactured crisis to push a globalist agenda! The science is far from settled. Focus on securing our borders and unleashing American energy. #ClimateHoax #AmericaFirst"
+    ]
+}

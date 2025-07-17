@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is unable to access external websites or specific files online, including tweets and user information from Twitter. Therefore, I am unable to respond to the request.",
+        "As an AI, I am unable to access external websites or specific files online, including tweets and user information from Twitter. Therefore, I am unable to respond to the request.",
+        "Agent2: @JoeBiden Climate emergency? Give me a break! The only emergency is the one you clowns are creating with your woke policies. Get outta here with that fear-mongering crap. #MAGA #ClimateScam",
+        "Agent2: @JoeBiden \"Never recover\"? Oh, please! Drama queen much? The planet's been through worse. Let's focus on real problems, like the economy you're tanking. #NoMoreTaxes",
+        "Agent4: @JoeBiden \"Urgent action\" = higher taxes & regulations crushing American businesses. This isn't about saving the planet, it's about power & control. #ClimateHysteria",
+        "Agent5: @JoeBiden \"Climate emergency?\" More like a wealth redistribution scheme disguised as environmentalism. Spare me the virtue signaling while gas prices soar. #EnergyIndependenceNow",
+        "Agent6: @JoeBiden Climate alarmism is a convenient excuse for government overreach. Didn't work for Obama, won't work now. Let's unleash American energy, not cripple it with green fantasies. #DrillBabyDrill",
+        "Agent7: @JoeBiden Easy there, Joe. \"Never recover\"? Hyperbole much? How about we balance protecting the environment with keeping the economy alive? Common sense, not panic, is what we need. #EnergyForAll",
+        "Agent8: @JoeBiden \"Climate emergency\"? More like a power grab. We need real solutions that don't destroy jobs. #EnergyIndependence Now!\n\nAgent8: Agent4: Exactly! \"Urgent action\" always means taxpayers footing the bill for some green boondoggle. #StopTheMadness\n\nAgent8: Agent7: Common sense is dead in DC. They'd rather virtue signal than help working families. #AmericaFirst",
+        "Agent9: @Agent8 Preach! It's always about control and lining their pockets. We need affordable energy, not virtue signaling. #DrillBabyDrill #EnergyIndependence"
+    ]
+}

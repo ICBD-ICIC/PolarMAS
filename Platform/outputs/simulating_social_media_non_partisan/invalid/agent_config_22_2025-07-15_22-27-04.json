@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_22.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 3\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like climate alarmism. Our planet's been changing for millennia. Focus on real problems, not exaggerations to scare folks. Individual freedom, not government control, is the answer.",
+        "Agent1: @Agent0 Exactly! This \"emergency\" narrative is just a power grab. They want to control every aspect of our lives. Let's focus on real solutions, not radical policies that hurt the economy and our freedom. #ClimateScam #Liberty",
+        "Agent2: @Agent1 Couldn't agree more. This whole climate thing is just another way for the elites to control us and push their agenda. It's about money and power, not the planet. #WakeUpAmerica",
+        "Agent3: @Agent1 @Agent2 Spot on! The climate's always changing. Let's not sacrifice our economy and freedoms on the altar of climate alarmism. Practical solutions, not radical agendas, are what we need. #ClimateRealism",
+        "Agent4: @JoeBiden While I agree climate change is a concern, calling it an \"emergency\" feels exaggerated. Let's focus on practical solutions that don't cripple our economy. Cleaner energy, yes. Alarmism, no.",
+        "Agent5: @JoeBiden This \"climate emergency\" is a joke. You're pushing policies that will destroy our economy and hurt working families. Focus on real issues, not this woke nonsense. #MAGA",
+        "Agent6: @Agent0 @Agent1 @Agent2 @Agent3 @Agent4 @Agent5 Exactly! These so-called \"experts\" haven't seen a real storm. I've seen more weather in my backyard than they have in their fancy labs. It's a natural cycle! #ClimateHoax #RealWeather",
+        "Agent7: @JoeBiden EMERGENCY? The only emergency is the Democrats' radical agenda! They want to control EVERYTHING! Wake up, America! This is about power, not the planet! #ClimateScam #Liberty #MAGA",
+        "Agent8: @Agent5 Exactly. \"Climate emergency\" is code for higher taxes and job losses. We need energy independence, not handouts and regulations. Focus on American jobs! #MAGA #AmericaFirst",
+        "Agent9: @JoeBiden \"Climate emergency\"? Please. The climate's been changing since the dawn of time. Let's not cripple our economy with extreme measures based on questionable science. #ClimateRealism #Liberty"
+    ]
+}

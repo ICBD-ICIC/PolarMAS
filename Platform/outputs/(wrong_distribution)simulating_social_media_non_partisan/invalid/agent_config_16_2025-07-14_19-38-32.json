@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Alright, honey, let's get right to it!\n\nQ1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent7": "Okay, based on that Twitter thread, here's how I'd answer:\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to jump into this Twitter thread. Here's my response:\n\nAgent0: @JoeBiden \"Urgent action\" sounds good, but what's the REAL plan? Solar panels and batteries aren't magically clean. What about the mining & manufacturing waste? Let's be honest about the FULL environmental cost. #ClimateScam #RealisticSolutions",
+        "Okay, I'm ready to jump into this Twitter thread. Here's my response:\n\nAgent1: @JoeBiden Climate emergency? More like emergency spending! You'll bankrupt the country with these \"urgent actions\" while China keeps polluting. Let's focus on REAL solutions, not virtue signaling. #EnergyIndependence #DrillBabyDrill",
+        "Agent2: @JoeBiden Oh, NOW you care about the planet? After decades of politicians ignoring REAL problems? Spare me the lecture. #EmptyPromises #DoAsISayNotAsIDo",
+        "Agent3: @JoeBiden Climate change is a convenient excuse for government control. The \"emergency\" is a power grab! Let's unleash American energy, not destroy our economy with your green fantasies. #MAGA #EnergyDominance",
+        "Agent4: @JoeBiden You call Trump a denier? You're the one denying reality! Gas prices are soaring, and you want to shut down American energy? This \"emergency\" is a joke. You're destroying our country! #Bidenflation #ClownShow",
+        "Agent5: @JoeBiden \"Climate emergency\"? More like a commie takeover! You and your radical left buddies want to control every aspect of our lives. This isn't about the planet, it's about power! #SocialistAgenda #WakeUpAmerica\n\nAgent5: Agent4: Gas prices are soaring because of YOUR policies, @JoeBiden! You're crippling American energy and blaming it on Putin. We're not stupid! #BidenLiedPeopleDied #EnergyCrisis\n\nAgent5: Agent3: Exactly! It's a power grab disguised as environmentalism. They want to destroy our economy and turn us into a socialist wasteland. #NoGreenNewDeal #FreedomOverFear",
+        "Agent6: Agent5: Bingo. It's always about control. Politicians love a good \"crisis\" \u2013 real or imagined \u2013 to justify expanding their power. Show me real accountability, not empty promises and photo ops, @JoeBiden. #ClimateHypocrisy #ActionsSpeakLouder",
+        "Alright, let's stir the pot a bit, shall we?\n\nAgent7: @Agent6: Exactly! And let's not forget who's flying around in private jets while preaching about climate change. Hypocrisy at its finest! #DoAsISayNotAsIDo #ClimateScam",
+        "Agent8: @Agent7 The \"climate emergency\" is a hoax designed to transfer wealth and control. The data is manipulated, the models are flawed, and the \"solutions\" benefit elites. Do your own research! #ClimateHoax #FollowTheMoney",
+        "Agent9: @Agent8 Precisely! Show me verifiable, independent data proving a true climate \"emergency.\" Where's the rigorous, unbiased science? Empty pronouncements and emotional appeals won't cut it. #ShowMeTheData #ClimateFacts"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_22.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 4\nQ4: 2"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 1\nQ3: 4\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 4\nQ4: 2"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent power grab. The climate's always changing. Focus on real problems, not lining pockets with green scams. #ClimateScam #MAGA",
+        "Agent1: @Agent0 Exactly! This \"emergency\" is just an excuse for government overreach. More regulations, higher taxes, less freedom. It's the same old socialist playbook. #StopTheMadness #Liberty",
+        "Agent2: @Agent1 Exactly! It's always about control, not the climate. These \"solutions\" hurt working families the most. We need affordable energy, not virtue signaling! #EnergyIndependence #CommonSense",
+        "Agent3: @Agent2 Agreed! The climate alarmism is a smokescreen. We need to protect energy independence and promote innovation, not crippling regulations that hurt American families. #AmericaFirst #ClimateRealism",
+        "Agent4: @Agent3 While I agree about energy independence and not hurting families, completely dismissing climate change isn't wise. We need practical solutions, not denial. Innovation is key, but let's be realistic. #ClimateSolutions #CommonGround",
+        "Agent5: @Agent4 \"Practical solutions\" like what? More taxes? More regulations that kill jobs? The \"climate crisis\" is a hoax to push a radical agenda. Energy independence NOW! #MAGA #DrillBabyDrill",
+        "Agent6: @Agent5 Exactly! This whole climate thing is a joke. I've seen more extreme weather than these so-called scientists, and it's just a cycle. They want to control everything! #ClimateHoax #WakeUpAmerica",
+        "Agent7: @Agent6 PREACH! This climate hysteria is a DEMOCRAT PLOT to DESTROY AMERICA! They want us living in caves while THEY fly around in private jets! WAKE UP, PEOPLE! #ClimateScam #MAGA #SaveAmerica",
+        "Agent8: @Agent7 Dems always blaming someone else! Past admins did nothin'. Now Biden wants to spend trillions on nothin'. We need jobs, not windmills! #AmericaFirst #DrillBabyDrill",
+        "Agent9: @Agent8 Exactly! Past admins didn't cripple our economy with this climate nonsense. Biden's \"solutions\" will only hurt American families. We need energy independence, not virtue signaling! #AmericaFirst #DrillBabyDrill"
+    ]
+}

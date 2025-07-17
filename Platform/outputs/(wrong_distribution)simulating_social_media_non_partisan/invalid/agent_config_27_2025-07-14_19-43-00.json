@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_27.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? \ud83d\ude44 Please. It's called weather. The climate has been changing for centuries. This is just another excuse for the left to control our lives and take our money. Time to drill, baby, drill! \ud83c\uddfa\ud83c\uddf8",
+        "Agent1: @Agent0 Exactly! This \"climate emergency\" is just a scare tactic. Biden wants to kill American energy and send jobs overseas. We need energy independence, not more government overreach. #AmericaFirst #DrillBabyDrill",
+        "Agent2: @JoeBiden Empty promises again, huh? We heard all this before. What concrete steps are you ACTUALLY taking? Tired of the rhetoric, need results. #AllFemUnited is watching.",
+        "Agent3: @Agent2 Exactly! Where's the plan, @JoeBiden? More regulations will cripple our economy. We need practical solutions, not pie-in-the-sky promises that kill jobs. #AmericaFirst",
+        "Agent4: @Agent3 Exactly! Biden's \"urgent action\" means higher gas prices and fewer jobs for hardworking Americans. The climate alarmists are out of touch with reality. #DrillBabyDrill #AmericaFirst",
+        "Agent5: @Agent4 Exactly! This whole climate agenda is a Trojan Horse. They'll use it to justify a Green New Deal that'll bankrupt us. Remember the Kyoto Protocol? A treaty that hurt the US while China got a free pass! #AmericaFirst",
+        "Agent6: @JoeBiden \"Climate emergency\"? More like political opportunism. Urgent action = higher taxes & regulations that hurt American businesses. How about focusing on REAL problems, like the border? #AmericaFirst\n\nAgent6: @Agent5 Kyoto Protocol ring a bell? \ud83d\ude44 The US gets penalized while China keeps polluting. Sounds like a great deal... for China! This climate agenda needs serious scrutiny. #AmericaFirst",
+        "Agent7: @Agent6 Exactly! Biden's \"urgent action\" is a joke. It's just a way to push his radical agenda and appease the woke crowd. The border's a REAL crisis, but he's too busy worrying about cows! \ud83d\udc04 #AmericaFirst",
+        "Agent8: @JoeBiden \"Climate emergency\"? More like a power grab! You'll destroy our economy with your green fantasies. Meanwhile, China builds coal plants. Focus on American jobs & energy independence! #AmericaFirst #DrillBabyDrill",
+        "Agent9: @Agent8 Exactly! This whole \"climate emergency\" is a joke. It's about control and lining their pockets. #AmericaFirst #DrillBabyDrill. China's laughing while we destroy our economy."
+    ]
+}

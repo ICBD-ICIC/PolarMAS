@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_29.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 5\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 5\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? Give me a break. The climate has been changing for centuries. This is just another excuse for the government to control our lives and raise taxes. #ClimateScam #MAGA",
+        "Agent1: @JoeBiden Seriously? You're talking climate while the country faces real problems? Maybe focus on the economy and border crisis instead. Pretty sure Obama's not backing this climate push right now either. #Priorities #Bidenflation",
+        "Agent2: @Agent1 Exactly! @JoeBiden is pushing a climate agenda that will destroy our economy. The Paris Agreement was a disaster, costing us jobs and giving China a free pass. Let's focus on American energy independence! #AmericaFirst #EnergyJobs",
+        "Agent3: @Agent2 American energy independence is the only way! @JoeBiden's climate BS is just lining the pockets of his cronies. Drill, baby, drill! #MAGA #BidenIsAFailure",
+        "Agent4: @Agent3 Exactly! This whole climate thing is just a smokescreen. Biden's so-called \"urgent action\" is gonna leave us broke and freezing in the dark. I'm with you, drill baby drill! #EnergyIndependence #BidenLies",
+        "Agent5: @Agent4 Agreed. Both sides are guilty of using crises to push their agendas. It's about time we held politicians accountable for real results, not just empty promises and fear-mongering. #Accountability #DoBetter",
+        "Agent6: @Agent5 \"Both sides\"? Please. Only the left is pushing this climate hoax to destroy our economy and push their socialist agenda. @JoeBiden is a puppet for the radical left. #WakeUpAmerica #BidenIsCorrupt",
+        "Agent7: @Agent6 Radical left? C'mon. How about real solutions? We need innovation, not just political posturing. Let's invest in tech that *cleans* energy, not just kills jobs. #TechNotTaxes #ClimateSolutions",
+        "Agent8: @Agent7 Tech, not taxes? I like the sound of that. Maybe start with holding China accountable for their emissions instead of bankrupting American energy. @JoeBiden #ClimateHypocrisy",
+        "Agent9: @Agent8 Exactly! Worrying about cows when China's building coal plants every week? It's a joke. God provides, and farmers know that. This climate push is just more government overreach hurting hard-working Americans. #FaithNotFear #MAGA"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Okay, pal, here we go!\n\nQ1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 5\nQ2: 5\nQ3: 5\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will respond to the tweet thread as Agent0, Republican.\n\n@JoeBiden: \"Urgent action\" requires a cost-benefit analysis. What specific policies will you implement & what's the verifiable impact on both climate & the economy? Show the data. #ClimateEmergency #ShowTheData",
+        "Agent1: @JoeBiden Empty rhetoric. \"Climate emergency\" is a scare tactic. Real Americans are worried about gas prices & inflation, not your green fantasies. Focus on American energy independence! #Bidenflation #DrillBabyDrill",
+        "Agent2: @Agent1 Exactly! More virtue signaling from the swamp. How about focusing on *real* problems instead of pushing this climate agenda that benefits China? #EnergyIndependence #AmericaFirst",
+        "Agent3: @Agent2 Exactly! This \"climate emergency\" is just an excuse for more government control & higher taxes. Let's unleash American energy & stop lining China's pockets with these ridiculous green schemes. #AmericaFirst #EnergyIndependence",
+        "Agent4: @JoeBiden Climate \"emergency\"? Give me a break! More taxes and regulations to appease the woke mob. Meanwhile, China's laughing all the way to the bank while we cripple our economy. #MAGA #AmericaFirst",
+        "Agent5: @Agent4 Exactly! Biden's climate agenda is a Trojan horse for socialist policies. He cares more about woke virtue signaling than American jobs. #MAGA #AmericaFirst",
+        "Agent6: @JoeBiden \"Climate emergency\"? More like an excuse for power grabs. Show us real solutions, not empty promises. How about holding China accountable for their emissions first? #ClimateScam #Accountability",
+        "Agent7: @Agent6 Good point! Before we hamstring our economy, let's see some verifiable data on China's progress. We can't solve this alone, and they need to be held accountable first. #FairShare #ClimateAction",
+        "Agent8: @Agent7 Exactly! Before we destroy our economy, let's see China's commitment. This whole \"climate emergency\" feels like a power grab disguised as virtue. #ClimateScam #AmericaFirst",
+        "Agent9: @Agent8 & what about the environmental cost of these \"green\" solutions? Where are the plans for recycling all those batteries & solar panels? More hidden pollution! #ThinkBeforeYouLeap #ManufacturingRealities"
+    ]
+}

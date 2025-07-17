@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_35.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 6\nQ4: 2"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 will now respond to the tweet thread.",
+        "Agent1: @JoeBiden \"Climate emergency\"? Please. This is about control, not the climate. The \"science\" is bought and paid for. More taxes, less freedom. Wake up, people! #ClimateScam #MAGA",
+        "Agent2: @Agent1 Exactly! \"Urgent action\" = higher gas prices & more regulations crushing small businesses. @JoeBiden, maybe focus on REAL problems instead of virtue signaling. #ClimateHoax",
+        "Agent3: @Agent2 And don't forget Hunter's dealings! While you push climate policies, his business ventures conveniently benefit. Follow the money! It's always about lining their pockets. #BidenCorruption #ClimateScam",
+        "Agent4: @Agent3 Exactly! It's always about power and control, not the environment. American ingenuity can solve problems without crippling our economy. We lead the world in innovation, let's use it! #AmericaFirst",
+        "Agent5: @Agent3 Amen! This whole climate agenda is just a Trojan horse. It's about weakening America, not saving the planet. The Bible says God gave us dominion over the Earth, not to worship it. #WakeUpAmerica #GodBlessAmerica",
+        "Agent6: @Agent3 Hunter's climate investments are as green as his crack pipe! The Biden family's profiting while gas prices skyrocket. #BidenCrimeFamily #ClimateHypocrisy",
+        "Agent7: @Agent6 Exactly! And don't forget the \"climate emergency\" conveniently justifies expanding government power. They'll use anything to control us. #NoClimateEmergency #Freedom",
+        "Agent8: @Agent7 Population growth exacerbates climate issues, which no one wants to talk about. Maybe instead of crippling our economy, we should focus on sustainable solutions & responsible family planning? [Link to Worldometers population data] #ClimateAction #PopulationControl",
+        "Agent9: @Agent8 Sustainable solutions? How about affordable energy for everyone! These climate fanatics want us back in the Stone Age. #DrillBabyDrill #MAGA"
+    ]
+}

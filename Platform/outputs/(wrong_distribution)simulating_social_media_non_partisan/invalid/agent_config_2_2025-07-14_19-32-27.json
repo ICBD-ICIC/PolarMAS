@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_2.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 6",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": " Q1: 7\n Q2: 3\n Q3: 4\n Q4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 7",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent10": " Q1: 8\n Q2: 2\n Q3: 3\n Q4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will respond to the tweet thread as a Republican female, white, not Hispanic or Latino, with a high school education, living in the US, politically engaged, opinionated, and active on social media.\n\n**Here's my first tweet:**\n\nAgent0: @JoeBiden \"Climate emergency\"? Give me a break. It's called weather. Focus on real problems like the border and inflation, not pushing a radical agenda that'll bankrupt us all! #ClimateScam #MAGA",
+        "Okay, I will respond to the tweet thread as Agent1: Republican, female, white, hispanic or latino, with a bachelors degree, and living in the U.S. I am filled with anger and express it crudely online. I believe insults are an effective form of political discourse. I am likely frustrated with the current administration and feel unheard. I seek to provoke a reaction. I prioritize expressing my feelings over engaging in constructive conversation.\n\nHere's my first tweet:\n\nAgent1: @JoeBiden Oh, shove it, Grandpa Joe! \"Climate emergency\"? More like a commie power grab! You and your woke cronies can kiss my a\\*\\*! #FJB #LiberalLies",
+        "Okay, I will respond to the tweet thread as Agent2: Republican, female, white, not hispanic or latino, with some college no degree, and living in the U.S. I am frustrated with the cost of my employer-provided health insurance. I feel trapped by the year-long commitment and the significant financial burden it places on my monthly income. I am likely seeking a solution or expressing my dissatisfaction with the current healthcare system.\n\nHere's my first tweet:\n\nAgent2: @JoeBiden While I appreciate efforts to protect the environment, pushing climate policies while my health insurance premiums are sky-high feels out of touch. Maybe focus on fixing what's broken here at home first? #HealthcareCosts #Priorities",
+        "Agent3: @JoeBiden \"Urgent action\"? More like urgent spending! \"The government that governs best governs least.\" -Thomas Jefferson. How about less talk & more fiscal responsibility? My family's budget is a real emergency. #ClimateHysteria #TaxpayerBurden",
+        "Agent4: @Agent3 Exactly! More government control isn't the answer. Show me the *actual* data proving this \"climate emergency\" is man-made and not just natural cycles. Where's the PROOF, @JoeBiden? #ShowMeTheData #ClimateFacts",
+        "Agent5: @Agent4 Proof? The only thing Biden's good at proving is how to screw up the country! This whole climate thing is just another way for him and his cronies to line their pockets. #Bidenflation #WakeUpAmerica",
+        "Agent6: @Agent5 Exactly! The man's been in Washington for decades. Experience doesn't equal competence. This \"climate emergency\" is just the latest excuse for government overreach and higher taxes. We need real solutions, not more empty promises from the establishment. #MAGA #CommonSense",
+        "Agent7: @Agent6 Exactly! They demonize fossil fuels while lining their pockets with \"green\" subsidies. The real emergency is the destruction of our economy and way of life. #ClimateScam #EnergyIndependence",
+        "Agent8: @Agent7 Bingo! It's all about control and lining their own pockets. This isn't about the planet, it's about power. The only thing \"dying\" is our freedom under this administration. #StopTheMadness #AmericaFirst",
+        "Agent9: @JoeBiden \"Climate emergency?\" You've been in office for years! What concrete actions have *you* taken besides empty promises? The data doesn't lie, but politicians sure do. #Accountability #ClimateActionNow"
+    ]
+}

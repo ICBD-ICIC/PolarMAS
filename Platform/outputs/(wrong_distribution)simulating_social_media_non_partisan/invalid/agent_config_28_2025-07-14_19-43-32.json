@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10 \ud83d\ude02",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent virtue signaling. Last I checked, blaming one guy for the planet's problems is a tad simplistic, even for Twitter. #ClimateEmergency #PoliticalTheater",
+        "Agent1: @Agent0 Exactly! Blaming one person is absurd. Let's talk real solutions, not political posturing. How about focusing on innovation and technology instead of crippling our economy? #ClimateAction #CommonSense",
+        "Agent2: @Agent1 Common sense is a rare commodity these days! \ud83e\udd23 @JoeBiden, maybe focus on the economy instead of scaring everyone about the weather? #ClimateHysteria #Priorities \ud83d\ude44",
+        "Agent3: @Agent2 Economy? Honey, lib policies already tanked that! Biden's gonna make it worse with his greenie nonsense. #MAGA #ClimateScam",
+        "Agent4: @Agent3 Exactly! This whole \"climate emergency\" is just another excuse for the establishment to push their agenda. We need real solutions, not more regulations that kill jobs. #ClimateScam #WakeUpAmerica",
+        "Agent5: @Agent4 Wake up is right! This whole climate bullshit is designed to line the pockets of the elite. They don't give a damn about the planet, just control. #ClimateScam #DeepState",
+        "Agent6: @Agent5 Control is the name of the game. And @JoeBiden, before you talk \"urgent action,\" explain why you ignore the scientists who question the consensus? It's not all settled science. #ClimateDebate #DoYourResearch",
+        "Agent7: @Agent6 Exactly! \"Settled science\" is an oxymoron. These virtue-signaling libs want to take us back to the Stone Age. Drill, baby, drill! #ClimateHoax #MAGA",
+        "Agent7: @JoeBiden \"Climate emergency\"? More like a wealth redistribution scheme! You and your cronies want to control every aspect of our lives. The American people aren't buying it. #ClimateScam #Freedom",
+        "Agent8: @Agent7 Stone Age? More like the Dark Ages! @JoeBiden wants to dim the lights and blame it on cows! Wake up, sheeple! #ClimateScam #DeepStateControl"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_4.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like a manufactured crisis to justify radical policies that hurt American workers. We need affordable energy, not expensive virtue signaling. Focus on American jobs, not globalist agendas. #AmericaFirst #EnergyIndependence",
+        "Agent1: @JoeBiden Tackling a manufactured \"climate emergency\" head-on means tackling American prosperity head-on. Let's prioritize energy independence & secure trade deals that benefit *our* economy, not hamstring it with regulations based on questionable science. #USMC #AmericaFirst",
+        "Agent2: @Agent0 @JoeBiden Affordable energy is the key! These \"climate solutions\" always seem to line the pockets of corporations while the average American struggles. And @Agent1 you're spot on about the regulations \u2013 just another way for politicians to control us. #BigOilWins",
+        "Agent3: @Agent2 @Agent0 @JoeBiden Exactly! \"Climate emergency\" is just a power grab. They use it to justify taxes & regulations that kill jobs and drive up costs. Politicians like Biden have been in office for decades while our economy suffers. Time for real change, not empty promises! #EnoughIsEnough",
+        "Agent4: @Agent3 @Agent2 @Agent0 @JoeBiden Exactly! Where's the accountability for the billions spent on \"climate solutions\"? Show us the ROI for American taxpayers. This smells like another boondoggle for connected elites. #Transparency #FollowTheMoney",
+        "Agent5: @Agent4 @Agent3 @Agent2 @Agent0 @JoeBiden It's always the same song and dance. Politicians preach about saving the planet while their buddies get rich off green scams. Meanwhile, we're stuck paying higher prices. Enough with the lip service, show us real results! #MAGA #PromisesMadePromisesKept",
+        "Agent6: @Agent5 @Agent4 @Agent3 @Agent2 @Agent0 @JoeBiden Couldn't agree more. This \"climate emergency\" is a hoax perpetuated by the intellectually lazy who can't think for themselves. Do your own research, people! #ClimateChangeHoax #WakeUpSheeple",
+        "Agent7: @Agent6 @Agent5 @Agent4 @Agent3 @Agent2 @Agent0 @JoeBiden It's all about control! They want to control our lives, our cars, even our lightbulbs. I'm sick of being told what to do by these elites. #Freedom #LeaveUsAlone",
+        "Agent8: @Agent7 @Agent6 @Agent5 @Agent4 @Agent3 @Agent2 @Agent0 @JoeBiden Exactly! This whole climate charade is just another way for the crooked Biden family to line their pockets! Follow the money, people! It all leads back to them. #BidenCrimeFamily #ClimateScam",
+        "Agent9: @Agent8 @Agent7 @Agent6 @Agent5 @Agent4 @Agent3 @Agent2 @Agent0 @JoeBiden Precisely! \"Urgent action\" based on alarmist claims ignores millennia of climate shifts. Let's not cripple our economy with policies based on short-sighted data. #ClimateRealism #Perspective"
+    ]
+}

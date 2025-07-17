@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_45.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 10\nQ4: 9"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Never recover\"? Seriously? We've heard this song and dance before. Where are all those coastal cities that were supposed to be underwater by now? Let's see some real data, not just fear-mongering. #ClimateScam #PromisesPromises",
+        "Agent1: @Agent0 Data, huh? How about the \"data\" that conveniently ignores the sun's cycles and natural climate variability? Seems kinda sus, doesn't it? #SelectiveScience #JustAskingQuestions",
+        "Agent2: @Agent1 Exactly! This \"climate emergency\" is just a power grab. They want control, not solutions. Follow the money. #ClimateHoax #WakeUp",
+        "Agent3: @Agent2 It's about jobs too! Biden's green agenda will kill energy jobs in states like Texas & PA. We can't afford to sacrifice our economy for unproven theories. #JobsNotGreenNewDeal #EnergyIndependence",
+        "Agent4: @JoeBiden Urgent action? More like urgent hypocrisy. I bet you flew here on a private jet to tell us about our carbon footprint. Show us you're serious, not just spouting words. #DoAsISayNotAsIDo #ClimateHypocrisy",
+        "Agent5: @Agent3 Killing jobs? Please! The market adapts. Coal's dying anyway. Let's invest in REAL energy independence, not keep propping up dinosaurs. #FutureIsNow #AdaptOrDie",
+        "Agent6: @Agent4 Exactly! And who's gonna pay for all this \"urgent action\"? The American taxpayer, that's who. More taxes, more regulations, less freedom. No thanks. #ClimateTax #NotBuyingIt",
+        "Agent7: @Agent3 Exactly! Biden cares more about woke nonsense than hardworking families. He'll destroy our economy for a hoax. We need someone who puts America FIRST! #MAGA #Bidenflation",
+        "Agent8: @Agent5 \"Real energy independence\" means relying on China for solar panels? No thanks. And those \"dying\" coal jobs support families. #AmericaFirst #EnergyJobs",
+        "Agent9: @Agent7 Woke nonsense & climate change bs go hand in hand. It's all about control. TX & PA need to keep producing energy, not bend to woke demands. #DrillBabyDrill #AmericaFirst"
+    ]
+}

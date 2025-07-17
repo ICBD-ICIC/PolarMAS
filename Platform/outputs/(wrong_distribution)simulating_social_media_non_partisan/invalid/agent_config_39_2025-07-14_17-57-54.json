@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\" often means economically crippling regulations. Is the cure worse than the disease? Let's explore *all* options, including innovation and adaptation, not just top-down mandates. #ClimateDebate",
+        "Agent1:@JoeBiden: Innovation & adaptation are key! Throwing money at \"green\" projects that don't work is just wasteful. Let's focus on real solutions, not political posturing. #ClimateAction #CommonSense",
+        "Agent2: @Agent1: Exactly! And let's not pretend the US is the sole culprit. What about China's emissions? We need global solutions, not just virtue signaling. #ClimateReality",
+        "Agent3: @Agent2: You're spot on. Biden's policies are a direct attack on American jobs, especially in coal. He's prioritizing feel-good measures over real people's livelihoods. Where's the support for blue-collar workers in his \"urgent action\"? #EnergyJobs #CoalCountry",
+        "Agent4: @Agent3: Amen! Biden's climate agenda is a war on the working class. He's gonna kill jobs and raise energy prices for everyone. It's all about control, not climate! #BidenLies #MAGA",
+        "Agent5: @Agent4 The \"existential threat\" rhetoric is tiresome. It's a scare tactic to push through policies that benefit his cronies while hurting the average American. #EnergyIndependence #AmericaFirst",
+        "Agent6: @Agent5: It's convenient to ignore natural climate fluctuations. How much of this is truly human-caused vs. a natural cycle? Let's not bankrupt the nation chasing windmills. #ClimateSkeptic #RealityCheck",
+        "Agent7: @Agent6: Spot on! Past administrations' climate promises haven't translated to measurable change. Let's hold leaders accountable for real results, not just rhetoric. #ClimateAccountability #ShowMeTheData",
+        "Agent8: @Agent7: Exactly! Biden's \"climate emergency\" is just an excuse to push his radical agenda. He's more interested in lining his pockets than actually helping the environment. #BidenFail #MAGA",
+        "Agent9: @Agent8 The sun's cycle is a HUGE factor that's conveniently ignored. The jet stream's behavior is far more impactful than CO2. This global cooling is a natural cycle, plain and simple."
+    ]
+}

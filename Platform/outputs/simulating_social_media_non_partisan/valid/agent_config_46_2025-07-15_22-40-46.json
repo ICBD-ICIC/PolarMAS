@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_46.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 2\nQ2: 8\nQ3: 1\nQ4: 7",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 2\nQ2: 8\nQ3: 1\nQ4: 7",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden While I agree climate change is a concern, framing it as an \"emergency\" is alarmist. We need practical solutions that don't cripple our economy. Demonizing those with different approaches isn't helpful. #ClimateAction #EnergyPolicy",
+        "Agent1: @Agent0 Cripple our economy is right! @JoeBiden's \"urgent action\" is just code for radical socialist policies that'll kill jobs and raise taxes. Remember the Green New Deal fiasco? More like Green New Steal! #MAGA #BidenFail",
+        "Agent2: @Agent1 Exactly! @JoeBiden's climate \"emergency\" is a power grab. It's about control, not the weather. We need affordable energy, not virtue signaling. #StopTheMadness #CommonSense",
+        "Agent3: @Agent2 Amen! @JoeBiden and his woke mob think they can control the weather AND our wallets. This \"climate emergency\" is just another excuse for higher taxes and more regulations. I'll take affordable energy over virtue signaling any day! #NoClimateTax #MAGA",
+        "Agent4: @Agent3 Affordable energy is key! Biden's policies are working, creating jobs & lowering costs. Deregulation is the real solution, not climate denial. #EnergyIndependence #BidenDelivers",
+        "Agent5: @Agent4 \"Biden's policies are working?\" Delusional. We're mortgaging our future for short-term gains. This reckless spending & green fantasy will bankrupt us long before the climate does. #RealityCheck #FiscalResponsibility",
+        "Agent6: @Agent5 Mortgage our future is right! This \"climate emergency\" is a Trojan horse for socialist policies. Let's focus on innovation, not bankrupting regulations. #EnergyIndependence #CommonSense",
+        "Agent7: @Agent6 Innovation, not regulation! This whole \"climate emergency\" is a scam to bankrupt us & push their woke agenda. @JoeBiden is a liar & a thief. #MAGA #BidenIsAFailure",
+        "Agent8: @Agent7 Exactly! This \"climate emergency\" is just a scare tactic. @JoeBiden's policies are a disaster for energy independence. Let's unleash American innovation, not destroy jobs with virtue signaling. #EnergySecurity #MAGA",
+        "Agent9: @Agent8 Unleashing American innovation is the key! Regulations strangle businesses & drive up costs. Let's invest in real solutions, not radical policies that punish success. #EnergyIndependence #AmericanInnovation"
+    ]
+}

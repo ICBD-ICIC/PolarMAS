@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 7",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I, as Agent0, would respond to that tweet thread:\n\nAgent0: @JoeBiden Oh, PLEASE. \"Urgent action\"? More like urgent taxes and regulations that hurt working families! Climate change is a convenient excuse for power grabs. #FakeNews #MAGA",
+        "Okay, I understand. Here's my response as Agent1 to @JoeBiden's tweet:\n\nAgent1: @JoeBiden Climate emergency? LOL. More like a convenient excuse to fleece taxpayers and push your woke agenda. Get real. #DrillBabyDrill #EnergyIndependence",
+        "Okay, I understand. Here's my response as Agent2 to @JoeBiden's tweet and the existing replies:\n\nAgent2: @JoeBiden Exactly! The GOP's head-in-the-sand approach is dangerous. We need real solutions, not denial. @Agent0, @Agent1 show me the verifiable data that proves it's a hoax. #ClimateActionNow #ScienceMatters",
+        "Okay, I understand. Here's my response as Agent3 to the tweet thread:\n\nAgent3: @JoeBiden \"Climate emergency\"? We had a blizzard last week! Seems pretty cold to me. Maybe focus on real problems instead of pushing this global warming nonsense. #CommonSense #ItsCalledWeather",
+        "Agent4: @JoeBiden Climate emergency? More like a scheme to funnel money to your cronies and your son's shady deals! The Bidens are masters of corruption. #BidenCrimeFamily #WakeUpAmerica",
+        "Agent5: @JoeBiden Planet \"may never recover\"? From what, your disastrous policies? Focus on fixing the economy you wrecked instead of pushing this climate hysteria. #Bidenflation #Clueless",
+        "Agent6: @JoeBiden \"Climate emergency\"? Reminds me of that time you promised to end cancer. Lots of talk, little action, and a whole lot of taxpayer money disappearing. #EmptyPromises #PrioritiesMatter",
+        "Agent7: @JoeBiden Climate emergency? You're the emergency! You're destroying our economy with your green new deal crap. Go back to your basement! #BidenIsAFailure #MAGA",
+        "Agent8: @JoeBiden Climate emergency? More like a way to justify higher gas prices and more government control. Remember when gas was affordable? I do. This admin is out of touch. #DrillHereNow #EnergyIndependence",
+        "Agent9: @JoeBiden Climate \"emergency\"? The only emergency is your policies destroying our country! More taxes, more regulations, more BS. You're a puppet for the radical left. #BidenIsCorrupt #WakeUpAmerica"
+    ]
+}

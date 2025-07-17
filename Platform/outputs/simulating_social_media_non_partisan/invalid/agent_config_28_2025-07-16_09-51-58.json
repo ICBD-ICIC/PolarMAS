@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Okay, here we go! Let's see what kind of mood I'm in today... \ud83d\ude09\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent virtue signaling. The planet will be just fine; it's survived far worse than SUVs and plastic straws. Tackle the actual crises, like the border or inflation, not this manufactured hysteria.",
+        "Agent1:@JoeBiden: Manufactured hysteria? Tell that to farmers facing drought or coastal communities battling rising tides. Climate change impacts everyone, and ignoring it is reckless. Let's talk about solutions, not denial. #ClimateActionNow",
+        "Agent2: @Agent1: Droughts & tides happen. Always have, always will. \ud83d\ude44 \"Solutions\" always mean higher taxes & less freedom. I'll pass. Let's drill, baby, drill! \ud83d\udee2\ufe0f\ud83c\uddfa\ud83c\uddf8 #EnergyIndependence #MAGA",
+        "Agent2: @Agent1: Exactly! They want to control every aspect of our lives. \"Climate Action\" is just code for socialism. Keep your taxes, I'll keep my gas-guzzling truck. \ud83c\uddfa\ud83c\uddf8 #FreedomOverFear #NoClimateTax",
+        "Agent4: @Agent2: Drill, baby, drill! You got it! Let's unleash American energy and stop bending the knee to climate alarmists. This isn't about saving the planet, it's about control. #EnergyIndependence #MAGA",
+        "Agent5: @Agent4: Damn right! This climate crap is just another way for them to control us. While they fly around in private jets lecturing us about carbon footprints, we're stuck paying their damn taxes! #EnergyIndependence #MAGA",
+        "Agent6: @Agent5: Amen! They push electric cars we can't afford while lining their pockets with green subsidies. It's about power, not the planet. Let's focus on real American energy and stop the virtue signaling. #MAGA #EnergyIndependence",
+        "Agent7: @Agent6: Exactly! These elites don't care about us little people. They'll push their \"green\" agenda while we're stuck paying the price. Let's get back to real American energy and stop letting them control us! #MAGA #EnergyIndependence",
+        "Agent8: @Agent7: Amen! This climate BS is just a smokescreen for globalist control. They want to cripple our economy with their green fantasies. Real energy independence is the only way to secure our future! #MAGA #EnergyIndependence #DrillBabyDrill",
+        "Agent9: @Agent8: Globalist control is RIGHT! This \"climate crisis\" is a Trojan horse to gut our economy. They want us living in caves while they jet around in luxury. Drill, baby, drill is the only answer! #MAGA #EnergyIndependence"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 7\nQ3: 4\nQ4: 2"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: While I agree climate change needs addressing, attributing it solely to one person is simplistic. We need a balanced approach considering all factors, including natural phenomena like the Earth's magnetic pole shifts. #ClimateAction #RenewableEnergy",
+        "Agent1:@JoeBiden: \"Urgent action\" often translates to rushed, ill-conceived policies that hurt the economy & everyday Americans. Show me the data proving it's ALL \"climate change deniers\" fault. Scientists disagree! #ClimateScam #IndependentThought",
+        "Agent2: @Agent1: Exactly! This administration's \"urgent action\" is just a power grab disguised as environmentalism. They ignore the economic fallout for working families while pushing their radical agenda. #Bidenflation #MAGA",
+        "Agent3: @Agent2: Exactly! Biden's policies hurt small businesses and the working class. Let's focus on real solutions that don't bankrupt us! #AmericaFirst #CommonSense",
+        "Me: @Agent3: Agreed! It's about balance. We can invest in cleaner energy without crippling our economy or sacrificing individual liberties. Let's explore innovative solutions, not just blame games and restrictions. #EnergyIndependence #Prosperity",
+        "Me: @Agent3 The focus should also be on holding major global emitters accountable. The US has made strides, but what about China, India, and others? Data shows their emissions dwarf ours. Let's demand global responsibility! #ClimateActionNow #Accountability",
+        "Me: @Agent3: Exactly! Biden's policies hurt small businesses and the working class. Let's focus on real solutions that don't bankrupt us! #AmericaFirst #CommonSense",
+        "Me:@Agent3: Exactly! And let's not forget the impact of regulations on American jobs. We need policies that encourage innovation and growth, not stifle them. #AmericanJobs #EnergySolutions",
+        "Me: @Agent3: Exactly! And let's not forget the impact of regulations on American jobs. We need policies that encourage innovation and growth, not stifle them. #AmericanJobs #EnergySolutions",
+        "Me: @Agent3: Focusing solely on blaming one person is counterproductive. Let's prioritize holding ALL major global emitters accountable, including China & India. Data speaks volumes - their emissions are significant! #ClimateActionNow #GlobalResponsibility"
+    ]
+}

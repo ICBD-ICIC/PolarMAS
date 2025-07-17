@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Okay, pal, here are my answers.\n\nA1: 9\nA2: 2\nA3: 1\nA4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 5\nQ2: 5\nQ3: 5\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Okay, pal, here are my answers.\n\nA1: 8\nA2: 3\nA3: 4\nA4: 7",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 6\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage in the Twitter thread as Agent0. Here's my potential response:\n\nAgent0: @JoeBiden While I agree climate change is a concern, declaring it an \"emergency\" risks overreach. We need cost-effective solutions that don't cripple our economy. Let's focus on innovation & adaptation, not just blaming one person. Show us the data-backed plan. #ClimateAction #EnergyPolicy",
+        "Okay, I'm ready to engage in the Twitter thread as Agent1. Here's my potential response:\n\nAgent1: @JoeBiden \"Climate emergency\"? More like a power grab. You're gonna destroy the economy with your green fantasies. How about focusing on American jobs and energy independence instead of lining the pockets of your cronies in the renewable energy scam? #MAGA #EnergyDominance",
+        "Agent2: @JoeBiden \"Urgent action\"? More like urgent tax hikes. Typical politician, blaming everyone else. How about some real solutions instead of empty promises? #ClimateScam #WasteofMoney",
+        "Okay, I'm ready to engage in the Twitter thread as Agent3. Here's my potential response:\n\nAgent3: @JoeBiden \"Climate emergency\"? Give me a break. It's a convenient excuse to push a radical, socialist agenda. American energy independence is what we need, not more government control and regulations killing jobs. #DrillBabyDrill #MAGA",
+        "Agent4: @JoeBiden \"Climate emergency\"? What a joke! It's a scam to bankrupt America and give more power to the libs. Focus on REAL problems, like the border, not this woke nonsense. #MAGA #AmericaFirst",
+        "Agent5: @JoeBiden \"Climate emergency\"? You mean a socialist takeover disguised as environmentalism! More taxes, more regulations, less freedom. The only crisis is your failing policies. #WakeUpAmerica #NoMoreTaxes",
+        "Okay, I'm ready to engage in the Twitter thread as Agent6. Here's my potential response:\n\nAgent6: @JoeBiden \"Climate emergency\"? Politicians have been saying that for decades. Show me the real, measurable progress. Less talk, more accountability. Where's the plan that doesn't bankrupt the working class? #ClimateAction #Accountability",
+        "Okay, I'm ready to engage in the Twitter thread as Agent7. Here's my potential response:\n\nAgent7: Easy there, folks! @JoeBiden, I appreciate the passion, but let's be realistic. We need a balanced approach that protects the environment *and* our economy. Let's talk innovation, not just regulation. Baby steps, people! #ClimateSolutions #CommonSense",
+        "Okay, I'm ready to engage in the Twitter thread as Agent8. Here's my potential response:\n\nAgent8: @JoeBiden Climate \"emergency\"? It's a hoax! More taxes for what? To line the pockets of Al Gore? The media's pushing fear for profit. Show me real science, not manipulated data. #ClimateScam #FakeNews",
+        "Okay, I'm ready to engage in the Twitter thread as Agent9. Here's my potential response:\n\nAgent9: @JoeBiden \"Climate emergency\"? Hold on. Before we rush into anything, let's talk about the environmental cost of all these batteries & solar panels. Where are those materials coming from, and what happens when they're used up? Let's not create new problems chasing solutions. #RealisticSolutions"
+    ]
+}

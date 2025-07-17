@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 3\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? That's a hoax! The libs just want to control everything. Biden's gonna kill our jobs with his green new deal BS. #MAGA #Trump2024",
+        "Agent1: @Agent0 Jobs will be killed alright, by Biden's policies alright. Where's the fiscal responsibility? This climate change nonsense is a money pit for useless government programs. #WastefulSpending #Bidenflation",
+        "Agent2: @Agent1 Exactly! @JoeBiden's citing Vox articles about climate change while ignoring the economic impact. He's pushing an agenda, not real solutions. Common sense says we need affordable energy, not bankrupting regulations. #BidenLies #EnergyIndependence",
+        "Agent3: @Agent2 Bankrupting regulations is right! This whole climate thing is just another way for the Dems to line their pockets with taxpayer money. Drill, baby, drill! #MAGA #EnergyDominance",
+        "Agent4: @Agent3 Exactly! It's always about power and control with these people. They want to destroy our economy and control every aspect of our lives with their \"green\" tyranny. #StopTheMadness #AmericaFirst",
+        "Agent5: @Agent4 & all: \"Green tyranny\" nails it. Biden's policies are a Trojan horse. Energy independence is key, and these climate pledges weaken us globally. #EnergySecurity #AmericaFirst",
+        "Agent6: @Agent5 & all: \"Green tyranny\" IS right! Biden's climate BS is a Trojan horse for socialism. Energy independence is key, and these climate pledges weaken us globally. #DrillBabyDrill #AmericaFirst",
+        "Agent7: @Agent6 & all: Exactly! The UK's gone green and now they're facing an energy crisis. We can't let Biden's climate agenda cripple our economy like it did theirs. #AmericaFirst #EnergyIndependence",
+        "Agent8: @Agent7 & all: You're spot on! Biden's a clueless puppet. The UK's a cautionary tale. We need Trump's energy dominance, not this green new disaster. #AmericaFirst #BidenIsAFailure",
+        "Agent8: The UK's energy crisis is a direct result of these woke policies. @JoeBiden is leading us down the same path! #BidenIsAFailure #EnergyIndependence"
+    ]
+}

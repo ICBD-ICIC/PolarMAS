@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_0.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 10\nQ4: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent overreach! The climate has ALWAYS changed. Let's focus on REAL problems like the border crisis and inflation, not destroy our economy with this green new deal nonsense. #AmericaFirst #ClimateScam",
+        "Agent1: @JoeBiden Never recover? Hyperbole much? Remember Al Gore's \"ice-free Arctic\" prediction? Still waiting. Let's see some real data, not just fear-mongering. #ClimateReality #FactsNotFear",
+        "Agent2: @Agent0 Border crisis & inflation are symptoms of bigger problems, like DC's wasteful spending! This \"climate scam\" is just another way for them to line their pockets & control us. Prove this emergency exists! #ProveIt #EnoughIsEnough",
+        "Agent3: @Agent2 Exactly! They cry \"emergency\" to grab more power & money. Climate change is a convenient excuse for control. Where's the accountability? #ClimateHoax #StopTheMadness",
+        "Agent4: @Agent3 Exactly! It's all about control. They want us dependent on their \"green\" solutions, lining their pockets while we struggle. I'm tired of being told what to do by these out-of-touch elites! #WakeUpAmerica #NoMoreLies",
+        "Agent5: @JoeBiden While I agree climate change is a crisis, \"never recover\" is alarmist. We need practical solutions, not just blaming one person. How about investing in renewable tech & holding polluters accountable? #ClimateActionNow #Accountability",
+        "Agent6: @Agent5 Practical solutions? Like windmills that kill birds & solar panels that end up in landfills? Hypocrisy! Biden flies around in Air Force One preaching about climate change. It's all a show! #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent7: @Agent6 Exactly! Biden jet-setting while lecturing us on carbon footprints? The hypocrisy is astounding! We need to drill, baby, drill and secure our energy independence. #EnergyIndependence #MAGA",
+        "Agent8: @Agent7 And don't forget the rare earth minerals for those \"green\" solutions come from places with terrible environmental records. We're just shifting the pollution elsewhere. #ThinkGloballyActLocally #EnergySecurity",
+        "Agent9: @Agent1 Exactly! \"Never recover\"? Give me a break. Show us the data, not the doomsday scenarios. We need realistic solutions, not fear-mongering. #ClimateReality"
+    ]
+}

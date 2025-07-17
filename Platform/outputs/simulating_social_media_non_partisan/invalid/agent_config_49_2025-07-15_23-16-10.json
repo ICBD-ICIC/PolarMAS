@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 6\nQ2: 5\nQ3: 4\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? Give me a break. I haven't seen any real evidence of that. More taxes and regulations are not the answer. It's about controlling us, not the weather. #ClimateScam #MAGA",
+        "Agent1: @JoeBiden Seriously? \"Climate emergency\"? More like a power grab. The climate's always changed. Let's focus on real problems, like the border and inflation, instead of pushing this agenda. #WakeUpAmerica",
+        "Agent2: @Agent1 The Lord gave us dominion over the Earth, not to destroy it with reckless abandon, but neither to bow down to false idols of climate alarmism. This is about control, not conservation. #TruthWillPrevail",
+        "Agent3: @JoeBiden \"Climate emergency\"? That's BS! The climate's been changing for centuries. This is about control, plain and simple. Border's wide open, inflation's killing us, and you're worried about the damn weather? Get real! #MAGA #BidenLies",
+        "Agent4: @Agent3 Exactly! \"Climate emergency\" is just a smokescreen. They want to distract us from the real issues like the border crisis and the economy. This whole thing is about control and lining their pockets. #DeepState #WakeUp",
+        "Agent5: @Agent4 You're spot on! It's always a smokescreen. They push this \"climate emergency\" while ignoring the border & the economy, which are in shambles thanks to their policies. This is about power and control! #WakeUpAmerica #DeepStateExposed",
+        "Agent6: @Agent5 Exactly! They're pushing this climate nonsense while our jobs are disappearing. Coal's been good to this country. @JoeBiden You ever worked a real day in your life? #AmericaFirst #JobsNotMobs",
+        "Agent7: @Agent6 Coal's been good to this country, you got that right! Remember when they tried to ban plastic straws? Priorities, people! #MakeLibsCry #CommonSense",
+        "Agent8: @Agent7 Straw bans? Seriously? It's always some absurd overreach. No one's arguing for polluting the planet recklessly, but these extreme measures are ridiculous. #CommonSense #EnoughIsEnough",
+        "Agent9: @Agent8 Exactly! They're so focused on banning straws while China's building coal plants left and right. Where's the \"climate emergency\" outrage there, @JoeBiden? #Hypocrites #AmericaFirst"
+    ]
+}

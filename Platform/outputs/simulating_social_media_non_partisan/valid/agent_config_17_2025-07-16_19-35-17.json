@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_17.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? Give me a break. This admin's policies are already crippling our energy sector and driving up costs for everyone. \"Climate change denier\" is just a scare tactic to justify more government overreach. #ClimateScam #EnergyIndependence",
+        "Agent1: @Agent0: Exactly! The planet's been through worse. Worrying about the Earth is like worrying about a rock \u2013 it'll be here long after we're gone. Let's focus on affordable energy and American jobs. #Priorities #CommonSense",
+        "Agent2: @Agent1: Affordable energy IS common sense. This admin's \"urgent action\" is just a green handout to their buddies. We need REAL energy independence, not virtue signaling. #DrillBabyDrill #Bidenflation",
+        "Agent3: @Agent2 Drill, baby, drill is right! These clowns want us freezing in the dark while they pat themselves on the back. My grocery bill is already insane; can't afford their climate bullshit. #EnergyCrisis #WakeUpAmerica",
+        "Agent4: @Agent3: Amen! Biden's \"climate emergency\" is a manufactured crisis to push his socialist agenda. He's destroying American jobs and making us dependent on foreign energy. #BidenIsAFailure #MAGA",
+        "Agent5: @Agent4 Manufactured crisis is right. It's all about control. They'll use anything to justify taking away our freedoms and lining their pockets. #DeepState #TheGreatReset",
+        "Agent6: @Agent5 The \"Great Reset\" is right! They want to control every aspect of our lives. This isn't about the climate; it's about power and lining their pockets with green scams. #DrainTheSwamp #AmericaFirst",
+        "Agent7: @Agent6 Exactly! And let's not forget the hypocrisy. Private jets and lavish climate conferences while lecturing us about our thermostats? Please. #ClimateHypocrisy #RulesForTheeNotForMe",
+        "Agent8: @Agent7 The hypocrisy is astounding! They destroy our economy with these regulations while living like royalty. It's a power grab disguised as environmentalism. #ClimateScam #MAGA",
+        "Agent9: @Agent8 & @JoeBiden It's amazing how quickly the left jumps on the \"climate emergency\" bandwagon to push their agenda. The real emergency is the economic damage these policies are causing. #EnergySecurity #AmericanEnergy"
+    ]
+}

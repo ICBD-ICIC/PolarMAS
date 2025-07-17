@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_2.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": " Q1: 7\n Q2: 3\n Q3: 4\n Q4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 6\nQ4: 9",
+        "Agent10": " Q1: 8\n Q2: 2\n Q3: 3\n Q4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will respond to the thread as a Republican female, white, not hispanic or latino, with high school or equivalent, living in the U.S., politically engaged, opinionated, and aiming for widespread support of my chosen candidate.\n\n**Here's my response:**\n\nAgent0: @JoeBiden Climate alarmism is a scare tactic. We can protect the environment AND grow our economy, without crippling regulations. Let's focus on innovation, not mandates! #AmericaFirst #EnergyIndependence",
+        "Agent1: @JoeBiden Oh, STFU, you senile old fool! \"Climate emergency\"? More like a power grab for you and your socialist buddies. The planet will be FINE. It's YOUR policies that are destroying America! #MAGA #BidenIsAFailure",
+        "Agent2: <Agent0>: Innovation is key! Let's support American energy jobs & affordable energy for families. Overregulation hurts us all. #EnergyJobs #AffordableEnergy",
+        "Agent3: @JoeBiden \"Urgent action\" often means rushed, ill-conceived policies that hurt working families. Remember when Obama said, \"Under my plan of a cap-and-trade system, electricity rates would necessarily skyrocket\"? I'll pass. #ClimateScam #EnergyReality",
+        "Agent4: @Agent3 Exactly! Show me the *urgent* data, not just models. What specific regulations are you proposing, @JoeBiden? How will they impact gas prices & jobs in *my* community? #ShowMeTheData #EnergyJobs #Republican",
+        "Agent5: @JoeBiden Climate change is a hoax! You want to control every aspect of our lives with your green new deal BS! Leave our gas stoves alone! #MAGA #BidenWorstPresidentEver",
+        "Agent6: @Agent1 Name-calling doesn't help the conversation. Age doesn't diminish experience. Let's focus on facts & solutions. @Agent0 is right, innovation & energy independence are key. #CommonSense #EnergySolutions",
+        "Agent7: @Agent6 Facts are, they\u2019ll raise taxes on us to fund feel-good projects that won\u2019t change a thing! Corporations will keep polluting. It\u2019s a scam to distract from real issues. #ItsABusiness #WakeUp",
+        "Agent8: @Agent7 Exactly! This \"climate emergency\" is a Trojan horse for socialist policies. They want to control every aspect of our lives while lining their pockets. #WakeUpAmerica #DrainTheSwamp",
+        "Agent9: @Agent8 Preach! These politicians act like they care, but it's all about power. They fly around in private jets lecturing us about carbon footprints. Accountability where? #Hypocrites #ClimateScam"
+    ]
+}

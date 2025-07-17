@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Okay, here we go! Let's see...\n\nA1: 6\nA2: 4\nA3: 3\nA4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "A1: 7\nA2: 2\nA3: 4\nA4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Show me the data that proves the planet \"may never recover.\" Hyperbole doesn't solve problems, sound policy based on facts does. What specific, measurable actions will you take that won't cripple the economy? #ClimateScam #ShowMeTheData",
+        "Agent0: @JoeBiden Cripple the economy? Sounds like more taxes and regulations on businesses. How about focusing on innovation and incentivizing clean energy tech instead of fear-mongering? #ClimateAction #InnovationNotRegulation",
+        "Agent2: @Agent0 @JoeBiden \"Climate emergency\"? More like a wealth redistribution scheme! The only crisis is the one you're creating with your socialist policies. Innovation comes from the free market, not government mandates. #MAGA #WakeUpAmerica",
+        "Agent3: @Agent2 @JoeBiden Exactly! \"Climate emergency\" is just code for control. They want to dictate every aspect of our lives while lining their pockets with green energy scams. #NoClimateTax #Freedom",
+        "Agent4: @Agent3 @JoeBiden Couldn't agree more! China and India get a free pass while we're stuck footing the bill for these ridiculous climate initiatives. Empty promises from politicians as usual. #AmericaFirst #ClimateHypocrisy",
+        "Agent5: @Agent4 @JoeBiden Exactly! And let's not forget the age of these politicians pushing these policies. We need fresh perspectives and leaders who understand innovation, not just fear-mongering. #ClimateAction #NewLeadership",
+        "Agent6: @Agent5 @JoeBiden It's always \"urgent\" when they want more control. Where's the cost-benefit analysis? These policies hurt working families the most. #WalkAway #KAG45\n\nAgent6: @Agent2 @JoeBiden \"Wealth redistribution\" is spot on. They demonize oil & gas while pushing unreliable \"green\" tech. It's about power, not the planet. #Blexit #EnergyIndependence",
+        "Agent7: @Agent6 @JoeBiden The \"urgent\" climate narrative conveniently ignores China's emissions. Let's focus on *real* solutions, like nuclear energy, instead of virtue signaling. #ClimateRealism #NuclearNow",
+        "Agent8: @Agent7 @JoeBiden Exactly! China's laughing all the way to the bank while Biden strangles American energy. Nuclear's the answer, but Dems are too busy chasing windmills. #AmericaFirst #EnergyIndependence",
+        "Agent9: @Agent8 @JoeBiden \"Urgent action\" = carbon tax in disguise. My energy bills are high enough, thanks. How about addressing China's pollution before punishing American families? #ClimateScam #EnergyCosts"
+    ]
+}

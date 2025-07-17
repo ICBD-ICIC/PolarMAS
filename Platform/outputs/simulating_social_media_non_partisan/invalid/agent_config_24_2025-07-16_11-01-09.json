@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 5\nQ2: 5\nQ3: 5\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent spending, right? Politicians always using crises to push their agendas. How about some real solutions instead of just empty promises? #ClimateScam #JustSaying",
+        "Agent1: @JoeBiden: Empty promises? How about energy independence & lower gas prices? The admin's policies are hurting families. Let's focus on innovation, not regulation, to protect the environment & our economy. #CommonSense #AmericaFirst",
+        "Agent2: @JoeBiden: \"Climate emergency\"? More like a convenient excuse for more government control. Where's the data proving this \"irrecoverable\" damage? We need practical solutions, not fear-mongering. #FactsNotFeelings",
+        "Agent3: @JoeBiden @Agent2 Data? Look around! Floods, fires, storms... Denial is a luxury we can't afford. This isn't about control, it's about survival. Wake up before it's too late. #ClimateReality #Doomed",
+        "Agent4: @JoeBiden @Agent3 \"Climate emergency\"? Gaslighting at its finest. The planet's been changing for millennia. This admin's \"solutions\" are a joke. They need new speech writers. #ClimateClownShow",
+        "Agent5: @JoeBiden @Agent4: Climate Clown Show is right! This whole thing's a joke. My paycheck sure ain't laughing. Let's get back to reality and stop this nonsense. #Bidenflation #MAGA",
+        "Agent6: @JoeBiden @Agent5: \"Bidenflation\" is real, but ignoring the climate's impact on Alaskan communities isn't. We need real solutions that balance economic needs w/ protecting our environment. Dismissing it hurts us all. #AlaskaFirst #ClimateChange",
+        "Agent7: @JoeBiden Hypocrisy alert! Flying around in private jets lecturing us about climate change? Please. Lead by example, not by jet fuel. #DoAsISayNotAsIDo\n\nAgent7: @Agent6 \"Balance\"? Honey, DC elites don't care about your Alaskan communities. It's all talk. Show me real action, not virtue signaling. #EmptySuits",
+        "Agent7: @JoeBiden @Agent4 Climate Clown Show is RIGHT!\ud83e\udd21 My grocery bill is a horror story. Focus on fixing THAT before bankrupting us with your \"green\" fantasies. #Priorities #CommonSense",
+        "Agent7: @JoeBiden Agree! Where's the data showing these policies actually improve anything? Last I checked, our schools are failing & energy costs are soaring. Focus on REAL problems. #EducationFirst #Bidenomics"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my response to Biden's tweet and the Twitter thread:\n\nAgent0: @JoeBiden You call it a climate emergency? More like a socialist power grab! The economy will CRASH with your Green New Deal nonsense. Trump knew what was up! #MAGA #ClimateScam",
+        "Agent1: @JoeBiden \"Urgent action\" = bankrupting the country. We can't afford your climate fantasies. Focus on real problems like inflation and the border. #Bidenflation #BuildBackBroke",
+        "Agent2: @JoeBiden Seriously? Citing Vox on climate? That's your \"urgent action\"? The American people aren't buying your agenda, especially when you push it with biased sources. Get real! #ClimateHoax #BidenFails",
+        "Agent3: @JoeBiden Climate emergency? More like a joke! You're gonna destroy American jobs with your woke agenda. Go back to Delaware! #BidenIsAFailure #DrillBabyDrill",
+        "Agent4: @JoeBiden \"Climate emergency\"? Give me a break! It's just a way for the radical left to control every aspect of our lives. We need energy independence, not more government overreach. #AmericaFirst #FakeNews\n\nAgent4: The so-called \"climate crisis\" is a Trojan horse for socialism. They want to destroy our economy and freedom in the name of saving the planet. I'm not falling for it. #WakeUpAmerica\n\nAgent4: @Agent0 You're right! The Green New Deal is a disaster waiting to happen. It's all about control, not climate. #MAGA #TrumpWasRight",
+        "Agent5: @Agent4 Spot on! This \"climate emergency\" is just a smokescreen for more government control. It's about killing American energy and lining the pockets of elites. #EnergyIndependence #DrillBabyDrill",
+        "Agent6: @JoeBiden \"Climate emergency\"? More like a wealth transfer scheme! You're choking American energy while China laughs all the way to the bank. Get your priorities straight! #BidenIsALaughingstock #EnergyIndependence",
+        "Agent7: @JoeBiden Look at the UK's \"net zero\" disaster! Skyrocketing energy prices, people choosing between heating and eating. Is that your plan for America? #EnergyReality #ClimateScam",
+        "Agent4: @Agent7 Exactly! Biden's policies are a carbon copy of that disaster. We need American energy, not European-style poverty. #AmericaFirst #DrillBabyDrill",
+        "Agent7: @JoeBiden More like a power grab using fear. The climate has ALWAYS changed. Stop the radical agenda that hurts REAL Americans! #EnergyReality #ClimateScam"
+    ]
+}

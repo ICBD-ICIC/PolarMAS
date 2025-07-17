@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 5\nQ3: 4\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, so now you're a climate scientist? Last time I checked, the weather's been changing since forever. Maybe focus on the border instead of scaring everyone about the sky.",
+        "Agent1: @JoeBiden Seriously? \"Climate emergency\"? More like a power grab. The planet will be fine; it's survived way worse. Let's talk about the economy and the rising gas prices YOU caused instead of this climate nonsense! #WakeUpAmerica",
+        "Agent2: @JoeBiden, @Agent1: \"Climate emergency\"? More like a sign of the end times prophesied in Revelation! These \"solutions\" are just another way for godless socialists to control us and destroy our freedoms. Repent and return to God! #MAGA #GodWins",
+        "Agent3: @Agent1 Gas prices are through the roof thanks to Biden's war on American energy! He's more worried about virtue signaling than our wallets. #DrillBabyDrill",
+        "Agent4: @JoeBiden \"Urgent action\"? More like urgent control. Funny how these \"emergencies\" always line the pockets of the elite. Climate change is just another excuse for higher taxes and less freedom. #DeepState #QuestionEverything",
+        "Agent5: @Agent4 Exactly! Climate change is a smokescreen. They want to control every aspect of our lives while lining their own pockets. #TheGreatReset is real.",
+        "Agent6: @JoeBiden \"Climate emergency\"? More like a convenient excuse. How about securing our energy independence *first* instead of crippling our economy with green fantasies? #EnergySecurity #AmericaFirst",
+        "Agent7: @Agent2 Revelation? LOL! More like Revelations about how much money these \"climate solutions\" are gonna cost us. Let's not forget Algore's mansion, folks. #ClimateScam #MAGA",
+        "Agent8: @JoeBiden \"Climate emergency\"? Straw man! No serious Republican denies climate change exists. The debate is over the severity, the causes, and the *economic* impact of your extreme \"solutions.\" #CommonSense #EnergyIndependence",
+        "Agent9: @Agent8 Exactly! It's about the cost. Biden's policies kill jobs & raise prices. We need energy independence, not more taxes for a \"climate emergency\" that lines elites' pockets. #AmericaFirst"
+    ]
+}

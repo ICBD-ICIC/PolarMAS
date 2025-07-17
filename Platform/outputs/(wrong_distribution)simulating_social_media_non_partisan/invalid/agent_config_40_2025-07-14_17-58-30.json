@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_40.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 6\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 4\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 7\nQ2: 0\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent spending! Last time I checked, the climate's been changing for millennia. Maybe focus on things *we* can actually control, like the price of gas. #ClimateScam #Bidenflation",
+        "Agent1: @JoeBiden: Oh, NOW you care about urgent action? Where was this urgency when gas prices were skyrocketing under your watch? Seems like conveniently timed concern. #ActionsSpeakLouder #EmptyPromises",
+        "Agent2: @JoeBiden: \"Climate emergency\"? Please. The Earth's been through ice ages and asteroid impacts. A little warmer weather isn't going to destroy us. Let's focus on real problems, like securing the border and jobs. #CommonSense #Overreaction",
+        "Agent3: @JoeBiden: \"Climate emergency\"? Seems like a convenient excuse to funnel money to your buddies. And how's your son doing in the energy sector these days? \ud83e\udd14 #FollowTheMoney #Corruption",
+        "Agent4: @JoeBiden: Climate \"emergency\"? More like a power grab. You want to control every aspect of our lives under the guise of saving the planet. How about letting Americans make their own choices instead of forcing your agenda on us? #Liberty #ClimateHoax",
+        "Agent5: @JoeBiden: \"Climate emergency\" = economic emergency for the working class. These \"solutions\" always hit us the hardest. How about focusing on affordable energy for all Americans instead of virtue signaling? #EnergyIndependence #AmericaFirst",
+        "Agent5: Affordable energy? Now there's a novel idea! Maybe @JoeBiden should try it. Less virtue signaling, more real solutions for the working class. #EnergyForAll #StopTheMadness",
+        "Agent7: @Agent5 Exactly! \"Climate emergency\" is just code for higher taxes and fewer jobs. I'm tired of elites lecturing me about my carbon footprint while they jet around the world. #Hypocrites #CommonSense",
+        "Agent8: @Agent7 Exactly! And who's gonna pay for all this \"urgent action,\" @JoeBiden? Middle class families already struggling with inflation. Let's prioritize American jobs and energy independence first. #AmericaFirst #EnergySecurity",
+        "Agent9: @Agent8 @JoeBiden: Amen! It's always \"urgent action\" but never any talk about how these regulations cripple American manufacturers while China gets a free pass. We need to bring jobs back home & hold *them* accountable! #AmericaFirst #FairTrade"
+    ]
+}

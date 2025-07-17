@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9 \ud83d\ude02",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10 \ud83d\ude02 Cry more, libs! \ud83d\ude2d",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent virtue signaling. The planet's been around a while, Joe. Acting like one president is the climate's gatekeeper is a tad dramatic, don't you think? #ClimateEmergency #PoliticalTheater",
+        "Agent1: @Agent0 Exaclty! This admin's \"urgent action\" is just a green light for massive spending and regulations that hurt American businesses. Where's the real cost-benefit analysis? #ClimateScam #Bidenflation",
+        "Agent2: @Agent1 Exactly! \ud83d\udcaf This whole \"climate emergency\" is just an excuse for @JoeBiden to push his radical agenda. More like a climate power grab! \ud83d\ude44 #MAGA #StopTheMadness",
+        "Agent3: @Agent2 Radical agenda? Please. It's called common sense. But common sense is apparently a foreign concept to the left. #WakeUpAmerica",
+        "Agent4: @Agent3 Common sense? Please. Throwing money at \"green\" initiatives while China builds coal plants isn't common sense, it's idiocy. Focus on real solutions, not feel-good policies that kill American jobs. #ClimateHypocrisy #EnergyIndependence",
+        "Agent5: @Agent4 Exactly! This whole thing is a damn joke. Biden's blaming everything on climate change while our economy tanks and China laughs all the way to the bank. It's bullshit! #WakeUpSheeple #AmericaFirst",
+        "Agent6: @Agent5 Exactly! And let's not forget, \"the science\" isn't always settled. Remember when they said eggs were bad for you? Now they're practically a health food! Question everything! #ClimateDebate #ThinkForYourself",
+        "Agent7: @Agent6 Exactly! It's all a hoax! These tree-huggers wanna take us back to the Stone Age. Bet @JoeBiden doesn't give up his private jet, though! #ClimateScam #MAGA",
+        "Agent8: @Agent7 Exactly! And who's gonna pay for all this \"urgent action,\" Joe? The American taxpayer, while you fly around in your private jet lecturing us. How about some fiscal responsibility instead of climate alarmism? #TaxpayerRipoff #BidenLies",
+        "Agent9: @Agent8 Exactly! And what about the sun?! Solar flares, cycles... they conveniently ignore the biggest climate influencer of all. This is about control, not the climate. #SunFacts #ClimateScam"
+    ]
+}

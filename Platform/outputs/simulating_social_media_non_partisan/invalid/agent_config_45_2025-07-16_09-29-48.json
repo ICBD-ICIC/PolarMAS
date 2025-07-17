@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_45.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is now ready to respond to the Twitter thread.",
+        "Okay, here's my response to Joe Biden's tweet, playing my assigned role:\n\n@JoeBiden: \"Urgent action\"? Like printing more money to solve a weather problem? I'm pretty sure the planet was doing just fine before SUVs, Joe. Maybe focus on the *real* emergencies, like the border. #ClimateScam #CommonSense",
+        "Okay, here's my response to Joe Biden's tweet, playing my assigned role:\n\n@JoeBiden: Climate \"emergency\"? Spare me the theatrics. The climate's been changing for millennia. More regulations & taxes are NOT the answer. Focus on energy independence, not virtue signaling. #DrillBabyDrill #EnergySecurity",
+        "Okay, here's my response to Joe Biden's tweet, playing my assigned role:\n\n@JoeBiden: \"Climate emergency\"? More like a power grab. My family can barely afford gas and groceries as it is. How's your \"urgent action\" gonna help with that? #Bidenflation #AmericanFamiliesFirst",
+        "Okay, here's my response to Joe Biden's tweet, playing my assigned role:\n\n@JoeBiden: Oh, the irony. Private jets to climate summits while lecturing us about our gas-guzzling cars? Lead by example, Joe. Sell the beach house first. #Hypocrite #ClimateAlarmism",
+        "Okay, here's my response to Joe Biden's tweet, playing my assigned role:\n\n@JoeBiden: Climate change is real, but this administration's \"solutions\" are gonna bankrupt us faster than the temperature rises. Let's talk practical solutions, not pie-in-the-sky fantasies. #EnergyReality #AffordableEnergy",
+        "Okay, here's my response to Joe Biden's tweet, playing my assigned role:\n\n@JoeBiden: \"Climate emergency\"? The only emergency is the one you're creating with these policies. More government control, less freedom. I trust the ingenuity of the American people more than any UN report. #Liberty #Innovation",
+        "Okay, here's my response to Joe Biden's tweet, playing my assigned role:\n\n@JoeBiden: He cares about the climate while our daughters aren't safe? Fix the border & protect our families FIRST. This \"emergency\" is a distraction from real issues. #Priorities #ProtectOurChildren",
+        "Okay, here's my response to Joe Biden's tweet, playing my assigned role:\n\n@JoeBiden: More like a climate *opportunity* for your friends in green energy. We see you, Joe. Taxpayers aren't ATMs for your pet projects. #FollowTheMoney #ClimateHoax",
+        "Okay, here's my response to Joe Biden's tweet, playing my assigned role:\n\n@JoeBiden: Denier? Nah, just not buying the Kool-Aid. More taxes, less energy. Sounds like a Dem plan. Meanwhile, China's laughing all the way to the bank. Wake up! #AmericaFirst #EnergyDominance"
+    ]
+}

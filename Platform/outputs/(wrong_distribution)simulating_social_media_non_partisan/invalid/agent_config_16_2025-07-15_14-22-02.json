@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Alright, honey, let's get down to brass tacks!\n\nQ1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I'd respond to that Twitter thread, keeping my persona in mind:\n\nResponding to @JoeBiden: Seriously? \"Urgent action\"? More like urgent spending with questionable results. Let's talk about the rare earth minerals needed for those \"green\" solutions and where they're mined. #ClimateHypocrisy #RealisticSolutions",
+        "Okay, here's how I'd respond to that Twitter thread, keeping my persona in mind:\n\nResponding to @JoeBiden: Empty words. How about focusing on REAL problems like inflation and border security instead of pushing a radical agenda that hurts working families? #PrioritiesMatter #AmericanFirst",
+        "Responding to @JoeBiden: Oh, NOW you care about urgent action? Gas prices are sky-high and you're worried about the weather in 50 years? Get real. #OutOfTouch #CommonSense",
+        "Okay, here's how I'd respond to that Twitter thread, keeping my persona in mind:\n\nResponding to @JoeBiden: \"Climate emergency\"? More like a convenient excuse for government overreach. How about letting the free market innovate instead of dictating solutions? #RegulationKills #EnergyIndependence",
+        "Responding to @JoeBiden: Denier? You mean someone who questions your ridiculous policies? While you fly around in a private jet lecturing us? #DoAsISayNotAsIDo #ClownShow",
+        "Okay, here's how I'd respond to that Twitter thread, keeping my persona in mind:\n\nResponding to @JoeBiden: \"Climate emergency\"? More like a convenient excuse for government overreach. How about letting the free market innovate instead of dictating solutions? #RegulationKills #EnergyIndependence",
+        "Responding to @JoeBiden: Talk is cheap, Joe. What's the PLAN? More regulations that kill jobs? Show me concrete, measurable steps, not just virtue signaling. #Accountability #ShowMeTheData",
+        "Okay, here's how I'd respond to that Twitter thread, keeping my persona in mind:\n\nResponding to @JoeBiden: Honey, \"climate emergency\"? Let's be practical. We need energy NOW. How about supporting ALL energy sources instead of crippling American businesses? #CommonSense #EnergySecurity",
+        "Okay, here's how I'd respond to that Twitter thread, keeping my persona in mind:\n\nResponding to @JoeBiden: \"Climate emergency\"? More like a funding opportunity for your buddies. Show me the data that isn't manipulated to fit your narrative. #ClimateScam #FollowTheMoney",
+        "Okay, here's how I'd respond to that Twitter thread, keeping my persona in mind:\n\nResponding to @JoeBiden: \"Urgent action\"? More like economic suicide. Show me the data proving your policies won't devastate American jobs. #JobsNotCrises #EnergyIndependence"
+    ]
+}

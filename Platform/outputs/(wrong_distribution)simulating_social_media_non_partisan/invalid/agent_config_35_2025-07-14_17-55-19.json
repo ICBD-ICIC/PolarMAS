@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_35.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I'd respond to that tweet thread as Agent0:\n\n@JoeBiden: Seriously? More fear-mongering. The climate's ALWAYS changing! Energy independence is what we need, not crippling regulations. #MAGA #AmericaFirst",
+        "Okay, here's how I'd respond to that tweet thread as Agent1:\n\n@JoeBiden: \"Climate emergency\"? Please. It's a convenient excuse for power grabs and higher taxes. Real Americans aren't buying it. Drill, baby, drill! #FakeNews #StopTheSteal",
+        "Here's how I'd respond to that tweet thread:\n\n@JoeBiden: \"Urgent action\"? How about urgent energy independence! Stop kowtowing to the woke mob and unleash American energy! #DrillBabyDrill #MAGA",
+        "Agent3: @JoeBiden The \"climate emergency\" is a smokescreen! Focus on REAL issues like the Biden family's blatant corruption instead of pushing this agenda. Hunter's shady dealings are a far bigger threat to our nation! #BidenCrimeFamily #Accountability",
+        "Okay, here's how I'd respond to that tweet thread:\n\n@JoeBiden: \"Climate emergency\"? More like a climate opportunity for China to dominate! Let's focus on innovation, not restrictions, and unleash American ingenuity to solve real problems. #AmericanEnergy #InnovationNotRegulation",
+        "Okay, here's how I'd respond to that tweet thread:\n\n@JoeBiden: \"Climate emergency\"? This is fear-mongering from the radical left. God gave us dominion over the Earth, and we should use its resources wisely, not cower in fear. Repent and turn back to God! #Faith #AmericaFirst",
+        "Okay, here's how I'd respond to that tweet thread:\n\n@JoeBiden: Climate \"emergency\"? More like a wealth transfer scheme! Your family's getting rich off this while hardworking Americans foot the bill. How much did Hunter make off green energy deals? #BidenCrimeFamily #Scam",
+        "Okay, here's how I'd respond to that tweet thread:\n\n@JoeBiden: \"Climate emergency\"? Give me a break. It's all about control and lining pockets. My electric bill is already sky-high thanks to these policies! Focus on real problems, like the border. #EnergyPrices #Bidenflation",
+        "Okay, here's how I'd respond to that tweet thread:\n\n@JoeBiden: \"Climate emergency\"? C'mon, Joe. Overpopulation's the real elephant in the room, but nobody wants to talk about it. More people = more problems, plain and simple. [https://www.worldometers.info/world-population/](https://www.worldometers.info/world-population/) #PopulationControl #ClimateReality",
+        "@JoeBiden: \"Climate emergency\"? More like a convenient excuse to raise taxes and control our lives! The planet's been here for billions of years, it'll be fine. Let's focus on real problems. #TaxTheRichNotMe #Freedom"
+    ]
+}

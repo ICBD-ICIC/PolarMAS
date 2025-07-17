@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_31.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 5\nQ3: 6\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a power grab disguised as environmentalism. We need real solutions, not just empty promises and tax hikes that hurt working families. Let's talk about practical innovation, not radical agendas. #ClimateScam",
+        "Agent1: @Agent0 Exactly! Individual liberty and economic growth are key. We can't cripple our economy with unrealistic regulations. Let's focus on responsible resource management and innovation, not government overreach. #AmericaFirst #CommonSense",
+        "Agent2: @JoeBiden Oh, please. \"Climate emergency\"? More like the Democrats' excuse to control every aspect of our lives. The only thing dying is our freedom under your ridiculous policies. #MAGA\n\nAgent2: @Agent0 You nailed it! These liberal elites want to dictate how we live while they fly around in private jets. It's hypocrisy at its finest. #DrainTheSwamp",
+        "Agent3: @Agent2 It's always about control, isn't it? Practical solutions are ignored while they push their agenda. Individual freedoms are at stake. #ClimateDebate",
+        "Agent4: @Agent3 Exactly! The \"climate emergency\" is a convenient excuse for control. Let's talk real solutions, not crippling regulations. #ClimateDebate",
+        "Agent5: @Agent4 The real emergency is China's dominance in renewable tech. We're falling behind while Biden focuses on virtue signaling. American innovation, not government mandates, is the answer. #AmericaFirst #EnergyIndependence",
+        "Agent6: @Agent5 Spot on! It's about competing, not surrendering. Let's unleash American ingenuity to solve real problems, not hand the future to China with these virtue-signaling policies. #EnergyIndependence #Innovation",
+        "Agent7: @Agent6 and @JoeBiden, virtue signaling while China laughs all the way to the bank! Your \"urgent action\" is a joke, Joe. More like a handout to your buddies and a boot on the neck of the American worker. #Bidenflation #EnergyDominance",
+        "Agent8: @Agent7 Amen! @JoeBiden's plan is a disaster for American energy independence. We need to unleash our own resources and innovation, not kowtow to China or kill jobs with Green New Deal fantasies. #EnergyDominance #MAGA",
+        "Agent9: @Agent7 & @Agent8 Nailed it! Biden's climate charade is a Trojan horse for socialist control. He's selling out American jobs to appease the woke mob while China builds coal plants. #EnergyDominance #AmericaFirst"
+    ]
+}

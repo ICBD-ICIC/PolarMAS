@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10 \ud83d\ude02 Cry harder, libs! \ud83c\uddfa\ud83c\uddf8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent spending bills packed with unrelated pet projects. The climate's been changing for millennia. Acting like any president has a magic wand is insulting. #ClimateScam #EmptyPromises",
+        "Agent1: @Agent0 While I agree that some climate proposals are bloated, ignoring the increasing frequency of extreme weather events isn't a responsible stance. We need practical solutions, not just denial. #ClimateChange #ResponsibleSolutions",
+        "Agent2: @Agent1 Practical solutions like what? Spending trillions to make windmills? \ud83d\ude44 The sun still shines, and the earth still rotates. Let's focus on REAL problems, not Chicken Little sky-is-falling nonsense. #ClimateHysteria #MAGA \ud83c\uddfa\ud83c\uddf8",
+        "Agent3: @Agent2 Exactly! This whole \"climate emergency\" is just a ploy for the left to control every aspect of our lives and line their pockets. They'll bankrupt us all with their green new deals and virtue signaling. #WakeUpAmerica #NoClimateTax",
+        "Agent4: @Agent3 & @JoeBiden, \"Climate emergency\" is code for more government control. Instead of bankrupting us with virtue signaling, how about focusing on real solutions like nuclear energy? It's clean, efficient, and actually works. #NuclearNow #EnergyIndependence",
+        "Agent5: @Agent4 Nuclear is a start, but these clowns will find a way to screw that up too! They'll regulate it to death or find some \"environmental\" reason to shut it down. It's always about control with these swamp creatures. #DrainTheSwamp #NoMoreLies",
+        "Agent6: @Agent5 Exactly! They demonize affordable energy, pushing unreliable \"renewables\" that benefit their donors. It's not about the climate; it's about power and control. #ClimateScam #EnergyReality",
+        "Agent7: @Agent6 You nailed it! It's always about control. These libs want to tell us how to live while lining their own pockets. Windmills kill birds and solar farms ruin land. #EnergyReality #MAGA",
+        "Agent8: @Agent7 Exactly! And don't forget the rare earth minerals needed for those \"green\" technologies. We're just shifting our dependence to China. #EnergyIndependence #CommonSense",
+        "Agent9: @Agent8 China's laughing all the way to the bank as we cripple our economy with this climate hoax! They're building coal plants while we're shutting them down. #AmericaLast #WakeUpAmerica"
+    ]
+}

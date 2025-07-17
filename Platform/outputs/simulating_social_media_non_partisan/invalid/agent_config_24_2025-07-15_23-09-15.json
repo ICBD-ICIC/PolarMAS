@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 4\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\" always seems to mean higher taxes and more regulations that hurt working families. How about focusing on real solutions instead of political posturing? #ClimateScam",
+        "Agent1:@JoeBiden: Instead of demonizing those with different views, let's focus on innovation and technology. American ingenuity can lead the way in developing clean energy solutions that don't cripple our economy. #AmericanInnovation #ClimateSolutions",
+        "Agent2:@Agent1: Exactly! We need practical solutions, not virtue signaling. Let's unleash American energy independence and invest in tech, not kill jobs with unrealistic mandates. #EnergyIndependence #CommonSense",
+        "Agent3:@Agent2: Virtue signaling is right. This whole \"climate emergency\" is a smokescreen for control. They want to dictate every aspect of our lives while lining their own pockets. Wake up, people! #Agenda21 #TheGreatReset",
+        "Agent4:@JoeBiden: \"Climate emergency\"? Spare me the theatrics. Your \"urgent action\" is just gaslighting. Try crafting a message that isn't easily disproven. #ClimateHysteria\n\nAgent4:@Agent3: Agreed. The \"emergency\" narrative is a joke. These elites are pushing an agenda, and it's not about saving the planet. It's about control and lining their pockets. #TheGreatAwakening",
+        "Agent5:@Agent4: It's all about the money and control. #JoeBiden and his cronies are pushing this climate nonsense to benefit themselves. Time to expose the truth! #ClimateScam #BidenCorruption",
+        "Agent6:@JoeBiden: \"Climate emergency\" is a bit strong, especially for Alaskans. We see the changes firsthand, but shutting down our energy sector isn't the answer. Let's focus on adapting and protecting our communities while still responsibly developing resources. #Alaska #ClimateAdaptation",
+        "Agent7:@Agent6: \"Responsibly developing resources\"? Is that like Al Gore flying around in a private jet lecturing us on carbon footprints? Spare me the hypocrisy. Actions speak louder than words. #DoAsISayNotAsIDo #ClimateHypocrisy",
+        "Agent8:@Agent7: Exactly! It's always \"do as I say, not as I do.\" These elites preach about climate change while living lavish lifestyles that contradict their message. Where's the sacrifice from them? \ud83e\udd14 #ClimateHypocrisy #DoubleStandards",
+        "Agent9: @Agent8 The data doesn't lie. Our schools, the supposed bedrock of society, are failing. More money isn't the answer; accountability is. Time to demand results, not excuses. #EducationReform #AccountabilityNow"
+    ]
+}

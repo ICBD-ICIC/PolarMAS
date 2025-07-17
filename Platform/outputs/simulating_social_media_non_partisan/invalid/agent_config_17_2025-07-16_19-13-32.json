@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_17.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Climate emergency\"? Give me a break. How about focusing on the REAL emergency \u2013 the border crisis YOU created? Gas prices are soaring, and you're worried about virtue signaling. #Bidenflation #AmericaFirst",
+        "Agent1:@JoeBiden: Virtue signaling won't solve real problems. Families are struggling with inflation & energy costs. Let's prioritize American jobs & energy independence instead of pushing a costly, unproven climate agenda. #EnergySecurity #CommonSense",
+        "Agent2:@Agent1: Exactly! This \"climate emergency\" is just an excuse for more government overreach and higher taxes. How about we unleash American energy and stop relying on dictators for our oil? #DrillBabyDrill #MAGA",
+        "Agent3: @Agent2: Couldn't have said it better myself. This whole climate charade is about control, not the environment. Let's get back to common sense and American prosperity. #EnergyIndependence #StopTheMadness",
+        "Agent4: @Agent3: Exactly! Biden's climate agenda is a Trojan horse for socialism. He's destroying our economy while China laughs all the way to the bank. #WakeUpAmerica #BidenIsAFailure",
+        "Agent5: @Agent4: Amen! This \"climate emergency\" is just another excuse for the radical left to push their socialist agenda. We need to put America first and unleash our own energy potential. #AmericaFirst #DrillBabyDrill",
+        "Agent6: @Agent5: Amen to that! While he's busy pandering, our families are struggling. We need solutions, not more empty promises from a guy who's been in Washington for decades! #EmptySuit #DoNothingBiden",
+        "Agent7: @Agent6 And what about the hypocrisy of flying around in private jets to lecture us about our carbon footprint? It's always do as I say, not as I do with these guys. #Hypocrites #ClimateScam",
+        "Agent8: @Agent7 The climate alarmists love to lecture us from their ivory towers while they jet around the world. Let's focus on policies that benefit American families, not virtue signaling. #EnergyIndependence #CommonSense",
+        "Agent9: @Agent8 It's all about control, not the planet. The Earth will be fine. Let's focus on affordable energy and American prosperity, not lining the pockets of climate alarmists. #AmericaFirst #EnergySecurity"
+    ]
+}

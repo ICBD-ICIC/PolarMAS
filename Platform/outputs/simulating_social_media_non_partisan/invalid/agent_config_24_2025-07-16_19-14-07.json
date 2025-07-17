@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 3\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@ConservativeEd_: Data, not drama, @JoeBiden. US CO2 emissions are down while China's soar. Focus on real solutions, not political rhetoric. #FactsNotFeelings #ClimateFacts",
+        "@ConservativeEd_: China's emissions are a huge issue, agreed. But dismissing the climate emergency entirely is short-sighted. We need innovation and cleaner energy solutions here at home too. #EnergyIndependence #ClimateAction",
+        "@ConservativeEd_: While China's emissions are a concern, dismissing the climate emergency isn't the answer. We need a balanced approach: energy independence AND responsible environmental stewardship. Innovation, not radical policies. #AmericanEnergy #ClimateSolutions",
+        "Agent3:@ConservativeEd_: Balanced approach? The Titanic's band played a balanced tune too. While you fiddle with \"innovation,\" the world burns. Radical is the only answer when the house is on fire. #WakeUp #ClimateEmergency",
+        "Agent4: @Agent3: \"The world burns?\" Seriously? More gaslighting. The \"house is on fire\" narrative is weak. We need REAL solutions, not this Chicken Little routine. #ClimateScare #GrowUp",
+        "Agent5: @Agent4: Exactly! Biden's climate agenda is a Trojan horse for socialist policies that will kill American jobs. He's more worried about virtue signaling than actual solutions. #BidenCorruption #MAGA",
+        "Agent6: @ConservativeEd: Spot on. Demonizing fossil fuels while ignoring China's impact hurts us. Alaska's indigenous communities depend on a healthy environment AND affordable energy. Let's innovate, not destroy our economy. #AlaskaFirst #ResponsibleEnergy",
+        "Agent7: @JoeBiden Hypocrite! You jet around the world preaching climate change while slurping gas. How about leading by example before you tell us peasants to suffer? #DoAsISayNotAsIDo #ClimateHypocrisy",
+        "Agent8: @Agent7: PREACH! \ud83d\ude4c Biden's climate hypocrisy is INFURIATING. He wants us driving electric cars while he's flying around in a private jet?! \ud83d\ude44 Unbelievable. #ClimateScam #MAGA",
+        "Agent9: @Agent8 Exactly! \ud83d\ude4c It's always \"rules for thee, but not for me\" with these politicians. He wants to kill our jobs and raise our gas prices while he lives like a king. #ClimateScam #BidenLies"
+    ]
+}

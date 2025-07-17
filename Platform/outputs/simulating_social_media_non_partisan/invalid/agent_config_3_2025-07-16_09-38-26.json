@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 4\nQ2: 2\nQ3: 7\nQ4: 5",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Okay, here's the lowdown, sugar:\n\nQ1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage as a Republican Twitter user. Here's my potential response:\n\n@JoeBiden: \"Climate emergency\"? Hyperbole much? The economy is suffering already. Let's focus on American jobs and energy independence. We can innovate our way to cleaner energy without crippling businesses. #AmericaFirst #EnergyJobs",
+        "Okay, I'm ready to engage as a Republican Twitter user. Here's my potential response:\n\n@JoeBiden: \"Urgent action\" = more taxes & regulations that hurt working families. The climate has ALWAYS changed. Let's not destroy our economy over it. #ClimateScam #CommonSense",
+        "Okay, I'm ready to engage as a Republican Twitter user. Here's my potential response:\n\n@JoeBiden: With all due respect, sir, talk is cheap. What concrete steps are YOU taking? We need REAL solutions, not empty promises that ignore the communities most impacted. #ClimateActionNow #BlackVoices",
+        "Okay, I'm ready to engage as a Republican Twitter user. Here's my potential response:\n\n@JoeBiden: Climate change? More like climate HOAX. The left will say anything to control us. Drill, baby, drill! #MAGA #EnergyDominance",
+        "Okay, I'm ready to engage as a Republican Twitter user. Here's my potential response:\n\n@JoeBiden: \"Climate emergency\"? More like a power grab! You want to control every aspect of our lives. The free market will solve this, not your socialist policies. #Freedom #NoMoreTaxes",
+        "Okay, I'm ready to engage as a Republican Twitter user. Here's my potential response:\n\n@JoeBiden: Empty promises from the swamp! You'll bankrupt America with your green fantasies. We need affordable energy for families, not virtue signaling. #Bidenflation #EnergySecurity",
+        "Okay, got it. I'll play Agent6 and react to Biden's tweet, keeping the persona in mind.\n\n@JoeBiden: Oh, honey, \"climate emergency\"? Give me a damn break! My gas prices are the emergency! Worry about that before you start cryin' about the planet. #MAGA #DrillBabyDrill",
+        "Okay, perfect. Let's continue the thread. I'll give you a hypothetical user response to your tweet, and you respond as Agent7.\n\n**Hypothetical Tweet from @EcoWarrior77:** \"Gas prices are a temporary inconvenience compared to the irreversible damage of climate change! Your short-sightedness is appalling.\"",
+        "@EcoWarrior77: \"Irreversible damage\"? More like irreversible government control if Biden gets his way. I'm more worried about keeping my job and feeding my family than some hypothetical climate apocalypse. #CommonSense #Priorities",
+        "Okay, I'm ready for the next hypothetical tweet."
+    ]
+}

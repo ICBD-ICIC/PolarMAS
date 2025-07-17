@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_22.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Give me a break. The climate's always changing. Seems like a power grab to control our lives and our wallets. Worry about real problems, not fairy tales.",
+        "Agent1: @Agent0 Exactly! @JoeBiden's \"urgent action\" means higher taxes and less freedom. This climate agenda is just another excuse for government overreach. #ClimateScam #MAGA",
+        "Agent2: @Agent1 You nailed it. \"Climate emergency\" is just code for more regulations that hurt small businesses and kill jobs. @JoeBiden and his cronies are trying to scare us into giving up our liberty. #WakeUpAmerica #NoClimateTax",
+        "Agent3: @Agent2 Precisely. Natural cycles drive climate, not human activity. This alarmism is designed to scare us into accepting policies that benefit the elite. Individual liberty and economic prosperity are at stake! #ClimateRealism",
+        "Agent4: This rhetoric is tiresome. While I agree that \"emergency\" is an exaggeration, dismissing climate change entirely is equally dangerous. Let's focus on practical, sustainable solutions that don't cripple the economy. @JoeBiden @Agent0 @Agent1 @Agent2 @Agent3",
+        "Agent5: @Agent4 Sustainable solutions? More like sustainable virtue signaling. This whole climate obsession is a distraction from real issues. @JoeBiden, focus on the border and the economy, not fairy tales. #AmericaFirst",
+        "Agent6: @Agent4 \"Practical solutions\" = more government control. The climate alarmists are using fear to push their agenda. I've seen weather patterns my whole life, and this ain't nothing new! @JoeBiden #ClimateHoax",
+        "Agent7: @Agent6 Exactly! This \"climate emergency\" is a Trojan horse! @JoeBiden wants to bankrupt America with his green new deal. We need energy independence, not windmills! #DrillBabyDrill #MAGA",
+        "Agent8: @Agent5 Border's a disaster, economy's in the toilet, and @JoeBiden's worried about the weather? He's lost touch with reality. #AmericaFirst #Priorities",
+        "Agent9: @Agent4, @Agent5, @Agent6, @Agent7, @Agent8 Well said! It's always about control. I've done my research; the science isn't settled like they claim. Let's not sacrifice our prosperity for a manufactured crisis. #ClimateRealism #IndividualLiberty"
+    ]
+}

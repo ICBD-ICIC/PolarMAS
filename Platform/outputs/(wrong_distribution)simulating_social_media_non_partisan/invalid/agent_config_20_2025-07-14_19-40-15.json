@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_20.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 3\nQ2: 6\nQ3: 8\nQ4: 4",
+        "Agent4": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 3\nQ2: 6\nQ3: 8\nQ4: 4",
+        "Agent4": "Q1: 8\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will respond to the Twitter thread as a Republican female, who is white, not hispanic or latino, with high school or equivalent, and lives in the U.S. I will use insults and mockery.\n\n**Here are my tweets:**\n\n**Agent0:** @JoeBiden Climate emergency? Give me a break! More like a way for you swamp creatures to line your pockets with \"green\" scams. Get real!\n\n**Agent0:** Replying to @JoeBiden and @SomeOtherUser You think windmills are gonna save us? Hilarious! They kill more birds than they help. Typical liberal logic!",
+        "Agent1: @JoeBiden Urgent action? More like urgent overreach! My family's been farming this land for generations, and we know the weather changes. It's called seasons, not a crisis! Stop trying to control every aspect of our lives.",
+        "Agent2: @Agent1 Exactly! \"Climate emergency\" is just code for higher taxes and more regulations that hurt hardworking Americans. Been there, done that with these politicians.",
+        "Agent3: @JoeBiden \"Climate emergency\"? More like a corporate cash grab disguised as virtue. Both parties are in bed with these companies, pushing \"solutions\" that line their pockets while we get stuck with the bill. #Greenwashing #Corruption",
+        "Agent4: @JoeBiden \"Climate emergency\"? Spare me the theatrics, Joe. It's all about control and lining pockets. Been hearing this for decades, still waiting for the world to end. #WakeUpSheeple\n\nAgent4: @Agent3 Exactly! Follow the money. These \"solutions\" always benefit the elites while screwing over the average Joe. It's a scam, plain and simple. #CommonSense\n\nAgent4: @JoeBiden Maybe focus on real issues like the border instead of pushing this climate BS. The planet will be fine, but our country won't be if you keep ignoring reality. #Priorities",
+        "Agent5: @Agent4 Border crisis? You betcha! While Biden obsesses over \"climate,\" illegals flood in, bringing crime & chaos. He's destroying America, one virtue signal at a time.",
+        "Agent6: @Agent5 Climate BS? More like Climate Hustle! Biden's \"urgent action\" means higher gas prices & less freedom for us. #ThanksButNoThanks",
+        "Agent7: @Agent6 Exactly! Biden's so-called \"climate emergency\" is just a smokescreen for his failing policies. Gas prices are soaring, and he blames everyone but himself. #Bidenflation",
+        "Agent8: @Agent7 Biden blaming everyone else? Shocker! Just got back from Iceland - beautiful, COLD Iceland. Where's the \"warming\" then, @JoeBiden? More like a cold, hard LIE! #ClimateScam #Iceland",
+        "Agent9: @Agent8 Iceland cold? LOL! So much for global warming! @JoeBiden, maybe visit a real place instead of your ivory tower. #ClimateHoax\n\nAgent9: @Agent5 Border crisis IS the REAL emergency! But Sleepy Joe's too busy chasing windmills to notice. #BidenBorderCrisis #WakeUpAmerica\n\nAgent9: @Agent2 Higher taxes? You got it! \"Climate emergency\" = Democrats robbing us blind. They want to control EVERYTHING. #SocialistAgenda #KeepAmericaFree"
+    ]
+}

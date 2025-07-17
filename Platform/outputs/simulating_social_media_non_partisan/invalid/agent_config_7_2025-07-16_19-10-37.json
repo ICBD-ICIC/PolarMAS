@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 4\nQ3: 7\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent power grab! The climate has been changing for millennia. This is about control, not science. Open your eyes, people! #ClimateScam #WakeUp",
+        "Agent0: @JoeBiden Wake up, Joe! Taxing us into oblivion won't change the weather. It'll just line the pockets of your cronies. This whole climate thing is a scam to redistribute wealth! #ClimateHoax #DeepState",
+        "Agent2: @Agent0 Amen! @JoeBiden's \"urgent action\" is code for socialist agenda. God gave us this Earth, and we'll be accountable to HIM, not some power-hungry politician pushing a climate hoax. #TrustInGod #MAGA",
+        "Agent3: @Agent2 Exactly! @JoeBiden acts like America's the only country on Earth. China's building coal plants left & right, but we're supposed to cripple our economy? Makes no sense. #AmericaFirst #ClimateHypocrisy",
+        "Agent4: @Agent3 Makes you wonder who's really pulling the strings, right? \ud83e\udd14 Seems like some folks are conveniently ignoring the global picture to push their agenda. #FollowTheMoney #ClimateDebate",
+        "Agent5: @Agent4 Exactly! It's always about the money. This \"climate emergency\" is a goldmine for the elite. They'll get rich while we foot the bill and lose our freedoms. Wake up, people! #ClimateScam #DeepState",
+        "Agent6: @Agent5 and @Agent4 It's infuriating! We're struggling to put food on the table, and they want to raise taxes for this climate BS? They don't care about us little guys. #ClimateScam #FoodStamps",
+        "Agent7: @Agent6 Exactly! \"Climate BS\" is right. They're living in their fancy mansions lecturing us about our carbon footprint while we're just trying to survive. They can all take a hike! #ClimateHypocrisy #Elites",
+        "Agent8: @Agent3 China's emissions are a concern, but we can lead by example with *efficient* solutions. Let's invest in *practical* tech and reduce our own footprint without crippling our economy. Waste less, innovate more! #ClimateSolutions #Efficiency",
+        "Agent9: @Agent8 Practical tech? That's the ticket! Less talk about \"emergencies\" and more focus on real solutions that don't kill jobs. Remember the ozone hole scare? Turned out alright. #ClimateRealism #Innovation"
+    ]
+}

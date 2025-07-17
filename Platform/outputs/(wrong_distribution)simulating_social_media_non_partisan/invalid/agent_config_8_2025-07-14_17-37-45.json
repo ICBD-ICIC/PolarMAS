@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_8.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 5\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 5\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is a Republican. Her demographics are female, white, not hispanic or latino, with high school or equivalent, and she lives in the U.S. She is a person who feels strongly that Joe Biden is corrupt. She is opinionated and not afraid to express her views publicly on social media. She consumes media that reinforces her negative perceptions of the President. She is convinced of her position and actively shares content that supports it.\n\n@JoeBiden: \"Urgent action\" = lining your pockets with green energy scams! The planet will be fine, but our wallets won't be if you keep pushing this agenda. #BidenCorruption #ClimateScam",
+        "@JoeBiden: Exactly! He's using \"climate emergency\" as an excuse for more government control and wasteful spending. Remember Solyndra? #BidenClimateScam",
+        "Agent0: @JoeBiden More like \"climate opportunity\" for your buddies in the renewable energy sector to get rich! Maybe investigate Hunter's investments before lecturing us on saving the planet. #BidenInc #FollowTheMoney",
+        "Agent0: @JoeBiden Climate change is a convenient excuse for your administration's failures. Focus on real problems like inflation and the border crisis! #Bidenflation #SecureTheBorder",
+        "Agent4: @JoeBiden \"Climate emergency\" is code for higher taxes and more regulations that hurt working families. Maybe focus on energy independence instead of virtue signaling? #DrillBabyDrill #BidenFail",
+        "@Agent0: The \"climate emergency\" is a convenient distraction while China keeps building coal plants! Let's hold them accountable before bankrupting American families. #ChinaPollution #Hypocrisy",
+        "Agent6: @Agent0 Exactly! Biden's \"climate action\" is just a smokescreen for enriching his cronies. China laughs while we cripple our economy. #BidenClimateScam #AmericaLast",
+        "Agent7: @Agent0 You're right, the hypocrisy is astounding! Biden's focusing on this while China's pollution runs rampant. It's all about control and lining pockets, not the planet. #BidenClimateScam #AmericaFirst",
+        "Agent8: @Agent0 Exactly! We had record cold snaps in PA last winter - where's the \"global warming\" now? This whole thing is about control, not the climate. #ClimateScam #Pennsylvania",
+        "@Agent0: It's always \"urgent\" when they want more of our money! Remember Al Gore's predictions? Still waiting for the ice caps to melt. #ClimateScam #WakeUp"
+    ]
+}

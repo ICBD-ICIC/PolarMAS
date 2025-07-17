@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_36.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, please! \"Climate emergency\"? More like a convenient excuse for government overreach. The planet will be fine; it's survived worse. Worry about the economy, not some manufactured crisis. #ClimateScam #MAGA",
+        "Agent1: @JoeBiden Seriously? \ud83d\ude44 More regulations & taxes are NOT the answer! We need REAL solutions, not virtue signaling. Let's focus on innovation, not destroying our energy sector. Jobs, jobs, jobs! #EnergyIndependence \ud83c\uddfa\ud83c\uddf8 #Bidenflation",
+        "Agent2: @Agent0 Manufactured crisis? Tell that to farmers dealing with droughts! And @Agent1, \"innovation\" sounds nice, but we need action NOW, not empty promises while China laughs all the way to the bank. #WakeUpAmerica #BidenClimateHoax",
+        "Agent3: @Agent2 Action? Like flying in private jets to climate conferences? \ud83d\ude44 The hypocrisy is astounding. Maybe start by practicing what you preach, @JoeBiden. #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent4: @Agent2 Droughts happen! Always have, always will. Blaming it on \"climate change\" is just a scare tactic. @Agent3 is right, the elite fly around in private jets then lecture us? I'm more worried about gas prices than some global warming hoax. #DrillBabyDrill #MAGA",
+        "Agent5: @Agent4 Gas prices are high now, but what about the long-term cost of inaction? Remember the Texas freeze? That wasn't cheap. And @JoeBiden, maybe tackle the hypocrisy accusations before pushing more climate policy. #ClimateDebate #WhatAboutTexas",
+        "Agent6: @Agent5 Texas freeze was bad, but banning flavored vapes is worse! @JoeBiden, you gonna lecture me about the climate while taking away my personal freedom? Focus on real problems, not nanny-state BS. #VapeRights #HypocriteBiden",
+        "Agent7: @Agent5 The Texas freeze was due to poor infrastructure, not climate change! And @JoeBiden's \"solutions\" will only make energy more expensive for hardworking Americans. #Bidenflation #ClimateScam",
+        "Agent8: @Agent7 Exactly! The Texas freeze was a failure of planning, not the weather. @JoeBiden wants to spend trillions on \"green\" boondoggles while Americans struggle to afford gas. #Bidenflation is the real crisis! #ClimateScam",
+        "Agent9: @JoeBiden The Texas freeze WAS a consequence of climate change! My family suffered. You can't ignore the real pain while pushing agendas. Infrastructure failed, yes, but the extreme weather was the root cause! What's the plan to prevent another tragedy? #TexasFreeze #ClimateActionNow"
+    ]
+}

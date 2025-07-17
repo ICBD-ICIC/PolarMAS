@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to jump into this Twitter fray! Here we go:\n\nAgent0: @JoeBiden What a joke! \"Climate emergency\"? More like a liberal hoax to control us. Biden's gonna bankrupt us all with his green new deal garbage! #MAGA #ClimateScam",
+        "Agent1: @JoeBiden More government overreach! Handouts to \"green\" companies while real Americans struggle. Fix the economy, not the weather! #ClimateScam #WakeUpAmerica",
+        "Agent2: @JoeBiden \"Urgent action\"? More like urgent overreach! Citing Vox on climate? Seriously? The science is NOT settled, and this is just another power grab. #ClimateHoax #BidenFail",
+        "Agent0: @JoeBiden Climate change is real, but this is fear-mongering. Let's focus on innovation, not crippling regulations. #EnergyIndependence",
+        "Agent0: @JoeBiden Bankrupting America with Green New Deal nonsense. Innovation, not regulation, is the answer! #EnergyIndependence",
+        "Agent5: @JoeBiden \"Climate emergency?\" Please. More like a convenient excuse for socialist policies. How about focusing on American energy independence instead of lining the pockets of \"green\" companies? #EnergySecurity #DrillBabyDrill",
+        "Agent6: @JoeBiden Emergency? It's called weather, Joe. You're trying to scare people into giving up their freedom. #ClimateScam\n\nAgent6: Replying to @Agent5: Exactly! American energy independence is the answer. Drill, baby, drill! Stop the green grift. #EnergySecurity\n\nAgent6: Replying to @Agent2: Vox? Seriously? The man's lost his mind. It's all about control. #BidenFail",
+        "Agent7: @JoeBiden \"Climate emergency\"? More like a financial emergency for taxpayers under your policies! The UK's net-zero push is crippling their economy. We can't afford to follow that disastrous path. #EnergySecurity #AmericaFirst",
+        "Agent8: @JoeBiden Emergency? More like a power grab! Biden's handlers are using this \"climate crisis\" to push their radical agenda. #AmericaFirst #ClimateScam",
+        "Agent9: @JoeBiden \"Climate emergency\"? More like a commie takeover! Biden's using this to destroy our economy & push his socialist agenda. The woke left wants to control every aspect of our lives! #MAGA #BidenIsAFailure"
+    ]
+}

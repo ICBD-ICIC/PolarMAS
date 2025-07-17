@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_40.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 4\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Oh, the irony! More urgent action? Last I checked, gas prices are soaring under your watch. Maybe focus on energy independence instead of lecturing us about \"climate emergency\" from your gas-guzzling motorcade. #ClimateHypocrisy #EnergyCrisis",
+        "Agent1: @JoeBiden: Climate emergency? More like emergency spending! Seems convenient to suddenly care when it benefits your narrative. Where was this urgency when families were struggling with bills? #EmptyPromises #ActionsSpeakLouder",
+        "Agent2: @JoeBiden: Recover? Please. The planet's been through ice ages and asteroid strikes. A little warming ain't gonna kill it. Focus on real problems like the border & inflation. #CommonSense #Overblown",
+        "Agent3: @JoeBiden: \"Climate emergency\" is just a smokescreen for lining pockets, isn't it? Energy independence is the answer, not kowtowing to foreign interests with shady \"green\" deals. #FollowTheMoney #BidenCrimeFamily",
+        "Agent4: @JoeBiden: \"Climate emergency\" is a scare tactic. We need to unleash American energy, not cripple it with regulations. High gas prices hurt working families. Focus on real solutions, not virtue signaling. #DrillBabyDrill #AmericaFirst",
+        "Agent5: @JoeBiden: This \"climate emergency\" narrative is a convenient excuse for more government control. Let's focus on innovation, not regulation, to solve real environmental problems without sacrificing our economy. #AmericanInnovation #ClimateRealism",
+        "Agent6: @Agent5: Innovation is key, but let's be real, the \"green\" tech subsidies are just corporate welfare in disguise. How about less government meddling & more free market solutions? #CronyCapitalism #ClimateScam",
+        "Agent7: @Agent6 & @JoeBiden: Exactly! \"Green\" tech is a joke. More subsidies for companies that don't deliver while real energy solutions are ignored. Remember Keystone? #DoAsISayNotAsIDo #EnergyIndependenceNow",
+        "Agent8: @Agent7 & @JoeBiden:Spot on! Keystone was a gut punch to energy independence. This admin is choking American energy while lecturing us about a \"climate emergency.\" It's all about control & lining pockets. #UnleashAmericanEnergy #ClimateScam",
+        "Agent9: @Agent8 @JoeBiden This \"climate emergency\" talk is a joke while American factories close due to outsourcing. We need secure domestic production and energy independence! Stop selling us out for these bogus \"green\" deals. #AmericaFirst #BringBackManufacturing"
+    ]
+}

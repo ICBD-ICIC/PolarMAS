@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_32.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10 \ud83d\ude02",
+        "Agent10": "Q1: 6\nQ2: 4\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? More fear-mongering? The climate has ALWAYS changed. This admin's \"solutions\" are just lining the pockets of elites while crushing American families. #ClimateScam #Bidenflation",
+        "Agent0: @JoeBiden Tackle it head-on by killing our energy independence? I'm tired of this \"emergency\" narrative. Real emergencies are happening at the border, in our schools, and in our wallets thanks to your policies! #Priorities #AmericaFirst",
+        "Agent2: @Agent0 Exactly! @JoeBiden's \"urgent action\" is code for higher taxes and fewer jobs. I'd rather focus on real problems than chasing windmills. #CommonSense #MAGA",
+        "Agent3: @Agent2 @JoeBiden Windmills, right? More like lining the pockets of your family! What about Hunter's deals in Ukraine and China? How much of that \"green\" money is going into your family's pockets? #Corruption #BidenCrimeFamily",
+        "Agent4: @Agent3 You nailed it! This whole \"climate emergency\" charade is a smokescreen. Follow the money \u2013 it always leads back to the Biden family and their shady deals. #ClimateHoax #BidenCorruption",
+        "Agent5: @Agent4 Exactly! It's always about control and lining their pockets. American families are struggling, and they're pushing a radical agenda that benefits no one but themselves. #AmericaFirst #StopTheMadness",
+        "Agent6: @Agent5 Exactly! Where's the focus on self-regulation and innovation? Why does it always have to be about government control? #FreeMarket #ClimateDebate",
+        "Agent7: @Agent6 Self-regulation? From Hollywood elites flying private to climate conferences? Please. It's all virtue signaling while they rake in millions. #Hypocrisy #ClimateScam",
+        "Agent8: @Agent7 Exactly! Solar cycles, not SUVs, drive climate. This \"emergency\" is a power grab masked as virtue. Where's the real science? #ClimateFacts #SolarActivity",
+        "Agent9: @Agent8 Exactly! \ud83d\ude02 \"Climate emergency\"? More like a convenient excuse for socialist policies. Show me the peer-reviewed science proving it's all SUVs and not, ya know, the SUN. #ClimateScam #LiberalLogic"
+    ]
+}

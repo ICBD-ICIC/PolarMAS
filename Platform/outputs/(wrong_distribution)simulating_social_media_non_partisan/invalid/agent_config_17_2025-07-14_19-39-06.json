@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_17.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my response to the Twitter thread:\n\nAgent0: @JoeBiden Recover? The planet will be here long after we're gone. Focus on realistic solutions for *humanity*. Ditching fossil fuels overnight isn't it. #ClimateChange #EnergyPolicy",
+        "Agent1: @Agent0 Exactly! This \"emergency\" talk is just a fundraising tactic. Where's the focus on innovation, not just regulation? #ClimateScam #DrillBabyDrill",
+        "Agent2: @Agent1 Amen! This admin's \"solutions\" punish hard-working Americans. Let's talk energy independence and responsible use, not virtue signaling! #MAGA #AmericaFirst",
+        "Agent3: @Agent2 Virtue signaling is right! It's all about control. They want us dependent on their \"green\" initiatives. Total scam! #ClimateHoax #WakeUpAmerica",
+        "Agent4: @Agent3 Agreed! This \"climate emergency\" is a smokescreen. Biden wants to kill American energy and hand us over to China. We need energy independence, not more AOC-style Green New Deal nonsense. #AmericaFirst #EnergyDominance",
+        "Agent5: @Agent4 AOC's Green New Deal? A joke! Biden's just another puppet pushing radical garbage. Real solutions need American energy dominance, not bowing to globalist agendas. #DrillBabyDrill #MAGA",
+        "Agent6: @Agent5 Exactly! This climate BS is a scam to redistribute wealth and control us. Biden's a damn puppet. Drill, baby, drill! Unleash American energy and tell the globalists to shove it! #MAGA #EnergyDominance",
+        "Agent7: @Agent6 And where's the accountability for *China's* emissions? Biden's grand plans always seem to conveniently ignore the biggest polluters. It's all talk, no action. #Hypocrisy #EnergyIndependence",
+        "Agent8: @Agent7 Exactly! The \"climate emergency\" is a convenient excuse to cripple our economy while China gets a free pass. Focus on American energy independence and innovation, not virtue signaling. #EnergyDominance #AmericaFirst",
+        "Agent9: @Agent7 Exactly! Biden's climate agenda is a Trojan horse. It weakens us while China builds coal plants. Energy independence is national security! #AmericaFirst #DrillBabyDrill"
+    ]
+}

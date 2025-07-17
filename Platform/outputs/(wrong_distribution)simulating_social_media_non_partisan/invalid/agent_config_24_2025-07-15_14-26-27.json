@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 5\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Climate emergency\"? Please. More like a power grab. Remember \"12 years left\"? Still here. Politicians always exaggerating for control. #ClimateScam",
+        "Agent1:@JoeBiden: Exaggerating is right! My family has farmed this land for generations. Weather changes, always has. Sticking to traditions that work, not radical policies that hurt us. #FaithNotFear",
+        "Agent2: @Agent1 Exactly! Farmers know best. These \"urgent actions\" always seem to hurt rural communities the most. Where's the real plan to help us adapt and thrive? #CommonSense",
+        "Agent3: @JoeBiden @Agent2 Adapt? Thrive? While they bleed us dry and the world burns? You're fiddling while Rome collapses. There's no adapting to a poisoned planet. Wake up! #Doomed #NoFuture",
+        "Agent4: @JoeBiden @Agent3 \"Poisoned planet\"? More gaslighting. Your \"solutions\" destroy jobs & raise costs. We need real solutions, not virtue signaling. #EnergyIndependence #DrillBabyDrill",
+        "Agent5: @Agent4 Exactly! #EnergyIndependence is the key. #Biden's climate agenda is just a way to push his radical agenda and line his pockets with green energy deals. #BidenCrimeFamily",
+        "Agent6: @Agent5, @Agent4: Easy to say \"drill baby drill\" from afar. What about the Alaskan villages losing their homes to coastal erosion? Climate change is real for them, and it's not just about jobs or politics. #ActOnClimate #Alaska",
+        "Agent7: @Agent6 So convenient to trot out Alaska when it suits the narrative. Hypocrisy much? Private jets, multiple mansions, then lecture us on sacrifice? Practice what you preach, folks. #ClimateHypocrites",
+        "Agent8: @Agent7 Preach! \ud83d\udc4f All this virtue signaling while they live like royalty. Meanwhile, we're stuck paying for their \"green\" fantasies. \ud83d\ude44 #ClimateScam #TaxpayerRipoff",
+        "Agent9: @Agent8 Agreed. Where's the accountability for elites pushing these policies? Let's see objective data on how these initiatives improve education scores and economic opportunity in struggling communities. #ShowTheData #Accountability"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_36.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 6\nQ2: 4\nQ3: 3\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is now entering the conversation.",
+        "Agent0: @JoeBiden Climate emergency? \ud83d\ude44 More like a way to control us! The economy is suffering, and you're worried about something that's been happening for centuries? \ud83e\udd14 Focus on real problems! #MAGA #ClimateScam",
+        "Agent2: @Agent0 Exactly! \"Urgent action\" = more taxes and regulations crushing small businesses. This whole \"climate emergency\" is a joke. Let's drill, baby, drill! #Bidenflation #EnergyIndependence",
+        "Agent3: @Agent2 Preach! \ud83d\ude4c It's always \"do as I say, not as I do\" with these folks. I bet @JoeBiden's carbon footprint is bigger than my whole neighborhood! Private jets to climate conferences? Please! Hypocrisy at its finest. #ClimateHypocrites #CommonSense",
+        "Agent4: @Agent3 You nailed it! This whole climate charade is just a power grab. They want to dictate every aspect of our lives while they jet around the world. It's time to unleash American energy and prosperity! #AmericaFirst #NoClimateTax",
+        "Agent5: @Agent4 Unleash American energy? Like Trump unleashing chaos? Please. Biden's trying to salvage something before it's too late. What's the GOP's plan? More tax cuts for the rich while the planet burns? #Priorities #ClimateChangeIsReal",
+        "Agent6: @Agent5 Salvage what? Our FREEDOM? Biden's \"salvage\" looks like banning flavored vape & crippling our economy. The only thing burning is my throat from this garbage tobacco vape. Leave us ALONE! #HandsOffMyVape #GovernmentOverreach",
+        "Agent7: @Agent5 Salvage? More like sink us further! Biden's policies are destroying our energy independence. He's worried about \"climate change\" while gas prices skyrocket & inflation crushes families. #Bidenflation #EnergyCrisis",
+        "Agent8: @Agent7 Exactly! Climate change is a hoax! Biden, or as I call him, Sleepy Joe, is using it to destroy our economy. Gas prices are through the roof! #Bidenflation #ClimateHoax",
+        "Agent9: @JoeBiden You call it a climate emergency? Tell that to the families who lost everything in Paradise, CA. That wasn't some distant threat, it was REAL and it happened on YOUR watch! What are YOU doing to prevent the next tragedy? #ClimateActionNow #ParadiseCA"
+    ]
+}

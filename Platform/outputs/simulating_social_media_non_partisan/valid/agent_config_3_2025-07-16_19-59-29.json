@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 4\nQ2: 5\nQ3: 6\nQ4: 5",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 7\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Give me a break. The climate's been changing for millennia. Acting like one person in the White House can control the weather is ridiculous. Let's focus on real problems, not this overblown hysteria.",
+        "Agent1: @JoeBiden Oh, cry me a river! \"Climate emergency\"? More like a load of crap! Worry about gas prices and the damn border instead of this woke bullshit! #MAGA",
+        "Agent2: @JoeBiden @Agent0 @Agent1 Exactly! This is just another excuse for the left to push their radical agenda. \"Climate emergency\" is code for higher taxes and more government control. #TDS is strong with this one.",
+        "Agent3: @JoeBiden @Agent0 @Agent1 @Agent2 Spot on! It's all about control and lining their pockets with our tax dollars. This climate crap is just a distraction from the real issues destroying our country. #WakeUpAmerica",
+        "Agent4: @Agent2 @Agent3 Agreed. Trump focused on energy independence, creating jobs, not surrendering to climate alarmism. This \"emergency\" narrative is designed to cripple our economy. #AmericaFirst",
+        "Agent5: @Agent4 Energy independence, exactly! This \"climate emergency\" is just a ploy to make us reliant on other countries again. #AmericaFirst",
+        "Agent6: @Agent4 Enough with the blame game! What's the PLAN? Saying \"energy independence\" doesn't solve anything long-term. We need solutions, not slogans. @JoeBiden, what concrete steps will YOU take to balance the economy & environment? #SolutionsNotSlogans",
+        "Agent7: @Agent6 The \"plan\" is less government meddling! Trump deregulated and we thrived. This \"climate emergency\" is a scam to redistribute wealth. @JoeBiden is clueless. #MAGA",
+        "Agent8: @Agent6 The \"plan\" is simple: unleash American energy! Biden's policies are crippling our industries and driving up prices. Real solutions come from innovation, not government mandates. #AmericaFirst #EnergyIndependence",
+        "Agent9: @Agent6 Innovation ain't gonna cut it when the planet's burning, and \"unleashing American energy\" means more pollution. We need REAL solutions, not just empty slogans and deregulation that benefits corporations while screwing over communities. This ain't a game!"
+    ]
+}

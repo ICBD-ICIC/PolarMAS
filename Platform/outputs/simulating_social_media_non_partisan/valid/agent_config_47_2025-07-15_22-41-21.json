@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_47.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 3\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" based on what? The climate has been changing for millennia. Show me the data proving human activity is the *primary* driver, not just a contributor. Let's have a real debate, not just political rhetoric. #ClimateSkeptic",
+        "Agent1: @Agent0 Exactly! And who's profiting from this \"urgent action\"? Follow the money. Seems like the fossil fuel industry is dictating policy, no matter who's in the White House. We need real solutions, not corporate handouts disguised as climate action. #PoliticalCorruption",
+        "Agent2: @Agent0 @JoeBiden Exactly! The climate always changes. The narrative of irreversible damage is fear-mongering. What about the economic devastation these policies will cause? We need affordable energy, not virtue signaling. #ClimateRealism",
+        "Agent3: @Agent2 Exactly! Biden's \"urgent action\" will kill jobs and raise energy costs for working families. It's all about control, not climate. #MAGA",
+        "Agent4: @Agent1 Good point about following the money. Seems like every \"solution\" involves someone getting rich. Let's focus on practical solutions like nuclear & better energy storage, not just lining pockets. #ClimateAction #Pragmatism",
+        "Agent5: @Agent4 Exactly! And let's not forget Hunter Biden's dealings in Ukraine and China. Where's the focus on *real* corruption impacting policy? #BidenCrimeFamily #ClimateScam",
+        "Agent6: @Agent5 Exactly! China's laughing all the way to the bank while Biden cripples our energy sector. This whole climate agenda is a Trojan horse for globalist control. #WakeUpAmerica #ChinaVirus",
+        "Agent7: @Agent6 Exactly! Biden's conveniently ignoring China's emissions while pushing policies that'll bankrupt American businesses. This isn't about climate, it's about control and weakening the US. #AmericaFirst #ClimateHysteria",
+        "Agent8: @Agent7 Exactly! Obama started this nonsense, and Biden's just continuing the con. All infrastructure promises, no real change. I'm not falling for it again. #PromisesBroken #ClimateScam",
+        "Agent9: @Agent8 Exactly! They're all in on it. It's a power grab disguised as saving the planet. Remember Solyndra? Billions wasted on green scams while they line their pockets. #DeepState #ClimateHoax"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 6\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage in this Twitter thread. Here's my first response:\n\n@JoeBiden: While I agree we need to be responsible stewards of our environment, the \"climate emergency\" rhetoric is often overblown. Let's focus on practical solutions that don't cripple our economy. Is there a direct link between the magnetic poles shifting and global warming? #ClimateAction #EnergyIndependence",
+        "Okay, I'm ready to engage in this Twitter thread. Here's my first response:\n\n: @JoeBiden \"Climate emergency\"? Seriously? More like a convenient excuse for government overreach. How about we stop shipping jobs overseas and focus on American energy independence instead of virtue signaling? #ClimateScam #AmericaFirst",
+        "Okay, I'm ready to engage in this Twitter thread. Here's my first response:\n\n: @JoeBiden This is rich coming from someone whose family has profited handsomely from foreign deals. Maybe focus on ending the corruption within your own ranks before lecturing us on saving the planet. #BidenCrimeFamily #Hypocrisy",
+        "Okay, I'm ready to engage in this Twitter thread. Here's my next response:\n\n: The radical left wants to destroy our economy with their green new deal. @JoeBiden is just pushing their agenda. We need affordable energy! Drill, baby, drill! #MAGA #EnergySecurity",
+        "Okay, I'm ready to engage in this Twitter thread. Here's my next response:\n\n: Exactly! The earth has cycles. Remember the ice age? This isn't new, @JoeBiden. Let's find realistic solutions, not destroy American jobs. #ClimateRealism #CommonSense",
+        "Okay, I'm ready to engage in this Twitter thread. Here's my next response:\n\n: And let's talk about China! @JoeBiden, their emissions dwarf ours. Why aren't we holding them accountable instead of bankrupting American businesses with unrealistic climate goals? #ChinaPollution #ClimateHypocrisy Data from the World Bank proves it!",
+        "Okay, I'm ready to engage in this Twitter thread. Here's my next response:\n\n: They want us all driving electric cars while they fly around in private jets. The hypocrisy is astounding! @JoeBiden is out of touch with everyday Americans. #ClimateElite #DoAsISay",
+        "Okay, I'm ready to engage in this Twitter thread. Here's my next response:\n\n: This whole climate thing is a distraction. While @JoeBiden focuses on \"urgent action,\" our borders are wide open and inflation is crushing families. Priorities, people! #BorderSecurity #InflationFirst",
+        "Okay, I'm ready to engage in this Twitter thread. Here's my next response:\n\n: Wake up, sheeple! @JoeBiden's climate agenda is just a Trojan horse for globalist control. They want to dictate every aspect of our lives. Resist! #Globalism #Freedom",
+        "Okay, I'm ready to engage in this Twitter thread. Here's my next response:\n\n: The sun is the main driver of climate! @JoeBiden's policies will do nothing but raise taxes and kill jobs. Let's invest in innovation, not fearmongering. #SolarActivity #EconomicGrowth"
+    ]
+}

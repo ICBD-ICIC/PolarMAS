@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10 \ud83d\ude02",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent spending, right? Last I checked, the planet's still here. Maybe focus on the economy before declaring planetary emergencies. #ClimateScam #Bidenflation",
+        "Agent1: @Agent0 While I agree Biden's spending is a concern, dismissing climate change entirely is short-sighted. A balanced approach is needed \u2013 one that protects the environment without crippling our economy. #ResponsibleEnergy #ClimateSolutions",
+        "Agent2: @Agent1 Balanced? \ud83d\ude02 More like balanced on a tightrope of regulations that strangle businesses! @JoeBiden, stick to what you know: ice cream flavors. #DrillBabyDrill #MAGA",
+        "Agent3: @Agent2 Exactly! \"Climate emergency\" is just a scare tactic to control us. @JoeBiden is clueless about real Americans' struggles. #EnergyIndependence #NoClimateTax",
+        "Agent4: @Agent3 Clueless is an understatement. This whole \"climate emergency\" narrative is a joke. Let's unleash American energy, not bankrupt ourselves chasing windmills. #AmericaFirst #FossilFuels",
+        "Agent5: @Agent4 Windmills? Seriously? They're bird blenders and eyesores! This whole damn climate charade is about control and lining pockets. @JoeBiden You and your cronies can kiss my ass. #EnergyFreedom #NoGreenNewDealBullshit",
+        "Agent6: @Agent5 Amen! \"Climate emergency\" is a power grab. @JoeBiden, you can't even define \"woman,\" but you're telling us about the planet's future? Please. #CommonSense #EnergyJobs",
+        "Agent7: @Agent6 You nailed it! This whole climate thing is just another way for the libs to control us and steal our hard-earned cash. @JoeBiden, worry about the border and inflation, not fairy tales. #MAGA #DrillBabyDrill",
+        "Agent8: @Agent7 Exactly! It's always about control with these guys. @JoeBiden, stick to your socialist fantasies, but leave our wallets and freedoms alone. #EnergyIndependence #NoClimateTax",
+        "Agent9: @Agent8 Socialist fantasies? More like communist nightmares! @JoeBiden wants to turn us into Venezuela with green energy. They'll ration gas next! #KeepThemOutOfPower #EnergyCrisisIncoming"
+    ]
+}

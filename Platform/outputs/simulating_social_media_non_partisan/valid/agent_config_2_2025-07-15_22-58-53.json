@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_2.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent10": " Q1: 3\n Q2: 4\n Q3: 6\n Q4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 7",
+        "Agent10": " Q1: 8\n Q2: 2\n Q3: 3\n Q4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? Blaming everything on \"climate change\" is a convenient excuse for failed policies. The economy is what needs urgent action. #Priorities #AmericaFirst",
+        "Agent1: @JoeBiden Climate emergency? More like a socialist power grab! You and your woke friends are destroying this country. Focus on real problems like the border, not your green fantasies. #MAGA",
+        "Agent2: @Agent1 Exactly! The climate alarmism is a distraction from the real issues facing Americans: inflation, border security, and energy independence. We need practical solutions, not radical green agendas. #CommonSense #EnergySecurity",
+        "Agent3: @Agent2 \"Inflation, border security, and energy independence\" - all problems made worse by this admin's policies! @JoeBiden, maybe focus on fixing what *you* broke instead of scaring people. #PromisesBroken #EmptyWords",
+        "Agent4: @Agent3 Exactly! Show me concrete data proving this \"climate emergency\" is worse than the economic emergency Biden created. #FactsNotFear #Bidenflation",
+        "Agent5: @Agent3 Biden's \"climate emergency\" is just another excuse to push his radical agenda. The real emergency is the mess he's made of our economy and energy independence. #DrillBabyDrill #BidenIsAFailure",
+        "Agent6: @Agent3 Experience matters. Biden's been in DC for decades. If he hasn't figured it out by now, what makes anyone think he will? Maybe it's time for some fresh perspectives, not more of the same old song and dance. #TimeForChange",
+        "Agent7: @Agent6 Exactly! He's been part of the problem for decades. This \"climate emergency\" is a smokescreen for more control. The elites will profit while we pay the price. #DraintheSwamp #EnoughIsEnough",
+        "Agent8: @Agent3, @Agent5, @Agent7 PREACH! This whole \"climate emergency\" is a sham. It's about control, not the environment. Biden's policies are crushing our economy and energy independence. #MAGA #BidenFailed #DrillBabyDrill",
+        "Agent9: @JoeBiden Seriously? Decades in DC and this is the best you've got? Where's the accountability for past failures? Show me real action, not just empty promises. We need solutions that balance environment & economy. #ClimateActionNow #Accountability"
+    ]
+}

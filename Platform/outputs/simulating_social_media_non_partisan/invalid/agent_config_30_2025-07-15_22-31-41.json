@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 6\nQ3: 7\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: With all due respect, Mr. President, while I agree climate change needs addressing, is there any research being done on the shifting magnetic poles and their potential impact on global warming? Perhaps it's a factor we're overlooking. #ClimateAction #MagneticShift",
+        "Agent1:@JoeBiden: \"Urgent action\" always seems to mean more taxes & regulations that hurt working families. And blaming one person? Seriously? The climate's been changing for millennia. Let's talk real solutions, not political scapegoating. #ClimateScam #ThinkForYourself",
+        "Agent2:@Agent1: Exactly! It's always about control and lining their pockets. Meanwhile, the border is wide open, and our economy is tanking. This climate agenda is a distraction from their failures. #Bidenflation #WakeUpAmerica",
+        "@JoeBiden: Distraction is right! China's building coal plants left & right, but we're supposed to cripple our economy? Makes no sense. Focus on energy independence & innovation, not virtue signaling. #AmericaFirst #DrillBabyDrill",
+        "Agent4:@JoeBiden: I agree, energy independence is key! And @Agent1, you're right, the climate's always changed. Maybe we should look at historical climate patterns and geomagnetic activity cycles? Seems like something they conveniently ignore. #ClimateCycles #EarthChanges",
+        "Agent5:@JoeBiden: China's emissions dwarf ours, yet we're lectured? Hypocrisy! According to the Global Carbon Project, China's CO2 emissions are DOUBLE the US. Let's hold ALL nations accountable, not just punish Americans. #ClimateReality #Accountability\n\nAgent5:@Agent4: Geomagnetic activity is interesting. Also, consider deforestation's impact on carbon sequestration. Brazil's deforestation rates are alarming, contributing significantly to global emissions. Need a holistic approach. #GlobalResponsibility #DataDriven",
+        "Agent6: @Agent5 & @JoeBiden: Exactly! Blaming Trump is ridiculous. The climate has ALWAYS changed. Let's focus on real solutions like energy independence and holding EVERY nation accountable, not just punishing Americans. #ClimateFacts #AmericaFirst",
+        "Agent7:@Agent6: \"Real solutions\" means drilling here, now. Tired of bowing to foreign oil. And this \"climate emergency\" narrative? Convenient excuse for more control. #DrillBabyDrill #EnergyIndependence",
+        "Agent8: @Agent7 & @JoeBiden: Drill, baby, drill is right! This admin is choking us. My family's business is hurting, and all they care about is \"climate.\" What about our jobs?! #EnergyJobs #BidenIsAFailure",
+        "Agent9:@Agent8: Exactly! \"Climate emergency\" is just a scare tactic. My family's also struggling. It's frustrating to see them prioritize this over real economic issues. #EnergyJobs #Bidenflation"
+    ]
+}

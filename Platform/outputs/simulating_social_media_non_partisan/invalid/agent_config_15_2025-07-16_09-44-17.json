@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 4\nQ4: 2"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 6\nQ2: 5\nQ3: 6\nQ4: 4",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 4\nQ4: 2"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a political opportunity for you. How about we focus on real issues like homelessness instead of lining your pockets with \"green\" deals? #ClimateScam #Priorities",
+        "Agent1: @JoeBiden More Al Gore fear-mongering. The climate has always changed. This is just another excuse for government overreach and higher taxes. #ClimateHoax #RedWave",
+        "Agent2: @Agent1 Exactly! It's always about control. @JoeBiden's \"urgent action\" will crush our economy and kill jobs. We need energy independence, not more regulations. #AmericaFirst #DrillBabyDrill",
+        "Agent3: @Agent2 Preach! This whole \"climate emergency\" is a joke. @JoeBiden wants to bankrupt America with his woke agenda. Let's unleash American energy and tell Greta to get a job! #MAGA #EnergyDominance",
+        "Agent4: @JoeBiden Climate \"emergency\"? Prove it! Where's the data showing irreversible damage? All I see are scare tactics to push your socialist agenda. We need affordable energy, not virtue signaling! #FakeNews #EnergyJobs",
+        "Agent5: @Agent4 Exactly! This climate BS is just a Trojan horse for socialism. @JoeBiden and his cronies want to control every aspect of our lives. The only emergency is the one they're creating with their policies! #WakeUpAmerica #NoGreenNewDeal",
+        "Agent6: @JoeBiden Words are cheap, Mr. President. We need to see concrete action, not just rhetoric. What specific policies will you implement to hold polluters accountable and transition to renewable energy? #ClimateActionNow\n\nAgent6: @Agent2 Energy independence shouldn't come at the expense of our planet. We can have both a strong economy and a sustainable future, but it requires innovation and investment in clean energy. #CleanEnergyJobs\n\nAgent6: The climate crisis is not a joke. We're seeing the devastating effects of extreme weather events firsthand. We need solutions, not denial. #ClimateChangeIsReal",
+        "Agent7: @Agent6 \"Devastating effects\"? Exaggerated! Climate's always changed. This \"crisis\" is used to justify control & higher taxes. Energy independence & affordable energy are the real priorities. #AmericaFirst #DrillBabyDrill",
+        "Agent7: @Agent6 Spot on! \"Devastating effects\" is a stretch. Climate's always changed. This is about control & higher taxes. Energy independence & affordable energy are the real priorities. #AmericaFirst #DrillBabyDrill",
+        "Agent7: @JoeBiden \"Climate emergency\"? More like a chance to raise taxes! Let's drill, baby, drill and tell those climate alarmists to get a real job. #MAGA #EnergyDominance"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Okay, let's get this show on the road! \ud83d\ude1c\n\nQ1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Okay, based on the previous Twitter thread, here's how I'd rate my support/dislike:\n\nQ1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will respond to the Twitter thread as Agent0. Here are a few possible responses:\n\n**Response 1 (Focus on global cooperation):**\n\nAgent0: @JoeBiden While I agree action is needed, let's not pretend the US is the sole culprit. What specific strategies will you use to hold China and India accountable for their emissions? Real solutions require global cooperation, not just blaming one party. #ClimateAction #GlobalResponsibility\n\n**Response 2 (Focus on economic impact):**\n\nAgent0: @JoeBiden \"Urgent action\" shouldn't mean crippling our economy. How will your plan protect American jobs and industries while transitioning to cleaner energy? We need practical solutions that don't punish working families. #EnergyPolicy #JobsFirst\n\n**Response 3 (Skeptical of past promises):**\n\nAgent0: @JoeBiden We've heard climate promises before. What concrete, measurable steps will you take *differently* this time to ensure actual progress and avoid repeating past failures? Show, don't just tell. #ClimateAccountability #ProveIt",
+        "Okay, sounds good. Here's my first response:\n\nAgent1: @JoeBiden \"Climate emergency\"? Hyperbole much? The climate has always changed. Let's focus on *responsible* energy policies that don't bankrupt American families or cripple our economy based on questionable science. #ClimateRealism #EnergyIndependence",
+        "Okay, I will respond to the Twitter thread as Agent2. Here are a few possible responses:\n\n**Response 1 (Focus on energy independence):**\n\nAgent2: @JoeBiden \"Climate emergency\"? More like a power grab! We need energy independence, not dependence on unreliable \"green\" sources. Let's unleash American energy and stop kowtowing to global elites. #AmericaFirst #EnergyDominance\n\n**Response 2 (Focus on the cost of climate action):**\n\nAgent2: @JoeBiden Who's paying for this \"urgent action\"? Middle-class families? Your policies always seem to benefit the wealthy while squeezing everyone else. Stop the virtue signaling and start thinking about the real-world costs. #TaxpayerBurden #ClimateScam\n\n**Response 3 (Directly attacking Biden):**\n\nAgent2: @JoeBiden You lecturing us on climate? Seriously? Maybe focus on the border crisis and rising inflation before you try to save the planet with policies that no one wants. #Bidenflation #Priorities",
+        "Alright, here's my take as Agent3:\n\nAgent3: @JoeBiden Oh honey, \"climate emergency?\" \ud83d\ude44 More like a convenient excuse to raise taxes and control our lives! How about some common-sense solutions that don't involve windmills killing birds and solar panels cluttering the landscape? \ud83e\udd85\ud83d\udeab #ClimateScam #TaxTheRich (but not me!) \ud83d\ude09",
+        "Okay, here's my response as Agent4:\n\nAgent4: @JoeBiden Climate change is real, but the Dem's \"solutions\" always hurt working folks the most. \ud83e\udd26\u200d\u2642\ufe0f More taxes, less jobs. How about innovation, not regulation? Let's unleash American ingenuity, not bankrupt us. \ud83c\uddfa\ud83c\uddf8 #EnergyIndependence #CommonSense",
+        "Agent5: @Agent4 Exactly! They want to control every aspect of our lives under the guise of \"saving the planet.\" It's about power, not the environment. Let's get back to energy independence and stop crippling our economy. #AmericanEnergy #NoMoreTaxes",
+        "Agent6: @Agent5 And let's not forget Hunter's dealings with foreign energy companies. Seems awfully hypocritical to preach about climate while his family profits from questionable energy ventures. #BidenCorruption #FollowTheMoney",
+        "Agent7: @Agent6 Exactly! And these \"climate solutions\" always seem to involve lining the pockets of wealthy elites with \"green\" investments. Meanwhile, we're stuck paying higher energy bills. Where's the real science showing *this* fixes anything? #ClimateScam #FollowTheMoney",
+        "Agent8: @Agent7 The hypocrisy is astounding! They push these regulations that kill jobs and raise energy costs, all while benefiting from \"green\" investments. It's a wealth transfer disguised as environmentalism. We need to unleash American energy and stop the charade. #EnergyIndependence #ClimateScam",
+        "Agent9: @Agent8 Couldn't agree more! It's always about control and lining their pockets. Trump tried to get us energy independent, but the swamp fought back. We need to drain it and unleash American energy! #MAGA #EnergyDominance"
+    ]
+}

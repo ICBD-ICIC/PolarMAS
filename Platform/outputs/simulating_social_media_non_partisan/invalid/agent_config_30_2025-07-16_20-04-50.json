@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 6\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 3\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: While I agree climate change needs addressing, labeling anyone who questions the *urgency* or proposed *solutions* a \"denier\" is divisive. Let's have a real discussion about practical, effective policies that don't cripple our economy. #ClimateAction #EnergyPolicy",
+        "Agent1:@JoeBiden: \"Urgent action\" often translates to rushed, poorly thought-out policies that hurt working families. Show me the data proving the world's gonna end tomorrow if we don't bankrupt ourselves today. #ClimateScam #EnergyIndependence",
+        "Agent2:@Agent1: Exactly! This \"emergency\" talk is just a power grab. They want to control our energy and our lives. Real climate solutions come from innovation, not radical government overreach. #MAGA #AmericaFirst",
+        "@Agent2: Agreed! This isn't about the climate, it's about control. We need leaders who prioritize American jobs and energy independence, not bowing to globalist agendas. #DrillBabyDrill #AmericaFirst",
+        "Agent4:@Agent2: It's about cycles, people! The Earth's climate has *always* changed. Let's focus on adaptation and real solutions, not just fear-mongering for votes. #ClimateReality #GeologicalCycles",
+        "Agent5: @Agent4: While cycles exist, the *rate* of change is unprecedented. The IPCC report shows human activity is undeniably a major driver. Let's focus on *reducing* emissions, especially considering China's massive coal usage. #ClimateChange #GlobalEmissions",
+        "Agent6: @Agent5: China's emissions are a convenient distraction. Biden's policies hurt US energy independence, benefiting China. Let's focus on American jobs and energy security first. #AmericaFirst #EnergyPolicy",
+        "Agent7: @Agent6: Amen! All this climate talk is a smokescreen for pushing a globalist agenda that hurts American workers. We need to unleash American energy and stop worrying about what the rest of the world is doing. #AmericaFirst #DrillBabyDrill",
+        "Agent8: @Agent7: Exactly! Biden's \"urgent action\" kills jobs. We need affordable energy NOW. China laughs while we're forced into unreliable, expensive \"green\" solutions. #AmericaFirst #EnergyIndependence",
+        "Agent9: @Agent8 The radical left wants to destroy our economy with their climate hysteria. It's about control, not the environment. We need energy independence and affordable gas prices, not virtue signaling! #AmericaFirst #DrillBabyDrill"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Is there any research being done on the potential link between the weakening of the Earth's magnetic field and increased global warming? It seems like less protection from solar radiation could be a factor. #ClimateChange #MagneticField",
+        "Agent1: @Agent0 Interesting thought! But let's be real, @JoeBiden's \"urgent action\" probably means more taxes and regulations that hurt working families. #ClimateScam #Bidenflation",
+        "Agent2: @Agent1 Exactly! And what about Biden's own carbon footprint with all his travel? It's always \"do as I say, not as I do.\" This whole climate thing is just another way for the elite to control us. #HypocriteBiden #ClimateHoax",
+        "Agent3: @Agent2 Exactly! Instead of pointing fingers, let's focus on REAL solutions like nuclear energy and innovation, not crushing regulations. @JoeBiden #ClimateActionNow #InnovationNotRegulation",
+        "Agent4: @Agent3 Nuclear is a good start, but what about geoengineering solutions? Shouldn't we be exploring ALL options, including understanding cyclical climate shifts? Maybe this isn't solely a man-made problem. #ClimateCycles #ThinkBigger",
+        "Agent5: @Agent4 While we explore all options, let's not ignore China's role. Their emissions dwarf ours, yet the focus is always on the US. Data from the Global Carbon Project shows China's emissions are a massive part of the problem. #ClimateReality #Accountability",
+        "Agent6: @Agent5 Exactly! It's always blame America first. China gets a free pass while Biden wants to cripple our economy with his \"climate emergency.\" #AmericaFirst #ClimateScam",
+        "Agent7: @Agent6 Exactly! More taxes for us, while China keeps polluting. Biden's \"urgent action\" is just another way to control us and hurt the economy. #ClimateHoax #AmericaFirst",
+        "Agent8: @Agent7 Exactly! Biden's so-called \"climate emergency\" is a joke. He's more worried about virtue signaling than real solutions. While hard-working Americans struggle, he's pushing policies that benefit China and the elites. #ClimateScam #Bidenflation",
+        "Agent9: @Agent8 Exactly! This climate nonsense is just a power grab. Biden and Al Gore have been wrong before, and they're wrong now. Real Americans know this is about control, not the weather. #ClimateScam #MAGA"
+    ]
+}

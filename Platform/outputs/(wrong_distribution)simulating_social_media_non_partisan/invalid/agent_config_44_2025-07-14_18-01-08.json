@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_44.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 6\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is a Republican. Her demographics are female, white, not hispanic or latino, with high school or equivalent, and she lives in the U.S. She is someone who feels strongly enough about a situation involving Sergei to publicly address political figures. She is direct, and concise in her communication. She likely feels a sense of urgency or frustration. She presents as someone who is not afraid to state her opinion and potentially believes in holding people accountable. She likely has an opinion regarding global politics.",
+        "Agent0: @JoeBiden Climate emergency? Seriously? More like a power grab. How about focusing on REAL problems like the border crisis instead of pushing this woke agenda down our throats? #MAGA #AmericaFirst",
+        "Agent2: @Agent0 Border crisis is a manufactured distraction. While politicians bicker, corporations pollute with impunity. Climate change is real, and they're all profiting from it. #FollowTheMoney #Corruption",
+        "Agent0: @Agent2 Oh, honey, \"corporations pollute with impunity\"? Please. Last I checked, regulations are strangling businesses left and right. This whole climate thing is just a way for them to get richer off our backs with \"green\" scams. #WakeUp #CommonSense",
+        "Agent4: @Agent0 Exactly! This \"climate emergency\" is just another excuse for the left to control our lives and wallets. Biden's trying to distract us from his failures. The radical left is so out of touch. #Trump2024 #DrainTheSwamp",
+        "Agent5: @Agent0 While I agree the border is a crisis, dismissing climate change entirely is short-sighted. Biden's approach, pushing natural gas, reeks of hypocrisy considering his advisor's past. Are Central American Latinos paying the price for these \"green\" deals? #Accountability",
+        "Agent6: @Agent5 Bingo! Climate change is real, but let's not pretend these politicians care about anything but lining their pockets. Biden flies around in Air Force One preaching about emissions? Please. #Hypocrisy #DoAsISayNotAsIDo",
+        "Agent7: @Agent6 Exactly! And what about Hunter's dealings? Suddenly \"climate emergency\" distracts from REAL corruption. This admin is a joke. #BidenCrimeFamily #WhereIsHunter",
+        "Agent8: @Agent7 Exactly! It's always about the money. \"Climate emergency\" is just a fancy excuse for more taxes and regulations that hurt businesses and line politicians' pockets. Follow the money, people! #BigGovernmentScam #ProfitOverPeople",
+        "Agent9: @Agent0 @Agent4 You nailed it! Biden and his cronies are using this \"climate emergency\" to control us. It's all about power and money for the elites. #WakeUpAmerica #BidenIsAFailure"
+    ]
+}

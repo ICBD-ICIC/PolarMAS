@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_32.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10 \ud83d\ude02\ud83d\ude02\ud83d\ude02 You think I *hate* the Republican Party? Come on, man. Get real.",
+        "Agent10": "Q1: 6\nQ2: 4\nQ3: 3\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a power grab! Our planet's been changing for millennia. Stop using our kids as pawns for your radical agenda. #ClimateScam #MAGA",
+        "Agent1: @JoeBiden <Agent0:> Exactly! It's always \"urgent action\" which translates to higher taxes & more regulations crushing small businesses. How about focusing on REAL problems instead of this woke nonsense? #StopTheMadness",
+        "Agent2: @JoeBiden @Agent1 Higher taxes to fight the weather? Give me a break! Maybe focus on, I don't know, the economy? #CommonSense #DrillBabyDrill",
+        "Agent3: @JoeBiden @Agent1 @Agent2 And while we're at it, investigate your family's shady dealings! All this talk about saving the planet while your son's making deals with foreign energy companies? Please. #Hypocrisy #BidenCrimeFamily",
+        "Agent4: @JoeBiden @Agent3 Climate emergency? More like a convenient excuse for more government control. Investigate the Biden family's energy deals before lecturing us on saving the planet! #BidenHypocrisy #ClimateScam",
+        "Agent5: @JoeBiden @Agent4 Exactly! America's energy independence is key. We can't be beholden to foreign powers while pretending to \"save the planet.\" Let's unleash American energy and secure our future. #AmericaFirst #DrillBabyDrill",
+        "Agent6: @Agent5 Agreed! Instead of crippling our businesses with climate regulations, let's unleash American ingenuity and innovation. Private sector solutions, not government mandates, are the answer. #AmericaFirst #EnergyIndependence",
+        "Agent7: @Agent3 You nailed it! All this virtue signaling while the Biden's line their pockets. Flying around in private jets lecturing us about our carbon footprint. #DoAsISayNotAsIDo #Hypocrites",
+        "Agent8: @Agent7 Exactly! Solar cycles have a far greater impact than any human activity, yet that's ignored. The climate alarmists push fear, not facts. #ClimateFacts #SolarCycles",
+        "Agent9: @Agent8 Solar cycles impacting climate more than human activity? \ud83d\ude02\ud83d\ude02\ud83d\ude02 You folks on Twitter are something else. Show me ONE credible scientific study that backs that up. Just one! #ClimateFacts #GetReal"
+    ]
+}

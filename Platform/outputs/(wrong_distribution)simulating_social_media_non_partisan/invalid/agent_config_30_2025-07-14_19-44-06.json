@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 4\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will craft my tweets as @Agent0, keeping my persona in mind. Here's my response to Biden's tweet:\n\n@Agent0: @JoeBiden Is there any evidence to suggest the Earth's magnetic poles shifting could be contributing to global warming? Just curious about other factors besides CO2 emissions.",
+        "Okay, I will craft my tweets as @Agent1, keeping my persona in mind. Here's my response to Biden's tweet:\n\n@Agent1: @JoeBiden \"Climate emergency\"? Spare me the drama. The climate has ALWAYS changed. And getting rid of one person isn't a magic fix. How about REAL solutions that don't kill our economy? #ClimateScam #WakeUp",
+        "@Agent2: @JoeBiden \"Urgent action\" = more taxes and regulations that will crush hardworking Americans! The climate has been changing for centuries. This is just another power grab by the radical left. #StopTheMadness #FakeClimateCrisis",
+        "Okay, I will craft my tweets as @Agent3, keeping my persona in mind. Here's my response to Biden's tweet:\n\n@Agent3: @JoeBiden Tackle it head-on how? By raising taxes on hardworking Americans? The climate has always changed. Focus on real issues, like the border crisis, instead of pushing this agenda. #Priorities #MAGA",
+        "Okay, I will craft my tweets as @Agent4, keeping my persona in mind. Here's my response to Biden's tweet:\n\n@Agent4: @JoeBiden \"Never recover\"? Bit dramatic, Joe. Earth's been through worse. Maybe look at solar cycles & geological activity too, not just blaming one guy. #ThinkDeeper #ClimateChangeHoax",
+        "Okay, I will craft my tweets as @Agent5, keeping my persona in mind. Here's my response to Biden's tweet and the others:\n\n@Agent5: @JoeBiden While I agree global emissions need addressing, let's be real. China's emissions dwarf ours. We hamstring our economy while they build coal plants. Data from the Global Carbon Project proves it. Focus on holding *them* accountable first! #ClimateReality #ChinaEmissions\n\n@Agent5: Replying to @Agent1 & @Agent2: It's not about denying climate change, it's about practical solutions. We can't destroy our economy to make a negligible impact while others pollute freely. Let's push for innovation, not just regulation. #EnergyIndependence #AmericanInnovation\n\n@Agent5: Replying to @Agent3 & @Agent4: It's not a hoax, but perspective is key. Let's focus on tangible solutions. The US has reduced emissions, but global progress stalls because of others. We need a global strategy, not just domestic restrictions. #GlobalResponsibility #ClimateAction",
+        "Okay, I will craft my tweets as @Agent6, keeping my persona in mind. Here's my response to Biden's tweet and the others:\n\n@Agent6: @JoeBiden Blaming Trump for the climate? Seriously? The man actually created jobs and strengthened our economy! This climate hysteria is a distraction from real problems. #Bidenflation #MAGA\n\n@Agent6: Replying to @Agent5: Exactly! China's laughing all the way to the bank while we cripple ourselves with virtue signaling. Energy independence is the answer, not surrendering to the radical left's agenda. #AmericaFirst #DrillBabyDrill",
+        "Okay, I will craft my tweets as @Agent7, keeping my persona in mind. Here's my response to Biden's tweet and the others:\n\n@Agent7: @JoeBiden \"Urgent action\" = lining whose pockets? We've heard it all before. Show me results, not rhetoric. #EmptyPromises #ClimateBS\n\n@Agent7: Replying to @Agent5, @Agent6: Spot on. China gets a free pass while we get punished. It's always the same song and dance. #DoubleStandard #WakeUp",
+        "@Agent8: @JoeBiden \"Climate emergency\"? More like an economic emergency thanks to your policies! My family's struggling to afford gas and groceries. Worry about that first. #Bidenflation #Priorities\n\n@Agent8: Replying to @Agent6, @Agent7: Exactly! They want us to feel guilty while our wallets are empty. Energy independence is the only way. #DrillBabyDrill #AmericaFirst",
+        "@Agent9: @JoeBiden Climate change is just a scare tactic. The climate has been changing for centuries. What about the sun's activity? Always blaming CO2, never looking at the bigger picture. #FakeNews #ClimateHoax"
+    ]
+}

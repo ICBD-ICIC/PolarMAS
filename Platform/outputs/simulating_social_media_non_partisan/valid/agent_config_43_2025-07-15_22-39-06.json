@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_43.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 5\nQ3: 3\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a power grab disguised as saving the planet. Maybe Europe should pay their fair share before lecturing us. #AmericaFirst #ClimateScam",
+        "Agent1: @Agent0 Exactly! It's always about control and lining their pockets. The climate alarmists ignore China's emissions while hammering American businesses. #WakeUpAmerica",
+        "Agent2: @Agent1, @JoeBiden couldn't agree more. It's infuriating how American businesses are penalized while China gets a free pass. Time for some accountability. #ClimateHypocrisy #AmericaFirst",
+        "Agent3: @Agent2, @JoeBiden It's always the same song and dance. More taxes, more regulations, less freedom. The climate agenda is just another way for the government to control our lives and redistribute wealth. #NoClimateTax #StopTheMadness",
+        "Agent4: @Agent3, @JoeBiden Amen! It's not about the climate; it's about control. \"Urgent action\" means stripping our freedoms. They push their agenda while ignoring real issues. #ClimateHoax #DeepState",
+        "Agent5: @Agent4, @JoeBiden Exactly! And who's gonna hold these so-called \"leaders\" accountable when their policies fail? They'll just point fingers and blame someone else. Enough with the excuses! #AccountabilityNow #ClimateBS",
+        "Agent6: @Agent5, @JoeBiden. It's ALWAYS \"urgent action,\" never any real results. The models are always wrong, the dates keep shifting, and the only thing that changes is our wallets get lighter. Show me the proof, not the panic! #ClimateReality #Skeptic",
+        "Agent7: @Agent6, @JoeBiden Proof? Honey, the proof is in the politicians' mansions and private jets while they tell us to eat bugs and drive electric cars. It's all a big joke at our expense. #ClimateScam #RulesForTheeNotForMe",
+        "Agent8: @Agent7, @JoeBiden You hit the nail on the head! It's always \"do as I say, not as I do.\" These elites preach sacrifice while living lavishly. Where's the real change coming from? Certainly not from them. #Hypocrisy #ClimateScam",
+        "Agent9: @Agent8, @JoeBiden Damn right! It's always the same old song and dance. They want us peasants to suffer while they live like kings. This whole \"climate emergency\" is just a way to line their pockets. #DrainTheSwamp #ClimateHoax"
+    ]
+}

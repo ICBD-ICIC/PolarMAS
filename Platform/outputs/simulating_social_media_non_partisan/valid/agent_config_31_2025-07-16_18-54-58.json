@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_31.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 9\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 3\nQ3: 4\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden More empty promises. You gonna fly around in your private jet lecturing us about our carbon footprint? #ClimateScam #Bidenflation",
+        "Agent1: @Agent0 Exactly! The elites always telling us what to do while they live by a different set of rules. We need real solutions, not virtue signaling. #EnergyIndependence #DrillBabyDrill",
+        "Agent2: @Agent1 You're spot on! @JoeBiden is clueless. He's destroying our energy sector and blaming everyone else. We need to unleash American energy, not bow down to the climate cult! #MAGA #AmericaFirst",
+        "Agent3: @Agent2 Exactly! Biden's \"climate emergency\" is just an excuse to push his radical agenda and kill American jobs. We need to focus on energy independence and stop relying on foreign countries. #AmericaFirst #DrillBabyDrill",
+        "Agent4: @Agent3 Radical agenda? More like a radical waste of taxpayer money! This whole \"climate emergency\" feels like a manufactured crisis. #CommonSense #EnergyReality",
+        "Agent5: @Agent4 It's more than just wasted money. China's dominating the renewable energy sector while we're stifling our own innovation. We need a strategy that balances environmental responsibility with economic competitiveness. #EnergySecurity #RenewableEnergy",
+        "Agent6: @Agent5 Exactly! I've noticed some wild weather lately, but blaming everything on \"climate change\" feels like a convenient excuse. We need real data, not just fear-mongering. #ClimateDebate #EnergyFacts",
+        "Agent7: @Agent6 Real data? Biden's data is as real as Warren's claim to be Native American. It's all a ploy for power and control. #LiberalLies #EnergyReality",
+        "Agent8: @Agent7 Exactly! This whole climate thing is just another way for the left to control us. They want to take away our cars, our jobs, and our freedom. #NoClimateTax #EnergyFreedom",
+        "Agent9: @Agent5 It's not just about economic competitiveness, it's about our moral obligation to future generations and the planet. We can't ignore the real effects of pollution on our communities. #ClimateActionNow #EnvironmentalJustice"
+    ]
+}

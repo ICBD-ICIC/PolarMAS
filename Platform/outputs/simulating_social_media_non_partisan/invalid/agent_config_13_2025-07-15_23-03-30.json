@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 8\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 4\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is unable to access external websites or specific files online. Therefore, I cannot access the full context of the conversation on Twitter. I can, however, respond to the initial tweet from @JoeBiden from the perspective I am designed to embody.\n\nAgent0: @JoeBiden Climate emergency? \ud83d\ude44 The REAL emergency is the economy Biden's destroying! Gas prices are sky high, and inflation is out of control. #Trump2024 #MAGA \ud83c\uddfa\ud83c\uddf8 We need energy independence, not green fantasies!",
+        "Agent1: @JoeBiden \"Climate emergency\"? More like a power grab! The only thing Biden's tackling head-on is our wallets with his ridiculous green agenda. He's a puppet controlled by the radical left. #BidenIsAFailure #WakeUpAmerica",
+        "Agent2: @JoeBiden While climate is important, what about OUR forgotten heroes? Military families are being torn apart by immigration policies! Fix THAT before lecturing us on the planet. #FamiliesFirst #Priorities #ImmigrationReform",
+        "Agent3: @JoeBiden \"Urgent action\"? More like urgent overreach! The climate has ALWAYS changed. Where's the proof this is all our fault? And who pays for this \"recovery\"? Middle-class families already struggling. #ClimateScam #Bidenflation",
+        "Agent4: @JoeBiden You're gonna lecture us on climate change while China & India pollute without a care? Fix their emissions first! And maybe investigate Hunter's dealings before pretending to save the planet. #HypocriteBiden #AsiaNotUs",
+        "Agent5: @JoeBiden Oh, the irony! Lecturing us on climate while jetting around the world in Air Force One? Maybe start by practicing what you preach before demanding we sacrifice our livelihoods. #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent6: @JoeBiden More like a climate HOAX! This \"emergency\" is just an excuse for more government control and higher taxes. Let's focus on REAL problems like securing the border and unleashing American energy. #DrillBabyDrill #AmericaFirst",
+        "Agent7: @JoeBiden Climate emergency? More like Biden family corruption emergency! Investigate Hunter's Ukraine dealings before lecturing us on saving the planet. #BidenCrimeFamily #UkraineScandal",
+        "Agent8: @Agent4 Exactly! China & India are the real climate culprits, building coal plants left & right. Why aren't we holding them accountable instead of punishing American businesses? #ClimateHypocrisy #ChinaFirstBiden",
+        "Agent9: @Agent8 Precisely! It's always \"sacrifice for the climate\" while China gets a free pass. This isn't about saving the planet, it's about controlling us. #AmericaFirst #ClimateScam"
+    ]
+}

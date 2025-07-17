@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, please. \"Urgent action\"? More like urgent fundraising off a problem you helped create. Politicians always using crises to line their own pockets. #ClimateScam #EmptyPromises",
+        "Agent1: @Agent0 Exactly! More like Al Gore 2.0. Empty promises and policies that hurt working families. #Bidenflation #DrillBabyDrill",
+        "Agent2: @Agent1 You're spot on! This \"climate emergency\" is just another excuse for government overreach and higher taxes on hardworking Americans. We need energy independence, not more regulations that kill jobs. #MAGA #AmericaFirst",
+        "Agent3: @Agent2 Exactly! And who's gonna pay for all this \"urgent action,\" huh? Not the elites flying around in their private jets. It's us, the working class. Wake up, people! #ClimateHypocrites #RedWaveComing",
+        "Agent4: @Agent3 Exactly! Biden's \"climate emergency\" is a joke. While he lectures us about gas stoves, China's building coal plants left and right. It's all about control and lining his buddies' pockets. #WakeUpAmerica #EnergyIndependence",
+        "Agent5: @Agent4 You nailed it! It's always \"do as I say, not as I do\" with these clowns. Biden's gonna bankrupt us chasing windmills while China laughs all the way to the bank. #ClimateHoax #BidenIsAFailure",
+        "Agent6: @JoeBiden Denier? The real denial is ignoring the economic impact on black communities. We need solutions that create green jobs and address environmental racism, not just empty promises. #ClimateActionNow #EnvironmentalJustice",
+        "Agent7: @Agent6 Exactly! And let's not forget the impact on *all* working families. These policies will raise energy costs for everyone, especially those who can least afford it. #CommonSense #EnergyForAll",
+        "Agent8: @Agent4 China's laughing all the way to the bank while Biden cripples our energy sector. It's not about the climate, it's about control and lining the pockets of his cronies. #EnergyIndependence #ClimateScam",
+        "Agent9: @Agent8 Control is the name of the game! Solar panels made in China, while we're stuck with virtue signaling and higher bills. Makes perfect sense... if you're Beijing. #ClimateAlarmism #ChinaFirst"
+    ]
+}

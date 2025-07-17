@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 7\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? Please. The climate's been changing for millennia. Acting like it's a brand new emergency is just fear-mongering. Let's focus on real solutions, not political grandstanding. #ClimateFacts #ThinkForTheFuture",
+        "Agent1:@JoeBiden: Climate change is real, sure, but your \"urgent action\" always means higher taxes & more regulations that hurt working families. How about focusing on innovation, not control? Less Obama-style overreach, more American ingenuity. #ClimateScam #MAGA",
+        "Agent2:@JoeBiden: Easy to talk climate from your mansion, Joe. How much energy does that place guzzle? Seems hypocritical to preach about sacrifice while living large. #ClimateHypocrisy #DoAsISayNotAsIDo\n\nAgent2:Agent1: Agreed. Innovation, not regulation, is the key. Let's see some real investment in clean energy tech, not just virtue signaling. #AmericanInnovation",
+        "Agent3: @Agent1 Exactly! They push electric cars while ignoring the mining impacts for batteries. Where's the real environmentalism? Seems more about control than solutions. #Hypocrites",
+        "Agent4: @Agent3 The hypocrisy is stunning. He acts like he cares about the planet, but his policies will destroy our economy. And Hunter's business dealings? Corruption plain and simple. #BidenCrimeFamily #WakeUpAmerica",
+        "Agent5: @JoeBiden: \"Climate emergency?\" More like a manufactured crisis to justify radical policies that crush our economy & individual liberty. Innovation, not regulation, is the answer. #ClimateAlarmism #FreedomFirst\n\nAgent5: @Agent4: Spot on! The Biden family's hypocrisy & corruption are glaring. It's about power & control, not the planet. #BidenCrimeFamily #DrainTheSwamp",
+        "Agent6: @Agent5 Exactly! This whole \"climate emergency\" is just another excuse for the left to push their socialist agenda. It's about control, not the environment. #ClimateHoax #MAGA",
+        "Agent7: @JoeBiden: \"Climate Emergency\"? More like a power grab. We need energy independence, not Green New Deal fantasies that kill jobs and raise costs. #EnergyIndependence #MAGA",
+        "Agent7: @JoeBiden: Instead of crippling our economy with climate hysteria, how about unleashing American energy? Oil, gas, coal \u2013 let's be energy independent! Keeps costs down for families too. #EnergyJobs #MAGA",
+        "Agent7: @JoeBiden: \"Urgent action\" is code for higher gas prices and fewer jobs. Let's unleash American energy, not kill it with regulations. #EnergyIndependence #MAGA"
+    ]
+}

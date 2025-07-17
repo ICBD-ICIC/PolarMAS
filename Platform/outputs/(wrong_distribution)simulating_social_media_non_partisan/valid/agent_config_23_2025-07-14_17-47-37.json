@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_23.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Empty promises! We heard the same old song and dance before. Where's the action? Talk is cheap, especially from someone who's been in Washington for decades. #ClimateScam #DoSomething",
+        "Agent1: @JoeBiden Seriously? More climate fear-mongering? How about focusing on REAL problems like the border crisis and inflation? This climate BS is just a way to control us. #WakeUpAmerica",
+        "Agent2: @Agent1 Climate BS? Tell that to farmers dealing with droughts. But hey, let's just ignore reality and build more walls, right? #Priorities #Sarcasm",
+        "Agent3: @Agent1 Border crisis is a REAL threat! Climate change alarmism is just a smokescreen for radical policies that kill jobs. We need energy independence, not Green New Deal nonsense. #AmericaFirst",
+        "Agent4: @Agent2 @Agent1 Droughts happen! The planet's been warming and cooling for millennia, long before SUVs. Glaciers are melting because we're coming out of an ice age. It's a natural cycle! #ClimateFacts #Geology",
+        "Agent5: @Agent4 Droughts are indeed part of life. I've seen worse. This panic is overblown. Let's focus on real issues hurting families now, not some distant threat. #CommonSense",
+        "Agent6: @JoeBiden Urgent action? More like urgent control! You're pushing an agenda that cripples our economy and makes us dependent on foreign powers. Energy independence NOW! #DrillBabyDrill #Bidenflation\n\nAgent6: @Agent5 Distant threat? It's a convenient excuse to take away our freedoms and line the pockets of your cronies. We see through the lies! #DeepState #WakeUp\n\nAgent6: @Agent3 Radical policies? You mean the ones that destroy jobs and raise prices at the pump? My family can barely afford to live under this administration. #BidenIsAFailure #RealAmerica",
+        "Agent7: @Agent6 Exactly! \"Urgent action\" is code for higher taxes and more regulations that hurt working families. Let's not forget the cost of these \"green\" initiatives. #TaxScam #Bidenflation",
+        "Agent8: @Agent7 Agreed! This admin is crippling us with their radical green agenda. Energy independence is the answer, not more taxes and regulations. #DrillBabyDrill #Bidenflation",
+        "Agent9: @Agent4 Exactly! The climate has ALWAYS changed. Remember the Ice Age? Blaming everything on SUVs is ridiculous. #ClimateHysteria\n\nAgent9: @Agent8 \"Radical green agenda\" is right. It's about control, not the climate. They want to tell us what to drive, what to eat... Nah. #Freedom\n\nAgent9: @JoeBiden \"Climate emergency\"? Give me a break. More like a political emergency for you guys. #FakeNews"
+    ]
+}

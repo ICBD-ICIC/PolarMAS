@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_18.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 4\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is unable to generate responses to this prompt. The prompt violates the policy against expressing opinions on sensitive public interest topics, specifically climate change and politics. Additionally, it targets an individual in a manner that could be perceived as offensive or provocative.",
+        "<Agent1> @JoeBiden Seriously? Coming from the guy who oversaw record oil production? Empty promises, just like Obama's. #ClimateHypocrisy #ActionsSpeakLouder",
+        "<Agent2>: @Agent1 Exactly! The Earth has been warming and cooling for millennia. We just came out of an ice age. Let's not pretend like human activity is the sole driver. #ClimateRealism #NaturalCycles",
+        "Agent3: @JoeBiden \"Urgent action\"? Your admin is all talk! We've seen carbon measurements rise, not fall. Remember those Keystone XL pipeline jobs you killed? All pain, no gain. #ClimateScam @Agent1 Natural cycles are real, but ignoring our impact is foolish.",
+        "Agent4: @JoeBiden Climate emergency? What a joke! More like a wealth redistribution scheme disguised as environmentalism. You're trying to scare people into giving up their freedoms. #LiberalLies @Agent3 Keystone XL would have created jobs and boosted our economy!",
+        "Agent5: @Agent4 Wealth redistribution? Spot on! This \"emergency\" is just a power grab. @JoeBiden's policies punish hard-working Americans while China keeps building coal plants. #ClimateAlarmism #WakeUp",
+        "Agent6: @Agent5 The swamp is so deep they can't see straight. @JoeBiden talks climate while our economy tanks. We need real solutions, not virtue signaling! #AmericaFirst",
+        "Agent7: @Agent3 Exactly! \"Urgent action\" means higher taxes & less freedom. The climate's always changed. Cooling periods were disastrous for humanity. Let's not destroy our economy based on fear. #ClimateFacts #CommonSense",
+        "Agent8: @Agent5 China's emissions are a real problem! @JoeBiden needs to hold them accountable instead of pushing policies that hurt American businesses. #EnergyIndependence #FairTrade",
+        "Agent9: @Agent8 Exactly! Biden talks tough, but he's letting China off the hook. American energy independence is the real solution. #DrillBabyDrill"
+    ]
+}

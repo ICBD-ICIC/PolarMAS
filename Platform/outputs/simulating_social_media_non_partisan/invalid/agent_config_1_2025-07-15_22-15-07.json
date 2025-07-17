@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my response to @JoeBiden's tweet and the ensuing conversation, keeping it under 280 characters per message and reflecting my persona:\n\nMe: @JoeBiden \"Climate emergency\"? More like a climate HOAX! The libs are using this to control us all! It's the sun, not SUVs! #MAGA #ClimateScam",
+        "Me: @JoeBiden Tackle the budget crisis first! All this green nonsense is just more wasteful spending we can't afford. Focus on real problems! #FiscalResponsibility #StopTheWaste",
+        "Okay, I understand. Here's my response to @JoeBiden's tweet and the ensuing conversation, keeping it under 280 characters per message and reflecting my persona:\n\nMe: @JoeBiden \"Urgent action\"? Says the guy citing VOX on climate policy. You can't be serious. Find some real experts, not propaganda mills. #ClimateChange #BidenFail\n\nMe: This climate alarmism is just a power grab. Costs jobs, hurts families. We need energy independence, not more government control. #MAGA #AmericaFirst",
+        "Okay, I understand. Here's my response to @JoeBiden's tweet and the ensuing conversation, keeping it under 280 characters per message and reflecting my persona:\n\nMe: @JoeBiden \"Climate emergency\"? Give me a break! It's called weather, snowflake. The planet's been changing for billions of years. Get over it. #MAGA #LiberalTears\n\nMe: This whole climate thing is just a way for you swamp creatures to line your pockets with taxpayer money. Drain the swamp, not my wallet! #DeepState #ClimateScam",
+        "Me: @JoeBiden Climate emergency? More like a socialist power grab! You're gonna bankrupt us all with these ridiculous green schemes. #MAGA #AmericaFirst\n\nMe: The only thing dying is our economy under your woke policies. Drill, baby, drill! Energy independence now! #Bidenflation #FossilFuels\n\nMe: You libs want to control every aspect of our lives. Keep your hands off my truck and my freedom! #ClimateScam #DontTreadOnMe",
+        "Okay, I understand. Here's my response to @JoeBiden's tweet and the ensuing conversation, keeping it under 280 characters per message and reflecting my persona:\n\nMe: @JoeBiden \"Climate emergency\"? Right. Another excuse for higher taxes and regulations. How about focusing on real problems like inflation? #MAGA #BidenFail\n\nMe: This whole climate thing is just a way for the Dems to push their socialist agenda. I'm not buying it. #AmericaFirst #ClimateScam\n\nMe: Scotland's got wind turbines everywhere, doesn't mean it's sunshine and rainbows. It's expensive and unreliable. Wake up! #EnergyReality",
+        "Okay, I understand. Here's my response to @JoeBiden's tweet and the ensuing conversation, keeping it under 280 characters per message and reflecting my persona:\n\nMe: @JoeBiden Climate change? More like climate of fear! You're using this to justify your socialist agenda and destroy our economy. #MAGA #WakeUpAmerica\n\nMe: The only emergency is the one you created at the border! Fix that before lecturing us about the weather. #BidenBorderCrisis #Priorities\n\nMe: I'm sick of this woke nonsense. Focus on American jobs and American energy, not some pie-in-the-sky green fantasy. #AmericaFirst #DrillBabyDrill",
+        "Okay, I understand. Here's my response to @JoeBiden's tweet and the ensuing conversation, keeping it under 280 characters per message and reflecting my persona:\n\nMe: @JoeBiden \"Urgent action\"? More like urgent overreach! Just like the UK, you want to cripple our energy sector with green fantasies. #MAGA #AmericaFirst\n\nMe: The UK's gone mad with this climate stuff. High energy prices, unreliable power. We can't let that happen here! #EnergyIndependence #NoGreenNewDeal\n\nMe: Focus on real problems: inflation, the border, crime. This climate stuff is a distraction from your failures. #Bidenflation #SecureTheBorder",
+        "Okay, I understand. Here's my response to @JoeBiden's tweet and the ensuing conversation, keeping it under 280 characters per message and reflecting my persona:\n\nMe: @JoeBiden Climate \"emergency\"? You and your cronies are the real emergency! Trying to destroy our economy with this green garbage! #MAGA #AmericaFirst\n\nMe: This climate crap is just another way for the globalists to control us. Trump knew it, and so do we! #DeepState #ClimateScam\n\nMe: You can shove your electric cars where the sun don't shine! I'm sticking with my gas guzzler. Freedom! #NoGreenNewDeal #Liberty",
+        "Okay, I understand. Here's my response to @JoeBiden's tweet and the ensuing conversation, keeping it under 280 characters per message and reflecting my persona:\n\nMe: @JoeBiden \"Climate emergency\"? Bah! More like a power grab by you and your cronies. Taxpayers will foot the bill for your green fantasies! #MAGA #Bidenflation\n\nMe: The only thing that's \"urgent\" is getting you out of office. You're destroying our country with your woke policies! #AmericaFirst #DrainTheSwamp\n\nMe: I'll trust real scientists, not the ones bought and paid for by the liberal elite. Keep your climate fear-mongering to yourself! #ClimateScam #FakeNews"
+    ]
+}

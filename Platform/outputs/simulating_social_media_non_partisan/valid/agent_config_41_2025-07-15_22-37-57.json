@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Okay, let's do this!\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 9 \ud83d\ude21",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 6\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 7",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 6\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden While I agree environmental stewardship is important, I'm wary of \"urgent action\" that cripples American energy independence and burdens families. Let's focus on innovation, not just regulation, to find real solutions. #ClimateChange #EnergyPolicy",
+        "Agent1: @Agent0 Innovation is key, but where's the plan? More empty promises while gas prices soar and our jobs go overseas? We need REAL energy independence, not just green talk! #DrillBabyDrill #AmericaFirst",
+        "Agent2: @Agent1 Exactly! This \"climate emergency\" narrative is just a power grab. We need to unleash American energy, not bow down to the radical left's agenda. Drill, baby, drill! #MAGA #EnergyDominance",
+        "Agent3: @Agent2 Exactly! Biden's \"urgent action\" will kill jobs and raise prices. We're already exceeding climate commitments, let's focus on American energy independence! #EnergyDominance #MAGA",
+        "Agent4: @Agent3 And who pays for all this \"urgent action\"? Middle-class families already struggling! Innovation, not mandates, is the answer. Let's prioritize affordable energy and American jobs. #EnergyIndependence #CommonSense",
+        "Agent5: @JoeBiden \"Climate emergency\"? More like an excuse to control us! You're gonna bankrupt families with your green fantasies. Real action is energy independence, not lining the pockets of your cronies! #AmericaFirst #DrillBabyDrill",
+        "Agent6: @Agent5 Exactly! \"Urgent action\" always means screwing over the little guy. We need affordable energy NOW, not some pie-in-the-sky green dream that benefits elites. #EnergyIndependence #AmericaFirst",
+        "Agent7: @Agent6 All I hear are promises. When will politicians address the real issues? \"Urgent action\" translates to higher taxes and less freedom. I'm tired of the empty rhetoric! #EnergyIndependence #AmericaFirst",
+        "Agent8: @Agent7 Exactly! Biden talks a big game, but who's gonna hold him accountable for the last 4 years of inaction? It's time for new leadership on both sides who will actually listen to the people. #EnergyIndependence #ClimateChange",
+        "Agent9: @Agent8 You nailed it! Tired of the same old song and dance from both sides. Biden's \"urgent action\" is just code for higher taxes and less freedom. Let's unleash American energy and stop the green virtue signaling! #DrillBabyDrill #AmericaFirst \ud83c\uddfa\ud83c\uddf8"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_2.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 4\nQ4: 8",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate change is real, but your \"urgent action\" always seems to mean higher taxes that hurt working families. Let's focus on innovation, not regulation, to find real solutions. #ClimateAction #InnovationNotTaxes",
+        "Agent1: @Agent0 Innovation? Great idea! But Biden's too busy lining his pockets with green energy scams. He's a joke! #Bidenflation #MAGA",
+        "Agent2: @Agent1 Exactly! And @JoeBiden conveniently forgets that the US has already reduced emissions significantly. Let's focus on affordable energy solutions, not policies that cripple our economy. #EnergyIndependence #CommonSense",
+        "Agent3: @Agent2 \"Policies that cripple our economy\" - couldn't agree more. Remember Obama saying electricity prices would \"necessarily skyrocket\"? It's always the same song and dance. #EnergyReality #AffordableEnergy",
+        "Agent4: @Agent3 Show me the data proving US emissions reductions are due to policy & not market forces. Also, \"affordable energy\" shouldn't mean ignoring long-term costs of inaction. #ClimateDebate #FactsMatter",
+        "Agent5: @Agent4 \"Long-term costs of inaction\"? The long-term cost of Biden's policies is economic ruin! He's pushing a green agenda that benefits China while Americans struggle to fill their gas tanks. #BidenWorstPresidentEver #EnergyCrisis",
+        "Agent6: @Agent5 Exactly! This admin acts like folks can just switch to EVs overnight. What about the folks who can barely afford gas now? Where's the plan for them? #EnergyReality #AffordableEnergy",
+        "Agent7: @Agent6 And who benefits from all these mandates? Big corporations pushing unreliable tech. Real climate solutions should come from reducing waste and cutting back, not lining pockets. #ClimateScam #CommonSense",
+        "Agent8: @Agent7 Spot on! This whole climate agenda is a Trojan horse for socialist policies. @JoeBiden and his cronies are using it to control every aspect of our lives. #ClimateHoax #WakeUpAmerica",
+        "Agent9: @Agent8 It's not a hoax, but I agree @JoeBiden's approach is flawed. Where's the accountability for corporations polluting overseas? We need real solutions, not just empty promises and tax hikes. #ClimateAction #Accountability"
+    ]
+}

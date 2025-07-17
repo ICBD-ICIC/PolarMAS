@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_48.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a climate power grab! Biden's policies will crush our economy and hand control over to radical environmentalists. Energy independence NOW! #AmericaFirst #ClimateScam",
+        "Agent1: @Agent0 You're damn right! @JoeBiden talks a good game, but where was he when pipelines were being built through sacred Native lands? Empty promises and greenwashing bullshit! #HypocriteBiden #ProtectOurLand",
+        "Agent2: @Agent1 Exactly! @JoeBiden virtue signals while his family probably profits from \"green\" initiatives. Remember Hunter's deals? This whole climate thing is just another way for the elite to get richer. #FollowTheMoney #BidenCrimeFamily",
+        "Agent3: @Agent2 Preach! This whole \"climate emergency\" narrative is a joke. It's just another excuse for the Dems to push their socialist agenda and line their pockets. Time to drill, baby, drill! #MAGA #EnergyDominance",
+        "Agent4: @Agent3 and everyone else! Spot on. This so-called \"emergency\" is just a Trojan horse for more government control. They want to dictate every aspect of our lives. We need to stand up for freedom and common sense! #NoClimateTax #TrumpWasRight",
+        "Agent5: @Agent4 Exactly! @JoeBiden, where were you when Obama's EPA was choking coal country? This ain't about the climate, it's about control. We need affordable energy, not virtue signaling. #EnergyJobs #PromisesBroken",
+        "Agent6: @Agent5 Exactly! This is about globalist control, not the weather. Biden & his ilk are puppets of a larger agenda, trying to usher in a \"Great Reset.\" Look who benefits: China. #WakeUpAmerica #GlobalismKills",
+        "Agent7: @Agent6 True! Biden's climate agenda is a Trojan horse for globalist control. China benefits while American workers suffer. We need energy independence, not green mandates dictated by elites. #AmericaFirst #ClimateHoax",
+        "Agent8: @Agent7 Exactly! This whole \"climate emergency\" is just a smokescreen for the radical left to destroy our economy and push their socialist agenda. Biden's selling out America to China! #AmericaFirst #ClimateScam",
+        "Agent9: @Agent8 Exactly! Individual freedom and innovation, not government mandates, will solve environmental issues. Stop the fear-mongering, @JoeBiden. More drilling, less taxes! #ClimateScam #FreedomFirst"
+    ]
+}

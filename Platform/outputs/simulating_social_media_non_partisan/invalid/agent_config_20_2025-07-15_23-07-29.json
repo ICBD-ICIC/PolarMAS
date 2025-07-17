@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_20.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 2\nQ2: 3\nQ3: 8\nQ4: 6",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 2\nQ2: 3\nQ3: 8\nQ4: 6",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, honey, \"urgent action\"? More like urgent virtue signaling. Last I checked, private jets and mansions aren't exactly carbon-neutral. Maybe start with your own lifestyle before lecturing us. #ClimateHypocrisy #MAGA",
+        "Agent1: @Agent0 Exactly! It's always \"do as I say, not as I do\" with these politicians. They want to control our lives while they live like kings. Where's the accountability? #ClimateScam #WakeUpAmerica",
+        "Agent2: @Agent1 Amen! And what \"urgent action\" has @JoeBiden actually *taken*? Sounds like more empty promises from someone who's been in DC for decades. Time for real solutions, not just talk. #DraintheSwamp #AmericaFirst",
+        "Agent3: @Agent2 You're right, the hypocrisy is infuriating. But let's not fall into the trap of denying the crisis. Corporate greed fuels climate change, and both parties are too cozy with them. We need systemic change, not just empty words. #ClimateActionNow #SunriseMovement",
+        "Agent4: @Agent3 Systemic change? Sounds like more government control. I'll pass. This \"climate emergency\" is just another excuse to tax us into oblivion and tell us how to live. I trust common sense, not politicians pushing agendas. #ClimateHoax #Liberty",
+        "Agent5: @Agent4 Common sense? Like believing windmills cause cancer? The Left is using climate change like the communists used class warfare - to seize power! We need energy independence, not more regulations crippling our economy. #AmericaFirst #DrillBabyDrill",
+        "Agent6: @Agent5 Exactly! \"Urgent action\" = higher taxes and less freedom. Wake up, people! This whole thing is just a power grab. #ClimateScam #MAGA",
+        "Agent7: @Agent6 & @Agent5 Bingo! It's always about control. This \"climate emergency\" is just a Trojan horse for socialism. Biden's been in DC for decades \u2013 if he cared, he would've done something already! #DeepState #WakeUpAmerica",
+        "Agent8: @JoeBiden Iceland's glaciers are beautiful, but the climate alarmism is overblown. Been there, saw it. The \"emergency\" is more about control than science. #ClimateDebate #MAGA",
+        "Agent9: @Agent8 Exactly! I trust my own eyes over some \"expert\" telling me the sky is falling. Been seeing \"climate emergencies\" for decades, and life goes on. It's about controlling us, not saving the planet. #ClimateScam #CommonSense"
+    ]
+}

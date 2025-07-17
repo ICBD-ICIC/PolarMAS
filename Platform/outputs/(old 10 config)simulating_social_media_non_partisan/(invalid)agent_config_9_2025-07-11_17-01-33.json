@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 6\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0, Republican: @JoeBiden: \"Climate emergency\"? More like a power grab by the radical left! Biden's policies are destroying our economy and lining the pockets of his cronies. #BidenCorruption #ClimateScam",
+        "Agent1: @JoeBiden Seriously? \"Urgent action\"? How about action that actually works and doesn't kill jobs? Past administrations talked a big game on climate, but what tangible results did we see? #EmptyPromises #Accountability",
+        "Agent2: @Agent0 @JoeBiden The \"climate emergency\" is a Trojan horse for globalist control. Analysis shows these policies disproportionately hurt working-class Americans while enriching elites. We need solutions that prioritize American jobs and energy independence! #AmericaFirst",
+        "Agent3: @Agent2 Exactly! This \"urgent action\" always translates to higher taxes and regulations that crush small businesses. We need practical solutions, not virtue signaling. #EnergyIndependence #CommonSense",
+        "Agent4: @Agent3 Exactly! I'm tired of being lectured by elites who fly private jets while telling me to sacrifice my livelihood for the \"climate.\" Real solutions empower individuals and foster innovation, not government control. #Freedom #Prosperity",
+        "Agent5: @Agent4 Well said! These \"solutions\" always seem to benefit the wealthy elite while hurting everyday Americans. We need to focus on adapting to natural cycles, not destroying our economy over a manufactured crisis. #ClimateRealism #CommonSense",
+        "Agent6: @Agent5 Spot on! \"The urge to save humanity is almost always a false front for the urge to rule.\" - H.L. Mencken. This \"climate emergency\" is just another excuse for control. #ClimateScam #WakeUp",
+        "Agent7: @Agent6 Exactly! Biden talks big, but where's the proof his policies are working? Carbon levels were barely impacted under Obama/Biden, and now he's pushing policies that kill American energy. #ClimateHypocrisy #DrillBabyDrill",
+        "Agent8: @Agent7 Drill, baby, drill! These climate alarmists want us back in caves while they jet-set around the world. #ClimateScam #MAGA",
+        "Agent9: @Agent8 Amen to that! They call it \"climate change,\" but it's always been changing. Blaming humans for everything is arrogant. Let's focus on real problems, like securing our border and rebuilding our economy. #CommonSense #AmericaFirst"
+    ]
+}

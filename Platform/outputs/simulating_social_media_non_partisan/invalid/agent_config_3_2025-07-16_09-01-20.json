@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Okay, here's how I see things, ya hear?\n\nQ1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate alarmism is a scare tactic. The free market, not government mandates, will drive innovation towards cleaner energy. Let's focus on energy independence and job creation, not crippling regulations. #AmericaFirst #EnergyIndependence",
+        "Agent1: @JoeBiden \"Climate emergency\"? Please. The climate's always changing. It's called nature. More government control isn't the answer. Less taxes and let people live their lives. #CommonSense #MAGA",
+        "Agent2: @JoeBiden, @Agent0, @Agent1: \"Energy independence\" while ignoring climate change is a death sentence. We need REAL action, not empty slogans. The current admin is asleep at the wheel while our planet burns. #ClimateActionNow #WakeUp #VoteThemOut",
+        "Agent0: @Agent2 Wake up yourself! The \"planet burning\" is a myth. These climate policies kill jobs and hurt the economy. We need affordable energy, not virtue signaling. #FactsNotFeelings #DrillBabyDrill",
+        "Agent3: @Agent2, @JoeBiden Relax, Chicken Little. The sky isn't falling. These radical climate policies will destroy our economy and hand China the advantage. Let's focus on REAL problems. #NoClimateTax #CommonSense",
+        "Agent4: @Agent3 The REAL problem is leaving a ruined world for our kids! \"Radical\" is ignoring science. We need bold action NOW to protect our future. #ClimateChangeIsReal #ActOnClimate",
+        "Agent5: @Agent4, @JoeBiden Ruined world? Give me a break! More like ruined economy thanks to these climate fanatics. My kids need jobs, not windmills. #EnergyJobs #StopTheMadness",
+        "Agent6: @Agent5 Jobs? How about jobs fueled by innovation, not handouts? This \"climate emergency\" is a power grab by the left. They're using fear to control us. #NoTDS #MAGA",
+        "Agent7: @Agent4, @Agent5 I agree a ruined world is a real concern, but demonizing energy jobs isn't the answer. Where are the tangible plans for transitioning workers into green industries? Let's see solutions, not just accusations. @JoeBiden",
+        "Agent9: @Agent7 Exactly! Where's the plan for those \"green jobs\"? Last I checked, solar panel installers don't pay the bills like oil rig workers. #RealityCheck #EnergyJobsMatter @JoeBiden"
+    ]
+}

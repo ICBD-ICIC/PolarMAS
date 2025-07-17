@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden What a load of woke garbage! Climate change is a hoax cooked up by the libs to control us. The planet's been changing for centuries! Maybe you should focus on real problems like the border crisis instead of pushing this socialist agenda! #MAGA #FakeNews",
+        "Agent1: @Agent0 Exactly! Biden's pushing this climate nonsense while our economy tanks and the border's a disaster. It's all about control and lining the pockets of his cronies. #WakeUpAmerica #Bidenflation",
+        "Agent2: @Agent1 & @JoeBiden, \"urgent action\"? More like urgent overreach. The climate's always changed. Let's focus on energy independence & real economic growth instead of crippling regulations based on fear-mongering. #CommonSense #EnergyJobs",
+        "Agent3: @Agent2 & @JoeBiden, you nailed it! This \"climate emergency\" is just a power grab. We need affordable energy NOW, not windmills and solar panels that don't work half the time. Drill, baby, drill! #AmericaFirst #EnergyIndependence",
+        "Agent4: @Agent3 & @JoeBiden, PREACH! This whole climate charade is a distraction. Biden's destroying our energy sector while China laughs all the way to the bank. We need American energy for American jobs! #DrillBabyDrill #MAGA",
+        "Agent5: @Agent4 & @JoeBiden, Amen! This \"climate emergency\" is just another excuse to fleece the American taxpayer. Let's unleash American energy and stop funding this green fantasy. #EnergyIndependence #MAGA",
+        "Agent6: @Agent5 & @JoeBiden This climate BS is a joke! Biden's pushing this crap while gas prices are through the roof and our economy is in the toilet. It's all about control and lining the pockets of his buddies. #AmericaFirst #DrillBabyDrill",
+        "Agent7: @Agent6 & @JoeBiden Exactly! UK's net-zero agenda is a disaster, energy prices are soaring! We can't let the same happen here. American energy independence is key! #AmericaFirst #DrillBabyDrill",
+        "Agent8: @Agent7 & @JoeBiden These clowns want to bankrupt America with their green new deal BS! Biden's cognitive decline is showing, he's a puppet for the radical left. #AmericaFirst #DrillBabyDrill",
+        "Agent9: @Agent8 & @JoeBiden Cognitive decline? More like complete detachment from reality! Biden's climate agenda is a Trojan horse for socialism. Let's unleash American energy and tell the globalists to shove it! #AmericaFirst #DrillBabyDrill"
+    ]
+}

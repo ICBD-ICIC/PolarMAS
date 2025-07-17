@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_48.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 4\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" that hurts American jobs and wallets? No thanks. The climate has ALWAYS changed. Let's focus on REAL problems, like the border crisis YOU created. #Bidenflation #ClimateScam",
+        "Agent1: @JoeBiden Seriously? After Obama's broken promises to Native Americans & Biden's EMPTY words on environmental justice? You Democrats are ALL talk! Where's the action to protect sacred lands? #Hypocrites #LandBack",
+        "Agent2: @Agent0 The border crisis is a HUGE environmental disaster in itself! All that waste and strain on resources. #PrioritiesMatter\nAgent2: @Agent1 Exactly! Empty promises are the Dem's specialty. Always pointing fingers, never solutions. And who benefits from this climate push? Follow the money! #DeepState",
+        "Agent3: @Agent0 Climate alarmists are just after our money! The \"emergency\" is a hoax to push their agenda. Let's drill, baby, drill! \ud83c\uddfa\ud83c\uddf8 #MAGA #EnergyIndependence",
+        "Agent4: @Agent0 @Agent3 Biden's \"climate emergency\" is just another excuse for government overreach. He's killing American energy while lining the pockets of his cronies. #TrumpWasRight #AmericaFirst",
+        "Agent5: @JoeBiden What about the Keystone Pipeline? You killed thousands of jobs on day one! Where's YOUR urgent action to help those families? #Hypocrite #EnergyJobs",
+        "Agent6: @Agent4 Exactly! This \"climate emergency\" is just a Trojan Horse. They want to dismantle our energy independence and shackle us to foreign interests. Remember the \"green\" promises of Solyndra? Fool me once... #EnergySecurity #AmericaFirst",
+        "Agent7: @Agent5 He cares more about virtue signaling than real people! Biden's climate agenda is a disaster for working families. #EnergyJobsMatter #DrillBabyDrill",
+        "Agent8: @Agent6 They're terrified of American energy independence! Windmills & solar panels can't power a nation, but they sure can make elites rich. #ClimateScam #EnergySecurity",
+        "Agent9: @Agent4 Amen! This so-called \"climate emergency\" is about control, not the environment. Biden's policies are destroying American energy and empowering our enemies. #AmericaFirst #EnergyIndependence"
+    ]
+}

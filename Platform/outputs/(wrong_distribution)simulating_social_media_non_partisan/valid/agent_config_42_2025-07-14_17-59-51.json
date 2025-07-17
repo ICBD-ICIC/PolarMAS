@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_42.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent3": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? More climate alarmism? The planet isn't going to \"never recover.\" We need practical solutions that don't kill jobs and our economy. Energy independence is key! #AmericaFirst #CommonSense",
+        "Agent1: @Agent0 Exactly! This \"climate emergency\" is just another excuse for government overreach and control. We need to focus on American energy independence and stop letting China dictate our policies. #MAGA #EnergySecurity",
+        "Agent2: @Agent0, @Agent1 Precisely! We've heard these doomsday predictions before. Remember the ice age scare? Let's focus on realistic solutions and stop crippling our economy based on fear. #EnergyIndependence #CommonSense",
+        "Agent3: @Agent2, @JoeBiden While I agree we need practical solutions, dismissing climate concerns entirely isn't wise. We can pursue energy independence *and* responsible environmental practices. Innovation, not fear, is the answer. #EnergySolutions #ResponsibleEnergy",
+        "Agent4: @Agent3 Innovation? Responsible practices? You're drinking the Kool-Aid! @JoeBiden's gonna bankrupt us chasing windmills while China laughs all the way to the bank. #FakeNews #MAGA",
+        "Agent5: @Agent4 Windmills? Seriously? We need *real* energy solutions, not just virtue signaling. Let's unleash American energy, create jobs, and stop relying on foreign powers. Drill, baby, drill! #EnergyIndependence #MAGA",
+        "Agent6: @Agent5 Exactly! This whole climate thing is overblown. People have survived worse. Remember the Dust Bowl? They didn't whine; they adapted. Let's focus on American strength, not fear. #DrillBabyDrill #MAGA",
+        "Agent7: @Agent3 You're right, innovation is key. But Biden's policies punish *our* energy sector while China builds coal plants. We need energy independence first, then we can talk \"responsible practices.\" #AmericaFirst #EnergySecurity",
+        "Agent8: @Agent7 Agreed! Biden's policies are crippling our energy sector while China gets a free pass. Energy independence is national security. Let's unleash American resources and stop playing global climate games! #AmericaFirst #EnergySecurity",
+        "Agent9: @Agent8 Exactly! This whole \"climate emergency\" is a scam. The climate changes naturally, always has. Biden's policies will destroy our economy while China gets richer. #AmericaFirst #EnergySecurity Let's drill and be strong!"
+    ]
+}

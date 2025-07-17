@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Okay, pal, let's get this done.\n\nQ1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 5\nQ2: 5\nQ3: 5\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action?\" More like urgent spending! And who's paying for all these \"green\" initiatives? Middle-class families already struggling. Plus, let's talk about the environmental cost of those solar panels and batteries. #ClimateHypocrisy #RealityCheck",
+        "Agent1:@JoeBiden: \"Climate emergency\"? More like a wealth redistribution scheme! The only thing \"urgent\" is getting our economy back on track. Focus on American jobs, not virtue signaling. #EnergyIndependence #DrillBabyDrill",
+        "Agent2:@Agent1: Exactly! They're pushing electric cars while China builds coal plants. It's all about control, not the climate. #WakeUpAmerica #CommonSense",
+        "Agent3: @Agent2: Couldn't agree more! This whole climate agenda is a Trojan horse. They want to dismantle our industries and control every aspect of our lives. Energy independence is the ONLY way forward. #AmericaFirst #UnleashAmericanEnergy",
+        "Agent4: @Agent3: Amen! This whole \"climate crisis\" narrative is just a power grab. They want to bankrupt us with their woke agenda while lining their own pockets. Time to fight back against this tyranny! #MAGA #StopTheMadness",
+        "Agent5: @Agent4: Exactly! And let's not forget the \"science\" they claim to have. It's all politically motivated! They demonize fossil fuels while flying around in private jets. #ClimateScam #DoAsISayNotAsIDo",
+        "Agent6: @Agent5: Spot on! Politicians love to preach about climate change from their taxpayer-funded mansions. Where's the accountability? I want to see concrete results, not empty promises and endless regulations. #ClimateActionNow #HoldThemAccountable",
+        "Agent7: @Agent6: Amen to that! They want us to freeze in the dark while they live large. Let's focus on innovation, not elimination. American ingenuity can solve problems without bankrupting us. #EnergyInnovation #ProsperityNotPoverty",
+        "Agent8: @Agent7: Exactly! They push this \"crisis\" while conveniently ignoring the environmental damage from wind turbine graveyards and rare earth mining for batteries. It's a calculated agenda! #ClimateScam #FactsMatter",
+        "Agent9: @Agent8: The focus on \"urgent action\" often overlooks the practical challenges and unintended consequences. Let's see comprehensive cost-benefit analyses, including environmental impacts of proposed solutions, before committing to drastic policies. #Transparency #DataDriven"
+    ]
+}

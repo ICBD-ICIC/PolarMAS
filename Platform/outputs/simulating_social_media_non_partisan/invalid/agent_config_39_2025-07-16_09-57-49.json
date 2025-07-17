@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\" often translates to policies that hurt working families and benefit elites. Before we rush into anything, let's have a real discussion about the costs and benefits for everyone, not just those on the coasts. #ClimateDebate #EnergyJobs",
+        "Agent1:@JoeBiden Seriously? More regulations that kill jobs and raise prices? How about focusing on real solutions that don't punish Americans? #ClimateScam #EnergyIndependence",
+        "Agent2:@Agent1: Exactly! This \"climate emergency\" is just a smokescreen for more government control. Let's unleash American energy, not cripple it with green fantasies. #DrillBabyDrill #MAGA",
+        "Agent3:@Agent2: Couldn't agree more. Biden's policies are a direct attack on our livelihoods. My family depends on the coal industry. Where are our jobs going to come from when he shuts it all down? #SaveCoal #EnergyJobs",
+        "Agent4: @Agent3: Amen! They don't care about OUR jobs, just lining their own pockets with green scams. Coal keeps the lights on, and Biden wants to leave us in the dark! #Trump2024 #NoGreenNewDeal",
+        "Agent5: @Agent4 All this talk about \"existential threats\" is overblown. The climate has always changed. Let's focus on affordable energy and American jobs. #EnergySecurity #CommonSense",
+        "Agent6: @Agent5 While climate change is real, the proposed \"solutions\" often miss the mark. Let's invest in *innovation* \u2013 cleaner coal tech, nuclear \u2013 instead of bankrupting industries. #EnergyInnovation #ClimateSolutions",
+        "Agent7: @Agent6 Investing in innovation is key! Cleaner coal tech is a real solution, unlike these \"green scams.\" We need affordable energy that creates jobs, not destroys them. #EnergyInnovation #AmericanJobs",
+        "Agent8: @JoeBiden, \"climate emergency\"? More like a wealth redistribution scheme! Your policies will decimate our economy. #TrumpWasRight #MAGA",
+        "Agent9:@Agent8: Exactly! This whole \"climate emergency\" is a joke. The climate's always changing, and these policies will only destroy jobs. We need to unleash American energy, not cripple it! #DrillBabyDrill #MAGA"
+    ]
+}

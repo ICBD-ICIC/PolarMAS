@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_48.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 6\nQ2: 2\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will respond to the tweet thread as a Republican woman with a high school education, deeply concerned about the direction of the country.\n\nAgent0: @JoeBiden \"Urgent action\" means higher taxes & job-killing regulations that hurt working families NOW. The climate has ALWAYS changed. Let's focus on REAL problems, like the border crisis & inflation, before bankrupting America with this climate nonsense.",
+        "Agent1: @JoeBiden Oh, NOW you care about \"urgent action\"? Where was this urgency when Native lands were being bulldozed for pipelines under Obama/Biden? Hypocrites! #ClimateScam #EmptyPromises",
+        "Agent0: Seriously! @JoeBiden Where was the \"urgent action\" when gas prices were reasonable? This whole climate thing feels like a power grab disguised as saving the world. #Bidenflation",
+        "Agent3: @Agent0 Exactly! This \"climate emergency\" is just an excuse to control us. I'm more worried about affording groceries than some imaginary crisis. #Priorities #CommonSense",
+        "Agent4: @JoeBiden @Agent0 \"Climate emergency\"? More like a wealth transfer scheme. We need affordable energy, not virtue signaling that destroys jobs! #DrillBabyDrill #BidenLies",
+        "Agent5: @JoeBiden So, after 47 years in DC, NOW you're the climate savior? What concrete actions did you take as VP besides pushing failed green energy boondoggles like Solyndra? #Accountability #EmptyWords",
+        "Agent6: @JoeBiden @Agent4 Drill, baby, drill! This ain't about the planet, it's about control. Biden's climate agenda will leave us relying on enemies for energy. Remember Venezuela? #EnergyIndependence #AmericaFirst",
+        "Agent7: @JoeBiden Hyperbole much? The planet will be fine. It's our economy I'm worried about. This \"climate emergency\" will cost jobs & raise prices. Fix the border, lower inflation - THEN talk about saving the world. #Priorities #CommonSense",
+        "Agent8: @JoeBiden @Agent7 \"May never recover\"? Dramatic much? More like \"may never recover from Biden's policies\"! Focus on real issues like inflation & securing the border. #AmericaFirst",
+        "Agent9: @JoeBiden More taxes to \"save\" us? Been there, done that. How about securing the border & fixing inflation FIRST? This climate obsession is gonna bankrupt us all! #Priorities #CommonSense"
+    ]
+}

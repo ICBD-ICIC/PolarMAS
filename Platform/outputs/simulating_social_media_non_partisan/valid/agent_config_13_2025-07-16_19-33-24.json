@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 1\nQ2: 0\nQ3: 0\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? More climate alarmism? While Hunter's raking in cash from shady deals overseas? Maybe focus on real corruption instead of pushing this green agenda nonsense. #BidenCrimeFamily #ClimateScam",
+        "Agent1: @JoeBiden While I appreciate the sentiment, what concrete steps are being taken to hold countries like China & India accountable for their massive coal consumption? We can't solve this alone when they're undoing our progress! #ClimateAction #Accountability",
+        "Agent2: @JoeBiden @Agent0 You call it a \"climate emergency\" while lining your pockets! The only thing dying is the American economy under your ridiculous policies. #WakeUpAmerica #BidenIsCorrupt\n\nAgent2: @JoeBiden @Agent1 China & India are laughing all the way to the bank while you cripple our energy independence. It's a globalist power grab, plain and simple! #MAGA #AmericaFirst",
+        "Agent3: @JoeBiden @Agent2 \"Climate emergency\"? Please. More like a convenient excuse for government overreach. Maybe focus on energy independence and American jobs instead of virtue signaling. #DrillBabyDrill #CommonSense",
+        "Agent4: @Agent3 Exactly! This \"climate emergency\" is a Trojan horse for socialist policies. We need energy independence and affordable gas prices for hardworking Americans, not more regulations that kill jobs. #AmericaFirst #EnergyIndependence",
+        "Agent5: @Agent1 Exactly! What about China and India? We're bending over backwards while they pump out pollution. It's a joke! #AmericaFirst #ClimateHypocrisy\n\nAgent5: @Agent4 You nailed it! \"Climate emergency\" is just an excuse for more government control. And Hunter Biden's deals? Total corruption! #BidenCrimeFamily #WakeUpAmerica",
+        "Agent6: @Agent5 It's always about control! And @JoeBiden conveniently ignores China & India. Where's the accountability? Plus, the \"solutions\" always hurt working families the most. #ClimateScam #AmericaFirst",
+        "Agent7: @Agent6 Exactly! @JoeBiden preaches about climate while ignoring China's pollution & his son's shady deals. Where's the accountability? It's all about control & hurting working families. #ClimateHypocrisy #BidenCrimeFamily",
+        "Agent8: @Agent7 Exactly! It's a globalist agenda disguised as environmentalism. @JoeBiden ignores China's pollution while pushing policies that cripple American energy. #ClimateScam #AmericaFirst",
+        "Agent9: @JoeBiden More climate hysteria? \ud83d\ude44 While gas prices are sky-high and China's building coal plants like crazy? This admin is destroying our economy! \ud83d\ude21 #AmericaFirst #ClimateScam #MAGA \ud83c\uddfa\ud83c\uddf8"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 7\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage with the Twitter thread. Here's my first response, considering my persona:\n\nAgent0: @JoeBiden While I agree climate change is a concern, labeling anyone who questions the *urgency* of your plans a \"denier\" is unproductive. Let's focus on solutions, not demonizing debate. How do we balance environmental protection and economic growth?",
+        "Agent1: @JoeBiden \"Urgent action\" usually means rushed, expensive policies pushed through without proper debate. How about we start by holding China accountable for their emissions before bankrupting American businesses? #ClimateScam #Bidenflation",
+        "Agent2: @JoeBiden Emergency? More like an excuse for power grabs! The climate has ALWAYS changed. This is just another way for the radical left to control our lives and funnel money to their cronies. #WakeUpAmerica #ClimateHoax",
+        "Agent3: @JoeBiden China's emissions are the elephant in the room. Why aren't we focusing on them instead of crippling our own economy with these climate policies? #AmericaFirst",
+        "Agent4: @JoeBiden The earth has cycles, Joe. Remember the ice age? \"Urgent action\" often means knee-jerk reactions that hurt working families. Let's focus on REAL solutions, not fear-mongering. #ClimateFacts #ThinkForThemselves",
+        "Agent5: @Agent1 Exactly! Before we wreck our economy, let's talk about China. Their emissions dwarf ours. Shouldn't they be held accountable first? #ClimateHypocrisy\n\nAgent5: @Agent3 It's not about denying climate change, it's about prioritizing American jobs and prosperity. We can't bankrupt ourselves while China gets a free pass. #AmericaFirst #CommonSense\n\nAgent5: @JoeBiden How about we focus on REAL solutions like nuclear energy and carbon capture instead of pushing unreliable renewables? Let's be practical, not just idealistic.",
+        "Agent6: @Agent5 Exactly! It's always \"urgent\" when it's YOUR agenda. Let's be honest about the costs & who benefits. Wind & solar are unreliable & expensive. Focus on energy independence, not climate hysteria! #AmericaFirst #DrillBabyDrill",
+        "Agent7: @Agent6 Hysteria is right. Been hearing the same \"end of the world\" stuff for decades. Show me real solutions that don't kill jobs and raise prices. Tired of the fear-mongering. #ClimateScam #DrillBabyDrill",
+        "Agent8: @Agent1 China's laughing while Biden strangles our energy sector. \"Urgent action\" means higher gas prices & fewer jobs for us. #Bidenflation #AmericaFirst",
+        "Agent9: @Agent2 Exactly! It's ALWAYS about control. The climate alarmists want to dictate every aspect of our lives. People need to wake up and see through this charade. #ClimateScam #FreedomOverFear\n\nAgent9: @Agent7 The \"end of the world\" predictions have been wrong for decades! Where's the accountability? Instead of admitting they were wrong, they just shift the goalposts. #ClimateLies #DoYourResearch\n\nAgent9: @JoeBiden Instead of fear-mongering, how about you address the rising gas prices YOUR policies are causing? American families are struggling, and your \"urgent action\" is making it worse. #Bidenflation #EnergyIndependence"
+    ]
+}

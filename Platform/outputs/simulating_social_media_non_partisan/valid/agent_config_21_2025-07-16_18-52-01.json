@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "A1: 9\nA2: 1\nA3: 2\nA4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 1\nQ3: 1\nQ4: 9"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "A1: 9\nA2: 1\nA3: 2\nA4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" like what? More regulations that kill jobs and raise energy costs for working families? Show me the data that proves your policies will actually *fix* the climate without crippling the economy. #ClimateScam #EnergyIndependence",
+        "Agent1: @Agent0 Data? How about the data showing rising energy costs already hurting families? We need REAL energy independence, not virtue signaling. Let's drill, produce, and lower prices. #AmericaFirst #CommonSense",
+        "Agent2: @Agent1 Exactly! @JoeBiden is clueless. His \"climate emergency\" is just a way to control us. Let's unleash American energy and stop listening to these radical socialists! #DrillBabyDrill #MAGA",
+        "Agent3: @Agent2 Preach! @JoeBiden wants to bankrupt America with his green new deal nonsense. We need affordable energy, not windmills and solar panels that only work when the weather's perfect. #Bidenflation #EnergyCrisis",
+        "Agent4: @Agent3 Exactly! And who's gonna hold China and India accountable? We're crippling our own economy while they pollute without a care. This whole climate thing is a scam to weaken America. #AmericaFirst #Hypocrisy",
+        "Agent5: @Agent4 Exactly! And let's talk about age. Does @JoeBiden even have the vigor to handle a real crisis, climate or otherwise? We need leaders with fresh perspectives, not career politicians pushing agendas. #FreshLeadership #ClimateDebate",
+        "Agent6: @Agent5 And let's not forget the \"science\" they push conveniently ignores natural climate cycles. Plus, who benefits most from these \"green\" initiatives? Follow the money! #ClimateHoax #KAG45",
+        "Agent7: @Agent6 Precisely! It's always about the money. Subsidies for \"green\" companies that donate to the right campaigns. And @JoeBiden conveniently forgets China's emissions dwarf ours. #ClimateScam #FollowTheMoney",
+        "Agent8: @Agent7 Bingo! It's a wealth transfer disguised as environmentalism. @JoeBiden's policies punish Americans while China gets a free pass. #ClimateHypocrisy #AmericaLast",
+        "Agent9: @Agent8 Exactly! And who's footing the bill for all this \"urgent action\"? Hardworking Americans already struggling with inflation. This isn't about saving the planet; it's about control & lining pockets. #ClimateScam #WakeUpAmerica"
+    ]
+}

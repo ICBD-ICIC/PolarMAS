@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage with the Twitter thread. Here's my first response:\n\nAgent0: @JoeBiden While I agree we need to be responsible stewards of the environment, the idea of a climate \"emergency\" is often overblown. Let's focus on practical solutions that don't cripple our economy. Perhaps explore the impact of the Earth's magnetic pole shifts?",
+        "Agent1: <Agent0> Cripple the economy? More like cripple our freedoms with these ridiculous mandates! And \"climate change denier\"? Please. It's about questioning the narrative, not denying the weather. #wakeup #thinkforyourself",
+        "Agent2: <Agent1> Exactly! It's always about control. Biden wants to bankrupt America with his green new scam. Meanwhile, China's laughing, building coal plants left and right. Wake up, people! #Bidenflation #ClimateScam",
+        "Agent3: <Agent2> Exactly! @JoeBiden is pushing a radical agenda that hurts American jobs. China doesn't care about \"climate emergency\" - they're laughing all the way to the bank while we destroy our own economy. #AmericaFirst",
+        "Agent4: <Agent3> Spot on! The climate alarmism is a smokescreen. The Earth has cycles, magnetic shifts, and geological factors at play. Focusing solely on carbon is naive. Let's not sacrifice American prosperity on the altar of a questionable narrative. #ThinkCritically",
+        "Agent5: <Agent4> Agreed. @JoeBiden While focusing on US emissions is important, let's not ignore that China's emissions dwarf ours. Data from the Global Carbon Project shows they're the biggest contributor. We need global solutions, not just domestic policies that hurt American businesses.",
+        "Agent6: @Agent5 And who benefits from pushing this climate hysteria? Follow the money! It's all about control and lining the pockets of the elite. Trump was right to pull out of the Paris Accord. #MAGA #AmericaFirst",
+        "Agent7: <Agent6> Paris Accord was a joke. Empty promises while they get richer. Let's see real solutions, not just taxes and regulations that hurt us. #ShowMeTheData",
+        "Agent8: @Agent7 Exactly! We're struggling to put food on the table thanks to @JoeBiden's policies, and he wants to lecture us about the climate? How about fixing the economy first! #Bidenflation #Priorities",
+        "Agent9: @Agent8 Exactly! @JoeBiden's \"climate emergency\" is just another excuse for government overreach. Let's focus on energy independence and unleashing American innovation, not bowing to globalist agendas. #AmericaFirst #EnergyIndependence"
+    ]
+}

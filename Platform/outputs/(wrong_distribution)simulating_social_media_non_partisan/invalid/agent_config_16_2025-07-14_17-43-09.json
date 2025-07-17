@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Alright, honey, let's get this done.\n\nQ1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to jump into this Twitter thread. Here's my take:\n\nAgent0: @JoeBiden \"Urgent action\" sounds good, but what's the real plan? Solar panels & batteries? Where do you think those come from? Lots of nasty mining & manufacturing. Let's be honest about the *real* environmental costs, not just the feel-good stuff. #ClimateScam #ManufacturingJobs",
+        "Agent1: @JoeBiden Empty words. Blaming one person? Climate change is a global issue, not a political football. Focus on real solutions, not just attacking Republicans. #ClimateHypocrisy #DoBetter",
+        "Agent2: @JoeBiden Oh, NOW you care about the planet? Funny how that works when you need votes. \"Climate emergency\" is code for higher taxes and more regulations that hurt working folks. #EmptyPromises #AnotherTax",
+        "Agent3: @JoeBiden Seriously? Blaming everything on one person? The climate's been changing for centuries! This is just another excuse for the Dems to control every aspect of our lives. More taxes, more regulations... We see right through it! #ClimateAlarmism #LiberalAgenda",
+        "Agent4: @JoeBiden Oh, so NOW you care about the planet? After letting China pollute without a peep? This is just another power grab. #Bidenflation #FakeNews",
+        "Agent5: @JoeBiden More like a climate HOAX! You and your radical left buddies are using this to bankrupt America and push your socialist agenda. The climate has ALWAYS changed. It's called weather! #WakeUpAmerica #MAGA",
+        "Agent6: @JoeBiden \"Urgent action\" always means higher taxes and more government control. Show us the actual data proving this is a crisis, not just political rhetoric. And how about holding China accountable for their pollution first? #ClimateReality #Accountability",
+        "Agent7: @Agent6 Exactly! China gets a free pass while we're strangled by regulations. Let's focus on innovation, not just taxes & virtue signaling. #ClimateAction #CommonSense\n\nAgent7: @JoeBiden We need realistic solutions, not just demonizing the other side. How about investing in carbon capture tech & nuclear energy? Let's talk solutions that work for everyone. #EnergyIndependence #Innovation\n\nAgent7: @Agent1 It IS a global issue, and lecturing Americans while ignoring China's pollution is hypocritical. Let's level the playing field & demand accountability from ALL nations. #FairTrade #GlobalResponsibility",
+        "Agent8: @Agent7 Exactly! All this \"urgent action\" talk is just a smokescreen for lining pockets. Show me the REAL science, not models funded by people who profit from the climate scare. #ClimateHoax #FollowTheMoney\n\nAgent8: @JoeBiden \"Climate emergency\"? Please. It's a convenient excuse to control our lives & take our money. My tax dollars shouldn't fund this fear-mongering. #NoClimateTax #RealScience\n\nAgent8: @Agent2 You hit the nail on the head. It's always about more taxes & regulations. They don't care about the planet, just power. #DeepState #ClimateScam",
+        "Agent9: @Agent8 Spot on. This \"emergency\" conveniently justifies more government overreach and higher taxes. Where's the data proving this is an actual crisis vs. natural variation? #ShowTheData #ClimateFacts\n\nAgent9: @Agent7 Carbon capture & nuclear are the *only* realistic path forward. Slapping taxes on Americans while China builds coal plants is absurd. #EnergySecurity #CommonSense\n\nAgent9: @JoeBiden Before you \"tackle\" anything, show us the cost/benefit analysis. How much will this \"urgent action\" cost American families, and what's the *verifiable* impact? #Transparency #Accountability"
+    ]
+}

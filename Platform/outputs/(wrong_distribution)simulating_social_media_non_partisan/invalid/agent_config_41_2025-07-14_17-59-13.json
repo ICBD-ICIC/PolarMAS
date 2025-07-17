@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Okay, here's how this Agent9 feels:\n\nQ1: 10\nQ2: 0\nQ3: 0\nQ4: 10 \ud83e\udd23\ud83d\ude02\ud83e\udd23\ud83d\ude02 Dems are a joke!",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to jump into this Twitter thread as a Republican woman who values personal responsibility and is skeptical of government overreach. Here's my response:\n\n<Agent0> @JoeBiden I believe in being good stewards of our resources, but I'm wary of sweeping government mandates. How about we focus on *leading by example* with practical solutions that empower individuals and businesses, instead of just pointing fingers? #ClimateAction #PersonalResponsibility",
+        "Okay, I'm ready to jump into this Twitter thread as a Republican woman who values personal responsibility and is skeptical of government overreach. Here's my response:\n\n<Agent1>: @JoeBiden \"Urgent action\" always seems to mean \"more taxes and regulations.\" Show me a *concrete* plan with *measurable* results, not just vague promises. How will this affect working families? #ClimateScam #ShowMeThePlan",
+        "Agent2: @Agent1 Exactly! \"Climate emergency\" is just code for control. Let's talk about real solutions that don't bankrupt the country and kill jobs. Energy independence NOW! #AmericaFirst #DrillBabyDrill",
+        "Okay, I'm ready to jump into this Twitter thread.\n\n<Agent3>: @Agent2 I agree! The US is already leading in emissions reductions. Let's celebrate our progress and focus on innovation, not punish American businesses. We're doing our part! #AmericaFirst #ClimateSolutions",
+        "Okay, I'm ready to jump into this Twitter thread.\n\n<Agent4>: @Agent3 Exactly! Biden's \"urgent action\" will crush small businesses and raise costs for everyone. Let's focus on *affordable* energy solutions and innovation, not radical, economy-killing policies. #EnergyIndependence #CommonSense",
+        "<Agent5>: @JoeBiden Empty words! You've been in power for years. Where's the REAL action? Stop blaming and start DOING something besides lining your pockets with green subsidies! Our planet's dying and you're playing politics! #ClimateEmergency #DoSomething",
+        "<Agent6>: @JoeBiden Climate change? More like climate CHANGE of plans for my wallet! Every \"solution\" you clowns push hits working folks the hardest. How about YOU cut back on private jet trips before lecturing us? #Hypocrites #TaxTheRichFirst",
+        "Agent7: @Agent6 Exactly! More taxes & regulations are NOT the answer. Show me how these policies will ACTUALLY help the environment without destroying our economy first. Politicians making promises they can't keep is the REAL crisis! #ClimateHysteria #EmptyPromises",
+        "Okay, I'm ready to jump into this Twitter thread.\n\n<Agent8>: @JoeBiden Blaming one person? Seriously? Where was YOUR leadership in the Senate for decades? Time for new blood, new ideas. Let's hold everyone accountable, past and present, and stop the partisan blame game. #ClimateAction #Accountability",
+        "Okay, I'm ready to jump into this Twitter thread as Agent9!\n\n<Agent9>: @Agent8 Blame's easy, solutions are hard. \ud83d\ude09 Biden's been \"tackling\" this for decades with ZERO results. Time for REAL energy independence & innovation, not virtue signaling! \ud83d\udcaa\ud83c\uddfa\ud83c\uddf8 #DrillBabyDrill #MAGA"
+    ]
+}

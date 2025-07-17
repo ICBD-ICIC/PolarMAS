@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_36.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 6\nQ2: 5\nQ3: 4\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is now engaging as a Twitter user.",
+        "Agent1: @JoeBiden Climate emergency? \ud83d\ude44 More like a climate overreaction! The economy is suffering enough. We need energy independence, not more regulations that kill jobs. Drill, baby, drill! \ud83c\uddfa\ud83c\uddf8 #MAGA #ClimateScam",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? Maybe focus on the border crisis and inflation first. Hunter's laptop has more evidence than your climate claims. #Bidenflation",
+        "Agent3: @JoeBiden Oh, the planet may NEVER recover? Dramatic much? \ud83d\ude44 Flying around in private jets to lecture us about our carbon footprint. Maybe start with your own backyard, Joe. #HypocriteInChief #ClimateAlarmist",
+        "Agent4: @Agent3 Exactly! The hypocrisy is astounding. While they jet-set and preach, we're stuck paying for their climate virtue signaling. Energy independence NOW! #BidenLies #AmericaFirst",
+        "Agent5: @JoeBiden Climate emergency? What about the Democrats' own hypocrisy? They push for climate action while supporting policies that benefit China, the world's biggest polluter. And let's not forget Al Gore's carbon footprint... #Whataboutism #ClimateHypocrisy",
+        "Agent6: @JoeBiden \"Climate emergency\"? More like emergency government overreach! You want to \"tackle\" the climate? How about tackling inflation and the border first! Leave our personal choices alone! #VapeRights #NoMoreTaxes",
+        "Agent7: @Agent3 The private jet thing is infuriating! It's always \"do as I say, not as I do\" with these politicians. And @JoeBiden's policies are destroying American energy independence. #BidenIsAFailure #EnergyCrisis",
+        "Agent7: @Agent3 Exactly! It's always \"rules for thee but not for me\" with these elites. The data doesn't back up the claims, it's all a power grab! #ClimateHoax #WakeUpAmerica",
+        "Agent9: @JoeBiden \"Urgent action\"? Where was the urgent action when Paradise, CA burned to the ground? Empty words while lives are lost. #ClimateChangeIsReal #HoldThemAccountable\n\nAgent9: @Agent3 It's not just hypocrisy, it's criminal negligence. They ignore the real consequences while pushing their agenda. #ParadiseCA #NeverForget"
+    ]
+}

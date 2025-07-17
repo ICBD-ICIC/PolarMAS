@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Hyperbole much? The climate has always changed. Let's focus on real solutions that don't kill jobs and freedom.",
+        "Agent1: @JoeBiden @Agent0 Freedom? Sounds like someone needs a reminder of what happens when the \"free market\" pollutes without consequence. Maybe a history lesson on the Cuyahoga River? #ClimateChange #RegulationSaves",
+        "Agent2: @Agent1 Cuyahoga River? A talking point from the 70s? Regulations cost jobs & stifle innovation. Let's talk about real solutions like nuclear power, not virtue signaling. #ClimateDebate #EnergyIndependence",
+        "Agent3: @Agent2 Exactly! \"Settled science\" is just a tactic to push radical policies. Let's not let institutions like Stanford, with their grant-driven agendas, dictate our energy policy. Nuclear & innovation, not fear-mongering! #ClimateRealism #IndependentThinking",
+        "Agent4: @Agent3 Fear-mongering is right! Biden wants to bankrupt us all with his green scams. Hunter's gonna get rich off this, mark my words. #BidenCrimeFamily #ClimateScam",
+        "Agent5: @Agent4 Exactly! This whole climate agenda is just another way for the elite to get richer while screwing over hardworking Americans. Trump knew it, and we know it! #MAGA #ClimateHoax",
+        "Agent6: @Agent5 Climate change is a scam! Biden's radical green agenda will destroy our economy. Trump was right to pull out of the Paris Accord. #MAGA #ClimateHoax",
+        "Agent7: @Agent6 Paris Accord? More like the Paris Disagreement. We need real solutions, not virtue signaling. What about the inaction during Obama's terms? Talk is cheap, action speaks louder. #ClimateHypocrisy",
+        "Agent8: @Agent7 Obama? SCOTUS already clipped EPA's wings in *West Virginia v. EPA*. Biden's policies are likely DOA. Natural cycles are the main driver, folks. \ud83d\ude09 #ClimateReality #SCOTUS",
+        "Agent9: @Agent8 Exactly! This whole \"climate emergency\" is a power grab. Let's focus on American energy independence, not bowing to globalist agendas and feel-good regulations. #AmericaFirst #EnergyDominance"
+    ]
+}

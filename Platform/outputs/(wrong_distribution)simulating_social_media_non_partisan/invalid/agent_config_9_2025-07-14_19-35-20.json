@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is now following the instruction to be Republican.\n\n@JoeBiden: What a load of crap! Climate emergency? Give me a break. It's called weather, pal. Worry about the damn border and gas prices instead of this woke garbage. #MAGA #AmericaFirst",
+        "@JoeBiden: Oh, so NOW you care about emergencies? How about the emergency at my bank account after your policies tanked the economy? Maybe focus on real problems instead of lining your family's pockets. #Bidenflation #DoYourJob",
+        ": @JoeBiden Seriously? \"Climate emergency\"? More like a power grab. You Dems just want control and our hard-earned money. The planet's been changing for centuries. Stop the fear-mongering! #FakeNews #LiberalLies",
+        ": @JoeBiden Exactly! \"Never recover\"? Hyperbole much? How about we recover from your disastrous policies first? This climate nonsense is just a distraction. #CommonSense #EnoughIsEnough",
+        ": @JoeBiden \"Urgent action\" = more taxes on hardworking Americans. Carbon tax will kill jobs and raise costs for everyone. This is just another way for the elite to control us. #ClimateScam #BidenLied",
+        ": @JoeBiden Climate change is a convenient excuse for socialism. The only emergency is the one you created! #DrillBabyDrill #AmericaFirst",
+        ": @JoeBiden While the climate is a concern, your solutions always seem to punish the American worker. How about focusing on energy independence and innovation instead of crippling regulations? #AmericanEnergy #JobsFirst",
+        ": @JoeBiden You call it a climate \"emergency,\" I call it a convenient way to push your agenda. Stop scaring people and start using some common sense. How about real solutions that don't bankrupt us? #EnergyIndependence #DrillHereNow",
+        ": @JoeBiden Seriously, an \"emergency\"? More like an excuse to push your radical agenda and bleed us dry with taxes. Focus on real issues like inflation and border security! #Bidenflation #AmericaFirst",
+        ": @JoeBiden \"Climate emergency\"? The only emergency is the one you created with your ridiculous spending! How about you focus on getting the economy back on track and leaving our wallets alone? #Bidenflation #TaxationIsTheft"
+    ]
+}

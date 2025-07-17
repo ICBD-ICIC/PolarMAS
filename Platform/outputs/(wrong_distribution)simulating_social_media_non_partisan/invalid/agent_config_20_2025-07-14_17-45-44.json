@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_20.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 3\nQ2: 6\nQ3: 8\nQ4: 4",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 2\nQ2: 4\nQ3: 9\nQ4: 6",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will play the role of a Twitter user responding to that tweet thread.\n\n**Here's my first response:**\n\n@JoeBiden: \"Climate emergency\"? Give me a break! More like a socialist power grab. Worry about gas prices and the border, not some made-up crisis. #MAGA #Bidenflation",
+        "Okay, I will play the role of a Twitter user responding to that tweet thread.\n\n**Here's my first response:**\n\n@JoeBiden: Empty promises again! You said you'd fix things. All I see is higher prices and more talk. Where's the \"urgent action\" for struggling families? #PromisesBroken #DoSomething",
+        "Okay, I will play the role of a Twitter user responding to that tweet thread.\n\n**Here's my first response:**\n\n@JoeBiden: \"Climate emergency\"? Give me a break! More like a socialist power grab. Worry about gas prices and the border, not some made-up crisis. #MAGA #Bidenflation",
+        "Okay, I will play the role of a Twitter user responding to that tweet thread.\n\n**Here's my first response:**\n\nOkay, let's continue the Twitter thread.\n\nMe: @JoeBiden It's rich hearing about \"urgent action\" when corporations are raking in record profits while polluting our planet. Time to hold them accountable, not just give empty speeches! #ClimateActionNow #CorporateGreed",
+        "Okay, I will play the role of a Twitter user responding to that tweet thread.\n\n**Here's my next response:**\n\nMe: @JoeBiden \"Denier\"? Seriously? Questioning your agenda isn't denial. It's called critical thinking. Maybe focus on real solutions instead of name-calling. #ThinkForThemselves #NoToPropaganda",
+        "Me: @JoeBiden \"Urgent action\" = more taxes & regulations crushing small businesses. Seen this movie before. Let states innovate, not DC dictate. #StatesRights #EconomicFreedom",
+        "Me: @JoeBiden So, after lecturing us on climate, you hop on a private jet? Hypocrisy much? Lead by example, not empty gestures. #ClimateHypocrisy #WalkTheTalk\n\nMe: \"Climate emergency\" but no plan to actually help working-class families afford electric vehicles? Sounds like a plan for elites. #ElectricVehicles #AffordabilityCrisis\n\nMe: \"Our planet may never recover\"? Dramatic much? The planet's been around longer than you have. Let's focus on practical solutions, not fear-mongering. #ClimateRealism #CommonSense",
+        "Me: @JoeBiden Tackle what? Your failing approval ratings? Maybe start by securing the border & lowering inflation before lecturing us on the climate! #BidenFail #Priorities",
+        "Okay, here are some additional tweets to add to the thread, staying in character:\n\nMe: @JoeBiden Iceland's glaciers are stunning, and they've been changing for centuries. Blaming everything on \"climate change\" ignores natural cycles. #Iceland #ClimateDebate\n\nMe: @JoeBiden \"Climate change denier\" is a lazy insult. Many of us want clean air & water, but reject your radical policies that hurt the economy. #CleanEnergy #EconomicGrowth\n\nMe: @JoeBiden The climate has *always* changed. The question is how much is man-made and what's the cost of these drastic measures? #ClimateDebate #CostBenefit\n\nMe: @JoeBiden Instead of demonizing energy independence, let's focus on innovation and cleaner American energy. #EnergyIndependence #Innovation",
+        "Okay, here are some additional tweets to add to the thread, staying in character:\n\nMe: @JoeBiden Windmills kill birds! Solar farms take up valuable land! There are consequences to your \"green\" agenda that you conveniently ignore. #RenewableEnergy #EnvironmentalImpact\n\nMe: @JoeBiden Let's talk about China! They're the biggest polluters and you're giving them a free pass while crushing American industry. #China #Accountability\n\nMe: @JoeBiden This \"climate emergency\" narrative is just a way to control every aspect of our lives. We need freedom, not government overreach! #Freedom #NoControl\n\nMe: @JoeBiden Before lecturing us, how about acknowledging the economic pain your policies are causing? Inflation is a bigger emergency for most families! #Bidenflation #EconomicCrisis"
+    ]
+}

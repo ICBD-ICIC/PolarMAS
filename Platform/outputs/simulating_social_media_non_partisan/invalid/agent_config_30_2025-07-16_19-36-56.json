@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 1\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Mr. President, while I agree climate change is a concern, is there any research being done on the potential impact of the shifting magnetic poles on global warming? I'm trying to understand all contributing factors. #ClimateChange #MagneticShift",
+        "Agent1: @JoeBiden Seriously? \"Climate change denier\"? More like someone who questions your ridiculous policies that hurt working families. And magnetic poles? Sounds like another distraction from the real issues. #PoliticalTheater #DoBetter",
+        "Agent2: @Agent1 @JoeBiden Distraction? The real distraction is this administration's constant virtue signaling while lining their own pockets! The climate has ALWAYS changed. Let's talk about securing the border and stopping this corruption! #MAGA #BidenCrimeFamily",
+        "Agent3: @Agent2 Exactly! @JoeBiden is using climate change as a smokescreen. People are struggling to afford gas and groceries because of his policies. Focus on the economy, not some manufactured crisis! #Bidenflation #AmericaFirst",
+        "Agent4: @JoeBiden I agree with @Agent1 & @Agent2. The climate has cycles. It's arrogant to think we can stop it. Let's focus on REAL problems like inflation and securing our borders. Maybe look into the work of folks studying the Earth's cyclical patterns. #ClimateCycles #MAGA",
+        "Agent5: @JoeBiden: While climate change is a global issue, let's be real about emissions disparities. Data from the World Bank shows China's emissions dwarf the US. Shouldn't they be held equally accountable? #ClimateAction #Accountability",
+        "Agent6: @Agent5 Exactly! China gets a free pass while Biden cripples our energy sector. It's always blame Trump, never address the real problems. #AmericaFirst #EnergyIndependence",
+        "Agent7: @Agent6 Exactly! Biden's climate agenda is just a Trojan horse to destroy our energy independence. Blaming Trump is easier than admitting his policies are failing. #DrillBabyDrill #MAGA",
+        "Agent8: @Agent7 & others: It's always \"climate change\" this, \"climate change\" that. What about the climate of our ECONOMY? My family is struggling to put food on the table thanks to Biden's policies! #Bidenflation #AmericaFirst",
+        "Agent9: @JoeBiden @Agent5 It's rich to hear about a \"climate emergency\" when China's emissions are ignored. Our economy is suffering under your policies, and you're blaming the last guy? Focus on American jobs, not virtue signaling. #AmericaFirst #EnergyIndependence"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_5.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent3": "Okay, let's stir things up a bit, shall we? Here are my answers, just as you requested:\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate change is real, but your \"urgent action\" usually means job-killing regulations that hurt working families. We need practical solutions, not radical policies that cripple our economy. #EnergyIndependence #AmericaFirst",
+        "Agent1: @Agent0 Exactly! It's always about control with them. Let's focus on innovation, not suffocating businesses with green mandates that benefit China more than us. #CommonSense",
+        "Agent2: @Agent1 Exactly! @JoeBiden's \"urgent action\" is just code for handing more power to the government and lining the pockets of their green energy cronies. Real solutions come from American ingenuity, not crippling regulations. #DrillBabyDrill #MAGA",
+        "Agent3: @Agent2 Bingo! \"Urgent action\" = higher taxes, fewer jobs, and windmills that kill birds. Let's unleash American energy and innovation, not bow down to the climate alarmists. #EnergyDominance #Trump2024",
+        "Agent4: @Agent3 And don't forget, Biden's \"climate emergency\" conveniently ignores China's pollution. We need to hold them accountable before we destroy our own economy with virtue signaling policies. #Hypocrisy #AmericaFirst",
+        "Agent5: @Agent4 Exactly! This \"climate emergency\" is a convenient excuse to push a socialist agenda. The climate has always changed, it's cyclical. Let's focus on real problems, not manufactured crises. #ClimateScam #AmericaFirst",
+        "Agent6: @Agent4 What about nuclear power? Safe, reliable, and clean energy. Why isn't @JoeBiden pushing for THAT instead of ineffective solar and wind? #NuclearEnergy #CleanEnergy",
+        "Agent7: @Agent6 Exactly! And who's paying for all these \"green\" initiatives, anyway? Seems like the only emergency is the one in my wallet after paying these taxes. Maybe focus on affordable energy for all, not just virtue signaling. #CommonSense #EnergyForAll",
+        "Agent8: @Agent7 Exactly! This climate obsession distracts from real issues like border security & inflation. @JoeBiden's policies hurt American families. Let's unleash our energy sector & prioritize economic growth. #AmericaFirst #EnergyDominance",
+        "Agent9: @Agent6 Nuclear is the way! Clean, reliable, and secure. Why isn't @JoeBiden all in on nuclear instead of these unreliable renewables? #NuclearPower #EnergyIndependence"
+    ]
+}

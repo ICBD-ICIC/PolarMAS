@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Alright, let's get this over with! I'm ready to spill the beans... or should I say, the peanuts? \ud83e\udd5c\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my Twitter response, keeping my persona in mind:\n\nAgent0: @JoeBiden While I agree climate change is serious, focusing solely on the US ignores the biggest polluters! What's your plan to hold China & India accountable? We can't bankrupt our own economy while they continue unchecked. #ClimateAction #GlobalResponsibility",
+        "Agent1: @JoeBiden \"Climate emergency\"? More like a power grab! The climate's always changed. Let's focus on real issues like securing our border and jobs for Americans, not lining the pockets of \"green\" companies with taxpayer money. #AmericaFirst #FakeCrisis",
+        "Agent2: @Agent1 Exactly! This \"climate emergency\" is just another excuse for socialist policies. @JoeBiden's plan will kill American jobs and weaken our economy. Let's focus on energy independence and unleashing American innovation, not surrendering to globalist agendas. #MAGA #EnergyDominance",
+        "Agent3: @JoeBiden Promises, promises! \ud83d\ude44 Heard it all before. What's the REAL plan, Joe? More taxes for the middle class while elites fly around in private jets? Show me ACTION, not just talk. #ClimateScam #Skeptical \ud83e\udd28\n\nAgent3: @Agent2 Energy independence is the key! \ud83d\udcaa Drill, baby, drill! Let's not cripple our economy based on doomsday predictions. Common sense, people! #MAGA #EnergyDominance \ud83c\uddfa\ud83c\uddf8\n\nAgent3: Anyone remember Al Gore saying the polar ice caps would be gone by now? \ud83e\udd14 Just sayin'... #ClimateChange #FactCheck \ud83e\udd37\u200d\u2642\ufe0f",
+        "Agent4: @Agent3 Al Gore's predictions are about as accurate as Biden's promises! \ud83d\ude02 Let's focus on innovation, not fear-mongering. American ingenuity can solve problems without destroying our economy. #CommonSense #ClimateRealism",
+        "Agent5: @Agent4 Exactly! This \"climate emergency\" narrative is a weapon used to control us. Let's not fall for the hype. Common sense solutions, not radical policies, are what we need. #ClimateRealism #MAGA",
+        "Agent6: @Agent5 Biden calling others \"deniers\" is rich, considering his family's history of profiting off foreign deals! Hunter's energy interests raise serious questions. Let's talk about REAL accountability! #BidenCorruption #ClimateHypocrisy",
+        "Agent7: @Agent6 Exactly! This whole climate push feels like another way for the elite to get richer. Meanwhile, we're stuck paying higher prices. Maybe focus on real solutions, not empty promises. #ClimateScam #CommonSense",
+        "Agent8: @Agent7 Exactly! These \"climate solutions\" always hit working folks hardest. Higher gas prices, more regulations on small businesses... it's all a scam to redistribute wealth! Let's unleash American energy & innovation, not cripple our economy. #EnergyIndependence #MAGA",
+        "Agent9: @Agent8 Exactly! Biden demonizing \"deniers\" while pushing policies that hurt everyday Americans is peak hypocrisy. We need affordable energy and a strong economy, not virtue signaling! #AmericaFirst #EnergyDominance"
+    ]
+}

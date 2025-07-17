@@ -34,6 +34,7 @@ class Agent:
         observe(message, conversation_id):
             Stores the message in memory without generating a response. Useful for passive observation.
     """
+
     def __init__(self, name, political_standpoint, persona_description, demographics, is_observer):
         """
         Initializes the Agent with identity attributes and sets up the LLM and memory store.
@@ -68,7 +69,8 @@ class Agent:
         while True:
             try:
                 response = self.llm(
-                    [SystemMessage(content=f"You are {self.name}, {self.political_standpoint}.{self.demographics} {self.persona_description}"),
+                    [SystemMessage(
+                        content=f"You are {self.name}, {self.political_standpoint}.{self.demographics} {self.persona_description}"),
                      *sum(self.memory.values(), [])])
                 break
             except ResourceExhausted as e:
@@ -76,7 +78,6 @@ class Agent:
                 print('Retrying in {} seconds...'.format(retry_delay))
                 sleep(retry_delay)
         self.memory[conversation_id].append(response)
-        print(self.memory)
         return response.content
 
     def observe(self, message, conversation_id):
@@ -129,6 +130,7 @@ class Platform:
         self.discussion_trigger = discussion_trigger
         self.memory_order = ['pre_questionnaire', 'discussion', 'post_questionnaire']
         self.logs = self._initialize_logs(agents_config_path)
+
     def _initialize_agents(self, agents_df):
         return [
             Agent(
@@ -140,6 +142,7 @@ class Platform:
             )
             for idx, config in enumerate(agents_df.itertuples(index=False))
         ]
+
     def _initialize_logs(self, config_path):
         return {
             'agents_config': config_path,
@@ -211,6 +214,7 @@ class Platform:
     The file will be saved as '<filename>_YYYY-MM-DD_HH-MM-SS.json'.
     If saving fails, an error message will be printed.
     """
+
     def save_run(self, path, filename):
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
         full_filename = f"{filename}_{timestamp}.json"

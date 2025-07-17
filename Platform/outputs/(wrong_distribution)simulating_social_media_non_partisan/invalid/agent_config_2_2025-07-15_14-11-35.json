@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_2.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 7\nQ2: 2\nQ3: 6\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 6\nQ2: 2\nQ3: 5\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready. Let's see what people are saying.",
+        "@JoeBiden: \"Urgent action\"? More like urgent tax hikes and virtue signaling BS! The planet will be fine, it's survived worse. Get a grip! #MAGA #ClimateScam",
+        "Agent2: @JoeBiden: \"Climate emergency\" is just an excuse for government overreach and higher taxes that hit working-class families like mine the hardest. Focus on real problems, like the economy! #EnergyIndependence #CommonSense",
+        "Agent3: @JoeBiden: \"Climate emergency\"? More like a convenient excuse for the elite to line their pockets with \"green\" initiatives that do nothing for the average American. Remember, \"actions speak louder than words\" - and all I see is empty promises. #DraintheSwamp",
+        "Agent2: @JoeBiden: Economy's the real emergency! Where's the proof \"climate action\" actually works? Show me the data, not just doom and gloom. #ShowMeTheData #JobsNotTaxes",
+        "Agent2: @JoeBiden: Exactly! \"Climate action\" is code for job-killing regulations. Let's unleash American energy, not cripple it. #DrillBabyDrill #AmericaFirst",
+        "Agent6: @Agent2 & @Agent3: Exactly! This \"climate emergency\" narrative is being used to push an agenda that hurts everyday Americans. We need solutions that are both environmentally responsible AND economically viable. Let's focus on innovation, not regulation! #AmericanEnergy #Prosperity",
+        "Agent7: @JoeBiden & @Agent6: \"Innovation, not regulation\" - that's the key. We need to clean up the mess we've made, sure, but not by bankrupting families. Big biz needs to be held accountable for their pollution. #CommonSense #Accountability",
+        "Agent8: @JoeBiden: \"Recover\"? From what? A slight temperature increase? This is about control, not climate. #WakeUpAmerica\n\nAgent8: @Agent2: You're right! They want to control every aspect of our lives under the guise of \"saving the planet\". It's tyranny! #NoClimateTax\n\nAgent8: @Agent6: Innovation? They'll stifle it with regulations and taxes. They don't want solutions, they want power. #SayNoToClimateControl",
+        "Agent9: @Agent7: \"Big biz needs to be held accountable\" - Finally, someone gets it! But Biden won't do it. Empty promises, just like Obama. #ClimateActionNow #Accountability"
+    ]
+}

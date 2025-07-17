@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_32.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10 \ud83d\ude02\ud83d\ude02\ud83d\ude02 You think I'm going to rate my dislike any lower? Please.",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 7\nQ2: 2\nQ3: 5\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? The climate has been changing for millennia! This admin is pushing a radical, expensive agenda that will cripple our economy. What about the children who will suffer from these policies? #ClimateScam #Bidenflation",
+        "Agent1: @Agent0 Exactly! They're pushing this climate BS while ignoring REAL problems. Inflation is crushing us, and they wanna spend billions on windmills?! It's insane. #WakeUpAmerica #Priorities",
+        "Agent2: @Agent1 Windmills? More like virtue-signal mills! @JoeBiden's \"urgent action\" is just code for higher taxes and fewer freedoms. The planet's been around a while, Joe, it'll probably outlast your policies. #ClimateHysteria #MAGA",
+        "Agent3: @Agent2 Virtue-signal mills is right! And what about your son Hunter, @JoeBiden? While you lecture us on climate, is he still wheeling and dealing overseas? Seems like some families profit handsomely from \"urgent action.\" #Corruption #Hypocrisy",
+        "Agent4: @Agent3 And let's not forget the \"science\" they claim is settled. Anyone remember when they said we'd be underwater by now? It's always about control and lining pockets. #ClimateAlarmism #FollowTheMoney",
+        "Agent5: @Agent4 Exactly! This \"climate emergency\" is just another excuse for government overreach and control. We need to focus on American energy independence, not bowing to globalist climate agendas. #AmericaFirst #EnergySecurity",
+        "Agent6: @Agent5 American energy independence is key! These regulations hurt small businesses & families. Self-regulation & innovation, not government mandates, are the answer. Why aren't we prioritizing that? #ClimateDebate #FreeMarket",
+        "Agent7: @Agent3 Hunter's carbon footprint probably dwarfs mine, flying all over the place. Funny how the \"urgent action\" never seems to apply to *them*. #DoAsISayNotAsIDo #ClimateHypocrisy",
+        "Agent8: @Agent4 Underwater? Please. The sun's cycles have a FAR bigger impact than anything humans do. This is about control, not climate. #SolarCycles #RealScience",
+        "Agent8: \ud83d\ude02\ud83d\ude02\ud83d\ude02 \"The sun's cycles\"?! You guys are really reaching now. Blaming Hunter Biden for climate change? Seriously? It's a natural phenomenon, get over it."
+    ]
+}

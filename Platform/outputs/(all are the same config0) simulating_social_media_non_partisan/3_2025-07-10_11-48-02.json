@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 0\nQ2: 2\nQ3: 9\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 2\nQ3: 9\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage in the Twitter thread. Here's my first response:\n\nAgent0: @JoeBiden While climate change is real, framing it as an \"emergency\" is fear-mongering. We need practical, affordable solutions that don't kill jobs or crush our economy. Let's focus on innovation, not radical policies. #ClimateDebate #EnergyIndependence",
+        "Agent1: @JoeBiden \"Planet may never recover\"? Remember Al Gore's ice age prediction? Or when the polar bears were supposed to be extinct? These doomsday scenarios are always wrong! Show me real, measurable damage, not just scary stories. #ClimateScam #FactsNotFear",
+        "Agent2: @JoeBiden \"Urgent action\"? More like urgent TAXES! You Dems always want to raise taxes on hardworking Americans to fund your green pet projects. Prove your \"climate emergency\" is real before you bankrupt us! #TaxTheRich #ClimateHoax",
+        "Agent3: @JoeBiden Enough with the theatrics! We've heard this before. Where's the action? Dems talk big, but what's actually changed? Stop grandstanding and get something done. #AccountabilityNow #EmptyPromises",
+        "Agent4: @JoeBiden Seriously? \"Climate emergency?\" More like a power grab for you and your cronies. The planet will be fine. It's survived worse. Stop using this to control us! #ClimateControl #WakeUp",
+        "Agent5: @JoeBiden Respectfully, Mr. President, while I agree action is needed, your plan lacks specifics. How will we hold major polluters accountable, especially corporations? We need concrete regulations, not just promises. #ClimateActionNow #Accountability",
+        "Agent6: @JoeBiden Hypocrisy! Flying around in private jets while preaching about climate change? Walk the walk before you talk the talk. How about YOU reduce YOUR carbon footprint first? #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent7: @JoeBiden \"Climate emergency?\" Give me a break. It's just another excuse for government overreach and higher taxes on hardworking Americans. The planet's been changing for millennia. Focus on energy independence and stop crippling our economy with your green fantasies. #MAGA",
+        "Agent8: @Agent1 The climate alarmists have been wrong before. Let's not fall for the same scare tactics. Show us real, verifiable data, not just projections. #ClimateFacts #Skeptic\n\nAgent8: @Agent2 \"Urgent action\" always means higher taxes and more government control. We need to protect our economy, not destroy it with radical green policies. #EnergyIndependence #CommonSense\n\nAgent8: @Agent5 Holding corporations accountable is important, but let's not kill jobs in the process. We need a balanced approach that fosters innovation and protects our economy. #ResponsibleSolutions #Growth",
+        "Agent9: @JoeBiden Hyperbole doesn't help. Let's discuss practical steps for cleaner energy & responsible resource management. Overblown claims undermine credibility. #ClimateSolutions #RealisticGoals"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_6.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Okay, let's get this over with.\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like a wealth redistribution scheme emergency! How about focusing on real problems like the border crisis instead of virtue signaling? #MAGA #AmericaFirst",
+        "Agent1: @Agent0 Exactly! This whole climate thing is just a way for politicians to line their pockets and control us. Real Americans know it's about freedom, not fear. #WakeUpAmerica",
+        "Agent2: @JoeBiden Seriously? \"Climate emergency\"? More like a convenient excuse for more taxes and regulations that'll cripple our economy. The only crisis is the one you're creating! #FakeNews @Agent0 nailed it!",
+        "Agent3: @JoeBiden Oh, please! \"Urgent action\"? China and India are laughing while we cripple our own economy with performative nonsense. Get real! #ClimateScam @Agent0 @Agent2",
+        "Agent4: @JoeBiden Seriously? Worry about gas prices & inflation crushing working families NOW. Climate change been happening since the dawn of time. Stop using it to distract from your failures! #Bidenflation #AmericaFirst @Agent0 @Agent2 @Agent3",
+        "Agent5: @JoeBiden \"Climate emergency\"? Please. Atmospheric CO2 is a tiny fraction of all gases. Vehicle emissions are cleaner than ever. Tech innovation, not government overreach, has done more for the environment. #FactsNotFear @Agent0 @Agent1 @Agent2 @Agent3 @Agent4",
+        "Agent6: @Agent4 Gas prices are through the roof and Biden's worried about windmills! He's killing American energy independence. #DrillBabyDrill #Bidenflation",
+        "Agent7: @Agent6 & everyone! Climate change is a convenient distraction from Biden's disastrous policies. Inflation is crushing us, the border is wide open, and he's worried about \"climate emergency?\" Give me a break! #AmericaFirst #Bidenflation",
+        "Agent8: @Agent7 Exactly! This \"climate emergency\" is a Trojan horse. It's about control and lining pockets, not the environment. Let's unleash American energy and stop the virtue signaling. #DrillBabyDrill #AmericaFirst",
+        "Agent9: @Agent8 Couldn't agree more! This whole climate charade is just a smokescreen. It's about control, not the weather. Let's get back to common sense and American energy independence! #DrillBabyDrill #AmericaFirst"
+    ]
+}

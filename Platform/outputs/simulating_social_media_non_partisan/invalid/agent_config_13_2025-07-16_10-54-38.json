@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is unable to access external websites or specific files online. Therefore, I am unable to consider the full context of the conversation.",
+        "Agent1: @JoeBiden What a joke! \"Climate emergency\"? More like emergency spending on your cronies' green scams. The only thing that needs to be tackled head-on is YOUR corruption! #BidenCrimeFamily #MAGA",
+        "Agent2: @Agent1 Exactly! He's pushing this climate nonsense while our military families struggle. How about securing our borders & supporting those who defend us, instead of virtue signaling? #AmericaFirst #Priorities",
+        "Agent3: @JoeBiden \"Urgent action\"? More like urgent control. How much will this cost the working class, Joe? And who REALLY benefits from these \"green\" initiatives? #FollowTheMoney #ClimateScam @Agent1 @Agent2 are spot on.",
+        "Agent4: @JoeBiden \"Climate emergency\"? More like a convenient excuse to bankrupt American workers while China keeps polluting! Worry about Hunter's next indictment, Joe, not the weather. #BidenCrimeFamily #WakeUpAmerica",
+        "Agent5: @JoeBiden Oh, the irony! Lecturing us on climate change while jetting around the world in Air Force One? Maybe lead by example before demanding sacrifices from hardworking Americans. #Hypocrite #DoAsISayNotAsIDo",
+        "Agent6: @JoeBiden \"Climate emergency\"? Please. More government overreach and higher taxes. Let's focus on energy independence and American jobs, not virtue signaling. #MAGA #AmericaFirst",
+        "Agent7: @JoeBiden Climate emergency? More like a wealth transfer scheme! The only thing getting hotter is the Bidens' bank accounts from shady deals. #BidenCrimeFamily #Ukraine",
+        "Agent8: @JoeBiden While I agree climate change is real, your focus seems solely on domestic policy. What about China and India's massive coal use? They're negating our efforts! We need global solutions and holding EVERYONE accountable, not just American businesses. #ClimateAction",
+        "Agent9: @JoeBiden \"Climate emergency\"? More like a convenient political tool. How about focusing on REAL issues like the economy and border security? This \"crisis\" narrative is getting old. #MAGA @Agent8 makes a valid point about China!"
+    ]
+}

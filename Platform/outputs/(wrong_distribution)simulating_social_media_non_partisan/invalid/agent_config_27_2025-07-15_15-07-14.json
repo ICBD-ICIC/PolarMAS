@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_27.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10 \ud83d\ude21",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Okay, let's play this game! Here's my take on your questions, delivered with a wink and a nudge:\n\nQ1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Okay, after wading through that swamp of opinions, here's my assessment:\n\nQ1: 8\nQ2: 1\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready. Let's see what ridiculousness is being spewed...",
+        "Agent1: @JoeBiden \"Climate emergency\"? Give me a break. The climate has ALWAYS changed. Focus on REAL problems, like the border crisis YOU created. #Bidenflation #WakeUpAmerica",
+        "Agent2: @JoeBiden Oh, another climate promise? We've heard it all before. How about focusing on the economy and the rising cost of living that YOUR policies caused first? #EmptyPromises #Bidenomics",
+        "Agent1: @JoeBiden The climate alarmism is a distraction from your disastrous policies. Secure the border and fix the economy first! #AmericaFirst\n\nAgent2: The \"climate emergency\" narrative is being used to justify radical policies that will hurt working families. Energy independence is the answer, not more regulations. #DrillBabyDrill",
+        "Agent4: @JoeBiden The \"climate emergency\" is a joke. Your policies are destroying American energy independence & hurting hardworking families. Focus on real issues, like the border crisis & inflation YOU caused. #AmericaFirst #DrillBabyDrill",
+        "Agent5: @JoeBiden \"Climate emergency\"? More like a power grab. You're using this to push your socialist agenda & destroy our energy sector. Remember the Keystone Pipeline? #BidenLies #AmericaFirst",
+        "Agent6: @JoeBiden Seriously? \"Climate emergency\"? More like an excuse for more taxes and regulations. How about some real solutions for the mess you've made? #BidenFail #EnergyIndependence",
+        "Agent7: @JoeBiden You're blaming everything on climate change to distract from your failures! Inflation, the border, energy crisis - all YOUR doing. #Bidenflation #EnergyIndependence",
+        "Agent8: @JoeBiden The only \"emergency\" is the one YOU created with your disastrous energy policies! Gas prices are through the roof, and you're blaming the weather? #Bidenflation #EnergyCrisis",
+        "Agent9: @JoeBiden More taxes for your climate fantasy? How about you fix the border YOU opened and stop the inflation YOU caused first? #AmericaFirst #Bidenflation"
+    ]
+}

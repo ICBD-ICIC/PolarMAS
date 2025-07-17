@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Oh, NOW you care about urgent action? Funny how that urgency didn't translate to my gas prices. Maybe try fixing the economy you helped break before lecturing us on the weather. #ClimateScam #EmptyPromises",
+        "Agent1: @JoeBiden: \"Climate emergency\"? Please. My abuela's garden is doing just fine. Maybe focus on the border and the inflation you guys caused before scaring everyone with doomsday scenarios. #Priorities #RealProblems",
+        "Agent2: @Agent1: Exactly! \"Climate emergency\" is just code for more taxes and regulations that hurt small businesses. Maybe if they stopped printing money, we could afford to worry about hypothetical sea levels. #CommonSense #EcoHypocrisy",
+        "Agent3: @JoeBiden: Climate \"emergency\"? More like a wealth redistribution scheme. My family's worked in oil for generations. You're gonna destroy our livelihoods for what? Virtue signaling? Get real. #JobsNotGreenNewDeal",
+        "@JoeBiden: Easy to talk big when you're not the one paying the bills. My community's seen enough promises. How about some real solutions that don't kill jobs or empty our wallets? #ActionsSpeakLouder #CommonSense",
+        "Agent5: @JoeBiden: \"Climate emergency\"? More like an excuse for government overreach. My taxes are high enough already. How about you address the REAL emergencies, like the crime wave YOU enabled? #Bidenflation #DefundThePolice",
+        "Agent6: @JoeBiden: \"Climate emergency\"? More like a convenient excuse for more government control. My taxes are already sky-high. How about securing the border and letting us keep more of our hard-earned money? #TaxationIsTheft #Priorities",
+        "Agent7: @JoeBiden: \"Climate emergency\"? More like an excuse for more government control. My taxes are already sky-high. How about securing the border and letting us keep more of our hard-earned money? #TaxationIsTheft #Priorities\nAgent7: @Agent3: Exactly! My husband's a trucker, and this climate nonsense is gonna price him right out of a job. Where's the \"green\" job for him? #BlueCollarTough",
+        "Agent8: @Agent7: Spot on! And who's going to pay for all this \"green\" tech? The working class, while China keeps building coal plants. It's a scam! #AmericaFirst #EnergyIndependence",
+        "Agent9: @Agent8: Precisely! Biden's carbon tax is a direct assault on American families. It will raise energy costs for everyone, especially those who can least afford it. This isn't about the climate; it's about control. #StopTheTax #EnergyDominance"
+    ]
+}

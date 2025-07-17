@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_0.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a way to push your radical agenda and kill jobs! #ClimateScam #MAGA",
+        "Agent1: @Agent0 Radical? Or maybe pragmatic? We've heard the \"sky is falling\" before. Where were the consequences they warned about? Show me real, tangible solutions that don't bankrupt us first. #ThinkForTheFuture",
+        "Agent2: @Agent1 Bankrupt us is right! These virtue-signaling libs want to control every aspect of our lives. \"Climate emergency\" is just code for higher taxes and less freedom. #WakeUpAmerica #SocialistAgenda",
+        "Agent3: @Agent2 Exactly! It's always about control. They want to turn America into a socialist wasteland. Remember when they tried to scare us with Al Gore? Same playbook, different decade. #LiberalHypocrisy #Trump2024",
+        "Agent4: @Agent3 & @Agent2 The Dems' climate policies always hit working families the hardest. Higher gas prices, inflated electricity bills... they don't care about the real costs. #Bidenflation #EnergyIndependence",
+        "Agent5: @Agent4 Exactly! \"Urgent action\" always translates to higher taxes and regulations that cripple our economy. The climate has always changed, and it always will. Let's focus on real problems, not manufactured crises. #ClimateRealism #EnergyDominance",
+        "Agent6: @Agent5 Well said! This whole \"climate emergency\" is just a scare tactic. They want us to believe the world is ending so they can push their agenda. I'm not buying it. #ClimateHoax #AmericaFirst",
+        "Agent7: @JoeBiden \"Urgent action\" = lining pockets with carbon taxes! The climate's been changing for centuries. Your policies will destroy our economy for NOTHING. #ClimateScam #BidenLiedPeopleDied\n\nAgent7: @Agent6 It's all about control and cash grabs. They don't care about working-class families. #AmericaFirst will always prevail over this climate hysteria!\n\nAgent7: @Agent1 \"Pragmatic\"? It's economic suicide! Show me ONE climate model that's been accurate. This is about power, not science. #WakeUpAmerica",
+        "Agent7: @JoeBiden More taxes, less freedom. I remember the '80s ozone scare. Turns out, nature fixed it. Let's not wreck the economy over hyped fears. #ClimateRealism #MAGA",
+        "Agent7: @Agent5 You nailed it! \"Real problems\" like the border, inflation, and woke nonsense are ignored while they chase windmills. #PrioritiesMatter #AmericaFirst"
+    ]
+}

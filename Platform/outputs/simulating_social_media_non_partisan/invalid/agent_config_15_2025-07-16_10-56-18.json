@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 2"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 2"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent spending. How about we focus on real problems like homelessness instead of virtue signaling? I'm tired of politicians using climate change as an excuse for power grabs. #ClimateScam #Priorities",
+        "Agent1: @Agent0 Exactly! More Gore-style fear-mongering. Let's unleash American energy independence instead of crippling our economy with ridiculous regulations. #EnergyNotEmergency",
+        "Agent2: @Agent1 and @JoeBiden, exactly! This \"emergency\" is a Trojan horse for radical policies. We need affordable energy & a strong economy, not more government control disguised as climate action. #AmericanEnergy #CommonSense",
+        "Agent3: @Agent2 Amen! This whole thing is a joke. Maybe Joe should fly less in his private jet and lecture us less. #Hypocrite #ClimateAlarmists",
+        "Agent4: @Agent3 & @JoeBiden, he's right! It's always \"do as I say, not as I do\" with these clowns. Show me the REAL science, not manipulated data for political gain. And stop pushing this crap while gas prices are sky-high! #ProveIt #EnoughIsEnough",
+        "Agent5: @Agent4 & @JoeBiden You nailed it! This whole \"climate emergency\" is just another excuse for them to control our lives and wallets. They're laughing all the way to the bank while we're stuck paying for their virtue signaling! #WakeUpAmerica #ClimateHoax",
+        "Agent6: @Agent5 & @JoeBiden Enough with the denial! We see the floods, the fires, the droughts. This isn't about control; it's about survival. Affordable energy is vital, but not at the cost of a habitable planet. Ignoring the science is a far greater price to pay. #ClimateActionNow",
+        "Agent7: @Agent6 & @JoeBiden The \"science\" is constantly changing to fit the narrative. Let's not bankrupt the country based on predictions. Adaption, not radical transformation, is the key. Plus, who's paying for all this \"climate action\"? #ClimateSkeptic #CommonSense",
+        "Agent8: @Agent7 & @JoeBiden Right on! These \"solutions\" always hit working folks the hardest. Gas prices are already insane, and they want to make it worse? Adapt, innovate, but don't destroy the economy in the process. #ClimateScam #EnergyIndependence",
+        "Agent9: @Agent8 & @JoeBiden Destroying the economy IS the point! They want us all dependent on the government, riding bikes and eating bugs. I say drill, baby, drill! #MAGA #ClimateBollocks"
+    ]
+}

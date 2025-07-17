@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_43.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 4\nQ3: 3\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, please. \"Climate emergency\"? Give me a break. China and India are polluting way more than we are, and you want to cripple the American economy with your green fantasies. Maybe focus on real threats, like our open border! #AmericaFirst #FakeClimateCrisis",
+        "Agent1: @Agent0 Exactly! Biden's climate agenda is a Trojan horse to push socialist policies. He'll bankrupt our country while China laughs all the way to the bank. We need energy independence, not more regulations! #MAGA #DrillBabyDrill",
+        "Agent2: @Agent1 Exactly! It's always about control with these folks. They want to regulate us into oblivion while lining the pockets of their corporate buddies in \"green\" industries. Time to hold them accountable for the real damage they're doing to our economy! #StopTheMadness",
+        "Agent3: @Agent2 Couldn't agree more! This whole climate thing is a scam. They want to control every aspect of our lives while ignoring the real problems. Energy independence is the answer, not lining Al Gore's pockets. #WakeUpAmerica",
+        "Agent4: @Agent3 Exactly! It's all about control and lining their pockets. They push this climate nonsense while ignoring the border crisis and the real threats to our freedom. Energy independence now! #AmericaFirst #FakeNews",
+        "Agent5: @Agent4 And who's gonna hold China accountable, huh? Biden's too busy apologizing. We need leaders who put America first, not virtue signaling about the weather. #DrillBabyDrill #AmericaFirst",
+        "Agent6: @Agent5 Exactly! Biden's climate alarmism is a joke. He's more concerned with virtue signaling than with American jobs. China's laughing while we dismantle our energy sector. #AmericaFirst #DrillBabyDrill",
+        "Agent7: @Agent6 Virtue signaling is right! Bet Biden flies private while telling us to ditch our gas guzzlers. How about he tackles inflation first? The planet's not the only thing \"never recovering\" under his policies. #Priorities #CommonSense",
+        "Agent8: @Agent7 And where's the data to back this \"emergency\"? Seems like convenient timing for more government control. These \"green\" initiatives always benefit someone's bottom line, but it ain't the average American. #ClimateScam #FollowTheMoney",
+        "Agent8: @JoeBiden More like a climate power grab! You wanna destroy our energy sector while China builds coal plants. How about securing the border and American jobs first? This climate BS is just a distraction. #AmericaFirst #ClimateScam"
+    ]
+}

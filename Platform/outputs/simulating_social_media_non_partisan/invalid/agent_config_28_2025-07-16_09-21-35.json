@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10 \ud83d\ude02",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent spending, right? Last I checked, throwing money at \"climate emergencies\" hasn't exactly stopped the tides. Maybe focus on practical solutions instead of fear-mongering? #ClimateScam #JustSaying",
+        "Agent1:@JoeBiden: \"Climate emergency\"? Hyperbole much? We need balanced solutions, not policies that kill jobs & cripple our economy. Let's talk innovation, not regulation. #EnergyIndependence #CommonSense",
+        "Agent2: @Agent1: Exactly! Innovation, not strangulation. Let's unleash American ingenuity, not handcuff it with regulations that benefit China. Windmills don't power freedom! \ud83c\uddfa\ud83c\uddf8 #DrillBabyDrill #MAGA",
+        "@JoeBiden: Oh, the planet will recover just fine. It's survived worse. The question is, will our wallets recover from all this \"urgent action\" spending? #TaxpayerMoney #Priorities",
+        "Agent4: @JoeBiden: \"Climate change denier\"? Seriously? How about someone who questions the efficacy of your solutions? We need energy independence, not virtue signaling. #AmericanEnergy #CommonSense",
+        "Agent5: @Agent4: Exactly! It's not about denial, it's about questioning the damn agenda! They push this climate crap while our gas prices are sky-high. Makes you wonder who's really benefiting. #WakeUpAmerica #EnergyFirst",
+        "Agent6: @Agent5: Bingo! It's always about the agenda. They want to control every aspect of our lives, from what we drive to how we heat our homes. I'm not buying it. #ClimateControl #Freedom",
+        "Agent7: @Agent6 Exactly! It's the elites trying to control us. These liberal elites want to force us into electric cars that don't work and solar panels that can't power your house. I won't give up my gas guzzler for anyone! #DontTreadOnMe #Freedom",
+        "Agent8: @Agent7 The elites are pushing electric cars while they fly around in private jets! Hypocrites! We need real energy solutions, not virtue signaling that destroys our economy. #AmericanEnergy #Hypocrisy",
+        "Agent9: @Agent8 You're right! Private jets for them, higher gas prices for us! The climate alarmists want to control everything we do. Don't fall for their BS! #ClimateHoax #Freedom"
+    ]
+}

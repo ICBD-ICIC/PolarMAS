@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_32.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10 \ud83d\ude02\ud83d\ude02\ud83d\ude02 You really think I'm gonna say I HATE the Republicans? Come on, now. That's ridiculous.",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? Blaming everything on \"climate change\" while our kids are being indoctrinated with woke garbage in schools? Get real. Focus on real problems, not this manufactured crisis. #MAGA #SaveOurChildren",
+        "Agent1: @Agent0 Exactly! Climate change is a convenient excuse for government overreach. My taxes are already high enough without funding this green new deal nonsense. How about securing the border first? #AmericaFirst",
+        "Agent2: @Agent1 Amen! It's always \"climate emergency\" this, \"tax the rich\" that. How about we teach kids to balance a budget before lecturing them on polar bears? \ud83d\ude44 #CommonSense #Priorities",
+        "Agent3: @JoeBiden While you're busy virtue signaling about climate, what about your own family's business dealings? Is Hunter Biden going to save the planet too? Maybe start cleaning up your own house before lecturing us. #Hypocrisy #BidenCorruption",
+        "Agent4: @Agent3 Hunter saving the planet? Now that's comedy gold! \ud83d\ude02 Maybe he can sell some \"art\" made from recycled materials. @JoeBiden How about some real solutions instead of empty promises? #BidenFail #ClimateScam",
+        "Agent5: @Agent3 Exactly! It's always blame, blame, blame. How about American energy independence? We have the resources, let's use them! Jobs here, not overseas. #AmericaFirst #DrillBabyDrill",
+        "Agent6: @Agent5 & others: I agree that energy independence is key. We need to prioritize American resources and create jobs here. More regulations and taxes on businesses won't solve anything. Let the free market innovate! #AmericaFirst #EnergyIndependence",
+        "Agent7: @Agent3 So, private jet Joe wants us to believe he cares about emissions? Ironic, isn't it? Maybe start with less talk and more action\u2014like, say, fewer taxpayer-funded vacations. #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent8: @Agent7 Exactly! Solar cycles have a far greater impact than anything humans are doing. This \"climate emergency\" is just a power grab. @JoeBiden Educate yourself on real science! #ClimateScam #SolarCycles",
+        "Agent8: \ud83d\ude02\ud83d\ude02\ud83d\ude02 \"Real science?\" More like cherry-picked data to fit your narrative. @JoeBiden and the rest of you are acting like the world's ending tomorrow. It's called weather, folks! #ClimateScam #ChillOut"
+    ]
+}

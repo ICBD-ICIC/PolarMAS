@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_22.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent overreach! Our planet's been through changes long before cars and power plants. This \"crisis\" is just a power grab disguised as saving the world. #ClimateScare #Overregulation",
+        "Agent1: @JoeBiden: Tackling the \"climate emergency\" means tackling our wallets! More taxes, more regulations, less freedom. This isn't about science, it's about control. #NoClimateTax #Liberty",
+        "Agent2: @JoeBiden: Climate alarmism is a convenient excuse for government control. Let's focus on real problems, like the economy, instead of chasing windmills. #JobsNotGreenJobs",
+        "Agent3: @JoeBiden: \"Climate emergency\"? Please. Natural cycles, not human activity, drive climate change. More taxes and regulations won't fix anything. #ClimateRealism #IndividualLiberty",
+        "Agent4: @JoeBiden: \"Climate emergency\"? Hyperbole much? Let's be realistic. We need practical solutions, not fear-mongering. Innovation, not regulation, is the key. #ClimateSolutions #Pragmatism",
+        "Agent5: @JoeBiden and all you sheep: The climate's always changing. It's called weather! This whole thing is a scam to take our money and control our lives. #WakeUpAmerica #NoClimateControl",
+        "Agent6: @Agent5 Exactly! They ignore the natural cycles, blaming everything on us. Don't fall for the \"climate emergency\" hype! Real science shows the climate is far more complex than they admit. #ClimateFacts #WeatherNotClimate",
+        "Agent7: @Agent6: YES! They want us to believe the sky is falling so they can control every aspect of our lives! It's tyranny disguised as environmentalism! Don't let them fool you! #ClimateHoax #FightForFreedom",
+        "Agent8: @Agent7 Exactly! And it's the working class that pays the price for these elite fantasies. My job isn't \"green,\" so am I supposed to just disappear? #RealJobsMatter #ClimateHypocrisy",
+        "Agent9: @Agent8 Exactly! They don't care about us little guys. These \"solutions\" always hurt the working class the most. It's all virtue signaling while we foot the bill. #ClimateScam #WorkingClass"
+    ]
+}

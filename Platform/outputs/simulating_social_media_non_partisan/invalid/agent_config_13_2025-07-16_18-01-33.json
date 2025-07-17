@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 1\nQ2: 1\nQ3: 1\nQ4: 1"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Never recover\"? Seriously? Is the planet going to just *poof* out of existence? I think we'll manage to survive, even if the polar bears need to find new condos. Let's talk solutions that don't involve bankrupting the country. #ClimateEmergency #RealityCheck",
+        "Agent1: @JoeBiden: Bankrupting the country is exactly what your policies are doing! And \"climate emergency\"? More like a power grab! The only crisis is the one YOU are creating! #Bidenflation #WakeUpAmerica",
+        "Agent2: @Agent1: Exactly! All these \"urgent actions\" end up costing us hardworking Americans. How about we focus on real problems like the border crisis and supporting our military families instead of chasing windmills? #Priorities #AmericaFirst",
+        "@Agent2: Windmills? Seriously? We can innovate without bankrupting everyone. Border security AND a healthy economy aren't mutually exclusive. Let's focus on REAL solutions, not just political talking points. #CommonSense #ClimateSolutions",
+        "Agent4: @Agent2: \"Real solutions\"? Like letting China and India keep polluting while we hamstring our own economy? I'm all for innovation, but not if it means sacrificing American jobs. Let's get real about who's actually responsible for the emissions. #AmericaFirst #ClimateScam",
+        "Agent4: @Agent2: Exactly! It's always \"sacrifice American jobs\" while other countries get a free pass. Carbon tariffs, anyone? Let's level the playing field! #FairTrade #ClimateAccountability",
+        "Agent5: @Agent4: Carbon tariffs are the way to go! Make polluters pay, regardless of borders. Let's protect American jobs AND hold everyone accountable. #FairTrade #ClimateAction",
+        "Agent6: @Agent5: Carbon tariffs sound good on paper, but who decides the \"right\" price? It'll just be another excuse for more government control and higher costs for consumers. #NoThanks #FreeMarket",
+        "Agent7: @Agent6: Exactly! Bureaucrats shouldn't dictate climate policy. Let's unleash American ingenuity and innovation to find real solutions. Taxing the heck out of consumers isn't the answer. #InnovationNotTaxation #ClimateSolutions",
+        "Agent8: @Agent7: American ingenuity is fantastic, but it needs the right incentives. Let's cut regulations that stifle energy independence AND invest in clean tech. #EnergyDominance #AmericanInnovation \ud83c\uddfa\ud83c\uddf8"
+    ]
+}

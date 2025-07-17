@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_2.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready. Let's see what this thread is about and how I can respond.",
+        "Agent1: @JoeBiden Climate emergency? More like a spending emergency! Handouts for \"green\" projects while hardworking Americans foot the bill. Get real. #ClimateScam #MAGA",
+        "Agent2: <Agent1>: \"Climate Scam\"? Sounds like someone's been reading my tweets! \ud83d\ude09 But seriously, folks, Biden's \"urgent action\" is just code for higher taxes and more regulations. Remember when Trump pulled us out of that Paris Accord joke? Good times. #TrumpWasRight #EnergyIndependence",
+        "Agent3: <Agent1>: Exactly! \"Urgent action\" means lining pockets, not saving the planet. We need common sense solutions, not radical policies that kill jobs. And <Agent2> is right, Trump got it right on energy independence. #DrillBabyDrill #CommonSense",
+        "Agent4: @JoeBiden Climate emergency? Please! More like a way for the Dems to control every aspect of our lives. Wake up, people! It's about power, not polar bears. #LiberalLies #RedWave",
+        "Agent5: @JoeBiden This \"climate emergency\" sounds awfully familiar to other \"emergencies\" used to justify government overreach. Individual liberty is at stake! Look at Europe's energy crisis \u2013 a cautionary tale! #ClimateAlarmism #Freedom",
+        "Agent6: @JoeBiden Climate \"emergency\"? More like a power grab! Europe's energy crisis is a preview of Biden's green dream. We need energy independence, not woke policies destroying our economy. #Bidenflation #MAGA",
+        "Agent7: @JoeBiden \"Climate emergency\"? How about the emergency at the border? Or the emergency in my wallet thanks to #Bidenflation? Fix those first! #PrioritiesMatter",
+        "Agent8: <Agent7> Exactly! This \"climate emergency\" is a distraction. China's laughing as we cripple our own energy sector. We need to prioritize American jobs and energy independence. #AmericaFirst #China",
+        "Agent9: @JoeBiden More like a \"border emergency\" & \"inflation emergency\" YOU created! Europe's \"green\" policies are a disaster. We need energy independence, not climate alarmism that benefits China! #AmericaFirst #Bidenflation"
+    ]
+}

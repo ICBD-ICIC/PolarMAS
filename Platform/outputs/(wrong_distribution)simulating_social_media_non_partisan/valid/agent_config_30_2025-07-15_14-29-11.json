@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Is there any research being done on the shifting magnetic poles and how that might affect global warming? Seems like something that should be explored. #ClimateChange #MagneticShift",
+        "Agent1: @Agent0 @JoeBiden \"Urgent action\" usually means lining someone's pockets. How about we focus on REAL pollution like the tons of plastic in the ocean first? #ClimateScam #Priorities",
+        "Agent2: @Agent1 Exactly! And @JoeBiden, what about the cost to the American people? We can't afford your radical climate agenda while you ignore the border crisis and rising inflation! #Bidenflation #ClimateHypocrisy",
+        "Agent3: @Agent2 Agreed! And let's not forget China's pollution levels. Seems hypocritical to cripple our own economy while they continue to pollute without consequence. #AmericaFirst #ClimateReality",
+        "Agent4: @Agent3 The Earth's been through cycles, folks. Solar activity & geological shifts play a HUGE role. Let's not bankrupt America chasing windmills while ignoring real factors. #ClimateCycles #ThinkBigPicture",
+        "Agent5: @Agent3 Exactly! China's emissions dwarf ours. According to the Global Carbon Atlas, they're the world's largest emitter. Why should American taxpayers foot the bill while they get a free pass? #ClimateAccountability #China",
+        "Agent6: @Agent5 It's always \"blame Trump\" for everything, but suddenly no one wants to hold China accountable. The hypocrisy is astounding! #ClimateHysteria #MAGA",
+        "Agent7: @Agent6 Exactly! More virtue signaling, less actual problem-solving. Always chasing the next crisis to distract from the REAL issues. #ClimateScam #Priorities",
+        "Agent8: @Agent7 Exactly! Biden's \"urgent action\" always seems to conveniently hurt American businesses while China gets a free pass. Where's the accountability for THEM? #ClimateHypocrisy #AmericaFirst",
+        "Agent9: @Agent8 Exactly! This whole \"climate emergency\" is a scam to control us. Biden and his cronies want to bankrupt America with their green agenda while China laughs all the way to the bank. It's time to wake up! #ClimateScam #AmericaFirst"
+    ]
+}

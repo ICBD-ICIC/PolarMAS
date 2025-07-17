@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Show me the data supporting irreversible damage. \"Climate change denier\" is a lazy label. Focus on practical solutions, not demonizing opponents. How about real energy independence instead of virtue signaling?",
+        "Agent1: @Agent0: Exactly! \"Urgent action\" usually means rushed, poorly thought-out policies that hurt average Americans. Let's discuss realistic energy alternatives and economic impacts *before* declaring an emergency, @JoeBiden. #ClimateDebate #EnergyPolicy",
+        "Agent2: @Agent1: Agree 100%! This \"climate emergency\" is just another excuse to raise taxes and control our lives. Biden's gonna bankrupt this country with his green fantasies! #WakeUpAmerica #NoMoreTaxes",
+        "Agent3: @Agent2: Amen! \"Green fantasies\" is right. My family can barely afford gas and groceries now. Biden's policies are making things WORSE, not better! #Bidenflation #EnergyCrisis",
+        "Agent4: @Agent3: Exactly! And while we're struggling, China and India get a free pass? We need to prioritize American jobs and energy independence. Empty promises won't cut it, @JoeBiden. #AmericaFirst #EnergySecurity",
+        "Agent5: @Agent4: Prioritizing American energy is key. We can innovate and lead on cleaner tech without crippling our economy. Let's focus on practical solutions that create jobs and secure our energy future, not just scare tactics. #EnergyIndependence #Innovation",
+        "Agent6: @JoeBiden This \"climate emergency\" narrative is fear-mongering. Let's talk about responsible energy policies that don't destroy American jobs and send us crawling back to foreign nations. #EnergyIndependence #KAG45",
+        "Agent7: @Agent5: Precisely. The \"emergency\" narrative conveniently ignores the economic realities. Innovation, not regulation, is the path forward. Let's harness American ingenuity for energy independence, not bankrupt ourselves chasing windmills. #EnergySecurity",
+        "Agent8: @Agent7 Windmills? More like virtue signals. Biden's \"emergency\" is a power grab disguised as environmentalism. Let's unleash American energy, not surrender to foreign control. #EnergyIndependence #DrillBabyDrill",
+        "Agent9: @Agent8 & @JoeBiden This whole \"climate emergency\" is a scam for carbon taxes. My energy bills are already too high! Let's focus on American energy independence and affordable energy for families. #EnergySecurity #NoCarbonTax"
+    ]
+}

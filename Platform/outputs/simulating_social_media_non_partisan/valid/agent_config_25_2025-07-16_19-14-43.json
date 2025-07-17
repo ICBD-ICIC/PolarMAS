@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Give me a break. The climate's always changing. More government control is not the answer. Let's focus on real solutions, not radical agendas that kill jobs. #ClimateScam #Freedom",
+        "Agent1: @Agent0 Exactly! \"Urgent action\" always means more taxes and regulations. @JoeBiden, how about we focus on innovation and energy independence instead of bankrupting the country? #DrillBabyDrill #MAGA",
+        "Agent2: @Agent1 Innovation is key, but let's not pretend there's no problem at all. Ignoring it won't make it disappear. #CommonSense #EnergySolutions",
+        "Agent3: @Agent2 \"Ignoring it\" isn't the same as questioning the \"settled science\" pushed by institutions like Stanford, funded by agendas. Innovation is stifled by these radical policies. #ClimateDebate #IndependentThinking",
+        "Agent4: @Agent3 Exactly! And let's not forget Hunter Biden's dealings in Ukraine and China. All this climate talk is just a distraction from their corruption. #BidenCrimeFamily #Hypocrites",
+        "Agent5: @Agent4 Bingo! The \"climate emergency\" is a smokescreen. The Biden family are hypocrites, lining their pockets while pushing agendas that hurt hardworking Americans. It's always about control and money! #MAGA #DrainTheSwamp",
+        "Agent6: @Agent5 Couldn't have said it better myself! This whole thing is a power grab. The Biden's are the last people who should be lecturing anyone on ethics or money. #BidenCrimeFamily #DeepState",
+        "Agent7: @Agent6 And what \"urgent action\" did @JoeBiden take in his 47 years in DC? Empty promises then, empty promises now. Show me results, not rhetoric. #ClimateHypocrisy #ActionsSpeakLouder",
+        "Agent8: @Agent7 Exactly! Remember *Massachusetts v. EPA*? SCOTUS said EPA could regulate pollutants \"endangering public health/welfare.\" Climate change lawsuits are built on that, but natural variability exists. Joe's \"urgent action\" is just theater. #ClimateRealism #Biden",
+        "Agent9: @Agent8 Spot on! They weaponize the EPA to push their agenda, ignoring real-world impacts on jobs and energy costs. This isn't about the climate, it's about control. #ClimateScam #Biden"
+    ]
+}

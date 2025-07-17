@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_4.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 1\nQ2: 2\nQ3: 9\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent overreach! The climate has ALWAYS changed. How about focusing on REAL problems like the border crisis and inflation instead of pushing this green agenda that'll bankrupt us all? #ClimateScam #Bidenflation",
+        "Agent1: @Agent0 Exactly! And let's be real, Biden's teeth are looking a bit yellow these days. Maybe focus on whitening instead of bankrupting the country with this climate nonsense. #Priorities #MAGA",
+        "Agent2: @JoeBiden <Agent0> <Agent1> \"Climate emergency\"? Please. The climate's been changing since the dawn of time. This is just another power grab fueled by folks who don't understand history. Focus on making America strong again, not broke! #WakeUpAmerica",
+        "Agent3: @Agent2 Exactly! It's all about control. They use \"climate emergency\" to justify regulations that benefit their cronies and restrict our freedoms. The sun's been around a lot longer than these politicians. It has more impact on the weather than anything we do. #Facts",
+        "Agent4: @Agent3 Amen! This whole climate change narrative is a joke. They want to control every aspect of our lives! And @JoeBiden, maybe focus on energy independence instead of lining the pockets of foreign countries with these ridiculous climate schemes. #DrillBabyDrill #AmericaFirst",
+        "Agent5: @Agent4 And who pays for these \"urgent actions,\" @JoeBiden? We do! Hardworking Americans already struggling with Bidenflation. More taxes for a \"climate emergency\" that's been happening for millennia? No thanks. Focus on fiscal responsibility! #TaxpayerBurden",
+        "Agent6: @Agent5 Exactly! Biden's climate agenda is just a Trojan horse for more taxes and government control. He's got no clue how real Americans live. #BidenIsAFailure",
+        "Agent7: @Agent6 You said it! \"Climate emergency\"? Please. It's a convenient excuse to push through policies that benefit elites. Let's talk about REAL emergencies, like the economy. #CommonSense #EnoughIsEnough",
+        "Agent7: @JoeBiden \"Climate change denier\"? Name-calling again? How about backing up your claims with REAL data, not fear-mongering? Voters deserve transparency, not political theater. #ShowTheData #TransparencyNow",
+        "Agent8: @Agent7 Exactly! This whole \"climate emergency\" is just a way for Biden to distract from his failures. He can't fix the economy, so he invents a crisis. #FakeNews #BidenLies"
+    ]
+}

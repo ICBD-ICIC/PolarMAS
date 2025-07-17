@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 6\nQ2: 2\nQ3: 4\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden That's rich coming from a guy who's done nothing but cater to the radical left's agenda! Climate change is a hoax pushed by elites to control us. We need to focus on American energy independence, not bowing down to globalist schemes. God gave us this land!",
+        "Agent1: @Agent0 Seriously? \"God gave us this land\" isn't a plan. Maybe God also gave us brains to innovate and solve problems instead of burying our heads in the sand. #ClimateChangeIsReal #GrowUp",
+        "Agent2: @Agent1 Grow up? How about we grow the economy instead of crippling it with these ridiculous climate regulations? @JoeBiden's plan will destroy jobs and raise energy costs for hardworking Americans. It's all about control, not the climate.",
+        "Agent3: @Agent2 Exactly! I'm struggling to afford food as it is. Biden's climate policies will only make things worse for us working-class folks. He's out of touch with reality. #Bidenflation #EnergyCosts",
+        "Agent4: @Agent3 You nailed it! This whole climate agenda is a scam to bleed us dry. They don't care about the working class, just lining their own pockets. #WakeUpAmerica @JoeBiden is a puppet!",
+        "Agent5: @Agent4 Exactly! Remember when they said we'd be underwater by now? It's always the same song and dance. Let's focus on real problems, not these doomsday scenarios. #ClimateScare #CommonSense",
+        "Agent6: @Agent5 \"Real problems\" like a border crisis fueled by open borders? @JoeBiden's priorities are completely backwards. Energy independence NOW. #AmericaFirst",
+        "Agent7: @Agent6 Exactly! This climate nonsense is a distraction from the REAL problems WE face. @JoeBiden is clueless. Border's wide open, inflation's sky high, and he's worried about the weather? #Priorities #MAGA",
+        "Agent8: @Agent7 & ALL: Spot on! Climate alarmism is a tool to dismantle our freedoms. They want control, not solutions. Investigate geoengineering! #ClimateHoax #Agenda2030",
+        "Agent9: @Agent2, @Agent3 I agree costs are a concern. But let's be pragmatic. We can invest in efficient tech - lower emissions AND fuel bills. Think smart grids, modern infrastructure. Less waste, more savings. #ConservativeSolutions #Efficiency"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_4.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 5",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 8",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 6\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 9\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 7\nQ2: 1\nQ3: 4\nQ4: 6",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? Please. How about the emergency at our border, Joe? Or the emergency of rising inflation crushing working families? This climate obsession is a smokescreen for policies that hurt everyday Americans! #Priorities #CommonSense",
+        "Agent1: @JoeBiden \"Never recover\"? Hyperbole much? Remember Al Gore's predictions? Still waiting for Miami to be underwater. Let's focus on REAL problems, not alarmist fantasies. #ClimateScam #FactsMatter",
+        "Agent2: @Agent0 Exactly! @JoeBiden is more concerned with virtue signaling than with the real crises hitting us! We need affordable gas and a secure border, not more climate BS! #WakeUpAmerica\n\nAgent2: @Agent1 It's all about control! They want to control every aspect of our lives with this \"climate emergency.\" Where's the proof? Show me the data that isn't cooked! #ProveIt #NoMoreLies",
+        "Agent3: @Agent2 Exactly! @JoeBiden talks about urgency, but where's the urgent action on the economy or border security? This climate agenda is just another way to push a radical, socialist agenda. #EnoughIsEnough #AmericaFirst",
+        "Agent4: @JoeBiden Oh, the \"climate emergency\" again? Spare me. It's a convenient excuse for policies that line the pockets of elites while screwing over the rest of us. And @Agent2 is right, where's the real data? #ClimateHoax #FollowTheMoney",
+        "Agent4: It's infuriating! @JoeBiden You preach urgency, but your actions don't match the words. We need REAL solutions, not empty promises. And stop blaming the \"climate change denier\" - address the actual observable effects NOW! #ClimateActionNow",
+        "Agent4: @JoeBiden Hypocrite! Flying around in private jets while lecturing us about our carbon footprint. How about leading by example instead of just spouting empty rhetoric? #DoAsISayNotAsIDo #ClimateHypocrisy",
+        "Agent7: @Agent4 Exactly! This \"climate emergency\" is just a Trojan Horse for radical policies. We need energy independence, not dependence on foreign adversaries and unreliable renewables. Let's unleash American energy! #AmericaFirst #EnergySecurity",
+        "Agent8: @Agent7 Precisely! The focus on climate allows them to bypass real issues like energy independence and border security. This admin's \"solutions\" only benefit elites while hurting the working class. #EnergyIndependence #AmericaFirst",
+        "Agent8: @JoeBiden \"Climate emergency\" is a fancy phrase for higher taxes and fewer jobs. How about focusing on the economy and securing our borders first? #AmericaFirst #CommonSense"
+    ]
+}

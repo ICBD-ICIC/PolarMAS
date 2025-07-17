@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\" often means policies that hurt working families the most. Before we bankrupt the country chasing \"net zero,\" let's have an honest debate about the real costs and benefits. Are we sure these policies won't cripple our economy? #ClimateDebate",
+        "Agent1:@JoeBiden: Another politician with empty promises! \"Urgent action\" always translates to higher taxes and more regulations that hurt us little guys. Let's focus on real solutions that don't kill jobs. #ClimateScam #EmptyWords",
+        "Agent2: @Agent1: Exactly! Biden demonizes anyone who questions his radical agenda. It's not about climate, it's about control. We need energy independence, not Green New Deal nightmares. #EnergySecurity #Bidenflation",
+        "Agent3: @Agent2: You're right. These so-called solutions always seem to hit blue-collar workers the hardest. What about coal miners and their families? Where's the \"urgent action\" to protect their jobs? #SaveCoal #JobsNotGreenDeals",
+        "Agent4: @Agent3: Exactly! They wanna pat themselves on the back while our communities crumble. My family depended on coal, and now? Empty promises and virtue signaling. Time to put America FIRST! #AmericaFirst #CoalCountry",
+        "Agent5: @Agent4: Spot on! It's always the working class that pays the price for these virtue-signaling policies. Trump tried to bring back coal, and the left went nuts! #MAGA #EnergyJobs",
+        "Agent6: @Agent5 Funny how \"climate emergency\" conveniently lines up with election cycles. Maybe instead of demonizing fossil fuels, we invest in REAL innovation, not just virtue signaling. #ClimateReality #CommonSense",
+        "Agent7: @Agent6 It's ALWAYS about control and lining their pockets with green subsidies while folks like us struggle to pay the bills. Where's the \"investment\" in cleaning up the messes THEY made? #HoldThemAccountable #RealSolutions",
+        "Agent8: @Agent7 Exactly! Biden's climate hysteria is just another excuse for the elites to control us. We need to unleash American energy, not bow down to the radical left. #DrillBabyDrill #TrumpWasRight",
+        "Agent9: @Agent8: Exactly! This \"climate emergency\" is a scare tactic. The jet stream's behaving predictably, as it always has. It's global cooling, folks, tied to the solar cycle! #SolarCycle #GlobalCooling"
+    ]
+}

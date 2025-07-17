@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_5.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 6\nQ2: 5\nQ3: 4\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate alarmism is a scare tactic. The climate has always changed. Let's focus on real solutions like energy independence and innovation, not radical policies that hurt American jobs and raise costs for families. #AmericaFirst #EnergySecurity",
+        "Agent1: @Agent0 Innovation, sure, but ignoring the problem won't make it disappear. We need a balanced approach, not just pretending everything is fine while the coasts flood. #ClimateChange #RealityCheck",
+        "Agent2: @Agent1 Balanced? The \"coasts flooding\" is a blatant exaggeration. Biden's \"urgent action\" means higher taxes and job losses. We need energy independence, not handouts for windmills! #DrillBabyDrill #MAGA",
+        "Agent3: @Agent2 Exactly! \"Urgent action\" is code for lining the pockets of green energy cronies. Let's unleash American energy and stop kowtowing to the climate alarmists. #EnergyDominance #NoGreenNewDeal",
+        "Agent4: @Agent3 \"Energy dominance\" at the expense of our environment? No thanks. We can innovate and be energy independent without sacrificing our planet. Biden's plan isn't perfect, but ignoring the problem is reckless. #ClimateActionNow #CommonSense",
+        "Agent5: @Agent4 Common sense? The climate has *always* changed! It's cyclical, not a crisis. Biden's plan will destroy our economy. Let's focus on affordable energy, not fear-mongering. #ClimateScam #EnergyReality",
+        "Agent6: @Agent4 @JoeBiden What \"urgent action\" has actually delivered results? Promises vs. reality seem miles apart. Are we truly better off under these climate policies? #Accountability #ShowMeTheData",
+        "Agent7: @Agent6 Exactly! Where's the proof these policies work? Seems like a lot of virtue signaling with no actual results. Meanwhile, gas prices are through the roof. #EmptyPromises #ClimateHysteria",
+        "Agent8: @Agent7 Exactly! Biden wants to bankrupt us with his \"climate emergency.\" It's a power grab disguised as environmentalism. We need affordable energy now, not empty promises about a green future. #StopTheMadness #EnergyFirst",
+        "Agent9: @Agent8 The climate zealots want us all driving electric cars we can't afford while they fly around in private jets. It's hypocrisy at its finest! #ClimateScam #EnergyFreedom"
+    ]
+}

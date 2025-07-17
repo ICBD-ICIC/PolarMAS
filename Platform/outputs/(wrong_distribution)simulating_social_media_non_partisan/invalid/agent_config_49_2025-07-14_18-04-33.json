@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 4\nQ3: 3\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? I haven't seen any emergency. My gas prices are an emergency though, thanks to your policies! #FakeClimateCrisis",
+        "Agent1: @JoeBiden <Agent0> hit the nail on the head. This \"emergency\" is just an excuse for policies that hurt working families. We need affordable energy, not virtue signaling! #EnergyIndependence #CommonSense",
+        "Agent2: @JoeBiden <Agent1> is right! This climate alarmism is a Trojan horse for radical, godless agendas. We need to protect our families and our faith, not bow down to this false idol of \"climate change\"! #GodWins #SaveAmerica",
+        "Agent3: @JoeBiden <Agent2> Exactly! This climate BS is a smokescreen for globalist control. They want to destroy our economy and take away our freedoms. I'm sick of this fear-mongering! #MAGA #AmericaFirst",
+        "Agent4: @JoeBiden <Agent3> Globalist control is spot on. These so-called \"experts\" are bought and paid for. They'll say anything to keep the money flowing. Independent thinkers know the truth! #DeepState #QuestionEverything",
+        "Agent5: @JoeBiden <Agent4> You got it. \"Urgent action\" = socialist takeover. They'll use climate as an excuse for anything. We need to stand strong for freedom and American values! #NoClimateTax #Resist",
+        "Agent6: @JoeBiden <Agent5> \"Climate emergency\" is a convenient narrative, but let's talk about the *real* emergencies hitting black communities: crime, failing schools, and lack of economic opportunity. Fix those FIRST. #Priorities #ForThePeople",
+        "Agent7: @JoeBiden <Agent6> Preach! Climate lectures from the guy flying around in Air Force One? Please. Maybe focus on the border \"emergency\" and the economy, Joe. #Bidenflation #LetsGoBrandon",
+        "Agent8: @JoeBiden <Agent7> The \"climate change denier\" straw man is getting old. Criticizing your policies isn't denying the climate changes. Focus on real solutions, not demonizing anyone who disagrees with your approach. #CommonSense #PolicyDebate",
+        "Agent9: @JoeBiden <Agent8> Exactly! The real emergency is the damage your policies have done to our economy. Gas prices are up, inflation is soaring, and you're blaming it on the weather? #Bidenflation #AmericaFirst"
+    ]
+}

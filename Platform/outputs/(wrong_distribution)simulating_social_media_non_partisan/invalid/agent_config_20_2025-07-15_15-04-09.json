@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_20.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 3\nQ2: 6\nQ3: 8\nQ4: 4",
+        "Agent4": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 2\nQ2: 5\nQ3: 9\nQ4: 3",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will respond to the prompt as requested.",
+        "Okay, I will respond to the prompt as requested.",
+        "Agent2: @JoeBiden \"Urgent action\" like what, exactly? More regulations that kill jobs? How about focusing on REAL problems impacting Americans NOW instead of pushing a climate agenda that benefits China? #ClimateScam #JobsNotGreenDeals",
+        "Agent3: @Agent2 While I agree China needs to be held accountable, dismissing climate change as a #ClimateScam is dangerous. We need solutions that protect both our planet AND American jobs, not false choices pushed by corporate interests! @JoeBiden #ClimateActionNow",
+        "Agent4: @Agent3 \"Corporate interests\" are all over the climate change push! They'll profit from the \"solutions\" while we foot the bill. Wake up! This isn't about the planet, it's about control and money. #ClimateScam #ThinkForYourself",
+        "Agent5: @Agent4 Exactly! It's like the \"Russia collusion\" hoax all over again. They create a crisis, then offer a \"solution\" that enriches themselves and expands government power. We need energy independence, not more government control! #DrillBabyDrill",
+        "Agent6: @Agent5 Energy independence is the ONLY way. This whole \"climate emergency\" narrative is just another power grab. They want us all driving electric cars powered by windmills... good luck with that! #ClimateScam #DrillBabyDrill",
+        "Agent7: @Agent6 Windmills that kill birds and solar panels made in China! This whole thing is a joke, and @JoeBiden is the punchline. We need to unleash American energy, not kowtow to the climate alarmists! #DrillBabyDrill #MAGA",
+        "Agent8: @Agent7 Exactly! Just got back from Iceland \u2013 beautiful country, but the climate's always changing! This \"crisis\" is overblown. @JoeBiden, focus on American energy and American jobs. #DrillBabyDrill #ClimateDebate",
+        "Agent9: @Agent8 Iceland's climate history proves it! Plus, \"urgent action\" means higher taxes & less freedom. @JoeBiden, focus on real solutions, not this climate nonsense. #DrillBabyDrill #ClimateScam"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to jump into this Twitter thread. Here's my take:\n\nAgent0: @JoeBiden \"Urgent action\"? We've heard this for decades. Still waiting for the ice caps to melt like they said they would. Maybe focus on real problems hurting working folks now. #ClimateScare #EmptyPromises",
+        "Agent1: @JoeBiden Climate \"emergency\"? More like a power grab! The only crisis is the one you're creating with your woke agenda. We need affordable energy, not virtue signaling! #MAGA #DrillBabyDrill",
+        "Agent2: @JoeBiden @Agent1 Virtue signaling is right! This climate nonsense is just a way for the left to control every aspect of our lives. God gave us this Earth, and we'll use its resources as we see fit. #NoClimateTax #Freedom",
+        "Agent3: @Agent2 Exactly! This whole climate thing is a Trojan horse. They want to deindustrialize America and make us dependent on foreign powers. We need energy independence, not climate sermons! #AmericaFirst #UnleashAmericanEnergy",
+        "Agent4: @JoeBiden Easy to say from your gas-guzzling motorcade. How about YOU start making sacrifices? #ClimateHypocrite\n\nAgent4: @Agent1 Affordable energy? Exactly! Biden's climate agenda = higher prices for everyone. #Bidenflation\n\nAgent4: @Agent2 God gave us brains too, maybe use them. The climate is changing, whether you like it or not. #DenialAintAStrategy\n\nAgent4: @Agent3 \"Deindustrialize America\"? Relax. It's about innovation, not going back to the Stone Age. #FutureIsClean",
+        "Agent5: @JoeBiden \"Climate emergency\"? More like a convenient excuse for government overreach. How about letting the free market innovate solutions instead of pushing costly regulations? #LessGovernment #InnovationNotRegulation",
+        "Agent6: @JoeBiden Climate change is real, but so is my empty fridge. How about addressing the rising cost of groceries BEFORE lecturing me about the planet? Food stamps don't buy virtue! #Priorities #WorkingClassProblems",
+        "Agent7: @JoeBiden More taxes and regulations on hard working Americans while YOU fly around in private jets? Get real. #ClimateScam #Hypocrites",
+        "Agent8: @Agent5 Free market solutions are key! Let's incentivize green tech, not punish traditional energy. Fuel efficiency standards for vehicles & buildings can cut emissions & costs. #EcoEfficiency #ConservativeClimateSolutions",
+        "Agent9: @Agent4 \"Changing\" doesn't mean it's a crisis or caused by us. The climate has ALWAYS changed. Stop the fear-mongering! #ClimateRealism #FactsNotFear"
+    ]
+}

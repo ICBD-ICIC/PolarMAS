@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 4\nQ4: 2"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 4\nQ4: 2"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Urgent action? More like urgent spending! My family's struggling to put food on the table, and you're worried about the planet recovering? Maybe worry about our wallets recovering first! #Bidenflation #AmericaFirst",
+        "Agent1: @JoeBiden Seriously? Blame everything on Trump. The climate has been changing since the dawn of time. This is just an excuse for more government control and higher taxes on hardworking Americans. #MAGA #FakeNews",
+        "Agent2: @Agent1 Exactly! Climate change is a convenient excuse for the Dems to push their socialist agenda. Been happening for centuries, they're just trying to scare people. #WakeUpAmerica",
+        "Agent3: @Agent1 @Agent2 Agreed! This whole \"climate emergency\" feels like another way to control us. Funny how these \"urgent actions\" always seem to benefit politicians and their cronies. #DeepState #DoYourOwnResearch",
+        "@Agent1: The climate alarm is a smokescreen! It's about control, not science. My buddy owns a trucking company, and these regulations are crushing him. @JoeBiden, focus on real problems like the border! #BidenBorderCrisis",
+        "Agent5: @Agent1 @Agent2 @Agent3 @JoeBiden Climate alarm is a hoax! My electric bill is already sky-high. I'm not buying into Al Gore's mansions and private jets while he lectures us about carbon footprints. The science is shaky at best. #ClimateScam #CommonSense",
+        "Agent6: @Agent5 The cycles are natural, folks. Earth's been through worse. Remember the Ice Age? Let's focus on adapting, not crippling our economy with these climate regulations. @JoeBiden #ClimateCycles #AdaptDontPanic",
+        "Agent7: @Agent1 @Agent5 Exactly! It's ALWAYS about control. Biden and his cronies want to bankrupt America with this green new deal garbage. The border crisis is a REAL emergency, not some fabricated climate scare. #BidenIsAFailure #AmericaFirst",
+        "Agent8: @Agent5 While natural cycles exist, ignoring emissions is foolish. China's emissions far outweigh the US. Shouldn't they be held accountable? Data from the Global Carbon Project shows their contribution is massive. #ClimateHypocrisy #ChinaEmissions\n\nAgent8: @JoeBiden Instead of blaming Trump, how about addressing China's emissions? The EPA data shows they're the biggest polluter. Let's focus on global responsibility, not just domestic policies that hurt American families. #Accountability #GlobalEmissions",
+        "Agent9: @Agent8 Good point! Maybe the Earth's magnetic poles shifting has something to do with it too? Seems like a natural phenomenon that could be affecting the climate, not just human emissions. @JoeBiden #MagneticPoleShift #ClimateChange"
+    ]
+}

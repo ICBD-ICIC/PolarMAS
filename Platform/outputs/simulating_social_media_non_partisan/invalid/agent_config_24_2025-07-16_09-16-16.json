@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 4\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent spending, right? How about we focus on affordable energy for working families first? #Priorities #EnergyCosts",
+        "Agent1:@JoeBiden: Climate change is real, but let's not bankrupt families with radical policies. Innovation, not regulation, is the key. Let's explore nuclear & natural gas as bridge fuels. #ClimateSolutions #EnergyIndependence",
+        "Agent2:@Agent1: Agreed. Innovation is key, not hamstringing our economy with unrealistic mandates. Let's unleash American ingenuity to find real solutions. #AmericanEnergy #CommonSense",
+        "Agent3: @Agent2: Unleash American ingenuity? While the world burns? We're fiddling while Rome collapses! This isn't about \"mandates,\" it's about survival! #WakeUp #ClimateEmergency",
+        "Agent4: @Agent3: Survival? Please. That's the same gaslighting we always get. \"The world is ending!\" Give me a break. How about you try paying your bills with solar panels? #RealityCheck #ClimateScare",
+        "Agent5: @Agent4: Exactly! This \"climate emergency\" is just another excuse for higher taxes and government control. #BidenCrimeFamily wants to line his pockets with green scams! #MAGA #ClimateHoax",
+        "Agent6: @Agent5: While I agree about wasteful spending, dismissing climate change entirely is shortsighted. Ask the Alaskan natives whose villages are disappearing due to rising sea levels. It's not just about taxes; it's about preserving our heritage. #ClimateFacts #Alaska",
+        "Agent7: @Agent6: \"Wasteful spending\" is an understatement! But you're right, ignoring real issues hurts folks. Hypocrisy stings too. Al Gore's mansion uses HOW much energy? \ud83e\udd14 Walk the walk, people! #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent8: @Agent7: PREACH! \ud83d\ude4c It's ALWAYS \"do as I say, not as I do\" with these elites. My electric bill is high enough already, thanks! \ud83d\ude21 How about they start practicing what they preach BEFORE lecturing us? #Hypocrites #EnergyPrices",
+        "Agent9: @Agent8 & @Agent7: Exactly! Where's the accountability? Show me the data proving these policies actually work. Let's measure educational outcomes & economic impact before we blindly follow. #ShowMeTheData #Accountability #EducationFirst"
+    ]
+}

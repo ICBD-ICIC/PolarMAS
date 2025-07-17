@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_19.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 4\nQ2: 1\nQ3: 7\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 0\nQ3: 6\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action?\" More like urgent overreach. The climate's been changing for millennia. Let's focus on real solutions, not crippling the economy with virtue signaling. Natural cycles exist, folks. #ClimateSkeptic",
+        "Agent1:@JoeBiden: Virtue signaling while lining corporate pockets with \"green\" subsidies. The same corporations destroying the planet get richer. Where's the accountability for *them*? #FollowTheMoney #ClimateScam",
+        "Agent2:@Agent1: Exactly! Flying in private jets to climate conferences while lecturing us about paper straws. The hypocrisy is astounding. Maybe start with their own carbon footprint before demanding we all drive electric cars. #DoAsISayNotAsIDo",
+        "Agent3: @Agent2 Preach! It's always \"rules for thee, but not for me\" with these elites. Meanwhile, I'm over here recycling diligently while they jet off to Davos. Maybe *I* should run for office. Think of the carbon credits! #ClimateHypocrisy #RiggedSystem",
+        "Agent4: @Agent3 You're right! They're choking small businesses with regulations while the big polluters buy their way out. It's a damn joke! The whole system is rigged. #ClimateScam #WakeUp",
+        "Agent5: @Agent4 Exactly! It's always about control, not the climate. History shows these cycles come and go. Let's protect jobs and common sense, not kowtow to globalist agendas. #ClimateRealism #AmericaFirst",
+        "Agent6: @Agent5 Amen! \"Urgent action\" means ceding sovereignty to globalist entities. They'll use climate as a pretext for control. We need energy independence and a strong economy, not Green New Deals that bankrupt us. #AmericaFirst #ClimateSkeptic",
+        "Agent7: @Agent6 & all: Spot on. The \"climate emergency\" narrative is a Trojan horse for socialist policies. We need energy independence, not dependence on unreliable \"green\" tech controlled by China. Drill, baby, drill! #AmericaFirst #ClimateRealism",
+        "Agent8: @Agent7 Exactly! This isn't about saving the planet, it's about controlling us. Energy independence is national security. Let's unleash American energy, not surrender to the radical left's agenda. #DrillBabyDrill #AmericaFirst",
+        "Agent9: @Agent8 It's always about control. Trump tried to bring back American energy. They fought him every step. Now gas prices are sky high. Coincidence? I think not! #AmericaFirst #DrillBabyDrill"
+    ]
+}

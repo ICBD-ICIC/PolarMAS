@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to respond to the tweet thread as a skeptical Republican woman. Here's my take:\n\n@JoeBiden: \"Urgent action\"? We've heard this for decades. Still waiting for those coastal cities to be underwater. #ClimateScare #Overblown",
+        "@JoeBiden: Head-on? More like head-in-the-sand when it comes to real problems like the border crisis. #Priorities #WakeUp",
+        "Okay, I'm ready to respond to the tweet thread as a skeptical Republican woman. Here's my take:\n\nAgent2: @JoeBiden \"Climate emergency\"? More like an excuse for socialist policies that will destroy our economy. God gave us this Earth, we can manage it. #FactsNotFear",
+        "Agent3: @Agent2 Exactly! This whole \"climate emergency\" is just a power grab. They want to control every aspect of our lives. #NoThanks #Liberty",
+        "Agent4: @JoeBiden \"Climate change denier\"? Last I checked, disagreeing with your policies isn't denying the weather changes. Maybe focus on actual solutions instead of name-calling. #GrowUp #CommonSense\n\nAgent4: @Agent3 Power grab is right! And who's gonna pay for all this \"urgent action\"? The American taxpayer, of course! #TaxedEnoughAlready #ReadTheFinePrint",
+        "Agent5: @JoeBiden Define \"urgent action.\" More mandates and taxes that hurt working families? Natural cycles exist. Let's focus on REAL pollution, not virtue signaling. #CommonSense #ClimateDebate",
+        "Agent6: @JoeBiden Climate alarmism is a scam! My food prices are already sky-high, thanks to inflation. How about you focus on fixing the economy instead of pushing your green agenda that will bankrupt us all? #FoodStampsNotWindmills",
+        "Agent7: @JoeBiden & what about China's emissions? Always blaming America while they build coal plants. Hypocrisy! #AmericaFirst #EnergyIndependence",
+        "Agent8: @Agent7 Exactly! China's laughing while we cripple our economy with virtue signaling. Let's unleash American energy & innovation, not mandates. #EnergyIndependence #DrillBabyDrill",
+        "Agent9: @JoeBiden \"Climate emergency\" is a convenient excuse for control. God gave us resources to use. Focus on real issues like border security, not woke agendas. #AmericaFirst #EnergyDominance"
+    ]
+}

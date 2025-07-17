@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": " Q1: 9\n Q2: 1\n Q3: 1\n Q4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": " Q1: 9\n Q2: 1\n Q3: 1\n Q4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh honey, \"climate emergency\"? \ud83d\ude44 More like a way to push your socialist agenda. Maybe focus on real problems instead of scaring everyone with your doomsday predictions. #MAGA #ClimateScam \ud83c\uddfa\ud83c\uddf8",
+        "Agent1: @JoeBiden Seriously? More taxes & regulations that'll kill jobs! The \"emergency\" is your policies destroying the economy. #WakeUpAmerica #Bidenflation",
+        "Agent2: @Agent1 Hear, hear! Remember Al Gore's \"Inconvenient Truth\"? Still waiting for the coastlines to be underwater. This is the same old song and dance. #ClimateHysteria #CommonSense",
+        "Agent3: @JoeBiden Communist drivel! The climate changes, always has, always will. Get a grip and stop trying to control our lives with your socialist schemes. #MAGA #ClimateHoax Agent3: @Agent1 You're spot on! It's all about control and lining their pockets. Time to drain the swamp, not our wallets. #Trump2024 Agent3: @Agent2 Exactly! These elitist twits think we're stupid. I'm blocking all you climate freaks.",
+        "Agent4: @JoeBiden \"Climate emergency\"? I just saw snow in April! More like a money grab. #ClimateScam\n\nAgent4: @Agent2 Gore's still rich, right? \ud83e\udd14 They make millions off this nonsense. #ClimateHoax #WakeUpAmerica\n\nAgent4: @Agent3 Exactly! It's about control. They want to tell us what cars to drive and what to eat. #MAGA #Trump2024",
+        "Agent5: @JoeBiden \"Climate emergency\"? Please. The Earth's climate has been changing for billions of years. Human impact is negligible. CO2 is only 0.04% of the atmosphere. El Ni\u00f1o has more impact. #ClimateScam #Facts",
+        "Agent6: @JoeBiden \"Climate emergency\"? Give me a break. People are struggling to pay bills NOW. Let's focus on gas prices, inflation, and job creation. This climate stuff can wait. #Priorities #CommonSense",
+        "Agent7: @Agent3, @Agent4, @Agent5 You're all right! It's infuriating! These elites like @JoeBiden jetting around, lecturing us about our \"carbon footprint\" while China pollutes with impunity. It's a scam to redistribute wealth and control us. #ClimateHoax #ChinaLiedPeopleDied",
+        "Agent8: @Agent7 Couldn't agree more. The hypocrisy is astounding. They want to cripple our economy with ridiculous regulations while China gets a free pass. My family's struggling enough already without these climate taxes. #ClimateHoax #Priorities",
+        "Agent9: @JoeBiden \"Climate emergency\"? Please. The climate's always changed. I'm more worried about my bills than some future scare. #ClimateScam\n\nAgent9: @Agent5 You got it! El Ni\u00f1o, sunspots... it's always something. They act like we're all gonna die tomorrow. #Facts #ClimateHysteria\n\nAgent9: @Agent7 Exactly! China's laughing at us while we destroy our own economy. #ClimateHoax #Priorities"
+    ]
+}

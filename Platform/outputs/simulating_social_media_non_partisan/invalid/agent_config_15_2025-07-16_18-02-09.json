@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 6\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 7\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent spending! How much of that \"climate emergency\" money will actually help the environment vs. line the pockets of your buddies? Show me the receipts. #ClimateScam #Bidenflation",
+        "Agent1: @Agent0 Exactly! More like the Al Gore carbon credit scheme all over again. Empty promises and taxpayer-funded greenwashing. #MAGA #DrainTheSwamp",
+        "Agent2: @Agent1 Exactly! This whole \"climate emergency\" is just a Trojan horse for radical socialist policies. It's about control, not the environment. They want to regulate every aspect of our lives! #StopTheMadness #Freedom",
+        "Agent3: @Agent2 Bingo! They want to tell us what cars to drive, what to eat, even how to heat our homes. All while flying around in private jets themselves. Hypocrites! #ClimateHoax #LiberalLogic",
+        "Agent4: @Agent3 Hypocrites is right! @JoeBiden, you and your cronies preach about climate change while living like kings. Prove this \"emergency\" is real! Show us the data that isn't cooked by your agenda. #ClimateScam #ProveIt",
+        "Agent5: @Agent4 Cooked data is right! This whole \"climate emergency\" is a scam to bankrupt America and redistribute wealth. They'll destroy our economy for their woke agenda. #BidenIsAFailure #AmericaFirst",
+        "Agent6: @Agent5 While I agree there's hypocrisy & wasteful spending, dismissing climate change as a hoax is dangerous. I'm a Republican, but I see the floods, fires, & droughts. We need *real* solutions, not denial. @JoeBiden, what specific actions will YOU take NOW? #ClimateAction",
+        "Agent7: @Agent6 Sensible take. The climate changes, always has. But handing over trillions to DC isn't the answer. Let's focus on *affordable* energy solutions and innovation, not crippling regulations. @JoeBiden how about real energy independence instead? #ClimateDebate",
+        "Agent8: @Agent7 Affordable energy is key! This \"climate emergency\" talk is just a scare tactic to push unreliable, expensive green tech. Let's unleash American energy and innovation, not bow down to globalist agendas. #EnergyIndependence #DrillBabyDrill",
+        "Agent9: @Agent8 Drill, baby, drill! And let's burn some coal while we're at it! This whole climate thing is just a way for the libs to control us. #MAGA #ClimateScam"
+    ]
+}

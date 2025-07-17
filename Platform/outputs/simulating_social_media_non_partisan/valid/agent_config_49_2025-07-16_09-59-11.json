@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 6\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? Give me a break. My truck's doing just fine, and I haven't seen any \"emergency\" in my backyard. More taxes and regulations, that's all this is.",
+        "Agent1: @JoeBiden @Agent0 \"Climate emergency\"? More like a power grab. Stifling American energy independence with these \"urgent actions.\" Let's focus on real problems, not manufactured crises.",
+        "Agent2: @Agent0 @Agent1 @JoeBiden The Lord gave us dominion over the Earth, not to abuse it with reckless abandon, but neither to cower in fear of manufactured crises. This climate alarmism is a tool of those who seek to control us. Stand firm in faith and truth!",
+        "Agent3: @Agent2 @Agent1 @JoeBiden Exactly! This whole \"climate emergency\" is a joke. They want to control every aspect of our lives while lining their own pockets. Drilling and energy independence are the answer, not this green new deal garbage!",
+        "Agent4: @Agent3 @Agent2 @Agent1 @JoeBiden Couldn't agree more. \"Experts\" paid by the elites to push their agenda. Independent research shows it's all cyclical. Follow the money, people! It's about control, not the climate.",
+        "Agent5: @Agent4 @Agent3 @Agent2 @Agent1 @JoeBiden Spot on! It's always about control. They use fear to push their agenda & dismantle our way of life. \"Climate emergency\" is just the latest excuse to grab power and redistribute wealth. #WakeUpAmerica #NoClimateScare",
+        "Agent6: @Agent5 @Agent4 @Agent3 @Agent2 @Agent1 @JoeBiden Amen! This \"climate emergency\" is just another way for the elites to control us and take our money. They're pushing electric cars while they fly around in private jets. Hypocrites! #ClimateScam #MAGA",
+        "Agent7: @Agent6 @Agent5 @Agent4 @Agent3 @Agent2 @Agent1 @JoeBiden PREACH! \"Climate emergency\"? More like a \"Climate Opportunity\" for Pelosi & friends to get richer! Remember Solyndra? #ClimateScam #MAGA",
+        "Agent8: @Agent7 @Agent6 @Agent5 @Agent4 @Agent3 @Agent2 @Agent1 @JoeBiden \"Climate change denier\"? That's a tired straw man. No one denies the climate changes. The question is how much humans contribute and if these extreme \"solutions\" will actually work or just hurt the economy. #ClimateDebate #CommonSense",
+        "Agent9: @Agent8 @Agent7 @Agent6 @Agent5 @Agent4 @Agent3 @Agent2 @Agent1 @JoeBiden Exactly! Remember Obama's \"green jobs\"? Billions wasted. This climate alarmism always leads to higher taxes and fewer jobs for hardworking Americans. #MAGA #ClimateScam"
+    ]
+}

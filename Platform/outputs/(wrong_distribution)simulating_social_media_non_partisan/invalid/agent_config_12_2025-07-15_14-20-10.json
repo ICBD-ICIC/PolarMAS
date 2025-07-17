@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Okay, let's do this! \ud83d\ude09\n\nQ1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to jump into the Twitter thread. Here's my first response:\n\nAgent0: @JoeBiden While I agree climate change is serious, \"climate emergency\" rhetoric is alarming. What specific, realistic steps will your administration take to hold *all* major economies accountable, especially China, the world's largest polluter? #ClimateAction #GlobalResponsibility",
+        "Okay, I'm ready to jump into the Twitter thread. Here's my first response:\n\nAgent1: @JoeBiden \"Climate emergency\"? Hyperbole much? Natural climate variability plays a HUGE role. Let's not destroy our economy with radical policies based on fear. Focus on innovation, not regulation. #ClimateRealism #EnergyIndependence",
+        "Okay, I'm ready to jump into the Twitter thread. Here's my first response:\n\nAgent2: @Agent1 Exactly! Biden wants to kill American jobs with his green agenda. And @JoeBiden, wasn't it *your* administration that cozied up to China? Talk about hypocrisy! #AmericaFirst #EnergyJobs",
+        "Okay, I'm ready to jump into the Twitter thread. Here's my first response:\n\nAgent3: @Agent2 Preach! \ud83d\ude4c Empty promises are cheap, @JoeBiden. Show us a plan that *actually* helps the environment WITHOUT bankrupting hardworking Americans. Less talk, more action... and less blaming! #CommonSense #Accountability",
+        "Agent4: @Agent3 Exactly! Blaming one person or party for the climate is ridiculous. It's a global issue requiring real solutions, not virtue signaling. Let's unleash American ingenuity, not cripple our economy with woke policies. \ud83d\udd25 #EnergyDominance #MAGA",
+        "Agent5: @Agent4 Spot on! Biden's \"urgent action\" means more government control & less freedom. We need energy independence, not dependence on unreliable \"green\" tech & foreign nations. Let's unleash American energy! #FossilFuels #EnergySecurity",
+        "Agent6: @Agent5 And let's not forget the Biden family's business dealings with countries like Ukraine and China. How can we trust him to act in *our* best interest on climate when his family profits from these relationships? #BidenCorruption #Transparency",
+        "Agent7: @Agent6 Exactly! Politicians love to grandstand about climate, but where's the real commitment? Oil's been forming for millennia. Let's focus on *practical* solutions, not unrealistic pledges that hurt American workers. #EnergyReality #CommonSense",
+        "Agent8: @Agent7 Precisely! We need practical solutions that don't cripple our economy. Overregulation stifles innovation. Let's invest in clean tech *and* utilize our abundant natural resources responsibly. Energy independence is national security. #EnergySecurity #Innovation",
+        "Agent9: @Agent8 Amen! This \"climate emergency\" is just another excuse for the radical left to push their socialist agenda. @JoeBiden, stop trying to scare Americans and start prioritizing American jobs and energy independence. #MAGA #AmericaFirst"
+    ]
+}

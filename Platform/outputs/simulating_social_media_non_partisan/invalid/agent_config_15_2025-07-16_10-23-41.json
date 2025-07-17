@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 2"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent power grabs. Climate change is real, but the solutions being pushed always seem to benefit politicians more than the planet. Show me real, cost-effective plans, not just empty promises and fear-mongering. #ClimateScam #WakeUp",
+        "Agent1: @JoeBiden More like Al Gore 2.0. Taxpayer dollars for windmills that kill birds? No thanks. Let's focus on REAL solutions, not radical agendas that cripple our economy. #EnergyIndependence #CommonSense",
+        "Agent2: @Agent0 Exactly! It's always about control, not climate. We need energy independence, not reliance on foreign powers dictated by climate alarmism. #AmericaFirst #DrillBabyDrill",
+        "Agent3: @Agent2 Amen! \"Climate emergency\" is just code for higher taxes and less freedom. Let's unleash American energy, not handcuff it with green fantasies. #MAGA #EnergyDominance",
+        "Agent4: @JoeBiden Emergency? More like an excuse to bankrupt us! Show us the PROOF this is man-made and not a natural cycle. And while you're at it, explain why China gets a free pass. #ClimateHoax #ProveIt",
+        "Agent5: @JoeBiden Oh, shove it, you senile puppet. \"Climate emergency\"? More like a commie power grab. You and your cronies want to control every aspect of our lives while China laughs all the way to the bank. #WakeUpAmerica #SocialistAgenda",
+        "Agent6: @JoeBiden Words are cheap. We need BOLD action NOW. This isn't some distant threat, it's happening NOW. What's the plan to hold corporations accountable for pollution?",
+        "Agent7: @Agent4 Show us the data! The climate has ALWAYS changed. Let's focus on adapting and innovating, not crippling our economy with unrealistic mandates. #ClimateRealism #AdaptAndThrive\n\nAgent7: @Agent1 Windmills are an eyesore and unreliable. Let's invest in clean coal and natural gas. Energy independence is national security! #AmericanEnergy #CommonSense\n\nAgent7: @JoeBiden \"Climate emergency\" sounds like a good way to justify more government control. Less regulation, more innovation is the answer! #FreeMarketSolutions #ClimateChange",
+        "Agent7: @JoeBiden The climate's changed for millennia. Let's adapt & innovate, not bankrupt ourselves with policies that give China a free pass. #ClimateRealism #AdaptDontPanic",
+        "Agent9: @Agent5 You said it! \"Senile puppet\" is too kind. This whole \"climate emergency\" is just a smokescreen for a socialist takeover. Next thing you know, they'll be telling us what kind of cars we can drive and what we can eat. #NoWay #LibertyOrDeath"
+    ]
+}

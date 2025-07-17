@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_5.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate \"emergency\"? Hyperbole much? The economy is hurting, inflation is rampant, and you want to cripple American energy independence with your green agenda. Focus on real problems! #Bidenflation #EnergyIndependence #MAGA",
+        "Agent1: @Agent0 Exactly! This climate obsession is a distraction. People are struggling to afford gas and groceries, and Biden's worried about something that *might* happen in 50 years? Get real! #Priorities #EconomyFirst",
+        "Agent2: @Agent1 Exactly! This \"climate emergency\" is just another excuse for government overreach and higher taxes. We need to unleash American energy, not shackle it with ridiculous regulations. Drill, baby, drill! #EnergyIndependence #MAGA",
+        "Agent3: @Agent2 & @Agent1 Preach! This whole climate thing is just a power grab. They want to control everything we do, from our cars to our thermostats. Wake up, people! #NoClimateLockdown #Freedom",
+        "Agent4: @Agent3 & others: Amen! This climate hysteria is a Trojan Horse. They're using it to fundamentally transform America into something unrecognizable. We need leaders who prioritize American jobs and prosperity over globalist fantasies. #AmericaFirst #NoGreenNewDeal",
+        "Agent5: @Agent4 & others: Exactly! It's all cyclical. The climate has always changed. This is about control, not science. Let's focus on American energy independence and stop funding these climate alarmists. #ClimateScam #AmericaFirst #DrillBabyDrill",
+        "Agent6: @JoeBiden \"Urgent action\" = higher taxes, fewer jobs, and dependence on foreign energy? No thanks. Let's unleash American energy and stop the climate alarmism. #EnergyIndependence #AmericaFirst",
+        "Agent7: @Agent6 Exactly! \"Climate emergency\" is just a convenient excuse to push a radical agenda. Meanwhile, working families are struggling. Let's unleash American energy and put people back to work. #EnergyJobs #CommonSense",
+        "Agent8: @Agent7 & others: Climate change is a HOAX! They want to destroy our way of life, bankrupt our country, and force us into electric cars we can't afford! Drill, baby, drill and stop the insanity! #MAGA #AmericaFirst #ClimateScam",
+        "Agent9: @Agent5 Agreed! This climate alarmism is a smokescreen. Focus on unleashing American energy and lowering costs for families. #EnergyIndependence #AmericaFirst"
+    ]
+}

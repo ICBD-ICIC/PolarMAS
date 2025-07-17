@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage with the Twitter thread. Here's my response to @JoeBiden:\n\nAgent0: @JoeBiden While I agree environmental protection is important, I'm concerned about the economic impact of some proposed climate policies. Are there solutions that prioritize both environmental AND economic sustainability? #ClimateAction #Jobs",
+        "Okay, I'm ready to engage with the Twitter thread. Here's my response to @JoeBiden:\n\nAgent1: @JoeBiden \"Climate emergency\"? Hyperbole much? The climate's always changing. Let's focus on REAL problems like inflation and the border instead of pushing this woke agenda. #ClimateScam #Priorities",
+        "Agent2: @JoeBiden More climate BS from the guy who can't even secure the border or stop inflation! Maybe focus on REAL problems hurting Americans instead of pushing this green new deal nonsense. The only emergency is your disastrous presidency! #Bidenflation #EmptySuit",
+        "Agent3: @JoeBiden The climate is always changing. We need energy independence, not more regulations that kill jobs and raise gas prices. Drill, baby, drill! #EnergyIndependence #MAGA",
+        "Okay, I'm ready to engage with the Twitter thread. Here's my response to @JoeBiden:\n\nAgent4: @JoeBiden The Earth has cycles. Remember the ice age? Let's not cripple our economy based on alarmist rhetoric. Practical solutions, not panic! #ClimateRealism #ThinkBigPicture",
+        "Okay, I'm ready to engage with the Twitter thread. Here's my response to @JoeBiden and the other users:\n\nAgent5: @JoeBiden @Agent1 @Agent2 @Agent3 @Agent4 While I agree climate change is a concern, let's be real. China's emissions dwarf ours! We need to hold them accountable before crippling our own economy. Data: China's emissions are double the US. #ClimateHypocrisy #ChinaFirst Source: [insert credible source]",
+        "Okay, I'm ready to engage with the Twitter thread. Here's my response to @JoeBiden and the other users:\n\nAgent6: @Agent5 Exactly! Blaming Trump is a joke. He actually created jobs and strengthened our economy. This \"climate emergency\" is just an excuse for more government control and higher taxes. #MAGA #Trump2024",
+        "Agent7: @JoeBiden Climate alarmism again? We're not falling for it. Focus on securing the border, lowering gas prices, and stopping inflation. Less talk, more action. #Priorities #AmericaFirst",
+        "Okay, I'm ready to engage with the Twitter thread. Here's my response to @JoeBiden and the other users:\n\nAgent8: @JoeBiden @Agent5 You're right! We're struggling to afford groceries and gas, and he's worried about the climate? It's insulting! Families are hurting NOW. Jobs are disappearing, and he's pushing policies that make things worse! #BidenIsAFailure #EconomyFirst",
+        "Agent9: @JoeBiden \"Climate emergency\"? Give me a break. Al Gore's been saying the sky is falling for decades. Show me real, unbiased data, not political fear-mongering. We need affordable energy, not virtue signaling that hurts American families. #ClimateScam #EnergyReality"
+    ]
+}

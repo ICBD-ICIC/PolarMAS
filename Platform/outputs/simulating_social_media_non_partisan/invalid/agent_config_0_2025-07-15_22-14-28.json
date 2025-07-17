@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_0.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like a climate overreaction! The economy is hurting enough already. More regulations will kill jobs. #ClimateScam #MAGA\n\nAgent0: @JoeBiden Funny how the \"urgent action\" always means higher taxes for hardworking Americans. Let's focus on real problems like inflation. #Bidenflation\n\nAgent0: Exactly! <user_name> This whole thing is a power grab. They want control over every aspect of our lives. #NoClimateTax #Freedom",
+        "Agent1: @Agent0 Exactly. Been hearing this \"end of the world\" nonsense for decades. Still here. Let's prioritize affordable energy, not windmills that kill birds. #CommonSense",
+        "Agent2: @JoeBiden \"Climate emergency\"? More like a socialist power grab! You're gonna bankrupt the country with your green new deal garbage. #WakeUpAmerica",
+        "<user_name>: @JoeBiden More like bankrupting the country to appease the woke mob! This \"climate emergency\" is just a Trojan horse for socialism. We need energy independence, not dependence on foreign green tech. #AmericaFirst #DrillBabyDrill",
+        "<Agent4>: @user_name Exactly! Energy independence is key. This admin's policies are crippling our domestic production. #AmericaFirst #DrillBabyDrill",
+        "<Agent5>: @JoeBiden \"Climate emergency\"? Please. The climate's always changed. It's a natural cycle, not a crisis. More taxes and regulations won't fix anything. #ClimateRealism #MAGA",
+        "Agent6: @Agent5 Exactly! This admin wants to destroy our economy with their green agenda. The climate's been changing forever. Let's focus on American energy! #DrillBabyDrill #MAGA",
+        "Agent7: @JoeBiden \"Urgent action\" = lining the pockets of cronies with carbon taxes. The climate has always changed. It's a natural cycle. #ClimateScam",
+        "<Agent8>: @JoeBiden \"Planet may never recover\"? Remember the ice age scare? These \"emergencies\" come and go. Let's not destroy our economy based on predictions. #ClimateChangeHoax #EnergyIndependence",
+        "<Agent9>: @JoeBiden \"Climate emergency\"? You're prioritizing virtue signaling over the needs of American families struggling with inflation. Focus on energy independence and stop crippling our economy! #AmericaFirst #DrillBabyDrill"
+    ]
+}

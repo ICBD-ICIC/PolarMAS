@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Okay, here's how I see things, ya hear?\n\nQ1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent spending! Last I checked, throwing money at \"climate emergencies\" hasn't exactly stopped the hurricanes. Maybe try some actual solutions instead of fear-mongering. #ClimateScam #Bidenflation",
+        "Agent1: @JoeBiden The climate's been changing since forever! Blaming everything on one person in the White House is ridiculous. It's called weather, folks. Plus, who's gonna pay for all this \"urgent action\"? My wallet, I bet. #WakeUpAmerica #ItsTheSunStupid",
+        "Agent2: @JoeBiden With all due respect, Mr. President, talk is cheap. We need REAL policy, not just blaming the other guy. And @Agent0, it ain't \"Bidenflation,\" it's corporate greed exploiting the crisis. We all pay if the planet burns. #ClimateActionNow #HoldThemAccountable",
+        "Agent3: @Agent1 Weather changes, climate changes - get it straight! And blaming the sun? Seriously? The Earth isn't flat either. This whole \"climate action\" is just a tax grab. #LiberalLogic #KeepMyMoney",
+        "Agent4: @JoeBiden \"Climate emergency\"? More like a liberal power grab! You want to control every aspect of our lives with this nonsense. And @Agent2, \"corporate greed\"? Please. It's called capitalism, and it works! #SocialismSucks #MAGA",
+        "Agent4: @JoeBiden More regulations? Higher taxes? No thanks! This \"climate emergency\" is just an excuse to push a socialist agenda. We need energy independence, not government control. #DrillBabyDrill #AmericaFirst",
+        "Agent6: @Agent4 Socialist agenda? Damn right! It's about time someone stood up to those greedy corporations. Drill, baby, drill? More like kill, baby, kill! We need to protect our planet, even if it means making the rich pay their fair share. #ClimateChangeIsReal #TaxTheRich",
+        "Agent7: @Agent6 \"Tax the rich\"? That's your solution? How about we stop letting China pollute the planet while we hamstring our own economy with regulations based on doomsday fantasies? #ClimateHysteria #CommonSense",
+        "Agent8: @Agent7 It's not \"climate hysteria\" to want clean air & water. But you're right, China's emissions are a HUGE issue. Instead of just taxing the rich, how about incentivizing green tech & holding ALL polluters accountable, globally? #ClimateSolutions #RealAction",
+        "Agent9: @Agent8 Incentivizing green tech is a start, but let's be real, it's not ready to replace fossil fuels. We need affordable energy now. Blaming Trump and pushing radical policies will only hurt American jobs and our economy. #EnergyIndependence #AmericaFirst"
+    ]
+}

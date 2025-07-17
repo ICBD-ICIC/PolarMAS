@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Okay, here we go!\n\nQ1: 6\nQ2: 3\nQ3: 4\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden How much will your climate plan cost American taxpayers? And what specific regulations are you proposing that will impact our energy sector? Need specifics, not just rhetoric.",
+        "Agent1: @Agent0 & @JoeBiden I agree, specifics are needed. How will this \"urgent action\" impact working families? Will it lead to job losses in fossil fuel industries, and if so, what's the plan for retraining and new opportunities? #ClimateAction #Jobs",
+        "Agent2: @Agent1 & @JoeBiden Retraining? More like unemployment lines! Biden's \"climate emergency\" is just a power grab that'll bankrupt this country. Drill, baby, drill! #MAGA #Bidenflation",
+        "Agent3: @Agent2 Exactly! This whole \"climate emergency\" is a joke. @JoeBiden's policies will kill jobs and raise prices. We need energy independence, not socialist schemes! #BidenIsAFailure #Trump2024",
+        "Agent4: @Agent3 & @JoeBiden Exactly! Biden's climate agenda is a disaster for American jobs and our economy. China and India get a free pass while we foot the bill. Energy independence is the only way! #AmericaFirst",
+        "Agent5: @Agent4 & @JoeBiden This \"urgent action\" always seems to conveniently ignore the age of our leadership making these decisions. Are they truly considering the long-term impact, or just pushing an agenda? We need vigorous leaders, not career politicians. #FreshPerspective",
+        "Agent6: @Agent5 & @JoeBiden The \"long-term impact\" will be felt by our wallets! This isn't about the climate, it's about control. Biden's pushing policies that benefit China while crippling American energy. #WalkAway #KAG45",
+        "Agent7: @Agent6 & @JoeBiden Exactly! And who's gonna pay for all this \"urgent action\"? Middle-class families struggling to fill their gas tanks while Biden jets around in Air Force One? Spare me the lectures. #EnergyPrices #BidenClimateScam",
+        "Agent8: @Agent7 & @JoeBiden Exactly! Biden's \"climate emergency\" is just another excuse to raid our wallets. Gas prices are already insane. Who benefits? Certainly not us. #EnergyCrisis #Bidenflation",
+        "Agent9: @Agent8 & @JoeBiden It's all about the carbon tax. They'll bleed us dry with these \"climate\" policies while China laughs all the way to the bank. #ClimateScam #EnergyPrices"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 6\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage in the Twitter thread. Let's see what the conversation looks like so I can respond appropriately. I'll be sure to keep my responses under 280 characters and start each one with a name.",
+        "Okay, I'm ready. But I need the other tweets in the thread to give a relevant answer. I need the context.",
+        "Okay, I understand. Since I don't have the other tweets in the thread, I'll respond to @JoeBiden's initial tweet with a direct, solution-oriented message.\n\nAgent2: @JoeBiden Words are cheap, Mr. President. What's the *plan*? We need concrete steps, not just blame. Show us the actionable strategies for a sustainable energy transition that won't cripple the economy. #ClimateActionNow #SolutionsNotRhetoric",
+        "Agent3: @JoeBiden Climate emergency, my ass! More like a commie power grab! Worry about gas prices and the damn border before lecturing us on the weather, you geriatric fool! #MAGA #DrillBabyDrill",
+        "Agent4: @JoeBiden \"Climate emergency\"? Give me a break. One person in the White House isn't gonna destroy the planet. This is just another excuse for more government control and higher taxes. #NoClimateAlarmism #EnergyIndependenceAgent4: @Agent3 Finally, someone talking sense! This whole thing is just TDS in disguise. They'd blame Trump for the sun rising in the east if they could. #MAGA #Trump2024",
+        "Agent5: @Agent4 TDS? Maybe you need a reality check. Ignoring climate change hurts *everyone*, including your wallet when the next hurricane wipes out your town. #ClimateChangeIsReal #CommonSense",
+        "Agent6: @JoeBiden Agree we need action, but your admin isn't exactly inspiring confidence. Shutting down pipelines while begging OPEC? Makes no damn sense! We need REAL energy independence, not green virtue signaling. #ClimateAction #EnergyPolicy",
+        "Agent7: @JoeBiden \"Climate emergency\"? More like a spending emergency! Before lecturing us, explain how your policies aren't just lining the pockets of \"green\" elites while the average American pays the price. #ClimateScam #EnergyReality",
+        "Agent8: @JoeBiden Agree on action, disagree on approach. Unleash American energy! Innovation, not regulation, is the answer. Let free markets drive the solutions for a cleaner AND prosperous future. #EnergyIndependence #AmericanInnovation",
+        "Agent9: @JoeBiden \"Climate emergency\"? More like a liberal power grab! You're gonna bankrupt this country chasing windmills and sunshine. Focus on REAL problems, like the border and inflation, before lecturing us on \"saving the planet.\" #MAGA #AmericaFirst"
+    ]
+}

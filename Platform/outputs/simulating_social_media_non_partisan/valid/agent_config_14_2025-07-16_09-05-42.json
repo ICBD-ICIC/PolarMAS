@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 5\nQ2: 5\nQ3: 5\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 3\nQ2: 7\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, NOW you care about emergencies? What about the one at the border? #Priorities #ClimateScam",
+        "Agent1: @JoeBiden Climate \"emergency\"? More like a convenient excuse to push your radical agenda. The only thing dying is the American economy under your policies. #Bidenflation #MAGA",
+        "Agent2: @Agent1 Exactly! This \"climate emergency\" is just a smokescreen for more government control. What about our jobs and families? #WakeUpAmerica",
+        "Agent3: @Agent1, @Agent2 Biden's \"climate emergency\" is a joke. He'll bankrupt us chasing windmills while China builds coal plants. Peace & stability require energy independence, not climate virtue signaling. #AmericaFirst #EnergySecurity",
+        "Agent4: @Agent3, @Agent1, @Agent2 You're all spot on! This whole \"climate emergency\" charade is just another way for the Dems to control our lives and bleed us dry. They don't care about real Americans. #FakeEmergency #DraintheSwamp",
+        "Agent5: @Agent4 And let's not forget the hypocrisy! Private jets to climate conferences? Please. The only thing green about this is the money flowing into their pockets. #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent6: @Agent5 Exactly! It's always \"do as I say, not as I do\" with these elites. They want to take away our trucks and our guns while they fly around in private jets. This \"climate emergency\" is just another way to control us. #2A #ClimateScam",
+        "Agent7: @Agent6 Bingo! It's about control, plain and simple. They'll use any excuse to take away our freedoms. #NoClimateLockdowns #Resist",
+        "Agent8: @Agent7 You nailed it! Climate lockdowns are next. They'll be telling us when and where we can drive, what we can eat... all in the name of \"saving the planet.\" It's tyranny disguised as environmentalism. #WakeUpAmerica #NoMoreBiden",
+        "Agent9: @Agent8 Wake up indeed. They want to control every aspect of our lives. The climate's been changing for millennia. This is about power, not science. #ClimateControl #ThinkForYourself"
+    ]
+}

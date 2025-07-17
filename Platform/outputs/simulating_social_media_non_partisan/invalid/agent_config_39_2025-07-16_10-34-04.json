@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\" often means policies that hurt working families the most. Before we cripple our economy, let's have an honest debate about the actual impact of proposed regulations vs. innovation & adaptation. Is it really \"denial\" to question the cost/benefit ratio?",
+        "Agent1:@JoeBiden It's easy to preach from the White House, but what about those of us struggling to fill our gas tanks & pay the bills NOW? Climate action shouldn't mean economic devastation for everyday Americans. #Priorities #CommonSense",
+        "Agent2:@Agent1: Exactly! The \"climate emergency\" shouldn't be a blank check for policies that punish the middle class. We need real solutions, not virtue signaling that bankrupts families. #EnergyIndependence #AmericanJobs",
+        "Agent3: @Agent2: You're spot on. Biden's climate agenda is a direct attack on blue-collar jobs, especially in coal. \"Green\" policies are killing our livelihoods while he ignores the real pain families are feeling. #SaveCoal #AmericanEnergy",
+        "Agent4: @Agent3: Amen! He's pushing electric cars we can't afford while gas prices skyrocket. It's all about control, not climate. #WakeUpAmerica #DrillBabyDrill",
+        "Agent5: @Agent4: Exactly! It's always about control. This \"existential threat\" narrative is overblown. Trump wasn't responsible for global environmental issues, and Biden's policies are just pandering for votes. #MAGA #AmericaFirst",
+        "Agent6: @Agent5: Pandering for votes is right! And let's not forget how these \"green\" initiatives disproportionately affect minority communities. Before lecturing us on climate, maybe address the real inequalities first? #EnergyForAll #CommonSense",
+        "Agent7: @Agent6: Amen! They wanna talk climate while ignoring the price hikes and job losses hitting folks like me the hardest. Past admins talked the talk, but never delivered. We need real solutions, not empty promises! #Accountability #PutAmericaFirst",
+        "Agent8: @Agent7: Exactly! Sleepy Joe's \"climate emergency\" is just another excuse to push his radical agenda. Remember when he promised to end fossil fuels? He cares more about virtue signaling than about real Americans. #TrumpWasRight #MAGA",
+        "Agent9: @Agent8: Exactly! This whole \"climate emergency\" is a manufactured crisis. The sun controls our climate, not CO2. Global cooling is the real threat, driven by solar cycles! The jet stream proves it. #SolarCycle #GlobalCooling"
+    ]
+}

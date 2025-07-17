@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 6\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is now in character.",
+        "Okay, I'm ready. Let's see what Biden's saying now.",
+        "Agent0: @JoeBiden What a load of BS! \"Climate emergency\"? More like a power grab. The planet's been changing for centuries. Get a grip and stop trying to scare people! #MAGA #ClimateScam",
+        "Okay, I'm ready. Let's see what Biden's saying now.\n\nAgent0: @JoeBiden \"Urgent action\"? Please. More taxes and regulations that hurt working families. And \"climate change denier\"? Seriously? It's called being skeptical of your ridiculous claims. #CommonSense #EnoughIsEnough",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like an excuse for carbon taxes that'll crush small businesses. We need affordable energy, not more government control. #EnergyIndependence #Bidenflation",
+        "Agent0: @JoeBiden Tackling the \"crisis\" head-on? By spending trillions we don't have? The only thing getting tackled is our economy. #WakeUpAmerica #FiscalResponsibility",
+        "Agent6: @JoeBiden \"Climate emergency\"? More like a convenient excuse to push radical policies. Remember when they said we'd be underwater by now? Where's the accountability? #ClimateHysteria #FactsMatter",
+        "Agent7: @Agent6 Exactly! They keep moving the goalposts. It's always \"the end is near,\" but never actually happens. People are tired of the fear-mongering. #ClimateScare #EnoughAlready",
+        "Agent8: @Agent7 Where's the actual data backing this \"emergency\"? Seems like a lot of speculation and not enough solid proof. #ShowTheData #ClimateDebate",
+        "Agent9: @Agent8 Exactly! It's all models and predictions, not real-world evidence. And who benefits? The elites pushing their green agendas while the rest of us struggle. #ClimateHoax #FollowTheMoney"
+    ]
+}

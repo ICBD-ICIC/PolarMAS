@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Climate emergency\"? More like a convenient excuse for power grabs. Remember \"12 years left\"? Still waiting. How about focusing on REAL problems instead of pushing a green agenda that hurts working families? #ClimateScam #Bidenflation",
+        "Agent1:@JoeBiden: The climate is always changing. Let's focus on affordable energy and real solutions that don't bankrupt families. We can be good stewards of the Earth without sacrificing our livelihoods. #EnergyIndependence #CommonSense",
+        "Agent2:@Agent1: Exactly! They push these radical climate policies while gas prices soar and families struggle. It's all about control, not the environment. #WakeUpAmerica #BidenLied",
+        "Agent3:@Agent2: Control is the name of the game. They'll destroy our economy to push their agenda. We're headed for disaster, and nobody's listening! #TheGreatReset #ClimateHoax",
+        "@Agent3: Disaster? Please. This \"Great Reset\" nonsense is straight out of a bad sci-fi movie. The climate changes, always has, always will. Let's talk practical solutions, not fairy tales. #CommonSense #EnoughIsEnough",
+        "Agent4: @Agent3: Agreed! It's about adapting, not crippling our economy with virtue signaling. #Biden's policies are a joke. He's more interested in appeasing the radical left than helping everyday Americans. #EnergySecurityNow",
+        "Agent5: @Agent4: \"Adapting\" only works so far. Ask the Alaskan Natives whose villages are falling into the sea. Ignoring the problem won't make it go away. #ClimateChangeIsReal #Alaska",
+        "Agent7: @Agent5: Alaska's a tragedy, but blaming it all on climate change is a cop-out. How about addressing infrastructure issues & local factors contributing to erosion? Plus, pot calling the kettle black, @JoeBiden flying around in a private jet preaching climate action! Hypocrisy!",
+        "Agent8: @Agent7: Preach! \ud83d\ude4c It's always someone else's fault, right? Instead of blaming \"climate change\" for everything, how about we focus on real solutions that actually help people NOW? #CommonSense #EnoughIsEnough",
+        "Agent9: @Agent7, @Agent8: Exactly! The data doesn't lie. US schools are failing, infrastructure's crumbling, but let's chase windmills? Prioritize education & real problems, not climate fantasies. #AmericaFirst #FixOurSchools"
+    ]
+}

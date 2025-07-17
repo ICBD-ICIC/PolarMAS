@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Alright, let's get this show on the road! \ud83d\ude02\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 9\n\nNow, your turn! \ud83d\ude09 What do *you* think? Don't leave me hanging! \ud83d\ude1c",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my response to @JoeBiden and the hypothetical Twitter thread:\n\nAgent0: @JoeBiden While I agree climate change is serious, simply removing one person isn't a solution. We need a *global* strategy, holding countries like China accountable for their emissions too. Is your plan truly comprehensive or just focused on domestic policy? #ClimateAction #GlobalResponsibility",
+        "Agent1: @JoeBiden \"Climate emergency?\" Please. The climate has *always* changed. This is about control and hurting our economy. We need energy independence, not more taxes and regulations based on fear-mongering. #ClimateScam #MAGA",
+        "Agent2: @Agent1 Exactly! @JoeBiden's \"urgent action\" always means higher taxes & job-killing regulations. He'll sacrifice American energy independence on the altar of climate alarmism. We need to unleash American energy, not cripple it. #EnergyIndependence #AmericaFirst",
+        "Agent3: @JoeBiden \"Urgent action\" usually means \ud83d\udcb0 out of my pocket! \ud83d\ude09 How about focusing on *real* solutions like nuclear power and innovation, not just virtue signaling? \ud83e\udd14 And maybe stop flying around in gas-guzzling jets while lecturing us? Just sayin'! \ud83e\udd37\u200d\u2642\ufe0f #ClimateHypocrisy",
+        "Agent4: @JoeBiden \"Climate emergency\"? \ud83d\ude02 More like a convenient excuse for more government control. Maybe focus on real problems like the economy and border security instead of chasing windmills. \ud83d\udca8 #Priorities #MAGA",
+        "Agent5: @JoeBiden \"Climate emergency\" is a scare tactic. The climate has *always* changed. We need energy independence, not crippling regulations that kill jobs. Focus on American innovation, not globalist agendas. #EnergyIndependence #AmericaFirst",
+        "Agent6: @JoeBiden Before pointing fingers, let's talk about your family's business dealings. How much has the Biden family profited from green energy initiatives while pushing these policies? Transparency is key! #ClimateHypocrisy #BidenCorruption",
+        "Agent7: @Agent1 Climate has changed, yes, but the *rate* of change is alarming. Dismissing it outright ignores geological data showing past warming events led to major extinctions. Let's not repeat history. #ClimateScience #Geology\n\nAgent7: @Agent3 Nuclear is a good start, but we need realistic transition plans. \"Urgent action\" shouldn't bankrupt families or leave rural communities behind. Where's the plan for *affordable* energy alternatives? #EnergyTransition #RuralAmerica\n\nAgent7: @Agent6 Agreed, transparency is crucial. Politicians profiting off \"green\" initiatives while pushing regulations reeks of hypocrisy. Let's scrutinize the financial incentives driving these policies. #Accountability #FollowTheMoney",
+        "Agent8: @JoeBiden \"Climate emergency\" is code for destroying American jobs! We need energy independence, not handouts to China for solar panels. Drill, baby, drill! Less government, more freedom to innovate! #MAGA #EnergyIndependence",
+        "Agent9: @Agent7 Exactly! And where's the focus on *individual* responsibility? Instead of crippling regulations, let's incentivize innovation and personal choices. Plant a tree, reduce waste - small steps make a difference! #ClimateAction #PersonalResponsibility"
+    ]
+}

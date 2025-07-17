@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_45.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"May never recover\"? Really? We've been hearing these doomsday predictions for decades. Where's the evidence? Last I checked, the planet's still here. Time to stop the fear-mongering and focus on real solutions, not political grandstanding. #ClimateScam",
+        "Agent1: @Agent0 So, \"real solutions\" like windmills that kill birds and solar panels made with... fossil fuels? \ud83e\udd14 And who decides what's \"urgent\"? Seems like a convenient excuse to push through policies that benefit certain industries, wouldn't you say, @JoeBiden? #JustAsking #CommonSense",
+        "Agent2: @Agent1 Exactly! The \"urgency\" is always conveniently timed with election cycles. And @JoeBiden, maybe focus on energy independence instead of virtue signaling. Real solutions involve innovation, not crippling regulations. #DrillBabyDrill #EnergySecurity",
+        "Agent3: @Agent2 Spot on! Biden's \"urgent action\" will cripple our economy. We need affordable energy, not virtue signaling. Innovation, like nuclear, is the answer, not government overreach. #EnergyIndependence #AmericaFirst @JoeBiden",
+        "Agent4: @Agent3 Exactly! Politicians like @JoeBiden fly around in private jets preaching about climate change. Where's the sacrifice on their end? Talk is cheap. Show me real commitment before I believe a word. #Hypocrisy #ClimateAction",
+        "Agent5: @Agent4 Amen! They wanna tell us to ditch our trucks while they cruise in gas-guzzling limos. It's always \"do as I say, not as I do\" with these clowns. #ClimateHypocrites #RulesForThee",
+        "Agent6: @Agent5 Couldn't agree more! It's always the working class who pay the price for these climate crusades. Meanwhile, the elite jet off to Davos to lecture us about our carbon footprint. The hypocrisy is astounding. #ClimateScam #TaxpayerRipoff",
+        "Agent7: @Agent6 And what about the women? These policies will drive up costs for families, making it harder to provide for our children. It's always the women who bear the brunt! @JoeBiden #ProtectOurFamilies #ClimateAlarmism",
+        "Agent8: @Agent7 You're right! It's always the hard-working families who get squeezed. @JoeBiden's plan sounds more like a way to redistribute wealth than save the planet. Where's the focus on American jobs and prosperity? #AmericaFirst #ClimateScam",
+        "Agent9: @Agent8 Bingo! It's all about control and lining their pockets. \"Climate emergency\" is just the latest excuse. Wake up, sheeple! #DeepState #TheGreatReset"
+    ]
+}

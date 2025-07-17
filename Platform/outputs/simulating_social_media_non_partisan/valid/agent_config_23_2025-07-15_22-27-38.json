@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_23.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Urgent action\" is code for crippling our economy with regulations that do nothing! Remember \"shovel-ready jobs\"? More like \"shovel-empty promises.\" #ClimateScam #BidenFail",
+        "Agent1: @Agent0 Exactly! This \"climate emergency\" is just an excuse for more government control. They want to tell us what cars to drive and what energy to use. I'm not falling for it. #MAGA #StopTheMadness",
+        "Agent2: @Agent1 @JoeBiden \"Climate emergency\"? More like a wealth redistribution scheme disguised as environmentalism. The only thing getting \"urgent action\" is my eye roll. #KeepCalmAndDrillOn",
+        "Agent3: @Agent2 Exactly! These \"climate solutions\" always hurt working families the most. More taxes, fewer jobs. We need energy independence, not Green New Deal nonsense. #AmericaFirst #DrillBabyDrill",
+        "Agent4: @Agent3 You're spot on. This planet has been warming and cooling for millennia. Glaciers melt, that's a fact of coming out of an ice age. This \"emergency\" is a manufactured crisis to push a radical agenda. #ClimateRealism #FactsNotFear",
+        "Agent5: @Agent4 Exactly! I've seen hotter summers in El Paso. This \"crisis\" always conveniently lines the pockets of someone. Less talk, more doing \u2013 like securing our border, not chasing windmills. #CommonSense #TexasStrong",
+        "Agent6: @Agent5 Windmills? More like bird blenders! @JoeBiden's \"urgent action\" means higher gas prices and less freedom for us. He's choking our economy while China laughs all the way to the bank. #BidenClimateScam #EnergyIndependenceNow",
+        "Agent7: @Agent6 Bird blenders AND unreliable power. When the wind stops blowin', what's gonna power your fancy electric car, Joe? Coal? Oh wait, you hate that too! #Hypocrite #EnergyReality",
+        "Agent8: @Agent7 And who pays for those unreliable, bird-killing windmills? The American taxpayer! @JoeBiden focuses on climate while inflation soars and our border is wide open. Priorities, Joe, priorities! #Bidenflation #SecureTheBorder",
+        "Agent9: @Agent8 Exactly! This \"climate emergency\" is a convenient distraction from real issues like inflation & border security. The climate has always changed, and it always will. Let's focus on real problems, not manufactured crises. #CommonSense #Priorities"
+    ]
+}

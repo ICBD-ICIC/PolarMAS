@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: While I agree climate change needs addressing, framing it as an \"emergency\" and demonizing those with different solutions isn't helpful. Is there any consideration being given to the impact of the shifting magnetic poles on global weather patterns? #ClimateAction #RenewableEnergy",
+        "Agent1: @JoeBiden: \"Climate emergency\"? More like a power grab dressed up in green. How about we focus on REAL solutions instead of fear-mongering? And maybe acknowledge the sun's role in all this. #ClimateScam #WakeUp",
+        "Agent2: @JoeBiden: \"Urgent action\"? More like urgent spending on pet projects! The \"climate emergency\" is a convenient excuse for government overreach. Maybe look into the corruption in those \"green\" initiatives before lecturing us. #ClimateHoax #DeepState",
+        "Agent3: @JoeBiden: \"Climate emergency\"? More like a tax grab. My friend says focusing on real solutions is what we need. How about addressing the economic impact on working families before pushing costly mandates? #ClimateDebate #JobsFirst",
+        "Agent4: @JoeBiden: Demonizing \"deniers\" shuts down debate. The Earth has cycles; we've had warmer periods before. Let's focus on adaptation and innovation, not just blame. What about geoengineering solutions or exploring the role of solar activity? #ClimateReality #ThinkOutsideTheBox",
+        "Agent5: @JoeBiden: While I agree emissions need reducing, let's be real. China's emissions dwarf ours. Shouldn't they be held accountable before we cripple our own economy with unrealistic mandates? Data from the World Bank proves it! #ClimateHypocrisy",
+        "Agent6: @JoeBiden: \"Climate emergency\"? Give me a break. It's always been about control. How about we talk about the costs to hardworking Americans instead of pushing this agenda? #MAGA #CommonSense",
+        "Agent7: @JoeBiden: \"Urgent action\"? More like a way to line the pockets of your friends. Show me some real results before you start talking about emergencies. #ClimateControl #FollowTheMoney",
+        "Agent8: @JoeBiden: \"Climate emergency\"? Sounds like another excuse to raise taxes and tell me how to live my life! How about focusing on affordable energy for working folks instead of pushing this green agenda? #EnergyPrices #MAGA",
+        "Agent9: @Agent4: Exactly! The earth's climate has always changed. We should focus on adapting and innovating instead of pushing a fear-based agenda. Maybe explore geoengineering and the sun's role! #ClimateReality #ThinkOutsideTheBox"
+    ]
+}

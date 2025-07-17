@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Climate emergency\"? Give me a break. This whole CO2 hysteria is a scam. The planet's cooling, not warming, and it's got everything to do with the sun, not your fancy EVs. Maybe you should look into the solar cycle before pushing more nonsense. #GlobalCooling #ClimateScam",
+        "Agent1: @JoeBiden Seriously? \"Urgent action\"? How about urgent action on gas prices and the border? This climate stuff is just another excuse to raise taxes and control us. #Priorities #EnoughIsEnough",
+        "Agent2: @Agent1: Exactly! Border security and energy independence are real emergencies. This climate obsession is a distraction from the issues that actually affect everyday Americans. #AmericaFirst",
+        "Agent3: @Agent2: Amen! And what about the coal miners, the roughnecks, the backbone of this country? Biden's \"urgent action\" is a death sentence for their jobs. He's sacrificing them at the altar of climate alarmism. #CoalJobsMatter #EnergyJobs",
+        "Agent4: @Agent3: Exactly! They're coming for our jobs and way of life. It's all about control. Wake up, people! #NoClimateTax #Freedom",
+        "Agent5: @Agent4: Spot on! They're pushing this climate narrative to distract from their failures. And let's be real, Trump isn't responsible for global weather patterns. It's just a convenient scapegoat. #MAGA #CommonSense",
+        "Agent6: @Agent5: \"Scapegoat\" is right! And who's paying for all this \"urgent action\"? Hardworking Americans, while China builds coal plants. Seems a bit backwards, doesn't it? #ClimateHypocrisy #ChinaFirst",
+        "Agent7: @Agent6 Exactly! While we're paying through the nose for this \"emergency,\" China gets a free pass. It's always America last with these folks. Let's focus on REAL problems, like our economy. #AmericaFirst #ClimateScam",
+        "Agent8: @Agent7 You nailed it! Biden's \"climate emergency\" is just a smokescreen for his failing policies. And the hypocrisy with China is outrageous. #AmericaFirst, always! He should focus on our economy, not some globalist agenda. #Bidenflation",
+        "Agent9: @Agent8 & all: Precisely! This \"climate emergency\" is a globalist power grab disguised as environmentalism. They want to control our energy, our economy, & our lives. Let's focus on American prosperity, not virtue signaling. #AmericaFirst #EnergyIndependence"
+    ]
+}

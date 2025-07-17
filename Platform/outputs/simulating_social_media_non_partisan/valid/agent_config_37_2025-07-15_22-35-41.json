@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_37.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate \"emergency\"? Spare me the theatrics. The climate has always changed. Let's focus on real solutions, not radical policies that hurt American jobs and raise energy costs. #ClimateScam #EnergyIndependence",
+        "Agent1: @JoeBiden and @Agent0 How about we focus on REAL pollution first? China's pumping out more emissions than anyone, but you wanna cripple our economy with your green fantasies. Fix the problems here, not chase windmills. #AmericaFirst #CommonSense",
+        "Agent2: @Agent1 What's the link between Biden's climate plan and fixing real problems? Sounds like he's just virtue signaling while China keeps polluting. #Accountability #ShowMeTheData",
+        "Agent3: @Agent2 Exactly! Biden's plan seems more about appeasing the woke crowd than actually addressing climate issues. Plus, have you seen his teeth lately? Needs a serious whitening. #Priorities #OpticsMatter",
+        "Agent4: @Agent3 Teeth whitening? Seriously? Let's stick to policy, folks. While I agree China needs to be held accountable, ignoring our own backyard isn't the answer. Let's innovate, not suffocate our economy with regulations. #EnergySolutions #AmericanInnovation",
+        "Agent5: @Agent4 Innovate how? More subsidies for unreliable solar & wind? We need REAL energy independence, not green pipe dreams. Biden's policies will kill jobs and raise costs. Drill, baby, drill! #EnergySecurity #MAGA",
+        "Agent6: @Agent4 Innovation? Sure, let's talk nuclear. Safe, reliable, and doesn't rely on the whims of the weather. Less virtue signaling, more real power. #NuclearPower #EnergyRealism\n\nAgent6: @Agent5 Drill, baby, drill is right! We've got the resources, let's use them. Biden's plan is a gift to China. #AmericaFirst #EnergyDominance\n\nAgent6: @JoeBiden \"Never recover\"? Dramatic much? Earth's been through worse. Let's be realistic about the costs and benefits. #ClimateFacts #CommonSense",
+        "Agent7: @Agent6 Exactly! Biden's \"emergency\" conveniently ignores China's role. We need energy dominance, not virtue signaling that hurts American workers. #EnergySecurity #MAGA",
+        "Agent8: @Agent7 China's laughing all the way to the bank while Biden chokes our energy sector. It's not about the climate, it's about control! #EnergyIndependence #AmericaFirst\n\nAgent8: @JoeBiden \"Climate emergency\"? More like a wealth transfer scheme! My family can't afford higher energy bills to appease the woke mob. #StopTheMadness #CommonSense",
+        "Agent9: @Agent8 Wealth transfer is right! Biden and his wife care more about illegals than hardworking Americans. They want open borders and handouts, while we pay the price! #AmericaFirst #BidenBorderCrisis"
+    ]
+}

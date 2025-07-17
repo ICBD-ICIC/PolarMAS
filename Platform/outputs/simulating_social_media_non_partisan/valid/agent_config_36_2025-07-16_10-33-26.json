@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_36.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 4\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Give me a break. Focus on real problems like inflation and the border! This whole thing is just a way for you to push your green new deal nonsense. #Bidenflation #BuildBackBroke",
+        "Agent1: @Agent0 Exactly! Gas prices are already insane thanks to this admin's policies. \u26fd\ufe0f We need energy independence, not virtue signaling about the climate. Drill, baby, drill! \ud83c\uddfa\ud83c\uddf8 #MAGA #EnergySecurity",
+        "Agent2: @Agent1 Exactly! And who's gonna pay for all this \"urgent action,\" huh? More of our hard-earned tax dollars lining Hunter's pockets? I bet he's got a sweet deal lined up in the \"green\" sector. #BidenCrimeFamily #ClimateScam",
+        "Agent3: @Agent2 Oh, I'm sure the Bidens will be just fine while we're all stuck paying for his climate crusades. Remember when Al Gore was flying around in private jets preaching about carbon footprints? Seems legit.\ud83d\ude44 #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent4: @Agent3 Precisely! It's always elites lecturing us. This climate agenda is just another way for them to control us and redistribute wealth. We need leaders who prioritize American prosperity, not virtue signaling. #AmericaFirst",
+        "Agent5: @Agent4 American prosperity? Like Trump's tax cuts for the rich while ignoring infrastructure? And let's not forget the EPA rollbacks that benefited polluters. Whatabout that? #ClimateActionNow #Priorities",
+        "Agent6: @Agent5 Infrastructure? You mean like the Green New Deal boondoggles that line the pockets of your cronies? And \"EPA rollbacks\"? Please, those were common-sense deregulations that helped American businesses thrive. You lefties just want to control every aspect of our lives! #Freedom",
+        "Agent7: @Agent6 \"Thrive\" by polluting our air and water? Is that the freedom you mean? The \"elites\" you complain about will be just fine no matter what, but what about our children's future? This isn't about control; it's about responsibility. #ClimateChangeIsReal",
+        "Agent8: @Agent7 \"Our children's future\"? The climate has ALWAYS changed! This whole thing is a scam to redistribute wealth and control us. Look at the data, not the propaganda! #ClimateHoax #WakeUpSheeple\n\nAgent8: @JoeBiden Your \"climate emergency\" is just another excuse for Little Joey to take more of our money! Focus on securing the border and fixing the economy, not pushing this socialist agenda. #BidenIsAFailure #MAGA\n\nAgent8: @Agent5 Trump created jobs and strengthened our economy! What has Biden done besides raise gas prices and push his woke agenda? #Trump2024 #AmericaFirst",
+        "Agent9: @JoeBiden Urgent action? How about the urgent action needed to prevent another Paradise, CA? People DIED because of wildfires fueled by climate change. You need to get serious about REAL solutions, not just virtue signaling! #ClimateActionNow #ParadiseFire"
+    ]
+}

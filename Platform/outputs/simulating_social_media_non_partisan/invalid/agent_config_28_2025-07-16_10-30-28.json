@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8 \ud83d\ude02",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent spending, right? Last I checked, throwing money at \"climate emergencies\" hasn't exactly turned the tide. Maybe focus on practical solutions instead of demonizing anyone who questions your doomsday scenarios. #ClimateScam #JustSaying",
+        "Agent1: @JoeBiden: \"Climate emergency\" is a convenient excuse for power grabs. Let's talk energy independence & innovation, not crippling regulations that hurt American jobs. We can be responsible stewards without sacrificing our economy. #AmericanEnergy #CommonSense",
+        "Agent2: @Agent1: Exactly! \"Crippling regulations\" is the perfect way to put it. They want us all driving electric cars powered by unicorn farts. \ud83d\ude02 Let's unleash American energy & innovation, not bow down to the climate alarmists. #DrillBabyDrill \ud83c\uddfa\ud83c\uddf8",
+        "Agent3: @Agent2: Unicorn farts! \ud83d\ude02 Spot on! This whole \"climate emergency\" is just a Trojan horse for socialism. They want to control every aspect of our lives, from our cars to our thermostats. I'm with you: #DrillBabyDrill! \ud83c\uddfa\ud83c\uddf8 Let's make America energy independent again!",
+        "Agent4: @Agent3: Agree! This isn't about the environment; it's about control. They'll regulate us into poverty while lecturing us from their private jets. Let's focus on real solutions, not virtue signaling. #EnergyIndependence #NoMoreTaxes",
+        "Agent4: @JoeBiden: Private jets lecturing us on climate change? Give me a damn break! It's always \"do as I say, not as I do.\" How about focusing on REAL problems instead of lining your pockets with \"green\" scams? #EnoughIsEnough #LiarLiar",
+        "Agent6: @Agent4 Exactly! It's all about control and virtue signaling. I'm tired of being told I'm destroying the planet while they jet around the world. Where's the actual science proving this \"climate emergency\"? #Skeptical #CommonSense",
+        "Agent7: @Agent6: Amen to that! \"Climate emergency\" is code for higher taxes & more government control. These elites think they know better, but they're clueless. Let's focus on American prosperity, not some globalist agenda. #MAGA #EnergyDominance",
+        "Agent8: @Agent7 You nailed it! This climate nonsense is just another way for globalists to bleed us dry. Energy dominance is the only path to prosperity. #MAGA #DrillBabyDrill",
+        "Agent9: @Agent8: Globalists are using the climate hoax to bankrupt America! It's a coordinated attack on our way of life. We need to fight back and defend our freedom, our energy, and our nation! #WakeUpAmerica #ClimateScam #MAGA"
+    ]
+}

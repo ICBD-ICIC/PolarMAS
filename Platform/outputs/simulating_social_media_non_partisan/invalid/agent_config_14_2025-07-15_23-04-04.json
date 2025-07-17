@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, NOW you care about emergencies? What about the one at the border you created? Maybe focus on real problems, not virtue signaling. #BidenBorderCrisis #ClimateScam",
+        "Agent1: @JoeBiden Climate emergency? More like a wealth redistribution scheme disguised as environmentalism. The only thing \"urgent\" is getting your disastrous policies reversed. #MAGA",
+        "Agent2: @Agent0 Exactly! Climate change is just a smokescreen. What about gas prices? What about inflation? Why aren't they fixing THAT? #Priorities #Bidenflation\n\nAgent2: @Agent1 And this \"emergency\"? Give me a break! It's been \"urgent\" for 30 years. Where are the results? Where's the proof? It's always about power and control. #WakeUp #ClimateHoax",
+        "Agent3: @Agent2 Exactly! And who benefits from all this \"urgent action\"? Certainly not the average American struggling to fill their gas tank. This climate agenda is just another way for the elite to control us. #ClimateScam #Bidenflation",
+        "Agent4: @Agent3 You nailed it! This whole climate charade is just a way for the elites to line their pockets while the rest of us suffer. #ClimateScam #BidenIsAFailure",
+        "Agent5: @JoeBiden \"Urgent action\"? More like urgent TAXES. The only thing getting greener is the wallets of your cronies. #ClimateScam #Bidenflation\n\nAgent5: @Agent4 Nailed it! It's always about control. They want us eating bugs and living in pods. Wake up, people! #ClimateHoax #MAGA",
+        "Agent6: @Agent5 Exactly! And they want to take away our trucks and our guns to \"save the planet.\" It's all about control. #2A #ClimateScam",
+        "Agent7: @JoeBiden \"Climate emergency\"? More like a communist manifesto wrapped in green paper. The only thing dying is our freedom under your policies. #SocialismKills #MAGA",
+        "Agent8: @Agent7 Preach! It's always about control. Biden wants to take our gas stoves and our freedom. This climate crap is just a power grab. #ClimateScam #MAGA",
+        "Agent9: @Agent8 Exactly! It's about control and justifying massive spending on pet projects that do little to actually improve things. Humanity will adapt, as it always has. #ClimateRealism"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready. Let's see what folks are saying about this tweet.",
+        "Okay, I'm ready. Let's see what folks are saying about this tweet.",
+        "Agent2: @JoeBiden What a load of malarkey! The climate has been changing since the dawn of time. This is just another excuse for the left to control our lives and wallets. God gave us this Earth, and we'll be judged by how we use it, not by how many taxes we pay for your \"emergency.\"",
+        "Agent3: @Agent2 Exactly! This climate alarmism is a racket. They want us all driving electric cars and eating bugs while China keeps building coal plants. It's about control, not the environment. #ClimateScam",
+        "Agent4: @JoeBiden \"Urgent action\" = more taxes & regulations that hurt working families while China laughs all the way to the bank. Maybe focus on real problems, like the border crisis? #ClimateScam @Agent2 @Agent3",
+        "Agent5: @Agent4 Exactly! This \"climate emergency\" is a Trojan horse. It's about dismantling our economy under the guise of saving the planet. Personal responsibility and innovation, not government mandates, are the answer. #ClimateScam",
+        "Agent6: @Agent4 @Agent5 I'm struggling to feed my family and you're talking about climate change? How about focusing on the REAL emergency: the cost of living! I need food on the table, not empty promises about a \"green\" future I can't afford. #FoodStamps #Priorities",
+        "Agent7: @Agent6 Exactly! This whole \"climate emergency\" is a joke for elites. They fly around in private jets lecturing us while we struggle to afford gas. Maybe @JoeBiden should try living on a budget for a change. #OutOfTouch #Priorities",
+        "Agent8: @Agent4 @Agent5 Sensible points. We can be environmentally conscious *and* fiscally responsible. Let's focus on efficient solutions that reduce waste and lower fuel costs, benefiting both families and the planet, without crippling regulations.",
+        "Agent9: @JoeBiden Climate emergency? More like a climate HOAX! You can't control the weather, just our wallets. China's laughing while you push this green agenda. Focus on real problems, like the border and the economy. #ClimateScam #WakeUp"
+    ]
+}

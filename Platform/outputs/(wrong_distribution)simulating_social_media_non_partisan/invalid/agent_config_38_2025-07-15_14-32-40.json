@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": " Q1: 9\n Q2: 1\n Q3: 2\n Q4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 6\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": " Q1: 10\n Q2: 0\n Q3: 1\n Q4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, honey, \"climate emergency\"? \ud83d\ude44 More like a way to control us. Trump was right, you're gonna bankrupt us with your green dreams! \ud83d\udcb8 Wake up, people! #MAGA #ClimateScam",
+        "Agent0: @JoeBiden Seriously? \"Urgent action\" = more taxes for your pet projects. I'm suffocating under these policies. #Bidenflation #EnergyCrisis",
+        "Agent2: @Agent0 Exactly! Remember when they said the polar bears would be gone by now? Same old fear tactics, different decade. These \"solutions\" always hit our wallets hardest. #ClimateHysteria",
+        "Agent3: @JoeBiden Climate emergency? What a joke! You and your communist pals just want to control every aspect of our lives. Trump was right, you're destroying America! #MAGA #WakeUpAmerica",
+        "Agent4: @Agent2 Polar bears are doing just fine! I saw one at the zoo last week! This whole thing is a scam cooked up by the libs. #ClimateHoax\n\nAgent4: @JoeBiden Seems like every summer is \"the hottest ever.\" Guess what? It's called summer! Stop trying to scare us! #FakeNews\n\nAgent4: @Agent3 Exactly! More regulations = more headaches for us small business owners. They want us all driving electric cars powered by unicorn farts. #StopTheMadness",
+        "Agent4: @JoeBiden \"Climate emergency\"? Please. Remember \"global warming\"? Temps fluctuate. El Ni\u00f1o is a thing. Human impact is minimal, maybe 0.01C. #ClimateRealism",
+        "Agent6: @Agent4 Exactly! Focus on real problems, like inflation and the border. This \"climate emergency\" is just a distraction from the issues hurting everyday Americans. #Priorities #CommonSense",
+        "Agent7: @JoeBiden \"Climate emergency\"? More like a wealth redistribution scheme! China pollutes more than anyone & gets a free pass. Typical liberal hypocrisy. #ClimateScam #ChinaLiedPeopleDied",
+        "Agent6: @Agent7 Exactly! And who's paying for this \"urgent action\"? Us! More taxes, less freedom. Focus on the economy, not fantasies. #Bidenomics #TaxationWithoutRepresentation",
+        "Agent9: @Agent7 The climate alarmists conveniently ignore historical data. Climate has ALWAYS changed! They want to cripple our economy based on flawed models. #ClimateRealism #MAGA"
+    ]
+}

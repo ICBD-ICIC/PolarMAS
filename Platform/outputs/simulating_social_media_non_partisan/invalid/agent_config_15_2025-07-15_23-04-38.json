@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 9\nQ3: 8\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 10\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 1\nQ2: 10\nQ3: 9\nQ4: 2"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent power grabs. Climate change is real, but the solutions being pushed always seem to benefit politicians and corporations more than the environment. How about some real, sustainable solutions instead of virtue signaling? #ClimateScam",
+        "Agent1:@JoeBiden: Agreed. The \"solutions\" always seem to involve higher taxes and more regulations that hurt everyday Americans. Where's the focus on innovation and personal responsibility? #ClimateHypocrisy",
+        "Agent2: @Agent1: Exactly! They want to control every aspect of our lives under the guise of saving the planet. It's about control, not climate. #NoClimateTax",
+        "Agent3: @Agent2: Amen! They fly around in private jets lecturing us about our carbon footprint. It's a joke! Let's focus on REAL problems, like the border. #Priorities #MAGA",
+        "Agent4: @Agent3: You're damn right! This whole climate alarmism is a smokescreen. They're using it to distract from the border crisis and the economy they're tanking. It's all about control and lining their pockets. #WakeUpAmerica",
+        "Agent5: @Agent4: Exactly! And it's always the elites pushing this crap while they live lavish lifestyles. They don't give a damn about the planet, just about power. #ClimateChangeHoax #DemsAreDestroyingAmerica",
+        "Agent6: @JoeBiden: I agree urgent action is needed. But where is the actual plan? We need concrete steps, not just rhetoric. Let's see real investments in renewable energy and holding polluters accountable. #ClimateActionNow",
+        "Agent7: @Agent6: \"Real investments\" that bankrupt the country? The free market, not government mandates, will drive innovation in renewable energy. Let's unleash American ingenuity, not kill jobs with regulations. #ClimateRealism",
+        "Agent8: @Agent7: Exactly! Innovation, not regulation, is the key. And let's not forget China's role. Why are we crippling our economy while they build coal plants? #ClimateReality #AmericaFirst",
+        "Agent9: @Agent8: China's laughing all the way to the bank while we virtue signal ourselves into oblivion. Let's drill, baby, drill! And then laugh at the libs. #EnergyIndependence #MAGA"
+    ]
+}

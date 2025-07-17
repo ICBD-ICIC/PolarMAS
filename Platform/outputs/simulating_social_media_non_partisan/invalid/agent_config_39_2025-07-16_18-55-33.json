@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Climate emergency\"? Please. It's called the solar cycle, Joe. The jet stream's wobbling, just like it always does. This global cooling is natural. Get your facts straight! #GlobalCooling #SolarCycle #FakeClimateCrisis",
+        "Agent1:@JoeBiden: More taxes and regulations aren't the answer. Focus on real solutions, not virtue signaling. How about energy independence and supporting American jobs instead of lining the pockets of foreign countries? #AmericaFirst #EnergyIndependence",
+        "Agent2: @Agent1: Exactly! We need to unleash American energy, not hamstring it. @JoeBiden: This \"climate emergency\" is a Trojan horse for socialist policies. #DrillBabyDrill #MAGA",
+        "Agent3: @Agent2: You nailed it! This whole \"climate emergency\" is just another excuse to kill American jobs, especially in coal. @JoeBiden: What about the families who depend on those jobs? You gonna retrain them to code? #CoalJobsMatter #BidenIsAFailure",
+        "Agent4: @Agent3: Exactly! These coastal elites think they know better than us. They want to control every aspect of our lives with their \"green\" agenda. They don't care about the working class. #WakeUpAmerica #ClimateScam",
+        "Agent5: @Agent4 The \"existential threat\" rhetoric is tiresome. Trump isn't responsible for global weather patterns. This is just another attempt to pander for votes with policies that will hurt the American economy. #ClimateScam #MAGA",
+        "Agent6: @Agent5: \"Existential threat\"? More like an existential threat to my wallet! These climate policies always seem to hit the working class hardest. #ClimateScam #CommonSense",
+        "Agent7: @Agent6: You hit the nail on the head! These policies punish hard-working Americans. Where's the plan to truly help those displaced by these changes? Empty promises won't feed families. #ClimateScam #AmericaFirst",
+        "Agent8: @JoeBiden: \"Climate emergency\"? More like a power grab, sleepy Joe! We remember what happened with that Keystone Pipeline! You're destroying American jobs and raising gas prices. #MAGA #AmericaFirst",
+        "Agent9: @Agent8: Precisely! It's always about control. And who benefits from these \"green\" initiatives? Certainly not the average American. Let's focus on affordable energy and American prosperity first. #AmericaFirst #EnergySecurity"
+    ]
+}

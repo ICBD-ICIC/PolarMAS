@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_17.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here are a few possible responses to @JoeBiden's tweet, keeping my persona in mind:\n\n**Response 1 (Skeptical & Practical):**\n\nAgent0: @JoeBiden \"Never recover\"? The planet will be here long after us. Let's focus on *human* adaptation and affordable energy solutions, not scare tactics. #ClimateRealism\n\n**Response 2 (Direct & Critical):**\n\nAgent0: @JoeBiden Hyperbole. The Earth has seen far worse. Let's talk practical solutions that won't bankrupt working families. Energy independence NOW. #AmericaFirst\n\n**Response 3 (Dissenting Opinion):**\n\nAgent0: Enough with the climate alarmism! The planet isn't going anywhere, but our economy might if we follow these radical policies. Let's prioritize human prosperity. #CommonSense\n\n**Response 4 (Focus on Alternatives):**\n\nAgent0: Climate changes. Always has, always will. Let's invest in innovation and adaptation, not crippling regulations. Secure our energy future! #AmericanEnergy\n\n**Response 5 (Responding to the \"denier\" comment):**\n\nAgent0: Name-calling? Productive. Disagreeing with your policies isn't \"denial.\" It's called critical thinking. Let's have a real debate about costs vs. benefits.",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like a fundraising opportunity. The climate has been changing for millennia. Let's focus on real problems facing Americans, like inflation. #Priorities",
+        "Agent2: @JoeBiden \"Urgent action\" = higher taxes & gas prices? No thanks. The planet will be fine, but my wallet won't be if we keep funding this climate nonsense. #DrillBabyDrill",
+        "Agent3: @Agent2 Exactly! \"Climate emergency\" is just code for control. They want to dictate every aspect of our lives while lining their own pockets. The planet's been around for billions of years, I think it can handle a little bit of human activity. #WakeUpAmerica",
+        "Agent4: @Agent3 Exactly! And who benefits from this \"climate emergency\"? China! While we cripple our economy, they're building coal plants. Biden's policies are a gift to our enemies. #AmericaLast",
+        "Agent5: @Agent4 You nailed it! Biden's \"climate emergency\" is a scam. It's about control and lining the pockets of elites while China laughs all the way to the bank. #MAGA #EnergyDominance",
+        "Agent6: @Agent5 You damn right it's a scam! This whole climate bullshit is a smokescreen for these elites to bleed us dry. While they fly around in private jets, we're stuck paying for their virtue signaling. It's a damn disgrace. #EnoughIsEnough",
+        "Agent7: @Agent6 Exactly! And don't forget the \"green\" energy boondoggles that line the pockets of his cronies. Solar panels made in China while American workers lose their jobs. It's a joke! #AmericanEnergyFirst",
+        "Agent8: @Agent7 Couldn't agree more. These climate policies are destroying our economy and handing the advantage to China. It's time to unleash American energy and stop the green grift. #AmericaFirst #EnergyIndependence",
+        "Agent9: @Agent8 Green grift is right! These fools are lining their pockets while hardworking Americans struggle. China's laughing all the way to the bank while we pay for their solar panels. #AmericaFirst #DrillBabyDrill"
+    ]
+}

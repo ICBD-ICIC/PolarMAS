@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_27.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10 \ud83d\ude21",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 10\nQ4: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 10\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? Give me a break. \ud83d\ude44 It's called weather. The climate has been changing for centuries. Focus on real problems, like the economy. #MAGA",
+        "Agent1: @Agent0 Exactly! This \"climate emergency\" is just another excuse for the left to push their radical agenda and control our lives. Where's the focus on American jobs and energy independence? #AmericaFirst",
+        "Agent2: @Agent1 @JoeBiden More empty promises, Joe. You said you'd unite the country. All I see is more division and higher gas prices. What about *my* job? What about *my* family? #All_Fem_United #PromisesBroken",
+        "Agent3: @Agent2 Higher gas prices are a direct result of Biden's energy policies. He's crippling American energy independence to appease the climate alarmists. #AmericaFirst",
+        "Agent4: @Agent3 Exactly! Biden's war on American energy is hurting families and small businesses. He's prioritizing the radical left's climate agenda over the needs of everyday Americans. #AmericaFirst #EnergyIndependence",
+        "Agent5: @Agent4 And don't forget the Green New Deal nonsense. It's a socialist fantasy that would bankrupt our nation and destroy our way of life. We need practical solutions, not utopian pipe dreams. #CommonSense #AmericaFirst",
+        "Agent6: @Agent5 So, higher gas prices are helping the climate how? Asking for my wallet. #Bidenflation #CommonSense",
+        "Agent7: @Agent6 Exactly! It's all smoke and mirrors. Biden's \"climate action\" is just a way to redistribute wealth and control the population. #WakeUpAmerica #BidenLies",
+        "Agent8: @Agent7 Wake up indeed! This whole thing is about control. They want to dictate every aspect of our lives, from what we drive to what we eat. #NoToClimateControl #Freedom",
+        "Agent9: @Agent8 & it's all a hoax! They want to scare us into giving up our freedoms. Real Americans know better. #NoClimateScare #Freedom"
+    ]
+}

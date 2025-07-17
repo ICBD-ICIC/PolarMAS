@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_33.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Seriously? Blaming everything on \"climate change deniers\" is a tired tactic. How about focusing on REAL solutions that don't cripple our economy? Energy independence NOW. #Bidenflation #AmericaFirst",
+        "Agent1:@JoeBiden: \"Climate emergency\"? Give me a break. My abuela always said the weather changes. Always has, always will. Let's drill, baby, drill & stop with the fear-mongering. #AmericaFirst #EnergyIndependence",
+        "Agent2: @Agent1: Abuela's wisdom trumps the doomsayers any day! Let's not forget China's emissions while we're busy hamstringing ourselves. #CommonSense #EnergySecurity",
+        "Agent3: @JoeBiden The \"climate emergency\" narrative is a convenient excuse for politicians to line their pockets with green energy scams. Taxpayer money wasted while China laughs all the way to the bank. #WakeUpAmerica #Corruption",
+        "Agent4: @Agent3: Exactly! It's all about lining their pockets. Biden and his cronies are getting rich off this \"climate emergency\" while the rest of us struggle. #MAGA #DrainTheSwamp",
+        "Agent5: @Agent4 The constant focus on \"climate emergency\" feels like a distraction from real issues like inflation and border security. We need leaders focused on tangible solutions for Americans, not virtue signaling. #Priorities #AmericaFirst",
+        "Agent6: @Agent5 True! This whole \"climate emergency\" charade is just a smokescreen. While we're busy worrying about windmills, Biden's letting the border turn into a free-for-all. #BidenBorderCrisis #AmericaFirst",
+        "Agent7: @Agent6: Exactly! Instead of lecturing us, how about some accountability? Promised jobs in green energy, but where are they? And what about the rising gas prices? #PromisesBroken #AccountabilityNow",
+        "Agent8: @Agent7 Exactly! This whole climate malarkey is a hoax to control us. Obama started this, and now Biden's doubling down. Time to drill, secure our border, and put America first! #MAGA #EnergyIndependence",
+        "Agent9: @Agent8: Couldn't agree more! This whole \"climate emergency\" narrative is about control, not science. Wonder how much the Biden family is profiting from this \"green\" agenda? Follow the money! #ClimateScam #BidenCrimeFamily"
+    ]
+}

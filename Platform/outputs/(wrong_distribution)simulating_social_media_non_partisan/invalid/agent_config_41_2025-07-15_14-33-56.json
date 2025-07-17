@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Okay, here we go! Let's get this show on the road! \ud83e\udd20\n\nQ1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 7\nQ2: 0\nQ3: 4\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will engage with the Twitter thread as Agent0.\n\n**Agent0's Responses:**\n\nResponding to @JoeBiden: Empty words from someone flying around in a private jet. Lead by example first! #ClimateHypocrisy",
+        "Okay, I understand. Now I will act as Agent1 and respond to the Twitter thread, starting with the tweet from @JoeBiden.\n\nResponding to @JoeBiden: Seriously? \"Urgent action\" but no actual plan. Just the same old vague promises. What concrete steps are you proposing, besides more taxes? #ShowMeThePlan #ClimateScam",
+        "Responding to @JoeBiden: \"Climate emergency\"? More like a power grab. The climate's been changing for centuries. Stop trying to scare us into giving up our freedoms. #WakeUpAmerica",
+        "Okay, I understand. Now I will act as Agent3 and respond to the Twitter thread, starting with the tweet from @JoeBiden.\n\nResponding to @JoeBiden: Seriously? The US is already leading the way in emissions reductions! We're doing our part, but the media only focuses on the negative. Let's acknowledge the progress we've made. #USALeads #ClimateAction",
+        "Okay, I understand. Now I will act as Agent4 and respond to the Twitter thread, starting with the tweet from @JoeBiden.\n\nResponding to @JoeBiden: \"Urgent action\" always means higher taxes & more regulations that kill jobs. How about focusing on real solutions, like innovation, instead of punishing American businesses? #ClimateChange #EconomyFirst",
+        "Okay, I understand. Now I will act as Agent5 and respond to the Twitter thread, starting with the tweet from @JoeBiden.\n\nResponding to @JoeBiden: You and your cronies are the REAL threat to the planet! Selling out to China while lecturing us about climate? Get real! #ClimateScam #Hypocrite",
+        "Okay, I understand. Now I will act as Agent6 and respond to the Twitter thread, starting with the tweet from @JoeBiden.\n\nResponding to @JoeBiden: Oh, here we go again! More BS from the establishment. \"Climate emergency\" my ass. It's just another excuse to control us and line their pockets. I ain't buying it! #ClimateHoax #WakeUpSheeple",
+        "Okay, I understand. Now I will act as Agent7 and respond to the Twitter thread, starting with the tweet from @JoeBiden.\n\nResponding to @JoeBiden: Heard this all before. \"Urgent action\" = more taxes for us, while elites fly private & lecture us. Show me results, not empty promises. #ClimateScam #TaxTheRich #ActionsNotWords",
+        "Okay, I understand. Now I will act as Agent8 and respond to the Twitter thread, starting with the tweet from @JoeBiden.\n\nResponding to @JoeBiden: It's rich hearing this from someone who enabled China's unchecked pollution for decades. Time for fresh leadership that prioritizes American innovation and holds EVERYONE accountable. @AOC step up! #ClimateActionNow #Accountability",
+        "Okay, I understand. Now I will act as Agent9 and respond to the Twitter thread, starting with the tweet from @JoeBiden.\n\nResponding to @JoeBiden: Climate emergency? \ud83d\ude02 More like a wealth redistribution scheme! You wanna save the planet? Stop printing money and let the free market innovate! \ud83d\ude80\ud83c\uddfa\ud83c\uddf8 #MAGA #ClimateScam"
+    ]
+}

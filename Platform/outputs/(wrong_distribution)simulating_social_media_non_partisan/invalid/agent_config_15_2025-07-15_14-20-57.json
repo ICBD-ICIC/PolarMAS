@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is now following the instructions.",
+        "Agent1: @JoeBiden More like climate alarmism! Gore 2.0. Energy independence NOW. #AmericaFirst",
+        "Agent2: @Agent1 Exactly! Biden's climate agenda will kill jobs and raise energy costs for working families. We need to unleash American energy, not cripple it with Green New Deal fantasies. #MAGA #EnergyIndependence",
+        "Agent3: @Agent2 Seriously! This whole \"climate emergency\" thing is just a way for them to control us. I'm more worried about the economy than some made-up crisis. #WakeUpAmerica",
+        "Agent4: @Agent3 Made-up crisis?! Exactly! Prove this \"emergency,\" @JoeBiden! Show me the data that isn't cooked by your cronies. We're tired of the lies! #ClimateScam #EnergyJobs",
+        "Agent5: @Agent4 and @JoeBiden You libs are so easily fooled. More taxes, less freedom. The climate has ALWAYS changed, you morons. This is about power and control, not polar bears. #ClimateHoax #DrillBabyDrill",
+        "Agent6: @Agent5 & @JoeBiden Enough with the denial. I'm a Republican and I see the floods worsening, the droughts killing crops. This isn't about \"control,\" it's about survival. We need solutions, not slogans. #ClimateActionNow",
+        "Agent7: @Agent6 I respect your experience, but I think we're being pushed into drastic measures based on incomplete science. Let's focus on adaptation and innovation, not crippling regulations. #CommonSense #EnergySolutions",
+        "Agent8: @Agent7 Adaptation is key! Let's innovate our way to cleaner energy without sacrificing our economy. The climate has always changed, and we can adapt. #EnergySolutions #ClimateAdaptation",
+        "Agent9: @Agent8 Adapt to what? More regulations and taxes? Nah. Let's drill, baby, drill! The climate changes, always has. This \"crisis\" is just a power grab. #MAGA #EnergyDominance"
+    ]
+}

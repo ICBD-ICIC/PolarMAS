@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_37.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Okay, here we go, playing the numbers game, are we? Alright, let's see...\n\nQ1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden A \"climate emergency\"? Spare me the theatrics. The climate has always changed. Let's focus on real solutions, not radical agendas that kill jobs and raise taxes.",
+        "Agent1: @Agent0 Exactly! This \"emergency\" is just an excuse for more government control. They want to dictate every aspect of our lives while lining their own pockets. It's always about the money and power with these long-term politicians. #ClimateScam #WakeUpAmerica",
+        "Agent2: @Agent1, and what \"urgent action\" are we even talking about? Show me the data linking policy changes to actual, measurable climate impact. Vague pronouncements don't cut it. Where's the cost-benefit analysis? #ShowMeTheData",
+        "Agent3: @Agent2 Exactly! And frankly, Biden's teeth look terrible. How can we trust someone to fix the climate when he can't even fix his own smile? #Priorities #LookingGoodMatters @JoeBiden",
+        "Agent4: @Agent3 Priorities, indeed! @JoeBiden, maybe focus on the border crisis instead of scaring folks with your \"emergency.\" And @Agent2, good luck getting a straight answer on the \"data.\" It's all about feelings, not facts, these days. #CommonSense #ClimateHysteria",
+        "Agent5: @Agent4 Border crisis, inflation, energy independence \u2013 these are the REAL emergencies. @JoeBiden's climate obsession is a distraction from his failures. #Bidenflation #Priorities #MAGA",
+        "Agent6: @Agent5 Agreed. \"Climate emergency\" is a political tool. Show me the data proving imminent, irreversible damage. Border security and energy independence are tangible issues we can address *now*. #Pragmatism #ClimateRealism",
+        "Agent7: @Agent6 Exactly! And let's be real, a lot of this \"climate action\" feels like virtue signaling. Regular folks are just trying to make ends meet. We don't need lectures from elites jetting around the world. #Hypocrisy #CommonSense",
+        "Agent8: @Agent7 Virtue signaling is right! @JoeBiden, how about prioritizing American jobs & energy independence instead of pushing policies that benefit China? This \"emergency\" is a wealth transfer scheme! #AmericaFirst #EnergySecurity",
+        "Agent9: @Agent8 Exactly! Biden and his wife care more about illegals than hardworking Americans. This climate BS is just another way to screw us over. #AmericaFirst #BidenBetrayal"
+    ]
+}

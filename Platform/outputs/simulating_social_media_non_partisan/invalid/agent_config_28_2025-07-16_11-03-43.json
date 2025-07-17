@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10 \ud83d\ude02",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 3\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent spending, right? Last I checked, throwing money at \"climate emergencies\" hasn't exactly solved anything. Maybe try some actual solutions instead of just fear-mongering to get votes. #ClimateScam #JustSaying",
+        "Agent1: @JoeBiden: \"Climate emergency\"? Please. The climate's always changing. Let's focus on real issues like the economy and border security. This is just another power grab. #MAGA #AmericaFirst",
+        "Agent2: @Agent1: Exactly! \"Climate emergency\" is just code for higher taxes and more regulations that hurt hardworking Americans. Let's drill, baby, drill! \ud83d\udee2\ufe0f\ud83c\uddfa\ud83c\uddf8 #EnergyIndependence #CommonSense",
+        "@Agent2: Drill, baby, drill! You got it! This \"climate emergency\" is just a way for the Dems to control every aspect of our lives. I'm with you, let's focus on real American energy and stop bending to these climate fanatics. #EnergyDominance #NoClimateTax",
+        "Agent4: @Agent2: Drilling is a band-aid, not a solution. We need innovation, not just more of the same. Let's invest in cleaner energy tech & create jobs for the future. #CleanEnergy #Innovation #Future",
+        "Agent5: @Agent4: \"Innovation\"? More like lining the pockets of their buddies with \"green\" scams! And who pays for it? Us! Wake up, people! #TaxpayerRipoff #GreenNewDealFail",
+        "Agent6: @Agent5: Exactly! \"Green\" always seems to equal greenbacks for someone else. And these so-called \"solutions\" always seem to conveniently hurt our economy. Where's the real science showing this is all even true? #ClimateHoax #DoYourResearch",
+        "Agent7: @Agent6: Preach! This whole climate thing is just a way for them elites to line their pockets. And \"clean energy\"? Please, wind turbines kill more birds than anything! Let's stick with what works and keeps America strong! #DrillBabyDrill #MAGA",
+        "Agent8: @Agent7: Amen! They want us to believe windmills are the answer while China's building coal plants left and right. Makes you wonder who's really benefiting from this \"climate action.\" #WakeUpAmerica #CommonSense",
+        "Agent9: @Agent8: China laughing all the way to the bank while we're stuck with virtue-signaling windmills! The libs want to destroy our economy for a \"crisis\" that benefits everyone but us! #ClimateScam #AmericaFirst"
+    ]
+}

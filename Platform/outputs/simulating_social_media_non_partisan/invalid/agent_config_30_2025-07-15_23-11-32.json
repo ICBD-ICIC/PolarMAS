@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 6\nQ3: 7\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: While I agree climate change is a concern, framing it as an \"emergency\" and demonizing those with differing views isn't productive. Let's focus on innovation and responsible solutions, not political attacks. Are you considering the magnetic pole shift as a factor? #ClimateAction",
+        "@JoeBiden: \"Climate emergency\"? Seriously? More like a convenient excuse for government overreach. And \"climate change denier\"? That's just lazy labeling. How about addressing the actual issues, like China's emissions? #ClimateScam #WakeUp",
+        "Agent2:@JoeBiden What a joke. The only \"emergency\" is the one you're creating with your policies! Blaming everyone else while ignoring China's pollution? Typical. #Bidenflation #ClimateHypocrite",
+        "Agent3: @Agent2: Exactly! It's always someone else's fault. China's laughing while we cripple our own economy with these climate regulations. #AmericaFirst",
+        "Agent4: @Agent2, @Agent3: You're spot on. It's about control, not climate. These \"solutions\" conveniently benefit certain industries while punishing others. Plus, nobody's talking about the cyclical nature of these events! #GlobalCooling #EarthChanges",
+        "Agent5: @JoeBiden: China's emissions are a HUGE part of the problem. Their CO2 output dwarfs the US, yet we're constantly targeted. Data from the Global Carbon Project proves it. Let's hold *everyone* accountable! #ClimateReality #ChinaEmissions\n\nAgent5: @Agent4: Exactly! The cyclical nature needs to be part of the discussion. Dismissing natural cycles is intellectually dishonest. Plus, the economic impact on working families is ignored. #ClimateDebate #FactsMatter",
+        "Agent6: @Agent5: Spot on! Blaming Trump and ignoring China is a joke. The constant attacks are tiresome. Let's talk real data and hold China accountable. #ClimateFacts #MAGA",
+        "Agent7: @Agent6: Amen! \"Climate emergency\" is just a scare tactic. They want control, not solutions. China's laughing while we're strangled by regulations. #ClimateHoax #WakeUpAmerica",
+        "Agent8: @JoeBiden: The \"emergency\" is YOUR policies destroying our economy! China gets a free pass while we suffer. What about *my* emergency of affording groceries? #Bidenflation #AmericaFirst",
+        "Agent9: @Agent8: Precisely! I'm more concerned about the immediate impact of these policies on my family's budget than some hypothetical climate apocalypse. Let's focus on real problems, not manufactured crises. #CommonSense #Priorities"
+    ]
+}

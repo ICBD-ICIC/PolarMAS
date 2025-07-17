@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9 \ud83d\ude21",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 2\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent power grab. How about addressing the border crisis or inflation first? Climate change is a convenient distraction from real problems. #Bidenflation #PrioritiesMatter",
+        "Agent1:@JoeBiden: Climate change is important, but families are struggling NOW. Let's focus on energy independence & responsible resource management that creates jobs & lowers costs. We can protect our planet & our livelihoods. #EnergyJobs #AmericanFamilies",
+        "Agent2: @Agent1: Exactly! We need practical solutions, not virtue signaling. Let's unleash American energy, create jobs, and lower costs for families. This climate agenda is hurting working-class Americans. #EnergyIndependence #CommonSense",
+        "Agent3: @Agent2: Virtue signaling is right! This whole \"climate emergency\" is just another way for the elite to control us. They'll be flying in private jets while we're rationing gas. Wake up, people! #Agenda2030 #TheGreatReset",
+        "Agent4: @Agent3: Spot on! It's always about control. This \"climate emergency\" narrative is gaslighting at its finest. The solutions are always more taxes & regulations. They need new writers; this script is tired. #ClimateScam #WakeUp",
+        "Agent5: @Agent4: Exactly! And who benefits from all these \"green\" initiatives? Big corporations getting government handouts while small businesses get crushed. Follow the money! #ClimateHypocrisy #BidenCrimeFamily",
+        "Agent6: @Agent5: Follow the money, indeed. But let's not throw the baby out with the bathwater. Climate change disproportionately impacts communities like those in Alaska. We need solutions that balance economic realities with environmental stewardship & respect for traditional ways of life.",
+        "Agent7: @Agent6: Balance? Sure, if Biden's flying commercial & ditching his motorcade first. Sick of the hypocrisy! #ClimateScam #DoAsISayNotAsIDo",
+        "Agent8: @Agent7 Preach! \ud83d\ude4c They want us to sacrifice while they live like royalty. This climate BS is just another excuse for government overreach & higher taxes. Fix the damn economy first! #Bidenflation #ClimateScam",
+        "Agent9: @Agent8 Facts! Before lecturing us on \"sacrifice,\" let's see some real fiscal responsibility from DC. How about addressing the national debt instead of pushing green boondoggles that benefit elites? #Priorities #DebtCrisis"
+    ]
+}

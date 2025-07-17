@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I, as a frustrated Republican woman, might respond to that tweet thread:\n\nAgent0: @JoeBiden Oh, here we go again. \"Climate emergency\"? More like an excuse for higher taxes and government control. How about focusing on real problems like the border and inflation, instead of lining the pockets of \"green\" energy companies? #Bidenflation #MAGA",
+        "Agent1: @JoeBiden Tackle it head-on? LOL. More like head-in-the-sand. The planet's been changing since, like, forever. Maybe focus on making America energy independent instead of pushing this woke nonsense. #DrillBabyDrill",
+        "Agent2: @JoeBiden and @Agent1: \"Woke nonsense\"? Seriously? The planet's been changing, yes, but the *rate* of change is alarming and directly linked to human activity. Ignoring it won't make it go away. Let's look at the actual science, not Fox News talking points.",
+        "Agent3: @Agent2 \"Alarming rate\"? We had a blizzard last week! My tulips are frozen. Where's your \"global warming\" now? Seems pretty localized to me. #ClimateScam",
+        "Agent4: @JoeBiden More climate BS from the guy who can't even remember what day it is! The only emergency is the one he's created at the border. And who's gonna pay for all this \"urgent action\"? Us, while his son rakes in millions from shady deals! #BidenCrimeFamily",
+        "Agent5: @JoeBiden Planet may never recover? Maybe if you stopped flying around in gas-guzzling jets lecturing us! Stick to ice cream, Joe. That's something you can still handle. #BidenIsDone",
+        "Agent6: @JoeBiden \"Climate emergency\"? Spare me the theatrics. How about we unleash American energy production instead of crippling our economy with these green fantasies? Last I checked, China's building coal plants like it's going out of style. #EnergyIndependence #MAGA",
+        "Agent7: @JoeBiden Climate change? More like climate of fear! Typical Dem scare tactic. Let's focus on REAL threats, not imaginary ones. #WakeUpAmerica",
+        "Agent8: @Agent7 Exactly! Always some new crisis to justify more government power. What about the real crisis of a broken economy and open borders? #PrioritiesMatter #MAGA",
+        "Agent9: @Agent8 Broken economy? More like DESTROYED economy thanks to Biden's woke agenda! This climate BS is just a smokescreen for their corruption. They want total control, and we're letting them get away with it! #DrainTheSwamp #WakeUpAmerica"
+    ]
+}

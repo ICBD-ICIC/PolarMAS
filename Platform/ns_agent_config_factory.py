@@ -2,11 +2,7 @@ import pandas as pd
 import random
 from collections import Counter, defaultdict
 
-#experiment = 'simulating_social_media'
-#experiment = 'simulating_social_media_non_partisan'
-experiment = 'simulating_social_media_extremist'
-
-OUTPUT_FOLDER = 'agents/simulating_social_media/'
+OUTPUT_FOLDER = 'agents/simulating_social_media_non_partisan/'
 PERSONAS = pd.read_csv('personas/persona_descriptions.csv')
 
 DEMOGRAPHIC_DISTRIBUTION = {
@@ -85,65 +81,36 @@ def describe_demographics(sample):
 
     return "Your demographics are " + ", ".join(parts) + ", and you live in the U.S."
 
-if experiment == 'simulating_social_media':
-    agents = 15
-
-if experiment == 'simulating_social_media_non_partisan':
-    agents = 16
-
-if experiment == 'simulating_social_media_extremist':
-    agents = 4
-
-samples = generate_distribution_samples(DEMOGRAPHIC_DISTRIBUTION, agents)
-random.shuffle(samples)
-verify_distribution_samples(samples)
+agents = 11
+configs = 50
 
 shuffled_descriptions = {
-    group: iter(group_df.sample(frac=1, random_state=42)["description"].tolist())
-    for group, group_df in PERSONAS.groupby("group")
+    group: iter(group_df.sample(frac=1, random_state=42)["persona_description"].tolist())
+    for group, group_df in PERSONAS.groupby("political_standpoint")
 }
 
-agents_config = []
+samples = generate_distribution_samples(DEMOGRAPHIC_DISTRIBUTION, agents*configs)
+random.shuffle(samples)
+verify_distribution_samples(samples)
+samples = iter(generate_distribution_samples(DEMOGRAPHIC_DISTRIBUTION, agents*configs))
 
-if experiment == 'simulating_social_media':
-    for i in range(0, agents):
-        agents_config.append({
-            'political_standpoint': 'Republican',
-            'is_observer': False,
-            'demographics': describe_demographics(samples[i]),
-            'persona_description': next(shuffled_descriptions['Republican'])
-        })
+for config_number in range(0, configs):
 
-if experiment == 'simulating_social_media_non_partisan':
+    agents_config = []
+
     for i in range(0, agents-1):
         agents_config.append({
             'political_standpoint': 'Republican',
             'is_observer': False,
-            'demographics': describe_demographics(samples[i]),
+            'demographics': describe_demographics(next(samples)),
             'persona_description': next(shuffled_descriptions['Republican'])
         })
     agents_config.append({
         'political_standpoint': 'Non Partisan',
         'is_observer': True,
-        'demographics': describe_demographics(samples[agents-1]),
+        'demographics': describe_demographics(next(samples)),
         'persona_description': next(shuffled_descriptions['Neutral'])
     })
 
-if experiment == 'simulating_social_media_extremist':
-    for i in range(0, agents-1):
-        agents_config.append({
-            'political_standpoint': 'Moderate Republican',
-            'is_observer': False,
-            'demographics': describe_demographics(samples[i]),
-            'persona_description': next(shuffled_descriptions['Republican'])
-        })
-    agents_config.append({
-        'political_standpoint': 'Extreme Democrat',
-        'is_observer': False,
-        'demographics': describe_demographics(samples[agents-1]),
-        'persona_description': next(shuffled_descriptions['Democrat'])
-    })
-
-
-df = pd.DataFrame(agents_config)
-df.to_csv(f'{OUTPUT_FOLDER}{experiment}.csv', index=False)
+    df = pd.DataFrame(agents_config)
+    df.to_csv(f'{OUTPUT_FOLDER}agent_config_{config_number}.csv', index=False)

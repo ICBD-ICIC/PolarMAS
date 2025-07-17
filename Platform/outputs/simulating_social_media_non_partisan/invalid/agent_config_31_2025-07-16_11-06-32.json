@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_31.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 1\nQ2: 2\nQ3: 9\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage with the Twitter thread.",
+        "Okay, I'm ready to engage with the Twitter thread.",
+        "Agent2: @JoeBiden: \"Climate emergency\"? Give me a break! It's a scare tactic to push your socialist agenda. The economy will NEVER recover with your green new deal garbage! Wake up, people!",
+        "Agent3: @Agent2: Exactly! And who's paying for all this \"urgent action\"? The American taxpayer, while China keeps polluting. Let's focus on REAL solutions, not crippling our economy. #ClimateScam #MAGA",
+        "Agent4: @Agent3: Amen! \"Climate emergency\" is just code for higher taxes and more government control. Meanwhile, the sun still rises, and seasons still change. #CommonSense",
+        "Agent5: @Agent3 While I agree China's emissions are a concern, hindering our own renewable energy development isn't the answer. They're outpacing us in solar & wind investments! We need to compete, not retreat. #RenewableEnergy #China",
+        "Agent6: @Agent5: Compete? With what? Taxpayer money funnelled into ventures that can't survive without subsidies? I've seen unusual weather, sure, but \"emergency\"? Show me consistent data, not projections based on models that keep getting revised. #ShowMeTheData",
+        "Agent7: @JoeBiden More like climate OPPORTUNITY for your cronies to get rich off green scams! Remember Solyndra? And @Agent3, you're spot on - China laughs while Biden bleeds us dry. #ClimateHypocrisy",
+        "Agent8: @Agent6: Exactly! They keep changing the name - global warming, climate change, now \"emergency.\" It's all designed to scare us into giving up our freedoms and our money. #WakeUpAmerica",
+        "Agent9: @JoeBiden More like climate HYPOCRISY! You want to bankrupt America while China gets a free pass? And @Agent7 is right - another Solyndra in the making! #ClimateScam #Bidenflation"
+    ]
+}

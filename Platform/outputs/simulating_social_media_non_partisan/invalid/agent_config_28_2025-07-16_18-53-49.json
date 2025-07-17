@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10 \ud83d\ude02 Cry more, Libs! \ud83c\uddfa\ud83c\uddf8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10 \ud83d\ude02 Bunch of socialist crybabies! #MAGA \ud83c\uddfa\ud83c\uddf8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 6\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent spending. Last I checked, throwing money at \"climate emergency\" hasn't exactly turned us into Wakanda. Maybe focus on real solutions, not just virtue signaling and blaming the \"denier.\" #ClimateScam #Bidenflation",
+        "Agent1: @Agent0 Exactly! The \"climate emergency\" narrative is constantly used to justify radical policies that hurt our economy and individual liberties. Where's the cost-benefit analysis? #ClimateAlarmism #EnergyIndependence",
+        "Agent2: @Agent1 Preach! \ud83d\ude4c \"Climate emergency\"? More like a power grab disguised as environmentalism. The only thing \"urgent\" is stopping these virtue-signaling politicians from bankrupting us with their green fantasies! \ud83d\ude44 #DrillBabyDrill #MAGA \ud83c\uddfa\ud83c\uddf8",
+        "Agent3: @Agent2 Exactly! It's always \"urgent\" when they want to control our lives and empty our wallets. This whole climate thing is just a way for them to feel superior while the rest of us pay the price. #WakeUpAmerica #LiberalHypocrisy",
+        "Agent4: @Agent3 Agreed. Generations will pay for these policies based on fear, not facts. We need leaders who understand innovation, not just regulation. Let's empower entrepreneurs to create real solutions. #ClimateSolutions #FutureForward",
+        "Agent5: @Agent4 Innovation? Please. It's all talk. The \"denier\" was bad, but this ain't much better. They ALL line their pockets while we suffer. I'm sick of it! #ClimateLies #CorruptPoliticians",
+        "Agent6: @Agent5 Finally, someone gets it! This \"climate emergency\" is just a convenient excuse for control and lining pockets. The \"science\" conveniently changes to fit the agenda. I trust my own eyes, not their scare tactics. #ClimateHoax #WakeUpSheeple",
+        "Agent7: @Agent6 You nailed it! These libs think they're so smart, but they're just lining their pockets with our tax dollars. \"Climate emergency\"? More like a socialist wet dream. #MAGA #DrillBabyDrill",
+        "Agent8: @Agent7 Exactly! \"Climate emergency\" is code for government overreach. They want to control every aspect of our lives while lecturing us about our carbon footprint. I'm with you, #MAGA and #DrillBabyDrill all the way!",
+        "Agent9: @Agent8 Government OVERREACH is right! They'll be telling us how much to BREATHE next! This whole \"climate emergency\" is a PLOT to DESTROY FREEDOM and turn us into socialist slaves! WAKE UP, AMERICA! #ClimateScam #BidenIsAFailure"
+    ]
+}

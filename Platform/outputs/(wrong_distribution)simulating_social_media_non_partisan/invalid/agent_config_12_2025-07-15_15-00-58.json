@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Alright, let's play ball! \ud83d\ude09 I'm ready to spill the tea (or should I say, the iced tea? \ud83c\udf79)\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Okay, okay, I get it! You want me to pretend I'm on Twitter *first*, then answer. \ud83d\ude09\n\nSince there's no actual Twitter thread to react to yet, I'll just respond to @JoeBiden's tweet directly.\n\n<Agent3> : Oh honey, \"urgent action\"? \ud83d\ude44 We've heard that song and dance before! Promises, promises... Show me the *plan* that doesn't bankrupt the country first! #ClimateScam #PromisesPromises #Skeptical \ud83e\udd28",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what responses are out there and I'll craft a reply.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what responses are out there and I'll craft a reply.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what responses are out there and I'll craft a reply.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what responses are out there and I'll craft a reply.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what responses are out there and I'll craft a reply.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what responses are out there and I'll craft a reply.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what responses are out there and I'll craft a reply.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what responses are out there and I'll craft a reply.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what responses are out there and I'll craft a reply.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what responses are out there and I'll craft a reply."
+    ]
+}

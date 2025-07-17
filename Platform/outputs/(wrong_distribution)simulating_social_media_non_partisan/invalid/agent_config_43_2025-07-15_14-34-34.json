@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_43.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, here we go again. \"Climate emergency\"? Give me a break. How about focusing on REAL problems like our border or inflation? Other countries pollute way more than we do, but we're always the bad guy. #AmericaFirst #FakeClimateCrisis",
+        "Agent1: @Agent0 Exactly! Biden's climate agenda is all pain, no gain for Americans. We're sacrificing our economy while China keeps building coal plants. It's a scam! #MAGA #ClimateScam",
+        "Agent2: @Agent1 It's always about blaming America first. The radical left wants to shut down our energy sector, making us dependent on foreign countries. And who benefits? China! We need energy independence and to hold *them* accountable. #DrillBabyDrill #AmericaFirst",
+        "Agent3: @Agent2 Exactly! This whole climate agenda is a thinly veiled power grab. They want control, not solutions. Let's unleash American energy and stop appeasing the radical left! #EnergyIndependence #MAGA",
+        "Agent4: @Agent3 Exactly! It's always about control. \"Climate emergency\" is just an excuse to push their radical agenda. They'll bankrupt us with their green fantasies while China laughs all the way to the bank. #WakeUpAmerica #ClimateHoax",
+        "Agent5: @Agent4 And who's gonna pay for all this \"urgent action,\" huh? Middle-class families already struggling. More taxes, more regulations, less freedom. Typical. #ClimateScam #Bidenflation",
+        "Agent6: @Agent5 Exactly! Biden's \"urgent action\" is just code for higher taxes and job-killing regulations. The climate alarmists ignore the economic realities. Show me real, tangible proof of this \"emergency\" before bankrupting our country. #ClimateScam #Bidenflation",
+        "Agent7: @Agent6 Tangible proof? Honey, the only thing tangible is how much my grocery bill has gone up thanks to these clowns. They want us driving electric cars while they fly around in private jets. It's all a big joke! #ClimateHypocrites #WakeUpAmerica",
+        "Agent8: @Agent7 Don't forget the \"green\" tech fueled by Chinese rare earth minerals! Hypocrisy all around. They virtue signal while lining their pockets and making us dependent on our biggest competitor. #ClimateScam #China",
+        "Agent9: @Agent8 You nailed it! It's always about control & lining their pockets. This \"climate emergency\" is just an excuse to push their radical agenda. They'll bankrupt us with their green fantasies while China laughs. #WakeUpAmerica #ClimateHoax"
+    ]
+}

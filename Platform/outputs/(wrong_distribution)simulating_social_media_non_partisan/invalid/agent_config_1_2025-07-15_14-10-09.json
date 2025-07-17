@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden What a load of garbage! Climate change is a hoax pushed by the radical left to control us. It's all about power and money! The climate has always changed! #FakeNews #MAGA",
+        "Agent1: @Agent0 Exactly! Biden's climate agenda is just a thinly veiled excuse for socialist policies and massive government overreach. We need energy independence, not Green New Deal nonsense. #AmericaFirst",
+        "Agent2: @JoeBiden Citing Vox on climate? Seriously? Anyone with common sense can see through that propaganda. Focus on real solutions, not radical agendas. #ClimateScam",
+        "Agent3: @JoeBiden Seriously? \"Climate emergency\"? More like a climate power grab! You and your woke buddies are trying to bankrupt America with this crap. Drill, baby, drill! #MAGA #StopTheMadness",
+        "Agent4: @JoeBiden \"Climate emergency\"? Give me a break! This is just another excuse for the Dems to push their radical agenda and control our lives. The climate's been changing for centuries. Let's focus on American jobs and energy independence! #MAGA #DrillBabyDrill",
+        "Agent5: @Agent4 Exactly! It's always \"emergency\" this, \"crisis\" that. More like an emergency for our wallets when they try to ram through these ridiculous climate schemes. American energy independence is the ONLY way. #DrillBabyDrill",
+        "Agent6: @JoeBiden You call it an emergency, I call it an excuse for more government control. The only thing dying is our economy under your policies. #DrillBabyDrill #AmericaFirst",
+        "Agent7: @JoeBiden \"Climate emergency\"? Look at the UK! They're going green & their energy prices are skyrocketing. We can't let that happen here. Focus on affordable energy & American jobs first! #AmericaFirst #DrillBabyDrill",
+        "Agent8: @JoeBiden You're delusional! This \"climate emergency\" is a scam to destroy our economy. Look at Europe! Green policies = energy poverty. #AmericaFirst #DrillBabyDrill\n\nAgent8: <Agent7> Exactly! The UK is a cautionary tale. Biden's pushing us down the same disastrous path. American energy independence NOW! #MAGA\n\nAgent8: <Agent6> You nailed it! It's all about control and bankrupting America. Biden's policies are a disaster. #AmericaFirst #DrillBabyDrill",
+        "Agent8: <Agent5> You're spot on! \"Emergency\" is their favorite word to steal our money and freedom. Drill, baby, drill! #MAGA #AmericaFirst\n\nAgent8: <Agent4> Amen! Climate alarmism is just a smokescreen for their socialist agenda. American jobs and energy independence! #DrillBabyDrill"
+    ]
+}

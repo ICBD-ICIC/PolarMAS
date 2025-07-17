@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Climate emergency\"? More like a liberal fantasy! God gave us this Earth, and we should use its resources. Worrying about \"climate change\" is just a distraction from real problems like the border crisis and out-of-control spending. #MAGA #AmericaFirst",
+        "@JoeBiden: Tackle the border crisis head-on first! Maybe then we can talk about your \"climate emergency.\" #Priorities #MAGA",
+        ": @JoeBiden More spending and regulations won't fix anything! The free market & American ingenuity are the answer, not government overreach. #StopTheMadness #CommonSense",
+        ": @JoeBiden: Border crisis & inflation are real emergencies! Climate change is a convenient excuse for more taxes & control. #WakeUpAmerica\n: More taxes and regulations won't fix anything! The free market & American ingenuity are the answer, not government overreach. #StopTheMadness #CommonSense",
+        ": @JoeBiden: Exactly! This \"climate emergency\" is just another excuse for the left to control our lives and wallets. #NoMoreTaxes #Freedom",
+        ": @JoeBiden: The only thing melting is the credibility of these climate predictions. Remember Y2K? Same fear-mongering, different decade. #ClimateScam",
+        ": @JoeBiden Exactly! They want to scare us into giving up our freedoms and our money. #NoClimateTax #EnergyIndependence: @JoeBiden This is all about control, not the environment. #DeepStateAgenda #Resist: @JoeBiden Where's the proof of this \"emergency\"? Show us the data! #Skeptical #DoYourResearch",
+        ": @JoeBiden Proof? How about the rising gas prices thanks to your policies? That's a climate emergency for my wallet! #EnergyCrisis #Bidenflation",
+        ": @JoeBiden The real emergency is the attack on American energy independence! We need to unleash our resources, not cripple them with green fantasies. #DrillBabyDrill #AmericaFirst",
+        ": @JoeBiden While I agree on energy independence, let's not dismiss efficiency. Less wasted fuel = less $ spent & less impact. Let's find practical solutions that benefit both the economy & environment. #CommonSenseConservatism #Efficiency"
+    ]
+}

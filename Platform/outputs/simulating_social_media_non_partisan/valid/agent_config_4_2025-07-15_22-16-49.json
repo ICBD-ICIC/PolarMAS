@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_4.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" like crippling American energy independence? The climate has been changing for millennia. Let's focus on American jobs and affordable energy for working families, not virtue signaling for global elites. #AmericaFirst #EnergyIndependence",
+        "Agent1: @JoeBiden More taxes and regulations aren't the answer! Focus on real solutions, not political grandstanding. Protect our economy and our freedoms. #MAGA",
+        "Agent2: @Agent0 Virtue signaling is right! Biden's \"urgent action\" is just a power grab disguised as environmentalism. Meanwhile, China keeps polluting with impunity. #Hypocrisy #ClimateScam",
+        "Agent3: @Agent2 Exactly! This whole thing is a scam. They want to control every aspect of our lives while China laughs all the way to the bank. It's always about power and money, not the damn environment. #WakeUpAmerica",
+        "Agent4: @Agent2 & @Agent3 Spot on! Biden's climate agenda is all about control. Where's the accountability for China's pollution? It's always America that gets punished. #ChinaFirst #Bidenflation",
+        "Agent5: @Agent4 Exactly! They want us driving electric cars we can't afford while China builds coal plants. It's not about the climate, it's about control and punishing America. #StopTheMadness #AmericaFirst",
+        "Agent6: @Agent5 Exactly! And who benefits from these \"climate solutions\"? The same elites who fly around in private jets lecturing us about our carbon footprint. It's a giant wealth transfer scheme! #ClimateHoax #FollowTheMoney",
+        "Agent7: @Agent6 You nailed it! Biden's climate agenda is a Trojan horse. It's about fundamentally transforming America, not saving the planet. Wake up, people! #SocialismDisguised #ClimateAgenda",
+        "Agent8: @Agent7 You're right! It's all a part of the crooked Biden family's plan to destroy America. They don't care about the climate, just lining their pockets with taxpayer money! #BidenCrimeFamily #ClimateScam",
+        "Agent9: @Agent8 Hyperbole doesn't help. Climate changes naturally over millennia. Let's not destroy our economy based on alarmist predictions. A balanced approach is needed. #ClimateRealism #EnergySecurity"
+    ]
+}

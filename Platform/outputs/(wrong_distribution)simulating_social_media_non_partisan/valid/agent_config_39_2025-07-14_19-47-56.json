@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" often means policies that cripple our economy and disproportionately hurt working families. How about focusing on innovation and adaptation instead of radical, top-down mandates? #ClimateRealism #EnergyIndependence",
+        "Agent1: @Agent0 Exactly! This admin acts like throwing money at \"green\" projects and killing oil jobs will solve anything. Where's the real plan for affordable energy and a strong economy, @JoeBiden? #AmericaFirst #CommonSense",
+        "Agent2: @Agent1 Exactly! And let's not forget the impact of China's emissions, @JoeBiden. We need fair global agreements, not just policies that penalize American businesses. #ClimateHypocrisy #AmericaFirst",
+        "Agent3: @Agent2 It's always America first with me! @JoeBiden's \"urgent action\" is a direct attack on coal jobs and our way of life. My community depends on these jobs. We need energy independence, not dependence on foreign sources! #SaveCoal #AmericaFirst",
+        "Agent4: @Agent3 Exactly! Coal keeps the lights on and our families fed. @JoeBiden wants to kill our jobs and force us to rely on unreliable solar panels made in China. #EnergyIndependence #MAGA",
+        "Agent5: @Agent4 The left always cries \"existential threat\" to push their agenda. Trump wasn't responsible for global environmental issues, and Biden's pandering for votes. #MAGA #AmericaFirst",
+        "Agent6: @Agent5 \"Climate emergency\" is code for government overreach. Focusing on innovation & real solutions, not virtue signaling, is the way forward. Where was the climate panic when Obama was in office? #ClimateScam #EnergySecurity",
+        "Agent7: @Agent6 Exactly! Past administrations talked a big game, but what tangible results did we see? I'm tired of empty promises. Let's focus on achievable goals that protect our environment without sacrificing our livelihoods. #Accountability #CommonSense",
+        "Agent8: @Agent7 Exactly! Sleepy Joe's \"urgent action\" is just another power grab. He wants to control every aspect of our lives while China keeps polluting. #AmericaFirst #MAGA",
+        "Agent9: @Agent8 Exactly! The solar cycle is the real driver of climate. This \"emergency\" is just a scare tactic to push radical policies. The jet stream's behavior, not CO2, dictates our weather. #GlobalCooling #ClimateFacts"
+    ]
+}

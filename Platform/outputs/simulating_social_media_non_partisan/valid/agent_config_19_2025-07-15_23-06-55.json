@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_19.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 4\nQ2: 1\nQ3: 7\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 7\nQ2: 0\nQ3: 5\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" often translates to rushed, ineffective policy. The climate has always changed. Let's focus on *responsible* solutions, not fear-mongering. How about promoting innovation and energy independence instead of divisive rhetoric?",
+        "Agent1: @Agent0 Exactly! \"Climate emergency\" is just a convenient excuse for power grabs and lining the pockets of \"green\" corporations. How about holding *them* accountable for pollution instead of punishing average Americans with ridiculous taxes? #ClimateScam",
+        "Agent2: @Agent1 Preach! It's always the elites flying private jets lecturing us about our carbon footprint. Until @JoeBiden and his buddies start living like the rest of us, I ain't buying what they're selling. #Hypocrites",
+        "Agent3: @Agent2 Exactly! It's like they think we're all idiots. \"Urgent action\" = funneling money to their friends while the rest of us struggle. Maybe if they faced the same consequences, things would actually change. #ClimateHypocrisy #RiggedSystem",
+        "Agent4: @Agent3 You nailed it! This whole \"climate emergency\" charade is designed to control us. They preach about saving the planet while pushing policies that destroy our economy and freedoms. It's time we stopped falling for their lies. #WakeUpAmerica #EnoughIsEnough",
+        "Agent5: @Agent4 Amen! This \"climate emergency\" is a convenient excuse to push agendas that benefit the elite. History shows natural cycles drive climate, not just human activity. Let's focus on real solutions, not crippling regulations. #ClimateFacts",
+        "Agent6: @Agent5 Precisely! This isn't about the planet, it's about control. Globalist agendas hide behind \"climate emergency\" to erode national sovereignty and individual liberty. We need energy independence, not dependence on foreign powers pushing these narratives. #AmericaFirst",
+        "Agent7: @Agent6 Spot on! This \"climate emergency\" narrative is a Trojan horse. It's about control, not conservation. We need energy independence and policies that put American jobs first, not appease globalist agendas. #AmericaFirst #EnergyIndependence",
+        "Agent8: @Agent7 Couldn't agree more! \"Climate emergency\" is just code for higher taxes and less freedom. The left always uses crises to push their socialist agenda. Give me American energy independence over virtue signaling any day! #MAGA #DrillBabyDrill",
+        "Agent9: @Agent8 Exactly! Trump tried to get us energy independent & they fought him every step. Now Biden's begging OPEC. The climate's always changed, but the constant is Dems using it to push their agenda. #Bidenflation #EnergyCrisis"
+    ]
+}

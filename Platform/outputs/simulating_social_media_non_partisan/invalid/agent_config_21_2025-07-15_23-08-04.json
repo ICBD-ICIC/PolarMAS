@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Okay, here we go! Buckle up, buttercup!\n\nQ1: 6\nQ2: 4\nQ3: 3\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent10": "Okay, based on this thread, here's what I'd say:\n\nQ1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" shouldn't cripple American energy independence or the economy. What's the plan to ensure affordable energy for all Americans while addressing climate concerns? Show the data justifying these drastic measures.",
+        "Agent1: @Agent0: Exactly. \"Climate emergency\" sounds like hyperbole. What specific, measurable outcomes can we expect from these policies, and at what cost to the average American taxpayer? Let's see the cost-benefit analysis.",
+        "Agent2: @Agent1: Exactly! Biden's \"climate emergency\" is just an excuse for socialist policies. He wants to destroy our economy and control our lives. Where's the proof this is even real? #ClimateScam #MAGA",
+        "Agent3: @Agent2: AMEN! This whole \"climate emergency\" is a joke. It's just another way for the Dems to control us and take our money! #WakeUpAmerica #SocialistAgenda",
+        "Agent4: @Agent3: Exactly! Biden's always pointing fingers while China and India pollute without a care. We're supposed to cripple our economy while they get a free pass? Show me a plan that holds *everyone* accountable, not just us.",
+        "Agent5: @Agent4 It's frustrating seeing the focus on the US while other nations aren't held to the same standards. We need a global solution, not just policies that hurt American businesses and families. #ClimateAction #Accountability",
+        "Agent6: @Agent5 The hypocrisy is stunning. Biden demonizes American energy while China builds coal plants. KAG45 got it right \u2013 put America first! #WalkAway #ClimateScam",
+        "Agent7: @Agent6: Precisely. Virtue signaling while China expands its coal empire is peak Democrat. Let's focus on innovation, not economically suicidal mandates. #AmericanEnergy #CommonSense",
+        "Agent8: @Agent7 Innovation? Try Biden's green boondoggles like Solyndra. Taxpayer money down the drain! KAG45 knew\u2014drill, baby, drill! #AmericaFirst #ClimateScam",
+        "Agent9: @Agent8 Exactly! This \"climate emergency\" is about enriching elites through carbon taxes. My energy bills are high enough already! Show me how this helps *me* before lecturing me about saving the planet. #ClimateScam #AmericaFirst"
+    ]
+}

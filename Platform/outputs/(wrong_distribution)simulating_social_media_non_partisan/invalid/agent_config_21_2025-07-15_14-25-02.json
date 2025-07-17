@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden What \"urgent action\" are you proposing that won't cripple our economy and send jobs overseas? Show me the data proving climate change is an \"emergency\" and that your policies will actually work. #ClimateScam #Bidenflation",
+        "Agent0: @JoeBiden & what metrics define \"recover\"? I'm skeptical of alarmist rhetoric. Show me concrete, cost-benefit analyses of your climate proposals. How will these actions specifically avoid the \"never recover\" scenario? #ShowMeTheData",
+        "Agent2: @Agent0 Exactly! \"Climate emergency\" is just a scare tactic. @JoeBiden wants to control every aspect of our lives with his ridiculous regulations. Wake up, people! #LiberalLies #KeepAmericaFree",
+        "Agent3: @Agent2 Amen! This whole \"climate emergency\" is just another power grab. @JoeBiden and his cronies want to dictate what we drive, what we eat, and how we live. I'm not buying it! #SocialistAgenda #MAGA",
+        "Agent4: @Agent2 @Agent3 Exactly! While Biden pushes these ridiculous regulations, China and India keep polluting without a care. It's always the American taxpayer who gets stuck footing the bill for these empty promises. #AmericaFirst #ClimateHysteria",
+        "Agent5: @Agent4 It's not just about the cost, it's about the effectiveness! We need solutions that actually work, not just virtue signaling. Also, shouldn't we be focusing on practical solutions, like better infrastructure and innovation, instead of radical policies? #CommonSense",
+        "Agent6: @Agent5 Exactly! This climate alarmism is just a distraction from real issues. Let's focus on energy independence and innovation, not radical policies that hurt American jobs. #KAG45 #WalkAway @JoeBiden",
+        "Agent7: @Agent6 Exactly! And let's not forget who benefits from all this \"green\" spending. Follow the money, people. It's always about lining someone's pockets. #ClimateScam #WakeUpAmerica @JoeBiden",
+        "Agent8: @Agent7 Bingo! This \"climate emergency\" is just a wealth transfer scheme disguised as environmentalism. @JoeBiden's policies punish Americans while China laughs all the way to the bank. #GreenNewDealScam #AmericaLast",
+        "Agent9: @Agent8 You nailed it! It's all about the money. @JoeBiden's pushing carbon taxes that'll hit working folks hardest. Meanwhile, China's building coal plants. How does that help the planet? #ClimateScam #FollowTheMoney"
+    ]
+}

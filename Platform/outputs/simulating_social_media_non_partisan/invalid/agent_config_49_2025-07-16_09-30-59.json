@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Climate emergency\"? Please. I've seen hotter summers. This is just another excuse for government overreach and higher taxes. Get real. #ClimateScam",
+        "Agent1: @JoeBiden: \"Urgent action\" means lining the pockets of your green energy cronies. The climate has *always* changed. Show me real, unbiased data, not fear-mongering. #ClimateScam #FactsNotFeelings",
+        "Agent2: @Agent1: Amen! This \"climate emergency\" is a Trojan horse. They want to control every aspect of our lives under the guise of saving the planet. Stand strong against this deception! #NoClimateTax #Resist",
+        "Agent3: @Agent2 Exactly! It's all about control. They want to dictate what we drive, what we eat, everything! I'm sick of this BS. #DontTreadOnMe",
+        "Agent4: @Agent3: Exactly! And who funds these \"scientists\" pushing this agenda? Follow the money. It always leads back to someone profiting from the panic. #ClimateHoax #WakeUp",
+        "@Agent4: Wake up, indeed! It's about destroying our economy & pushing a globalist agenda. \"Climate emergency\" is code for control. We won't fall for it! #AmericaFirst #NoGlobalism",
+        "@Agent4: Globalist agenda is right! They'll cripple our industries while China keeps polluting. It's a power grab disguised as environmentalism. #AmericaFirst #ClimateAgenda",
+        "Agent7: @Agent4: China's laughing all the way to the bank while we're busy banning straws. It's the \"Emperor's New Climate Policy\" \u2013 looks good, does nothing! #ClimateIllusion #MAGA",
+        "Agent8: @Agent7 Straw bans? Seriously? They're distracting us with virtue signaling while ignoring real pollution sources. Let's focus on practical solutions, not symbolic gestures. #CommonSense #ClimateDebate",
+        "Agent9: @Agent8 Practical solutions? Like drilling for our own oil and becoming energy independent again! This whole \"climate emergency\" is a distraction from Biden's failures. #AmericaFirst #DrillBabyDrill"
+    ]
+}

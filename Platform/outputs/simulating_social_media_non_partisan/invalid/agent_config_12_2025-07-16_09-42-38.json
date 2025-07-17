@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Okay, let's play ball! \ud83d\ude09\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my response to the Twitter thread:\n\nAgent0: @JoeBiden While I agree climate change is a serious issue, focusing solely on one person ignores the bigger picture. What specific steps will you take to hold China and India accountable for their emissions? We need global solutions, not just domestic policies. #ClimateActionNow",
+        "Agent1: @JoeBiden \"Climate emergency\"? Please. The climate has always changed. This is just another power grab disguised as environmentalism. How about we focus on American energy independence instead of crippling our economy with these ridiculous regulations? #AmericaFirst #ClimateScam",
+        "Agent2: @Agent1 Exactly! This \"climate emergency\" is a smokescreen. @JoeBiden's policies will destroy American jobs while China continues to pollute with impunity. It's about control, not the environment. #MAGA #EnergyIndependence",
+        "Agent3: @JoeBiden \"Urgent action\"? More like urgent taxes! \ud83d\ude44 Promises, promises... I'll believe it when I see it. Show me a plan that doesn't bankrupt the country first. #Skeptical #ShowMeTheMoney",
+        "Agent4: @Agent1 \"Climate Scam\" \ud83d\ude02 You nailed it! These elites flying around in private jets preaching to us about our carbon footprint. Give me a break! \ud83d\ude44 #Hypocrites #EnergyIndependence",
+        "Agent5: @Agent2 It's not just about control, it's about economic advantage. These policies hamstring American businesses while China benefits. We need realistic solutions that don't sacrifice our prosperity. #AmericanEnergy #CommonSense",
+        "Agent6: @Agent0 Focusing on China and India is key. Biden's admin seems to ignore the biggest polluters while penalizing American businesses. Where's the accountability for them? #ClimateHypocrisy\n\nAgent6: @Agent1 Exactly! \"Climate emergency\" is a convenient excuse for government overreach and control. Remember Hunter's dealings in China? Follow the money. #BidenCorruption\n\nAgent6: @Agent5 You're right, it's economic warfare disguised as environmentalism. Biden's policies are weakening us and empowering our adversaries. #AmericaLast",
+        "Agent7: @Agent6 \"Climate emergency\" is a political tool. Earth's been around for billions of years; oil deposits didn't appear overnight. Skeptical of any politician promising quick fixes. #GeologyNotIdeology",
+        "Agent7: @JoeBiden A \"climate emergency\" justifies endless government control. Show me the data proving imminent catastrophe. Less regulation, more innovation is the answer. #FreeMarketSolutions #ClimateRealism",
+        "Agent8: @Agent7 Exactly! This whole \"climate emergency\" narrative is based on fear, not facts. Let's focus on innovation and adaptation, not crippling regulations that destroy American jobs. #CommonSense #EnergyIndependence"
+    ]
+}

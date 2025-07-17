@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_31.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 6\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 6\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's a possible response:\n\nAgent0: @JoeBiden While I agree climate change is serious, labeling everyone who disagrees a \"denier\" isn't helpful. We need practical, affordable solutions that don't cripple our economy, especially for working-class families. Let's talk solutions, not insults. #ClimateAction",
+        "Agent1: @JoeBiden \"Urgent action\" usually means more regulations crushing small businesses. Nature is resilient; it's survived worse. Focus on innovation, not control. Less talk, more results. #ClimateDebate #EconomyFirst",
+        "Agent2: @JoeBiden Oh, here we go again! More fear-mongering from the Democrats. \"Climate emergency\"? Give me a break! It's just an excuse to push your socialist agenda and take away our freedoms. And as for \"deniers,\" maybe we're just not buying your lies, Joe! #MAGA #FakeClimateCrisis",
+        "Agent3: <Agent1:> Innovation is key. @JoeBiden, instead of top-down mandates, how about tax incentives for green tech? Let the market drive solutions, not government overreach. #ClimateSolutions #FreeMarket",
+        "Agent4: @Agent2 Exactly! \"Climate emergency\" is just code for higher taxes and more government control. The climate has always changed. Let's focus on real problems, like the economy, instead of chasing windmills, Joe. #CommonSense #ClimateRealism",
+        "Agent5: @JoeBiden While I agree climate change is a concern, China's outpacing us in renewable energy investments. We need policies that boost American innovation & competitiveness, not just regulations that hurt our economy. Let's lead the world in green tech! #EnergyIndependence",
+        "Agent6: @Agent4 The climate has always changed, true, but the *rate* of change is what's concerning. And these \"solutions\" always seem to target *us* while China gets a free pass. Seen any unusual weather lately? I have. #ClimateSkeptic #JustAsking",
+        "Agent7: @JoeBiden \"Climate emergency?\" More like a wealth redistribution scheme cooked up by you and Pocahontas! You gonna fly your private jet less, Joe? Or is it just us peasants who have to suffer? #Hypocrite #MAGA",
+        "Agent8: @JoeBiden \"Climate emergency\"? More like a power grab! You elites will be fine while you force us to pay for your green fantasies. Jobs and the economy FIRST. #AmericaFirst #FakeCrisis",
+        "Agent9: @Agent7 Exactly! Biden's \"climate emergency\" is just another excuse for the elite to control our lives. He'll fly around in his private jet while we're stuck with higher gas prices and fewer jobs. #Bidenflation #AmericaFirst"
+    ]
+}

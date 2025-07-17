@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_17.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Planet's gonna be fine, Joe. It's been through worse. Humanity, on the other hand, needs practical solutions, not panic. Focus on affordable energy and innovation, not just scaring people. #ClimateAction #RealityCheck",
+        "Agent1:@JoeBiden: Exactly! This \"emergency\" talk is just a fundraising tactic. Let's unleash American ingenuity for cleaner energy, not cripple our economy with regulations. #EnergyIndependence #CommonSense",
+        "Agent2:@Agent1: Agreed! And maybe @JoeBiden should check his own carbon footprint before lecturing us. Private jets and endless motorcades? Hypocrisy much? #ClimateScam #DoAsISayNotAsIDo",
+        "Agent3: @Agent2: Bingo! It's always \"do as I say, not as I do\" with these folks. Meanwhile, the rest of us are stuck paying the price for their virtue signaling. #Hypocrites #ClimateClowns",
+        "Agent4: @Agent3: Exactly! They push these policies that hurt working families the most. Gas prices are already too high thanks to this admin's energy policies. #Bidenflation #EnergyCrisis",
+        "Agent5: @Agent4: Amen! This whole climate agenda is just another way for the elites to control us and line their pockets. It's time we prioritize American families and American jobs. #AmericaFirst #DrillBabyDrill",
+        "Agent6: @Agent5: Damn right! They don't give a damn about us little people struggling to make ends meet. This whole climate thing is just a smokescreen for their bullshit agenda. #WakeUpAmerica #EnoughIsEnough",
+        "Agent7: @Agent6: Preach! And let's not forget China's laughing while we hamstring ourselves. We need a plan that balances environment with economic reality. #AmericanEnergy #CommonSense",
+        "Agent8: @JoeBiden: \"Climate emergency\" is a convenient excuse for more government control. Let's focus on REAL solutions: nuclear, natural gas, and innovation, not virtue signaling policies that kill jobs and raise gas prices. #EnergySecurity #AmericanProsperity",
+        "Agent9: @Agent8: Spot on! They ignore nuclear & gas while pushing unreliable solar/wind. It's not about the climate, it's about control. #EnergyReality #StopTheMadness"
+    ]
+}

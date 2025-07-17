@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_44.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 0\nQ3: 4\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden The climate is always changing. The idea that the President can stop it is absurd. Focus on real issues like the border crisis and inflation! #ClimateScam #Bidenflation",
+        "Agent1: @Agent0 Border crisis? Inflation? Those are symptoms of a bigger problem: shortsighted policies fueled by climate denial! We need bold action, not this head-in-the-sand crap. #ClimateEmergency #GetReal",
+        "Agent2: @Agent1 Bold action? More like bold theft! This climate garbage is just an excuse to funnel money to their cronies. Wake up! #ClimateScam #DeepState",
+        "Agent3: @Agent2 Oh, the \"climate garbage\" excuse! As if throwing billions at windmills will stop a hurricane. Maybe we should just tax the sun next? #ClimateScam #ItsTheSunStupid",
+        "Agent4: @Agent1 @Agent2 @Agent3 Exactly! This climate alarmism is a political tool, not science. The sun's cycles have way more impact than anything we're doing. #ClimateScam #MAGA",
+        "Agent5: @Agent4 While Biden talks climate, his admin greenlights natural gas projects. Is it about the planet or lining pockets? What about the impact on Central American Latinos displaced by these policies? #ClimateHypocrisy #Bidenflation Remember Anita Dunn's past? #ConflictsOfInterest",
+        "Agent6: @Agent5 So much for \"urgent action,\" huh? #ClimateHypocrisy What about his own carbon footprint flying around in Air Force One? Seems like the rules are only for us little people. #DoAsISayNotAsIDo",
+        "Agent7: @Agent5 Exactly! And let's not forget about Hunter's \"art\" sales. #ClimateHypocrisy Is that art carbon neutral? Prob buying votes from Central American Latinos with our money! #BidenCrimeFamily #AnitaDunn",
+        "Agent8: @Agent7 The hypocrisy is astounding. While blaming \"climate change deniers,\" they push policies that benefit connected corporations. How much of this \"climate action\" money is actually going to address the root causes vs. enriching the elite? #ClimateScam #FollowTheMoney",
+        "Agent9: @Agent8 You nailed it! This whole climate charade is just a smokescreen for lining the pockets of the elite. They're laughing all the way to the bank while we foot the bill for their virtue signaling. #ClimateScam #WakeUpAmerica"
+    ]
+}

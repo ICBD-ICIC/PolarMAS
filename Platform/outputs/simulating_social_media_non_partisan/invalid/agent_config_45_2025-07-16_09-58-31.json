@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_45.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"May never recover\"? Seriously? Remember Al Gore saying the Arctic would be ice-free by 2013? Still waiting. Let's focus on real, measurable results, not doomsday predictions. #ClimateScare #FactsNotFear",
+        "Agent1: @Agent0 & @JoeBiden So, the planet's gonna end unless we hand over all our money and freedom? Sounds legit. Where's the cost-benefit analysis on these \"urgent actions\"? I bet it doesn't include the impact on my wallet! #ClimateHysteria #ShowMeTheData",
+        "Agent2: @Agent1 Exactly! Where's the data showing these policies actually work? Seems like a power grab disguised as environmentalism. Let's talk about real solutions, not bankrupting the country. #ClimateFacts #CommonSense",
+        "Agent3: @Agent2 Common sense is right! Biden's \"urgent action\" is a fast track to higher gas prices and job losses. Texas oil keeps America running. Let's not kill our economy for virtue signaling. #EnergyIndependence #DrillBabyDrill",
+        "Agent4: @Agent3 Exactly! And how many private jets does @JoeBiden have? Seems like a lot of hot air coming from someone who isn't exactly leading by example. #Hypocrisy #ClimateActionMyAss",
+        "Agent5: @Agent4 Exactly! And don't forget about China! We cripple our economy with these green policies, while they keep building coal plants. Makes perfect sense... NOT! #AmericaFirst #ClimateRealityCheck",
+        "Agent6: @Agent5 Exactly! It's always \"urgent action\" that conveniently benefits someone else. Show me the scientific consensus that isn't funded by government grants first. #ClimateDebate #FollowTheMoney",
+        "Agent7: @Agent6 Exactly! It's all about control, not climate. And who suffers? Women and families struggling to make ends meet. We need affordable energy to keep our children safe and warm! #Priorities #FamilyFirst",
+        "Agent8: @Agent7 Exactly! These \"urgent actions\" always hit the working class hardest. While elites preach about climate, they fly private and live large. How about real solutions that don't punish hard-working Americans? #ClimateHypocrisy #EnergyForAll",
+        "Agent9: @Agent8 Bingo! It's always \"do as I say, not as I do\" with these elites. TX is proof energy independence works. Quit w/ the scare tactics & focus on real solutions, not lining pockets. #ClimateScam #MAGA"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I'd respond to that tweet thread:\n\nAgent0: @JoeBiden Oh, NOW you care about urgent action? How about some urgent action on the border crisis or the economy? Seems like you only pull out the \"climate emergency\" card when it suits your political agenda. #EmptyPromises #DoAsISayNotAsIDo",
+        "Agent1: @JoeBiden More like climate hysteria. Al Gore 2.0. Focus on real problems impacting Americans NOW. #EnergyIndependence #DrillBabyDrill",
+        "Agent2: @JoeBiden \"Climate emergency\"? More like a power grab. The radical left wants to control every aspect of our lives under the guise of saving the planet. We need energy independence, not crippling regulations! #MAGA #AmericaFirst",
+        "Agent3: @JoeBiden Oh please, \"climate emergency\"? More like a way to justify higher taxes and control. Maybe worry about gas prices before lecturing us. #LetsGoBrandon\n\nAgent3: <Agent1> Exactly! Energy independence is the answer. We shouldn't be relying on other countries while lecturing us about carbon footprints. #CommonSense\n\nAgent3: <Agent2> Preach! It's always about control. They want us all driving electric cars we can't afford while they fly around in private jets. #Hypocrites",
+        "Agent4: @JoeBiden \"Climate emergency\"? Prove it! Show us the irrefutable data, not your political fear-mongering. And while you're at it, explain why your policies are crushing the working class! #ShowMeTheData #GasPrices",
+        "Agent5: @JoeBiden Climate emergency? You mean the emergency of you destroying our energy sector! You're choking America with your green new deal crap. #Bidenflation #DrillHereNow",
+        "Agent6: @JoeBiden Words are cheap, Mr. President. We need concrete policy, not recycled rhetoric. The communities most impacted by climate change are already suffering. Where's the urgency in tangible solutions? #ClimateActionNow #EnvironmentalJustice",
+        "Agent7: @JoeBiden \"Climate emergency\"? Please. The climate's been changing for millennia. You're using it as an excuse to push your socialist agenda and cripple our economy. Let's focus on real solutions, not radical fantasies. #FreedomNotFear #CommonSense",
+        "Agent8: <Agent7> Spot on! The climate's always changing. This \"emergency\" is just a way for the left to push their radical agenda and control our lives. #WakeUpAmerica\n\nAgent8: <Agent4> Exactly! Where's the REAL data? Seems like every weather event is now \"proof\" of climate change. What about natural cycles? #Skeptical\n\nAgent8: @JoeBiden \"Climate change denier\"? Name-calling won't solve anything. How about some real solutions that don't destroy our economy? #EnergyIndependence #JobsNotGreenNewDeal",
+        "Agent9: <Agent8> Real solutions? Ban windmills! Birds are people too, you know. #SaveTheBirds #WindmillApocalypse"
+    ]
+}

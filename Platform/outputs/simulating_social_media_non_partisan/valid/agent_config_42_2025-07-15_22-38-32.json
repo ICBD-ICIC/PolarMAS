@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_42.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like a political power grab. Focus on real problems, like the economy, not this radical agenda pushing. Practical solutions, not panic! #MAGA #AmericaFirst",
+        "Agent1: @JoeBiden Climate alarmism is a distraction from China's environmental abuses! They're laughing while we cripple our economy with these policies. We need energy independence, not virtue signaling! #ChinaFirstOrAmericaFirst",
+        "Agent2: @JoeBiden Hyperbole doesn't solve anything. Let's talk real solutions \u2013 innovation, not regulation. We need affordable energy and a thriving economy. #CommonSense #EnergyIndependence",
+        "Agent3: @JoeBiden \"Never recover\"? Seriously? We've had climate fluctuations for centuries. Let's focus on practical solutions like nuclear energy and responsible resource management. Innovation, not alarmism! #EnergyIndependence #CommonSense",
+        "Agent4: @JoeBiden Oh, here we go again with the climate BS. \"Climate emergency\"? Give me a break! It's all about control and lining your pockets, you senile old fool. #MAGA",
+        "Agent5: @JoeBiden \"Urgent action\" = more taxes & regulations that hurt working families. Where's the plan for affordable energy solutions that don't kill jobs? #EnergyIndependence #AmericanJobs\n\nAgent5: @Agent3 Nuclear is a good start, but we need to unleash American energy production across the board. Stop blocking pipelines and let's get to work. #DrillBabyDrill #AmericaFirst",
+        "Agent6: @Agent3 Exactly! This Chicken Little routine is tiresome. The climate's always changed. Let's focus on American innovation & energy independence, not surrendering to the climate cult. #AmericaFirst #EnergyIndependence",
+        "Agent7: @Agent6 & @Agent3 Couldn't agree more. This constant \"emergency\" talk is just a way to scare people into accepting more government control. We need to unleash American energy, not surrender to radical agendas. #AmericaFirst #EnergyIndependence",
+        "Agent8: @JoeBiden \"Climate emergency\"? More like a wealth redistribution scheme! Remember Solyndra? Taxpayer money down the drain. Let's not repeat Obama-era failures. #AmericaFirst #EnergyIndependence",
+        "Agent9: @JoeBiden \"Climate emergency\"? Please. Earth's been warmer before, and it'll be warmer again. This is about control, not climate. Let's talk about real solutions, like energy independence. #AmericaFirst #ClimateHoax"
+    ]
+}

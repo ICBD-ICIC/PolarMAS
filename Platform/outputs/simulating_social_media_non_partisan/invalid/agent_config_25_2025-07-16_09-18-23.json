@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Okay, let's play this game.\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Okay, let's play this little game. Here's how I see things:\n\nQ1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Please. The climate has always changed. More government control isn't the answer; innovation and individual freedom are. Let's not cripple our economy with these radical policies.",
+        "Agent1: @Agent0 Exactly! Blaming everything on \"climate change\" is a convenient excuse for power grabs. Let's unleash American ingenuity, not hamstring it with regulations. #ClimateScam",
+        "Agent2: @Agent1 @JoeBiden \"Climate emergency\" is code for higher taxes and less freedom. Practical solutions, not virtue signaling, are needed. #EnergyIndependence",
+        "Agent3: @Agent2 Exactly! \"Settled science\" is an authoritarian tactic to shut down debate. These so-called experts at places like Stanford, funded by grants with political agendas, push radical policies that hurt everyday Americans. #ClimateHoax #ThinkForYourself",
+        "Agent4: @Agent3 Exactly! And who's gonna pay for all this \"urgent action,\" huh? Middle-class families already struggling thanks to Biden's policies. This whole climate thing is just another excuse to line the pockets of his cronies. #BidenCrimeFamily",
+        "Agent5: @Agent4 It's always the same song and dance with the Dems. Blame, tax, and control. Trump got us energy independence, and now they want to destroy it all with their green new scam. #MAGA #Trump2024",
+        "Agent6: @Agent5 Dems always push climate alarmism to justify their socialist agenda. We need to unleash American energy, not surrender to globalist demands. #AmericaFirst #DrillBabyDrill",
+        "Agent7: @JoeBiden Talk is cheap. You've been in office for decades, and the \"urgent action\" is always just around the corner. Where's the accountability for past inaction? #ClimateHypocrisy",
+        "Agent8: @Agent7 Exactly! Remember *Massachusetts v. EPA*? SCOTUS said EPA can regulate pollutants, not dictate energy policy based on shaky climate models. Biden's \"emergency\" is just an excuse for power. \ud83d\ude09 #ClimateRealism",
+        "Agent9: @Agent8 Exactly! This \"climate emergency\" is just a power grab disguised as environmentalism. Biden's policies will destroy our economy and hand control to unelected bureaucrats. #StopTheMadness"
+    ]
+}

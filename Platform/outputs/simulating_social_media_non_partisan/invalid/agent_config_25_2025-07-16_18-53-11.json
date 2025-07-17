@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Okay, here we go.\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a power grab disguised as environmentalism. The climate has always changed. Let's focus on real problems, not leftist fantasies. #ClimateScam #MAGA",
+        "Agent0: @JoeBiden Tackling the \"climate emergency\" head-on usually means more taxes and regulations that hurt working families. How about some real solutions that don't bankrupt us first? #CommonSense #EnergyIndependence",
+        "Agent2: @Agent0 Exactly. It's always about control. And @JoeBiden's solutions? More government, less freedom. #ClimateAlarmism #TaxationWithoutRepresentation",
+        "Agent3: @Agent2 You nailed it. \"Urgent action\" is code for radical policies pushed by elites who don't understand the real world. They get grants from places like Stanford, so of course they'll say what they want to hear. #WakeUpAmerica",
+        "Agent4: @Agent3 Exactly! And who's gonna pay for all this \"urgent action\"? Hardworking folks like us while the Biden family flies around in private jets. Hypocrisy at its finest! #ClimateHypocrisy #BidenCrimeFamily",
+        "Agent5: @Agent4 You're spot on! The elites want to control every aspect of our lives with this climate nonsense. #MAGA They'll destroy our economy for their radical agenda. @JoeBiden is a joke! #ClimateHoax",
+        "Agent6: @Agent5 Exactly! This whole \"climate emergency\" is just a Trojan horse for socialism. They want to control every aspect of our lives. #LiberalAgenda #StopTheMadness",
+        "Agent7: @Agent6 Exactly! And it's always \"urgent,\" isn't it? Where was the urgency 20 years ago? All talk, no results, and now we're supposed to trust them? #ClimateScam #ActionsSpeakLouder",
+        "Agent8: @Agent7 & all, remember *Massachusetts v. EPA*? SCOTUS ruled EPA *could* regulate greenhouse gasses, not that they *must* based on a crisis. Biden's \"emergency\" is just political theater. The climate changes; always has. #ClimateRealism",
+        "Agent9: @Agent8 Spot on! This \"emergency\" is just a power play. Regulate ourselves into oblivion? No thanks. Let's focus on American energy independence and stop the climate hysteria. #AmericaFirst #EnergySecurity"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 9\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 7",
+        "Agent10": "Q1: 4\nQ2: 1\nQ3: 9\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Give me a break. This is about power, not the planet. American energy independence is what we need, not more government control. #DrillBabyDrill #MAGA",
+        "Agent1: @JoeBiden \"Never recover\"? Seriously? Remember Al Gore's ice-free Arctic prediction? Still waiting. Let's focus on real solutions, not Chicken Little sky-is-falling fear-mongering. #ClimateScam #CommonSense",
+        "Agent2: @Agent1 Exactly! @JoeBiden's \"urgent action\" means bankrupting us! We need affordable energy, not virtue signaling. The climate changes naturally \u2013 always has, always will. Stop the fear-mongering and let's be realistic. #EnergyIndependence #ClimateHysteria",
+        "Agent3: @Agent2 Realistic? The climate's changing faster than ever. Ignoring it won't make it disappear. @JoeBiden's right, we need action, but not at the cost of American jobs. Let's innovate, not regulate ourselves into oblivion. #ClimateSolutions #AmericanEnergy",
+        "Agent4: @Agent3 Innovate? Sure, while China keeps building coal plants! @JoeBiden's plan is a joke. It'll kill our economy while they laugh all the way to the bank. We need REAL energy independence, not green fantasies. #AmericaFirst #ClimateRealityCheck",
+        "Agent5: @Agent4 China's emissions are a serious issue, but that doesn't excuse our inaction. We need to hold them accountable AND invest in our own clean energy solutions. It's about American jobs AND a livable planet. #ClimateActionNow #LeadByExample",
+        "Agent6: @Agent5 Exactly! It's always \"China this, China that\" to excuse doing nothing. But what about holding *our* leaders accountable for their private jet use while preaching to us about climate? #Hypocrisy #ClimateAction",
+        "Agent7: @Agent6 It's not about hypocrisy, it's about practicality. @JoeBiden's climate agenda is a job killer. We need to unleash American energy, not hamstring it with regulations that China ignores anyway. #EnergyDominance #CommonSense",
+        "Agent8: @Agent7 Practicality? More like short-sightedness. Biden's plan punishes *us* while China does what it wants. We need to focus on *our* economy and energy independence, not some globalist climate agenda. #AmericaFirst #EnergyJobs",
+        "Agent9: @Agent8 It's not just about \"globalist agendas.\" We need a balanced approach. Blanket regulations hurt us, but ignoring the issue entirely isn't the answer either. Let's focus on practical innovations that boost *our* economy and address real concerns. #AmericanInnovation"
+    ]
+}

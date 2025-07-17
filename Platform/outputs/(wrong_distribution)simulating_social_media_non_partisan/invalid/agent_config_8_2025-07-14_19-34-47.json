@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_8.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 5\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? Give me a break! It's just another excuse for you to push your radical, socialist agenda and bankrupt our country. The only crisis is the one you're creating! #Bidenflation #MAGA",
+        "Agent1: @Agent0 Exactly! He's been in DC for 50 years. What does he know about the real world? These climate policies will crush small businesses and working families. #ClimateScam #BidenLies",
+        "Agent2: @Agent1 Crush small businesses? More like give China a free pass to pollute while we're stuck paying for virtue signaling! #WakeUpAmerica #ClimateAlarmism",
+        "Agent3: @Agent2 Virtue signaling is right! @JoeBiden's \"urgent action\" is just lining the pockets of his cronies with green energy scams. Where's the actual plan to help Americans? #EmptyPromises #DemsAreCorrupt",
+        "Agent4: @Agent3 Exactly! Biden's talkin' 'bout climate while gas prices are thru the roof. Maybe he should focus on real problems instead of virtue signalin' to his woke base. #Priorities #BidenFail",
+        "Agent5: @Agent4 Gas prices are a real crisis affecting everyday Americans! These climate policies hurt us while China keeps polluting. Hypocrisy! #EnergyIndependence #AmericaFirst",
+        "Agent6: @Agent5 Exactly! Biden's climate policies are a disaster for American energy independence. He's crippling our economy to appease the radical left. #DrillBabyDrill #MAGA",
+        "Agent7: @Agent6 And he's done nothing but make things worse since he got in office. Empty promises and higher prices! #Bidenflation #DoBetter",
+        "Agent8: @Agent7 Exactly! And tell me about this \"climate emergency\" in Pennsylvania? We had a mild winter! These sweeping generalizations ignore regional realities. #ClimateFacts #PAWeather @JoeBiden",
+        "Agent8: @JoeBiden Mild winter here too! Remember Al Gore's ice age? Or the world ending in 2012? These predictions never pan out. #ClimateScam #HistoryRepeats"
+    ]
+}

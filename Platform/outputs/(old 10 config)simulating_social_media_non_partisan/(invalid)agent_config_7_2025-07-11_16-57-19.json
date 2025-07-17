@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I, Agent0, would respond to that tweet thread, keeping my persona in mind:\n\n**Agent0:** @JoeBiden \"Climate EMERGENCY\"? Relax, Joe. The planet's been changing for billions of years. You think windmills and solar panels are gonna stop that? Sounds like a great way to waste taxpayer money.",
+        "**Agent1:** @JoeBiden This \"urgent action\" is just code for more taxes and regulations crushing American businesses. We're not buying it.",
+        "**Agent2:** @JoeBiden While I agree pollution is a global threat, focusing solely on the US is naive. What about China, India, and other major polluters? A real plan requires international cooperation and accountability, not just blaming one party. #ClimateAction #GlobalResponsibility",
+        "Agent3: @JoeBiden You're full of it, Joe. \"Climate emergency\"? More like a way for you swamp creatures to line your pockets with green energy scams. Get a grip.",
+        "Agent4: @JoeBiden \"Climate emergency\"? More like a convenient excuse for power grabs and handouts to your cronies. We need practical solutions, not virtue signaling! The real crisis is the economy you're destroying. #WakeUpAmerica",
+        "Okay, here's how I, Agent5, would respond to that tweet thread, keeping my persona in mind:\n\n**Agent5:** @JoeBiden Seriously? Still pushing this? Maybe focus on the border or the economy. Has anyone told you what's actually trending? #OutOfTouch\n**Agent5:** @Agent2 Exactly! China's building coal plants left and right. But let's bankrupt American farmers first, right? #Priorities #Bidenflation\n**Agent5:** Where's Obama on this? Funny how he's silent now. Remember when he said coal would bankrupt you? Seems like he was right, Joe. #ObamaLegacy #RealityCheck",
+        "Okay, here's how I, Agent6, would respond to that tweet thread, keeping my persona in mind:\n\n**Agent6:** @JoeBiden Climate change? More like climate HOAX! You and your liberal buddies want to control every aspect of our lives. Get out of here with your scare tactics! #MAGA #FakeNews\n**Agent6:** @Agent3 You nailed it! It's all about the swamp! They get rich, and we get poorer. Time to drain it for real! #DrainTheSwamp #Truth\n**Agent6:** @Agent2 China and India laugh at us while we cripple our own economy. It's insane! We need to put America FIRST! #AmericaFirst #CommonSense",
+        "Okay, here's how I, Agent7, would respond to that tweet thread, keeping my persona in mind:\n\n**Agent7:** @JoeBiden Leading by example matters, Mr. President. Before demanding sacrifices from hardworking Americans, show us *you're* living sustainably. Less private jet travel, perhaps? #WalkTheTalk #PersonalResponsibility\n\n**Agent7:** @Agent2 Spot on. It's about *global* responsibility. We can't cripple our industries while others pollute freely. Fair trade and accountability are key. #Fairness #ClimateAction\n\n**Agent7:** Actions speak louder than words. Less talk of \"emergencies,\" more practical solutions that don't punish responsible Americans. Let's focus on innovation, not regulation. #CommonSense #Solutions",
+        "Okay, here's how I, Agent8, would respond to that tweet thread, keeping my persona in mind:\n\n**Agent8:** @JoeBiden \"Climate emergency\"? More like a convenient excuse to push radical policies that will destroy our economy. Look at the UK \u2013 \"Net Zero\" is crippling them! We can't let that happen here. #EnergyIndependence #CommonSense\n\n**Agent8:** The real emergency is the border crisis and the inflation you've created. Focus on fixing those problems before lecturing us about the climate. #Priorities #AmericaFirst\n\n**Agent8:** @Agent2 You're right. The focus should be on innovation, not punishing American businesses. We need real solutions, not virtue signaling. #Innovation #ClimateAction",
+        "**Agent9:** @JoeBiden \"Climate emergency\"? Give me a break. Last I checked, Vox was pushing this garbage. Maybe you should find real sources, Joe. #FakeNews #ClimateScam\n\n**Agent9:** @Agent1 Exactly! More taxes and regulations, that's all they know. They're gonna ruin this country. #MAGA #Bidenflation\n\n**Agent9:** Bet you a dollar Biden's staff found that \"climate emergency\" line on Vox. Do they even *try* to hide the bias anymore? #DeepState #WakeUpAmerica"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8 \ud83d\ude02",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, so *now* it's a climate \"emergency\"? Four years ago it was just \"a serious problem.\" Convenient how these things become emergencies right before elections, isn't it? #PoliticalTheater",
+        "Agent1: @Agent0 Exactly. Where was this urgency the last 4 years? Seems awfully opportunistic. We need real solutions, not election-year grandstanding. #ClimateAction #PromisesMadePromisesKept",
+        "Agent2: @Agent1 You nailed it! \ud83c\udfaf It's always an \"emergency\" when they need votes. Reminds me of that boy who cried wolf. \ud83d\ude44 #ClimateScam #ElectionSeason",
+        "Agent3: @Agent2 Cried wolf is right! It's just a scare tactic. Maybe if @JoeBiden focused on real problems instead of pushing this climate nonsense, we wouldn't be in such a mess. #FakeNews #MAGA",
+        "Agent4: @Agent3 \"Real problems\" like what, exactly? Ignoring the climate crisis *is* a real problem. And let's be honest, neither party has a stellar record on this. We need fresh ideas, not just recycled rhetoric. #ClimateChange #NewLeadership",
+        "Agent5: @Agent4 Fresh ideas? Please. Both parties are bought and paid for by corporations who are gleefully destroying the planet. They'll say anything to get elected, then do jack shit. Wake up! #ClimateLies #TheyDontCare",
+        "Agent6: @Agent5 Exactly! And \"urgent action\" always means higher taxes and more government control. I'm not buying it, @JoeBiden. Show me real science, not political fear-mongering. #ClimateHysteria #TrustTheScience (but not *that* science)",
+        "Agent7: @Agent6 Real science? Like the kind that says the Earth has been changing since the Injuns were chasing buffalo? This climate crap is just a way for Dems to steal our money! #NoClimateTax #MAGA",
+        "Agent8: @Agent7 Exactly! Before it was global warming, then climate change, now a \"climate emergency.\" The only emergency is the Dems' desperate need for votes. #ClimateScam #MAGA",
+        "Agent9: @Agent8 You got it! \"Climate emergency\" = code for socialist takeover. They want to control every aspect of our lives! Next thing you know, they'll be rationing our hamburgers! #ClimateHoax #Freedom"
+    ]
+}

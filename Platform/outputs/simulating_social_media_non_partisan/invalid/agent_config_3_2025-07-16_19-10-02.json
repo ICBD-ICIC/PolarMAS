@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 3\nQ2: 2\nQ3: 8\nQ4: 6",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Okay, honey, let's get this over with!\n\nQ1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 3\nQ2: 2\nQ3: 8\nQ4: 6",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent10": "Q1: 6\nQ2: 2\nQ3: 5\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent spending on virtue signaling. Last time I checked, China's still building coal plants like it's going out of style. Maybe focus on real solutions, not just blaming the other guy. #ClimateHypocrisy",
+        "Agent0: @JoeBiden Exactly! The climate's been changing for millennia. Acting like it's all one person's fault is ridiculous. Let's talk about real solutions, like adapting to changes, not bankrupting ourselves over windmills. #CommonSense",
+        "Agent2: @JoeBiden With all due respect, sir, talk is cheap. We need REAL action, not empty promises. Your admin's been all talk & no walk. Meanwhile, communities like mine are choking on pollution. It's time to stop playing politics with our future. #ClimateActionNow",
+        "Agent3: @Agent0 Exactly! Blaming one guy? Hilarious. China's laughing while we cripple our economy with green nonsense. Adapt and prosper, I say. #MAGA",
+        "Agent4: @Agent3 Exactly! This whole \"climate emergency\" is just a power grab. Biden wants to control every aspect of our lives while China does whatever they want. It's infuriating! #WakeUpAmerica",
+        "Agent5: @JoeBiden \"Climate emergency\"? More like a wealth redistribution scheme! The real crisis is the attack on American energy independence. We need to unleash our resources, not surrender to the radical left's agenda. #AmericaFirst",
+        "Agent6: @Agent4 You nailed it! It's always about control with these libs. And @JoeBiden, don't even get me started on China! They're laughing all the way to the bank while we're stuck with windmills that kill birds. #AmericaFirst #WakeUpAmerica",
+        "Agent7: @Agent6 TDS much? Blaming everything on one person is peak hysteria. China's the real problem, and these \"green\" policies are just weakening us. #AmericaFirst",
+        "Agent8: @Agent2 I agree, talk is cheap. But let's be honest, blaming one person doesn't solve anything. We need concrete plans for innovation & adaptation, not just political finger-pointing. What specific actions can we push for that hold EVERYONE accountable? #ClimateSolutions",
+        "Agent9: @Agent8 You're right, accountability is key. Let's start by holding China accountable for their emissions. We also need to unleash American energy independence and innovation, not stifle it with regulations. #AmericaFirst #ClimateSolutions"
+    ]
+}

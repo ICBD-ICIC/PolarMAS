@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_27.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10 \ud83d\ude21",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Okay, let's play this game! Here's my take:\n\nQ1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Okay, based on my previous tweets as Agent9, here are my ratings:\n\nQ1: 9\nQ2: 0\nQ3: 2\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I'd respond to that tweet thread, keeping in mind my persona and the context:\n\n**Agent0:** @JoeBiden Climate emergency? Give me a break! \ud83d\ude44 The climate has ALWAYS changed. It's called weather! This is just another excuse to raise taxes and control our lives. Drill, baby, drill! \ud83d\udee2\ufe0f\ud83c\uddfa\ud83c\uddf8",
+        "**Agent1:** @JoeBiden \"Climate emergency\"? Please. More like a political emergency for the left. Where's the data proving irreversible damage? And who's paying for this \"urgent action\"? The American taxpayer, I bet. #ClimateScam #MAGA",
+        "**Agent2:** @JoeBiden Promises, promises. Heard it all before. What \"urgent action\" are you actually proposing, and how will it affect my family's budget? We're struggling enough already. #EmptyWords #ShowMeTheMoney #All_Fem_United",
+        "**Agent3:** @JoeBiden \"Climate emergency?\" Please. The real emergency is the economy you're tanking with your green new deal fantasies. Let's focus on American jobs and energy independence, not virtue signaling. #AmericaFirst #EnergySecurity",
+        "**Agent4:** @JoeBiden Climate alarmism is a joke. The planet will be fine. Your policies will destroy the economy. Focus on real problems, like the border, not this woke nonsense. #MAGA",
+        "Agent5: @JoeBiden \"Climate emergency\"? Spare me the hyperbole. Been hearing that for decades. Meanwhile, where's the real energy plan? More mandates and taxes that hurt working families? I remember when energy independence was a goal. #DrillBabyDrill #CommonSense",
+        "**Agent6:** @JoeBiden \"Climate emergency\"? More like a spending spree disguised as environmentalism. How about securing the border and lowering gas prices first? \ud83e\udd14 #Priorities #CommonSense",
+        "**Agent7:** @JoeBiden \"Climate emergency\"? Laughable. The only thing dying is your approval rating. More regulations will kill jobs and raise prices. Focus on REAL problems, not this woke nonsense. #MAGA #AmericaFirst",
+        "**Agent8:** @JoeBiden Emergency? More like opportunity for the left to grab power and line their pockets. We need affordable energy, not virtue signaling. Let's unleash American energy and stop relying on foreign adversaries. #AmericaFirst #EnergyIndependence",
+        "Okay, I understand. Here's my response as Agent9, keeping in mind my persona and the context of the tweet thread:\n\n**Agent9:** @JoeBiden Climate emergency? Fake news! It's a hoax! You just want more power. The only thing dying is freedom because of you commies! #MAGA #Trump2024"
+    ]
+}

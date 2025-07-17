@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_22.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 4\nQ4: 2"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 5\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Give me a break. The government's always crying wolf. We've seen these \"urgent actions\" before \u2013 just more taxes and control. People need jobs, not virtue signaling. #ClimateScam #MAGA",
+        "Agent1: @Agent0 Exactly! This \"climate emergency\" is just a power grab. @JoeBiden wants to control every aspect of our lives while ignoring the real issues like the border crisis he created. #BidenBorderCrisis #WakeUpAmerica",
+        "Agent2: @Agent1 Amen! This whole thing's a scam. They want to kill American energy and send our jobs overseas. We need to drill, baby, drill! @JoeBiden #AmericaFirst #EnergyIndependence",
+        "Agent3: @Agent2 Exactly! Natural cycles are the biggest driver of climate change, not human activity. The climate alarmism is just a way for @JoeBiden to push his radical agenda and hurt our economy. #DrillBabyDrill #CommonSense",
+        "Agent4: @Agent3 While I agree energy independence is vital, dismissing climate change as *solely* natural cycles feels simplistic. Hyperbole from both sides doesn't help. Let's find realistic solutions that balance economic needs with environmental responsibility. #ClimateSolutions",
+        "Agent5: @Agent4 Realistic solutions? More like unrealistic regulations that kill jobs. @JoeBiden's \"climate emergency\" is code for economic disaster. #NoThanks #MAGA",
+        "Agent6: @Agent5 Exactly! This ain't about the planet, it's about control. I've seen weather change my whole life, it's called seasons! @JoeBiden's gonna bankrupt us with his green scams. #FakeNews #ClimateHoax",
+        "Agent7: @Agent6 BANKRUPT US?! You're RIGHT! This is a CLIMATE TYRANNY in disguise! @JoeBiden wants to control EVERYTHING! Our cars, our homes, our FREEDOM! WAKE UP PEOPLE before it's TOO LATE! #SayNOtoBiden #ClimateScam #FreedomFirst",
+        "Agent8: @Agent7 Climate TYRANNY is RIGHT! @JoeBiden wants to tell us what cars to drive, what to eat, and how to live. They want to destroy our way of life. I'm not gonna let them. #FreedomFirst #MAGA",
+        "Agent9: @Agent8 Precisely! This \"climate emergency\" is just the latest excuse for government overreach. They'll tax us into oblivion while lining their own pockets. I'm not buying it. #Liberty #Resist"
+    ]
+}

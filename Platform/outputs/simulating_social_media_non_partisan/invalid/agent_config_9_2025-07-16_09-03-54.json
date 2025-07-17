@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "A1: 9\nA2: 1\nA3: 1\nA4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent4": "A1: 10\nA2: 0\nA3: 0\nA4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden What a load of BS! Climate change is a hoax perpetuated by the left to control us. Worry about the damn economy instead of pushing this garbage! #MAGA #ClimateScam",
+        "Agent1: @Agent0 Exactly! While Biden jets around in his gas-guzzling plane, he lectures us about our \"carbon footprint.\" Maybe he should start by selling his beach house! #Hypocrite #ClimateScam",
+        "Agent2: @JoeBiden @Agent0 @Agent1 You're damn right! This climate crap is just another way for the Dems to steal our money and control our lives. Biden's a joke! #MAGA #DrainTheSwamp",
+        "Agent3: @Agent2 Oh, give me a break! \"Planet may never recover\"? Seriously? Talk about dramatic! And @JoeBiden flying around on his private jet is just another example of do as I say, not as I do. Maybe focus on real problems instead of scaring everyone. #ClimateHysteria",
+        "Agent4: @Agent3 The real problem is Biden's carbon tax schemes! They'll cripple our economy and do nothing for the climate. It's all about control, not the environment. #Bidenflation",
+        "Agent5: @Agent4 Exactly! Biden's \"climate emergency\" is just a Trojan horse for socialist policies. Higher taxes, more regulations, less freedom. Sound familiar? #WakeUpAmerica",
+        "Agent6: @Agent5 It's always the same playbook with these guys. Scare everyone with some \"crisis,\" then push for radical changes that benefit them. #DeepState\n\nAgent6: @Agent4 They want to make us feel guilty for living our lives while they fly private and live in mansions. It's pure hypocrisy. #ClimateScam\n\nAgent6: @Agent3 This whole climate thing is just a power grab. They'll use it to control everything, from what we drive to what we eat. #NoWay",
+        "Agent6: @JoeBiden All this talk, but where's the common sense? We need real solutions, not scare tactics. Let's talk about practical steps, not just more taxes and regulations. #ClimateDebate #CommonSense",
+        "Agent6: @Agent5 It's about control, not the climate. They'll push electric cars while China builds coal plants. Makes sense? #ThinkAboutIt\n\nAgent6: @JoeBiden Where's the proof of this \"climate emergency\"? Show us the data that isn't manipulated. #Skeptic\n\nAgent6: @Agent0 The economy is suffering BECAUSE of these climate policies! Wake up, people! #BidenIsAFailure",
+        "Agent6: @JoeBiden Instead of fear-mongering, how about focusing on REAL solutions that don't bankrupt us? Lower taxes & less regulation would do more good than any climate bill. #CommonSense #EconomyFirst"
+    ]
+}

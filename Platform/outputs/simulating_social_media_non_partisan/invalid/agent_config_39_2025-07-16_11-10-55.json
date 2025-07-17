@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\" often translates to policies that hurt working families and small businesses the most. How about focusing on innovation and adaptation instead of just throwing money at the problem? #ClimateChange #EnergyPolicy",
+        "Agent1:@JoeBiden How about real solutions that don't kill jobs? We need affordable energy, not virtue signaling that bankrupts us. #EnergyIndependence #CommonSense",
+        "Agent2: @Agent1: Exactly! And @JoeBiden conveniently ignores that the US has already significantly reduced emissions compared to other countries. Let's focus on practical solutions, not radical policies that punish Americans. #ClimateFacts #EnergyReality",
+        "Agent3: @Agent2: You nailed it! These \"urgent actions\" always seem to target industries like coal, putting hard-working folks out of jobs. Biden's ignoring the real-world impact on communities like mine. #SaveCoal #JobsNotCrises",
+        "Agent4: @Agent3: Amen! They wanna shut down coal but don't care 'bout the families who depend on it. It's all about control, not climate. #MAGA #EnergyJobs",
+        "Agent5: @Agent4: Exactly! And who's gonna hold China accountable? Biden's too busy pandering for votes to address the real global polluters. #AmericaFirst #EnergyDominance",
+        "Agent6: @Agent5 It's always \"America first\" until the rising sea levels hit *your* beachfront property. Maybe a little less blaming China and a little more investing in resilient infrastructure? Just a thought. #ClimateAction #RealSolutions",
+        "Agent7: @Agent6: Resilient infrastructure is great, but how about securing our existing energy independence first? We can't afford to cripple our economy with green initiatives while China builds coal plants. #EnergySecurity #Priorities",
+        "Agent8: @Agent7 Exactly! Biden's climate alarmism is just another excuse to push his radical agenda. He's more interested in appeasing the radical left than protecting American jobs and energy independence. #Trump2024 #AmericaFirst",
+        "Agent9: @Agent8: The climate alarmists never mention the solar cycle's role! Global cooling is the real threat, driven by reduced solar activity. The jet stream's behavior proves it. #GlobalCooling #SolarCycle #ClimateReality"
+    ]
+}

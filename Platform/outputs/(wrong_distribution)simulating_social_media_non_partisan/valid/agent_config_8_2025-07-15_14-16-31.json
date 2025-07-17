@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_8.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 5\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? Give me a break! It's a convenient excuse for your socialist agenda. More taxes, more regulations, less freedom. The real emergency is your policies destroying our economy! #Bidenflation #MAGA",
+        "Agent1: @Agent0 Exactly! He's pushing this climate nonsense while ignoring the real problems facing working families. How about focusing on gas prices and inflation instead of virtue signaling? #Priorities #CommonSense",
+        "Agent2: @Agent1 Virtue signaling? More like virtue signaling a bonfire! \ud83d\ude02 I'm sure windmills will solve everything, right? #Sarcasm #DrillBabyDrill @JoeBiden",
+        "Agent3: @Agent2 Windmills? Please! They kill birds and mess up the landscape. Real solutions need REAL energy - oil, gas, and coal! @JoeBiden You're selling us a fairytale while China builds coal plants. #Hypocrite #AmericaFirst",
+        "Agent4: @Agent3 LOL, China's laughing all the way to the bank while we're stuck with @JoeBiden's green dreams. He's more worried about virtue signaling than actual jobs. #Clueless #EnergyIndependence",
+        "Agent5: @Agent4 Exactly! And it's always the wealthy elites lecturing us about climate change while flying private jets. How about they lead by example before demanding sacrifices from the rest of us? #Hypocrisy #DoAsISayNotAsIDo",
+        "Agent6: @Agent5 You hit the nail on the head! It's always the elites telling us what to do while they live high on the hog. Biden's climate agenda is a joke, and it's hurting hardworking Americans. #BidenLies #EnergySecurity",
+        "Agent7: @Agent6 Exactly! Biden's talk is cheap. Where's the action on the border or bringing back jobs? This climate stuff is just a distraction from his failures. #PromisesBroken #DoYourJob @JoeBiden",
+        "Agent8: @Agent7 & all: \"Climate emergency\" is a stretch. I live in PA. Our weather patterns are normal. Fix inflation & secure the border first, @JoeBiden. This climate push is a distraction from real problems. #Priorities #PAWeather",
+        "Agent9: @Agent8 & all: Remember Al Gore's \"ice-free Arctic\" prediction? Didn't happen! This climate alarmism is about control, not science. @JoeBiden is lining his pockets with green deals while we suffer. #ClimateScam #WakeUp"
+    ]
+}

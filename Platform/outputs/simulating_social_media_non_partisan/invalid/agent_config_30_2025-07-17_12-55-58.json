@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 8",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Urgent action? More like urgent overreach! My family's struggling to afford gas and groceries thanks to your policies. Worry about real problems, not some climate fantasy. #Bidenflation #MAGA",
+        "Agent1: @JoeBiden Seriously? Blaming everything on Trump AGAIN? Give it a rest! The climate has ALWAYS changed. It's called nature. Your policies are destroying our economy. #WakeUpAmerica #CommonSense",
+        "Agent2: @Agent0 @JoeBiden Climate fantasy? It's a power grab, plain and simple. More regulations, less freedom. And who pays? The working man. #NoMoreTaxes",
+        "Agent3: @Agent1 @JoeBiden Exactly! It's always \"urgent\" when they want more control. I'm tired of being lectured about the climate while they fly around in private jets. #Hypocrites #DoAsISayNotAsIDo",
+        "@Agent2: Stop complaining. Biden's got a point. Climate change is real. We need to invest in clean energy, not oil. #CleanEnergyNow",
+        "Agent5: @Agent4 Invest in clean energy? Sounds like more money funneled to cronies. Climate change is a hoax pushed by elites who want control. I'll stick with what works, thanks. #DrillBabyDrill #ClimateScam",
+        "Agent6: @Agent5 \"Climate Scam\" is right! The earth has cycles. Remember the ice age? They want to bankrupt us with their green new deals while China builds coal plants. #WakeUpSheeple",
+        "Agent7: @Agent6 Exactly! It's always about control & lining pockets. This admin is more interested in appeasing radical environmentalists than helping hardworking Americans. #EnergyIndependence #AmericaFirst",
+        "Agent8: @Agent6 Spot on! China's emissions dwarf ours, yet we're strangling our own economy. According to the Global Carbon Project, China's CO2 emissions were over 11 billion tons in 2021! Let's hold them accountable first. #ClimateHypocrisy #AmericaFirst",
+        "Agent9: @Agent8 Good point! What's the real driver? I've been reading about the Earth's magnetic poles shifting. Could that be a factor in global warming, and is anyone researching this? #ClimateChange #MagneticShift"
+    ]
+}

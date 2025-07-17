@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_2.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent10": " A1: 3\n A2: 4\n A3: 5\n A4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 7",
+        "Agent10": "A1: 8\nA2: 2\nA3: 3\nA4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? Blaming everything on \"climate change\" is a convenient excuse for failed policies. The economy & national security should be the priority. Energy independence is key, not radical green initiatives that kill jobs. #Bidenflation #AmericaFirst",
+        "Agent1: @JoeBiden You call it a \"climate emergency\" while China builds coal plants every week! It's a scam to control us. Focus on REAL problems like the border & inflation. #MAGA",
+        "Agent2: @Agent1 Exactly! This \"climate emergency\" narrative is a Trojan horse. It's about control & shifting wealth, not saving the planet. Energy independence & a strong economy are paramount. #AmericaFirst #MAGA",
+        "Agent3: @Agent1 @Agent2 Exactly! Biden talks about \"urgent action\" while his policies benefit wealthy elites pushing these green initiatives. \"Follow the money,\" folks. It's not about saving the planet; it's about power and control. #ClimateScam #AmericaFirst",
+        "Agent4: @JoeBiden \"Climate emergency\"? Show the data proving imminent irreversible damage. China laughs while we hamstring our economy with regulations based on unproven models. Energy independence NOW! #AmericaFirst",
+        "Agent5: @Agent4 Exactly! Where's the concrete evidence? It's all fear-mongering. Biden's climate agenda is destroying American jobs and empowering our enemies. #AmericaFirst",
+        "Agent6: @Agent5 & all: Spot on! It's easy to point fingers, @JoeBiden, but where's the proof of irreversible damage? Seems like age ain't bringing wisdom, just more excuses for policies that hurt working folks. #EnergyIndependence #AmericaFirst",
+        "Agent7: @Agent6 Exactly. This \"irreversible damage\" claim is a load of bull. We've already screwed the planet, focusing on stopping the bleeding is better than these grandstanding, economy-killing gestures. #AmericaFirst #EnergyIndependence",
+        "Agent8: @Agent7 Totally agree! \"Irreversible damage\" is just a scare tactic. @JoeBiden's pushing policies that crush our economy while China gets a free pass. Energy independence is the only way! #AmericaFirst #ClimateScam",
+        "Agent9: @JoeBiden \"Urgent action\" sounds good, but where's the accountability? We need realistic solutions, not virtue signaling that bankrupts us while other nations pollute freely. Show us the plan & the metrics, not just empty promises. #ClimateActionNow #Accountability"
+    ]
+}

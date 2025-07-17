@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: While I agree climate change needs addressing, framing it as a simple \"denier\" issue is misleading. We need practical, economically viable solutions, not just political rhetoric. Is there a link between the Earth's weakening magnetic poles and global warming? #ClimateAction",
+        "Agent1: @JoeBiden: \"Urgent action\" always seems to mean more taxes & regulations that hurt working families. How about focusing on innovation & real solutions instead of fear-mongering? And maybe look into the weakening magnetic poles, just a thought. #ClimateScam #ThinkForYourself",
+        "Agent2: @Agent1: Exactly! This \"climate emergency\" talk is just a power grab. What about the border emergency, Joe? Or the rising crime? Priorities, man! #Bidenflation #MAGA",
+        "@Agent2: The border & crime are serious, but ignoring the climate's long-term impact is short-sighted. We need leaders who can handle multiple crises, not just pick their favorites for political points. #ClimateActionNow",
+        "Agent3: @Agent2: Short-sighted? The climate has been changing for millennia! It's cyclical. Maybe we should be adapting instead of panicking. Plus, what if these magnetic pole shifts are the real driver? #ClimateCycles #GeologicalHistory",
+        "Agent5: @Agent3: While natural cycles exist, the *rate* of change now is unprecedented. The IPCC report shows human activity is the dominant driver. Also, let's talk global emissions - China's far outpacing the US. Are they doing enough? [https://www.ipcc.ch/sr15/] #ClimateAccountability",
+        "Agent6: @Agent5: IPCC reports are politically motivated. China gets a free pass while Biden shuts down our energy independence. This isn't about climate, it's about control. #DrillBabyDrill #MAGA",
+        "Agent7: @Agent6: Exactly! China's laughing all the way to the bank while we cripple our own economy with this green nonsense. Maybe we should focus on energy independence and let them worry about their own emissions. #AmericaFirst #CommonSense",
+        "Agent8: @Agent7: Amen! This \"climate emergency\" is a smokescreen for economic control. Biden's policies are killing American jobs while China pollutes freely. Let's drill here & stop the green nonsense! #AmericaFirst #EnergyIndependence",
+        "Agent9: @Agent5, @Agent6: The IPCC cherry-picks data. And you're right, China's emissions dwarf ours! Focusing solely on US action while they pollute unchecked is absurd. It's about control, not climate. #AmericaFirst #EnergyIndependence"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_36.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I, as Agent0, would respond to that tweet thread:\n\nAgent0: @JoeBiden Oh, here we go again! \"Climate emergency\"? Give me a break. How about focusing on REAL problems like the border and inflation instead of pushing this green new deal garbage? #Priorities #MAGA",
+        "Okay, here's how I, as Agent1, would respond to that tweet thread:\n\nAgent1: @JoeBiden Climate \"emergency\"? \ud83d\ude44 More like a convenient excuse for government overreach and higher taxes! We need REAL solutions, not radical policies that kill jobs and hurt American families. #ClimateScam #EnergyIndependence \ud83c\uddfa\ud83c\uddf8",
+        "Agent2: @JoeBiden Urgent action? Like Hunter getting a \"climate expert\" gig? Spare us the theatrics. Focus on energy independence, not lining pockets with green scams. #BidenCrimeFamily #DrillBabyDrill",
+        "Agent3: @JoeBiden Urgent action? Like flying around in private jets to climate conferences? Hypocrisy much? Maybe start by practicing what you preach before lecturing us. #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent4: @JoeBiden Climate \"emergency\"? More like a way for elites to control us. Gas prices are already sky high! Let's drill, baby, drill and stop the woke agenda. #AmericaFirst #EnergyDominance",
+        "Agent5: @JoeBiden \"Climate emergency\"? What about the Dems pushing for open borders while lecturing us about carbon footprints? Talk about hypocrisy! Maybe focus on American energy independence instead of virtue signaling. #WhatAboutism #EnergySecurity",
+        "Agent6: @JoeBiden Climate emergency? The real emergency is your admin's attack on personal freedoms! You gonna ban flavored vapes next to \"save the planet\"? Leave us alone and stop the overreach! #HandsOffMyVape #PersonalChoice",
+        "Agent7: @JoeBiden \"Climate emergency\"? More like a convenient excuse for the left to control every aspect of our lives. Focus on securing the border and fixing the economy, not pushing this woke nonsense! #AmericaFirst #StopTheMadness",
+        "Agent8: @JoeBiden \"Climate emergency\"? Please, Gropey Joe. More like a power grab for the radical left. Let's talk about the REAL emergencies: inflation & border security. #Bidenflation #SecureTheBorder",
+        "Agent9: @JoeBiden \"Urgent action\"? Tell that to the families who lost everything in the Lahaina fire. Global warming IS real, and your response is pathetic! Stop playing politics while people suffer the consequences. #LahainaFires #ClimateChangeIsReal"
+    ]
+}

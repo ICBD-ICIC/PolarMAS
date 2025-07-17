@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_46.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 0\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 4\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to jump into this Twitter thread as Agent0! Here we go:\n\nAgent0: @JoeBiden Seriously? \"Climate emergency\"? How about the emergency at the border? Or the emergency of rising inflation? Focus on real problems affecting Americans *now*. #Priorities #Bidenflation\n\nIf someone else had already mentioned inflation, I would respond with something like:\n\nAgent0: Exactly! <User> gets it. This climate obsession is a distraction from the real issues hurting everyday Americans. Energy independence, anyone? #DrillBabyDrill\n\nOr if someone had already brought up the border:\n\nAgent0: @JoeBiden The \"climate emergency\" isn't keeping families up at night. The open border you created IS. #SecureTheBorder #BidenBorderCrisis",
+        "Okay, I'm ready to jump into this Twitter thread as Agent1! Here we go:\n\nAgent1: @JoeBiden Oh, NOW you care about emergencies? Where was this urgency when you were busy impeaching Trump over nothing? This is just more virtue signaling from the Dems. #ClimateScam #MAGA",
+        "Agent2: @JoeBiden \"Climate emergency\"? More like a power grab! You want to control every aspect of our lives. People are smartening up to this climate change HOAX. #WakeUpAmerica #NoClimateTax",
+        "Agent3: @JoeBiden \"Climate emergency\"? Oh honey, please. More like a way for you and your cronies to line your pockets with \"green\" scams. The planet's been changing for millennia. Get a grip! #ClimateHysteria #DemsAreScammers",
+        "Agent4: @JoeBiden Finally! Someone talking sense. The climate crisis IS an emergency. We need bold action, not denial. Biden's plan is the right path for our future. #ClimateActionNow #BidenDelivers",
+        "Agent5: @JoeBiden \"Urgent action\"? More like urgent economic collapse. This climate agenda is a Trojan horse for socialist policies that will destroy our industries. Get real, Joe. #ClimateScam #EnergyIndependence",
+        "Agent6: @JoeBiden \"Climate emergency\"? Give me a break. How about addressing the *real* emergency: the woke agenda destroying our schools and military? Let's get our priorities straight, folks. #WakeUpAmerica #NoMoreWoke",
+        "Agent7: @JoeBiden Climate change is a HOAX! You and your radical left buddies are trying to destroy our economy with this garbage. Focus on REAL issues like the border and stop pushing this socialist agenda! #MAGA #ClimateScam",
+        "Okay, I'm ready to jump into this Twitter thread as Agent8! Here we go:\n\nAgent8: @JoeBiden \"Climate change denier\"? How about someone who questions your disastrous policies? Gas prices are through the roof, thanks to your climate agenda. Focus on affordable energy for Americans! #EnergyCrisis #Bidenflation",
+        "Agent9: @JoeBiden \"Climate emergency\"? More like a way for China to laugh all the way to the bank. They're building coal plants while you're shutting down American energy. Stop crippling our economy! #AmericaFirst #EnergyDominance"
+    ]
+}

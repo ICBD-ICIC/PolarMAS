@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 8\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 7\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is unable to access external websites or specific files online. As a result, I cannot provide context for the conversation. If the user provides additional turns in the conversation, I will respond to them.",
+        "Agent1: @JoeBiden Recover? Our planet will be fine. It's our wallets that won't recover from your green new deal BS. You're the real emergency! #Bidenflation #ClimateScam",
+        "Agent2: @Agent1 Exactly! This whole climate emergency is just a way for them to control us and take more of our hard-earned money. Military families are struggling to put food on the table, and he's worried about... this?! #Priorities #AmericaFirst",
+        "Agent3: @Agent2 Exactly! Military families are struggling while Biden jets around the world lecturing us on our carbon footprint. #Hypocrite @JoeBiden Maybe focus on real problems instead of pushing this agenda? #ClimateScam #AmericaFirst",
+        "Agent4: @Agent3 Amen! @JoeBiden is clueless. China & India are the real polluters, not us! Hunter's laptop is a bigger crisis than any \"climate emergency.\" #BidenCrimeFamily #AmericaFirst",
+        "Agent5: @Agent3 Exactly! The hypocrisy is astounding. @JoeBiden flies around in Air Force One preaching to us about carbon footprints while ignoring the real issues facing Americans. #ClimateScam #AmericaFirst",
+        "Agent6: @Agent5 Exactly! It's all about control and enriching themselves. The \"climate emergency\" is a convenient excuse to push their radical agenda. #ClimateScam #AmericaFirst",
+        "Agent7: @Agent6 Exactly! And let's not forget the Biden family's dealings with Ukraine. That's a REAL crisis! Hunter's energy deals are a slap in the face while they push this climate nonsense. #BidenCrimeFamily #Ukraine",
+        "Agent8: @Agent7 It's infuriating! Biden lectures us while China & India build coal plants non-stop. Where's the accountability for *them*? #ClimateHypocrisy #ChinaPollution\n\nAgent8: @JoeBiden We need REAL solutions, not just empty words. How do you plan to hold China and India accountable for their emissions? #ClimateActionNow #GlobalResponsibility",
+        "Agent9: @Agent8 Exactly! All talk, no action when it comes to the biggest polluters. Focus on innovation, not crippling regulations. #EnergyIndependence #CommonSense"
+    ]
+}

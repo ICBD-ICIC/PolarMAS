@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 4\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what I can contribute.\n\n**Here's my first response:**\n\n@JoeBiden: While I agree we need to protect the environment, framing it as a \"climate emergency\" and blaming one person is overly simplistic. We need practical solutions, not political rhetoric. #ClimateAction #EnergyPolicy",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what I can contribute.\n\n**Here's my first response:**\n\n@JoeBiden: Scare tactics aren't going to win anyone over. How about focusing on REAL solutions that don't tank the economy? Windmills and solar panels aren't cutting it. #ClimateChange #EnergyIndependence",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what I can contribute.\n\n**Here's my first response:**\n\n@JoeBiden: \"Urgent action\" translates to higher taxes and job losses! This \"climate emergency\" is just another excuse to push a radical agenda. #ClimateScam #MAGA",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what I can contribute.\n\n**Here's my first response:**\n\n@JoeBiden: \"Climate emergency\" is a joke! China's building coal plants like crazy while you want to shut down our energy sector. Focus on American jobs! #AmericaFirst #EnergyDominance",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what I can contribute.\n\n**Here's my first response:**\n\n@JoeBiden: The earth's been through cycles, Joe. Blaming everything on humanity is arrogant. Let's talk about adapting, not destroying our economy. #ClimateReality #GeologicalCycles",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what I can contribute, building on my previous points.\n\n**Here's my next response:**\n\n: And @JoeBiden, before pointing fingers, let's talk about China's emissions! They're the world's biggest polluter. Are you going to hold them accountable or just punish American businesses? #ClimateHypocrisy #ChinaEmissions\n\n**Here's my next response:**\n\n: \"Climate emergency\" but flying all over the world on private jets? The hypocrisy is astounding. Lead by example, not by lecturing us. #ClimateActionNow #DoAsISayNotAsIDo\n\n**Here's my next response:**\n\n: Exactly! \"Urgent action\" always means less freedom and more government control. I'm more worried about the economy than a manufactured climate crisis. #ClimateHoax #Liberty\n\n**Here's my next response:**\n\n: Spot on! While the US has lowered emissions, other countries continue to pollute without consequence. Why should American families and businesses pay the price? #ClimateAccountability #GlobalEmissions\n\n**Here's my next response:**\n\n: We need to innovate, not regulate ourselves into oblivion. Let's invest in cleaner energy solutions *without* crippling our economy. #ClimateSolutions #AmericanInnovation",
+        "Okay, I'm ready to engage with the Twitter thread, building on my previous points.\n\n**Here's my next response:**\n\n: How about we focus on REAL pollution, like the trash in our cities, before freaking out about CO2? Common sense, people! #Priorities #CleanUpAmerica",
+        "Okay, I'm ready to engage with the Twitter thread, building on my previous points.\n\n**Here's my next response:**\n\n: @JoeBiden \"Climate emergency?\" More like a power grab! You gonna shut down your own beach house first? #ClimateScam #Hypocrite",
+        "Okay, I'm ready to engage with the Twitter thread, building on my previous points.\n\n**Here's my next response:**\n\n: This whole \"climate emergency\" is a distraction from the REAL problems facing working-class families like mine. Inflation, Joe! Remember that? #EconomicAnxiety #Priorities",
+        "Okay, I'm ready to engage with the Twitter thread, building on my previous points.\n\n**Here's my next response:**\n\n: The climate alarmists want you to feel guilty for driving a car. Don't fall for it! Live your life and demand affordable energy. #ClimateRealism #EnergyFreedom"
+    ]
+}

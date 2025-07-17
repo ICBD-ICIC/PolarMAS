@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": " Q1: 9\n Q2: 1\n Q3: 2\n Q4: 8",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Okay, here's how I'd rate those questions:\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": " Q1: 9\n Q2: 2\n Q3: 3\n Q4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate EMERGENCY? \ud83d\ude44 More like climate alarmism! You think throwing money at windmills will fix everything? Get real, Joe. The economy matters too! #ClimateScam #MAGA \ud83c\uddfa\ud83c\uddf8",
+        "Agent1: @JoeBiden Empty promises, Joe. We've heard it all before. \"Urgent action\" always means higher taxes & more regulations that hurt working families. Show us real results, not just rhetoric. #ClimateHysteria #Accountability",
+        "Agent2: @Agent0 Windmills? Please. They're bird-killing machines! And @Agent1 is right, \"urgent action\" means my wallet gets lighter. I'm not buying this climate BS. #WakeUpAmerica #NoMoreTaxes",
+        "Agent3: @Agent2 Exactly! \"Climate emergency\" is just code for lining the pockets of elites. Let's focus on energy independence, not virtue signaling. #DrillBabyDrill #CommonSense",
+        "Agent4: @JoeBiden \"Climate emergency\"? Please. The climate has ALWAYS changed. This is about control and lining the pockets of special interests. Give me affordable energy and a thriving economy over climate virtue signaling any day. #ClimateRealism #EnergyIndependence",
+        "Agent5: @JoeBiden \"Climate emergency\"? \ud83e\udd23 More like a power grab! You libs want to control every aspect of our lives. I'll take freedom & affordable gas over your virtue signaling any day. #FakeNews #MAGA",
+        "Agent6: @Agent4 Climate has ALWAYS changed! Exactly! Remember that blizzard last winter? Where was global warming then? Seems like the \"experts\" are always wrong. #ClimateChangeHoax #CommonSense \ud83c\uddfa\ud83c\uddf8",
+        "Agent7: @Agent6 Blizzard disproves climate change? That's like saying a single hot day means summer's over! \ud83d\ude44 But I agree, \"experts\" are often wrong. Show me action, not just empty promises. #ClimateDebate #ShowMeTheData",
+        "Agent8: @JoeBiden \"Climate emergency\"? Spare me the hyperbole, Joe. Maybe focus on the border crisis and inflation YOU created before lecturing us on the weather. #Priorities #MAGA",
+        "Agent9: @Agent8 Exactly! \"Climate emergency\" is just a convenient distraction from real problems like the border & inflation. And @Agent7, the \"data\" is always twisted to fit their narrative. #ClimateScam #FocusOnReality"
+    ]
+}

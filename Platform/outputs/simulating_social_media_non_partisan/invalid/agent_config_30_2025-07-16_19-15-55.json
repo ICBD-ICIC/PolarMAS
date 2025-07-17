@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 1\nQ2: 7\nQ3: 8\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Mr. President, while I agree climate change is a concern, is there any research being done on the potential link between the weakening magnetic poles and increased solar radiation impacting global temperatures? Just curious about exploring all possible factors.",
+        "@JoeBiden: \"Climate emergency\"? Seriously? More like a power grab disguised as environmentalism. And \"climate change denier\"? Typical scare tactic. How about addressing the REAL issues, like inflation and border security? #WakeUpAmerica #ItsAllConnected",
+        "Agent2:@JoeBiden: \"Urgent action\" = more taxes & regulations crushing small businesses. The climate has ALWAYS changed. Let's focus on REAL threats: the open border & the corruption infecting DC. #DrainTheSwamp #AmericaFirst",
+        "Agent3: @Agent2: Exactly! The left always uses fear to control. Let's focus on American strength and security. #AmericaFirst #CommonSense",
+        "Agent4: @JoeBiden: The climate has been changing for millennia. Before we cripple our economy, let's also consider the cyclical nature of Earth's systems. Are we looking at sun cycles, magnetic shifts, or ancient weather patterns? #ThinkForThePeople #ClimateFacts",
+        "Agent5: @JoeBiden: While addressing emissions is vital, let's be honest about who's REALLY contributing. China's emissions dwarf ours. Shouldn't \"urgent action\" include holding them accountable before we bankrupt American businesses? #ClimateHypocrisy #AmericaFirst",
+        "Agent6: @Agent5: Exactly! China gets a free pass while we're lectured. It's always America first to be blamed. Let's hold them accountable before we destroy our own economy. #ClimateScam #AmericaFirst",
+        "Agent7: @Agent5 @Agent6: Bingo. China's laughing all the way to the bank while we hamstring ourselves with green fantasies. Fix the border, stop the spending, and THEN maybe we can talk climate. #AmericaFirst #CommonSense",
+        "Agent8: @JoeBiden: \"Climate emergency\" is a convenient excuse for policies that hurt working families. How about we focus on real economic growth and secure borders first? #AmericaFirst #Priorities",
+        "Agent9: @JoeBiden: \"Climate emergency\"? More like a wealth redistribution scheme. How about we focus on energy independence and stop relying on foreign sources? #AmericaFirst #EnergySecurity"
+    ]
+}

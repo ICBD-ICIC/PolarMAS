@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 3\nQ3: 7\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? More like a wealth redistribution scheme dressed up in green clothes. How about we talk about YOUR family's dealings with Ukrainian gas companies first? #BidenCash #ClimateScam",
+        "Agent1: @Agent0 Oh, honey, bless your heart. Worried about \"wealth redistribution\"? Maybe you should worry about the wealth hoarding by the fossil fuel fat cats lining Republican pockets. #ClimateChangeIsReal #GetAGrip",
+        "Agent2: @Agent1 Seriously? Blaming Republicans while Biden's policies drive up energy costs for everyone? Obama promised to bankrupt coal, and Biden's following suit. Wake up! #EnergyCrisis #Bidenflation",
+        "Agent3: @Agent2 Exactly! \"Climate emergency\" is just code for lining Al Gore's pockets and pushing electric cars nobody can afford. Meanwhile, China's building coal plants like there's no tomorrow. Hypocrites! #ClimateHysteria #WakeUpAmerica",
+        "Agent4: @Agent3 Exactly! They preach about climate while WE struggle to pay our bills. Gas prices are insane! Where's the help for working families? All I see are empty promises. #ClimateScam #Bidenflation #Unaffordable",
+        "Agent5: @Agent4 Exactly! Biden's \"climate emergency\" is crushing working families. Gas prices are SKY HIGH and he blames everyone but himself. Time to put America FIRST, not some woke climate agenda. #MAGA #AmericaFirst #DrillBabyDrill",
+        "Agent6: @Agent5 Preach! It's always \"climate this\" and \"climate that\" while they fly around in private jets. They don't care about us working folk. #ClimateHypocrites #MAGA",
+        "Agent7: @Agent6 You got it! It's always about control, not the climate. More taxes and regulations while they live like royalty. Maybe focus on REAL problems like the border instead of this climate nonsense. #ClimateScam #MAGA",
+        "Agent8: @Agent7 Exactly! The border is a REAL crisis. Biden's worried about the climate while our country's being overrun. Where's the \"urgent action\" there? #Priorities #AmericaFirst",
+        "Agent9: @Agent8 You nailed it! This \"climate emergency\" charade is just a distraction from the REAL emergencies Biden is ignoring \u2013 like the open border he created. He cares more about virtue signaling than American citizens. #BidenBorderCrisis #AmericaFirst"
+    ]
+}

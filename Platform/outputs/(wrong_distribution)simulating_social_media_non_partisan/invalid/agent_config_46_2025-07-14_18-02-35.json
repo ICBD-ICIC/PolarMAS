@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_46.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 0\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 0\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 1\nQ3: 6\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will respond to the tweet thread as Agent0. Here are a few possible responses:\n\n**Response 1 (Critical of Biden):**\n\nAgent0: @JoeBiden Seriously? Your admin's energy policies are hardly helping. More virtue signaling than actual solutions. #ClimateScam #EmptyPromises\n\n**Response 2 (Focusing on economic impact):**\n\nAgent0: This \"urgent action\" always seems to mean higher taxes and regulations that hurt working families. What about the economic impact, @JoeBiden? #JobsNotGreenNewDeal #Priorities\n\n**Response 3 (Doubting the severity):**\n\nAgent0: \"Planet may never recover\"? Bit dramatic, don't you think? Let's focus on real problems, like the border crisis and inflation. #ClimateAlarmism #CommonSense\n\n**Response 4 (Questioning his actions):**\n\nAgent0: @JoeBiden How about you start by curbing your own carbon footprint with all that travel? Lead by example! #Hypocrite #ClimateCrisis",
+        "Okay, I will respond to the tweet thread as Agent1.\n\nAgent1: @JoeBiden Oh, the irony! Coming from the guy who greenlit pipelines while lecturing us on climate. Spare us the theatrics. #Biden hypocrisy #ClimateScam",
+        "Okay, I will respond to the tweet thread as Agent2.\n\nAgent2: @JoeBiden \"Climate emergency\"? More like a power grab! The left wants control, not solutions. Gas prices are high enough, thanks. #ClimateHoax #MAGA",
+        "Okay, I will respond to the tweet thread as Agent3.\n\nAgent3: @JoeBiden Oh, honey, \"climate emergency\"? You mean the same \"emergency\" they've been screeching about for 50 years? Get real. Maybe focus on REAL issues, like the border YOU created. #ClimateScam #BidenFail",
+        "Okay, I will respond to the tweet thread as Agent4.\n\nAgent4: @JoeBiden You're right, Mr. President! We need to keep pushing for clean energy jobs and innovation. Deregulation is key to unleashing American ingenuity and solving this! #BidenDelivers #ClimateAction",
+        "Agent5: @JoeBiden \"Urgent action\" = more taxes & regulations crushing the middle class. The climate has ALWAYS changed. Focus on REAL problems like inflation & the border disaster YOU created. #ClimateScam #Bidenflation",
+        "Agent6: @JoeBiden Climate change isn't an excuse for socialist policies. How about real solutions that don't bankrupt the country, eh? #CommonSense #EnergyIndependence",
+        "Agent7: @JoeBiden Climate emergency? More like a liberal power grab! You're destroying our economy with this green new deal BS. Drill, baby, drill! #MAGA #BidenIsAFailure",
+        "Agent8: @JoeBiden \"Climate emergency\"? The only emergency is the one you're creating at the border. Less talk, more action on *real* problems facing Americans. #Priorities #BidenBorderCrisis",
+        "Agent9: @JoeBiden \"Urgent action\" means crippling our economy with Green New Deal nonsense. Focus on real issues: inflation, border security. Stop the climate fear-mongering! #AmericaFirst #DrillBabyDrill"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_46.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 0\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Okay, let's get this over with.\n\nA1: 8\nA2: 1\nA3: 2\nA4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 0\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "A1: 9\nA2: 0\nA3: 3\nA4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 6\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to respond to @JoeBiden's tweet, keeping my persona in mind and staying within the character limits. Here's my take:\n\nAgent0: @JoeBiden Seriously? Blaming everything on one person? How about focusing on REAL solutions that don't kill jobs and hurt American families? We need practical energy policies, not fear-mongering. #ClimateScam #EnergyIndependence",
+        "Okay, I'm ready to respond to @JoeBiden's tweet, keeping my persona in mind and staying within the character limits. Here's my take:\n\nAgent1: @JoeBiden Urgent action? Like the Keystone pipeline shutdown that cost thousands of jobs? You're destroying our economy with your climate BS! #Bidenflation #MAGA",
+        "Agent2: @JoeBiden \"Climate emergency\"? Give me a break! It's called weather, Joe. Always changing. Stop trying to control everything and let people live their lives. #LiberalHypocrisy #DrillBabyDrill",
+        "Agent3: @JoeBiden Oh, the planet \"may never recover\"? Dramatic much? Maybe you should focus on the border crisis instead of pushing your green new deal garbage. #ClimateAlarmists #BuildTheWall",
+        "Agent4: @JoeBiden Exactly! Biden's policies are working! The economy is booming under his leadership. Deregulation is key to continued success, and he understands that. #BidenDelivers #EconomicGrowth",
+        "Agent5: @JoeBiden Another empty promise. \"Urgent action\" means more taxes and regulations crushing small businesses. The planet's been here longer than you, Joe. It'll be here after. Focus on securing our borders and energy independence. #AmericaFirst #DrillBabyDrill",
+        "Agent6: @JoeBiden \"Climate emergency\"? More like a power grab, Joe. Draining our wallets while China laughs all the way to the bank. Let's talk energy independence and American jobs, not virtue signaling. #AmericaFirst #CommonSense",
+        "Agent7: @JoeBiden You call it a \"climate emergency,\" I call it a communist takeover! You're destroying our country with this radical agenda! #StopTheMadness #WakeUpAmerica",
+        "Agent8: @JoeBiden \"Climate emergency\"? More like a convenient excuse for government overreach. How about we focus on energy independence and stop relying on foreign powers? #AmericaFirst #DrillBabyDrill",
+        "Agent9: @JoeBiden You talk about urgent action? How about securing our borders and stopping the flood of illegals? That's a REAL crisis affecting American families NOW. Stop wasting our money on this climate nonsense! #AmericaFirst #SecureTheBorder"
+    ]
+}

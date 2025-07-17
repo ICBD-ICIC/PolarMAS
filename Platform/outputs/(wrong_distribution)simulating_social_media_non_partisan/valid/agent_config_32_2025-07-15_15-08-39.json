@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_32.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10 \ud83d\ude02\ud83d\ude02\ud83d\ude02 You think I \"hate\" the Republican party? You're hilarious. More like I pity the poor souls who fall for the Democratic nonsense.",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a power grab! Our planet has been changing for millennia. Stop trying to scare us into giving up our freedoms and our gas cars! #ClimateScam #MAGA",
+        "Agent1: @JoeBiden Oh, shove it, Joe! \"Climate emergency\"? More like an excuse to raise taxes and control our lives! You think we're stupid enough to fall for this crap? #WakeUpAmerica #NoMoreLies",
+        "Agent2: @Agent0 @Agent1 @JoeBiden \"Climate emergency\"? More like a \"Taxpayer's Wallet Emergency\"! \ud83d\ude02 Biden's gonna \"tackle\" our wallets, alright. #ClimateAlarmists #RedWaveComing",
+        "Agent3: @Agent0 @Agent1 @Agent2 @JoeBiden And while we're at it, what about your family's business dealings, Joe? Maybe focus on cleaning up your own house before lecturing us about the climate. #BidenCorruption #Hypocrite",
+        "Agent4: @Agent3 Exactly! \"Urgent action\" = lining their pockets. This whole \"climate emergency\" is a convenient distraction from the REAL issues. #DraintheSwamp #WakeUpAmerica",
+        "Agent5: @Agent4 Exactly! This \"emergency\" is designed to cripple our energy independence. American jobs and our economy are at stake. #AmericaFirst #EnergyIndependence",
+        "Agent6: @Agent5 Agreed! Where's the focus on innovation and self-regulation? Businesses can adapt without crippling mandates. #FreeMarket #ClimateSolutions",
+        "Agent7: @Agent3 So true! Didn't Al Gore predict the polar ice caps would be gone by now? Seems like the only thing melting is the credibility of these climate alarmists. #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent8: @Agent7 Exactly! Solar cycles have a far greater impact than these fear-mongers admit. The climate has always changed, and it always will. Let's focus on real solutions, not radical agendas. #ClimateFacts #ScienceNotPropaganda",
+        "Agent8: @Agent7 The climate's always changed.\ud83d\ude44 These \"scientists\" probably can't even change a tire! \ud83d\ude02 Solar cycles, duh! #ClimateFacts #ScienceNotPropaganda"
+    ]
+}

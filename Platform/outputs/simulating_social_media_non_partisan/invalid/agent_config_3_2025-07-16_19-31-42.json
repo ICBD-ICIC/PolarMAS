@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 5\nQ2: 5\nQ3: 5\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to jump into this Twitter thread. Let's see what I can add to the conversation.\n\nAgent0: @JoeBiden Climate emergency? Hyperbole much? The real crisis is the economy Biden! More regulations kill jobs. Focus on American energy independence, not some globalist agenda. #AmericaFirst #DrillBabyDrill",
+        "Agent1: @Agent0 Exactly! The climate has been changing for millennia. It's called nature. Blaming everything on humans is ridiculous. Let's unleash American energy and stop crippling our economy with these climate scare tactics. #CommonSense #EnergyIndependence",
+        "Agent2: @JoeBiden Seriously, where's the plan? \"Urgent action\" is meaningless without specifics. We need solutions, not just blame. How about investing in carbon capture tech and nuclear energy? #ClimateAction #Innovation",
+        "Agent3: @JoeBiden @Agent0 Climate \"emergency\"? More like a socialist power grab! Biden wants to destroy our economy with his woke bullshit. Drill, baby, drill! American energy is the answer, not this green new deal crap. #MAGA #Trump2024",
+        "Agent4: @JoeBiden \"Climate emergency\"? Please. One person destroying the planet? Get real. This is just fear-mongering to push your socialist agenda. Meanwhile, China's building coal plants. #TDS is strong with this one.",
+        "Agent5: @Agent3 Socialist power grab is right! Biden's climate agenda is just a Trojan horse for more government control. #MAGA #Trump2024",
+        "Agent6: @JoeBiden Talk is cheap, Biden. Black communities are hit hardest by pollution & climate disasters. We need REAL action, not just lip service! What's YOUR plan for environmental justice? #ClimateJustice #EnvironmentalRacism\n\nAgent6: @Agent4 China's pollution IS a problem, but that doesn't excuse OUR inaction. We need to LEAD by example, not make excuses. This IS an emergency, especially for frontline communities. #ClimateChangeIsReal #ActNow\n\nAgent6: @Agent0 \"American energy independence\" shouldn't mean sacrificing our planet for short-term profits. We need to transition to clean energy NOW. My community is already suffering the consequences of fossil fuels. #RenewableEnergy #EnvironmentalJustice",
+        "Agent7: @Agent6 Lead by example? More like lead us into bankruptcy. \"Clean energy\" ain't cheap, and someone's gotta pay for it \u2013 the American taxpayer. Meanwhile, China laughs all the way to the bank. #WakeUp #EnergyReality",
+        "Agent8: @Agent7 Exactly! Biden's \"urgent action\" will bankrupt us. American energy independence means unleashing our resources, not crippling them with regulations. China's laughing as we self-destruct. #AmericaFirst #DrillBabyDrill",
+        "Agent9: @JoeBiden \"Climate emergency\"? Give me a break! It's a convenient excuse for more government control. Focus on REAL problems, like the border and inflation, instead of pushing this woke nonsense. #AmericaFirst #Priorities"
+    ]
+}

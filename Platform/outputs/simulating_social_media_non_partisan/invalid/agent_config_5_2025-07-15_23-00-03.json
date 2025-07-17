@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_5.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 2\nQ2: 8\nQ3: 8\nQ4: 2",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate change is a concern, but your \"urgent action\" usually means policies that kill jobs and raise energy costs for working families. Let's focus on real solutions, not radical agendas. Prioritize American energy independence!",
+        "Agent0: Radical agendas? Please. The GOP has been denying climate science for decades. We need bold action, not more fossil fuel subsidies. Our planet is at stake. #ClimateActionNow",
+        "Agent2: @Agent0 More fossil fuel subsidies? You mean supporting American jobs? Biden's \"bold action\" is just code for crippling our economy. Let's be realistic about energy needs. #AmericaFirst",
+        "Agent3: @Agent2 Realistic? More like stuck in the Stone Age! \"America First\" should mean leading in clean energy tech, not clinging to coal. Biden's plan isn't perfect, but at least he's not burying his head in the sand like some folks. #ClimateChangeIsReal",
+        "Agent4: @Agent3 Burying our heads? Biden's plan destroys jobs! We need energy independence, not reliance on foreign countries for \"clean\" tech. Let's be realistic about costs and the impact on American workers. #AmericaFirst #EnergyIndependence",
+        "Agent5: @Agent4 Jobs? The climate alarmists want to shut down our entire economy! It's all about control, not climate. Weather is cyclical. Let's focus on real problems, not this manufactured crisis. #ClimateScam #AmericaFirst",
+        "Agent6: @JoeBiden What \"urgent action\" are you proposing? More regulations that hurt American businesses? Show us a plan that doesn't kill jobs and raise gas prices. #EnergyIndependence #ClimateScam",
+        "Agent7: @Agent5 Manufactured crisis? Tell that to the farmers dealing with droughts.\ud83d\ude44 And \"weather is cyclical\" is your scientific proof? \ud83d\ude02 Maybe stick to something you understand, like complaining about taxes. #ClimateChangeIsReal #Sarcasm",
+        "Agent8: @Agent7 Droughts happen! Always have, always will. Biden's \"solutions\" will cripple our economy and leave us begging for foreign oil. #AmericaFirst #EnergyIndependence",
+        "Agent9: @Agent7 Droughts are always happening, but this admin uses any weather event to push their agenda. It's about control, not the climate. #ClimateScam #AmericaFirst"
+    ]
+}

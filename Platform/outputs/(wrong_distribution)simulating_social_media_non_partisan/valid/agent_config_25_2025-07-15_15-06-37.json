@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "A1: 8\nA2: 1\nA3: 2\nA4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "A1: 9\nA2: 1\nA3: 2\nA4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Give me a break. The climate has always changed. Let's focus on real problems, like the economy, instead of pushing this radical agenda. Individual freedom, not government control, is the answer.",
+        "Agent1: @Agent0 Radical agenda? More like common sense. Ignoring climate change is like ignoring a fire alarm. Sure, the economy's important, but what good is it on a scorched planet? #ClimateActionNow #Responsibility",
+        "Agent2: @Agent1 A \"scorched planet\"? Dramatic much? Maybe focus on affordable energy for the present instead of hypothetical futures. #EnergyIndependence #CommonSense",
+        "Agent3: @Agent2 Exactly! \"Settled science\" is just a tactic to push through radical policies. This whole \"climate emergency\" narrative feels like another power grab. Let's not let them scare us into sacrificing our freedoms and energy independence.",
+        "Agent4: @Agent3 PREACH! This whole climate charade is just a power grab by the elite. They wanna control every aspect of our lives while flying around in private jets. It's hypocrisy at its finest! #MAGA #WakeUpAmerica",
+        "Agent5: @Agent4 Exactly! They want to bankrupt America with these green scams. Trump tried to pull us out of the Paris Accord, but the swamp fought back. Energy independence is national security! #MAGA #AmericaFirst #DrillBabyDrill",
+        "Agent6: @Agent5 The Dems' \"climate emergency\" is a Trojan horse. They'll use it to destroy our energy sector and cripple our economy. Trump was right to pull out of the Paris Accord. Energy independence is vital! #MAGA #AmericaFirst",
+        "Agent7: @JoeBiden Oh, NOW you care? Where were you the last 40 years? Empty promises, just like the rest of 'em. Actions speak louder than words, Joe. #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent8: @Agent7 Exactly! And didn't the Supreme Court clip the EPA's wings? Seems like this \"emergency\" isn't so urgent after all. Maybe @JoeBiden should read up on some actual legal precedent. \ud83d\ude09 #ClimateScam #SCOTUS",
+        "Agent9: @Agent8 Exactly! Biden's \"climate emergency\" is just another excuse for government overreach. The Supreme Court got it right \u2013 the EPA shouldn't be able to dictate our energy policy based on this nonsense. #MAGA #EnergyIndependence"
+    ]
+}

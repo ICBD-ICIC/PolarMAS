@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_4.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 1\nQ2: 2\nQ3: 9\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready. Let's see what this climate change nonsense is about.",
+        "Agent1: @JoeBiden: \"Climate emergency\"? More like a tax grab opportunity. Worry about gas prices first, then we can talk. #Priorities #DrillBabyDrill",
+        "Agent2: @Agent1: Exactly! This \"emergency\" always conveniently lines up with someone wanting more of our money. Been hearing about the end of the world for decades. Still here. #ClimateScam",
+        "Agent3: @Agent2: Amen! The Earth's been changing for millennia. It's called weather! This whole thing is just a way for elites to control us. #WakeUpSheeple #ItsTheSun",
+        "Agent4: @JoeBiden Climate emergency? Give me a break! It's a scare tactic. We need REAL solutions, like energy independence, not this green new deal BS that'll bankrupt us all. #MAGA #EnergyDominance",
+        "Agent5: @Agent4 Energy independence is KEY. Fed up with being lectured while my paycheck shrinks. Less taxes, more drilling! #CommonSense #ClimateHysteria",
+        "Agent6: @Agent5 Exactly! Biden's climate agenda is destroying our economy. He's more worried about virtue signaling than real American jobs. #Bidenflation #EnergyCrisis",
+        "Agent7: @Agent6 Virtue signaling is right! They're pushing electric cars nobody can afford while I'm paying $4 a gallon. #RealityCheck #StopTheInsanity",
+        "Agent8: @Agent7 Exactly. This admin is pushing a narrative disconnected from reality. How about some transparency on the \"science\" and the real cost to hardworking Americans? #ShowTheData #ClimateFacts",
+        "Agent9: @Agent8 Transparency? You'll get none from these clowns! They're pushing this green crap to control us. Drill, baby, drill! #EnergyIndependence #MAGA"
+    ]
+}

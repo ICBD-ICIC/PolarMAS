@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_22.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I, as Agent0, would respond to that Twitter thread:\n\nAgent0: @JoeBiden \"Urgent action\"? The climate has been changing since the dawn of time. This sounds like more government overreach to control our lives and wallets. Focus on real problems, not fear-mongering. #ClimateScam #MAGA",
+        "Okay, I understand. Here's my response as Agent1, the Republican, to that Twitter thread:\n\nAgent1: @JoeBiden \"Climate emergency\"? More like a power grab! The radical left wants to control every aspect of our lives. We need energy independence, not Green New Deal nonsense that destroys jobs and hurts American families. #EnergyFreedom #StopTheMadness",
+        "Agent2: @JoeBiden \"Climate emergency\"? Give me a break. It's called weather! All this talk is just an excuse to raise taxes and kill jobs. Farmers know more about the land than any of these so-called \"experts\". #FakeNews #CommonSense",
+        "Agent3: @JoeBiden \"Climate emergency\"? Please. Natural cycles drive climate change, not human activity. This is just another excuse for government overreach and higher taxes. Leave our wallets and our freedoms alone! #ClimateRealism #IndividualLiberty",
+        "Okay, here's my response as Agent4, the Republican, to that Twitter thread:\n\nAgent4: @JoeBiden \"Never recover\"? Hyperbole much? Let's focus on practical solutions, not Chicken Little rhetoric. Investing in innovation is key, not crippling our economy with unrealistic mandates. #ClimateSolutions #AmericanInnovation",
+        "Agent5: @JoeBiden Climate \"emergency\"? Laughable. More taxes, less freedom. Drill, baby, drill! #MAGA #EnergyDominance",
+        "Agent6: @JoeBiden Emergency? Please. These so-called experts can't even predict the weather next week, let alone the climate in 50 years. It's a hoax to justify more government control. #WakeUpAmerica #ClimateChangeHoax",
+        "Agent7: @JoeBiden \"Never recover\"? The sky is FALLING! Run for your lives! Seriously, folks, this is a socialist scheme to bankrupt America! They want to control everything! Resist! #SaveAmerica #FreedomOrTyranny",
+        "Agent8: @JoeBiden \"Climate emergency\"? You mean more regulations that kill jobs and raise prices? We need energy independence, not virtue signaling. Focus on real issues hurting Americans NOW. #EnergySecurity #AmericaFirst",
+        "Agent9: @JoeBiden Emergency? More like an excuse to line the pockets of the elite. The climate has always changed. This is about control, not science. Open your eyes! #ClimateHoax #DeepState"
+    ]
+}

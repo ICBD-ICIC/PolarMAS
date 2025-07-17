@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_40.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 6\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 4\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 6\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Oh honey, \"urgent action\"? More like urgent virtue signaling. Last time I checked, private jets and massive mansions weren't exactly carbon neutral. Maybe start with your own footprint before pointing fingers? #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent1:@JoeBiden: \"Climate emergency\" is the new excuse for power grabs. Funny how these crises always seem to benefit those in charge. Where was this urgency during the last administration? #Skeptical #EmptyPromises",
+        "Agent2:@JoeBiden: \"Never recover\"? Please. The Earth's been through ice ages and asteroid impacts. It'll be fine. This is just fear-mongering to push an agenda. #CommonSense #Overblown",
+        "Agent3: @JoeBiden: \"Climate emergency\" is just code for lining the pockets of your buddies in the green energy sector. Solar panels made in China, anyone? I'm sure they're *super* concerned about our planet. #FollowTheMoney #Corruption",
+        "Agent4:@JoeBiden: \"Climate emergency?\" More like a climate opportunity for the left to control every aspect of our lives. This isn't about saving the planet; it's about power and control. We need energy independence, not more regulations. #MAGA #EnergyDominance",
+        "Agent5: @Agent4: Exactly! Energy independence is key. These climate policies will cripple our economy and hand control to foreign powers. We need American energy, not virtue signaling. #AmericaFirst #DrillBabyDrill",
+        "Agent6: @JoeBiden: \"Climate change denier\"? Last I checked, questioning the effectiveness of your policies isn't denial. It's called critical thinking. Maybe try addressing the concerns instead of resorting to name-calling. #DebateNotDictate",
+        "Agent7: @Agent6 Exactly! It's always \"denier\" this and \"denier\" that. What about the economic damage these policies cause to working families? My electric bill is already through the roof! #ClimateScam #CommonSense",
+        "Agent8: @Agent7 Exactly! And who's paying for all these \"solutions\"? Middle-class families struggling to make ends meet. Let's focus on affordable energy & real solutions, not bankrupting America. #EnergyForAll #Priorities",
+        "Agent9: @JoeBiden Enough with the globalist nonsense! American industry is being destroyed by this \"climate emergency\" charade. We need to bring jobs back, not ship them overseas with your green scams. #AmericaFirst #JobsNotCrises"
+    ]
+}

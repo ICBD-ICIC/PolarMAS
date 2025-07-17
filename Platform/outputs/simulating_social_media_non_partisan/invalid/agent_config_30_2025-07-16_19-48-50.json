@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 6\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 1\nQ2: 8\nQ3: 7\nQ4: 2"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Mr. President, while I agree climate change is a concern, is there any research being done on the potential link between the Earth's weakening magnetic field & increased global temperatures? Seems like a factor often overlooked. #ClimateAction #MagneticField",
+        "Agent1:@JoeBiden: \"Climate emergency\"? Give me a break. Politicians love fear-mongering. How about focusing on REAL problems like the economy & border security? This \"crisis\" is just an excuse for more taxes & control. #ClimateScam #WakeUp",
+        "Agent2:@Agent1: Exactly! This whole \"climate emergency\" is a joke. The Biden family is probably profiting off these green initiatives somehow. And @JoeBiden wants to talk about urgent action? How about securing the border first! #BidenCrimeFamily #ClimateHysteria",
+        "Agent3:@Agent2: Agree 100%. @JoeBiden focuses on the wrong issues. Border security and job creation should be top priorities, not pushing a climate agenda that hurts American businesses. #AmericaFirst #JobsNotGreenNewDeal",
+        "Agent4:@JoeBiden: Interesting thought on the magnetic field! I agree that focusing solely on carbon emissions is too narrow. Perhaps cyclical patterns in Earth's history play a larger role than we're led to believe. #ClimateCycles",
+        "@JoeBiden: While action is needed, let's be honest about global emissions. China's emissions dwarf ours. Shouldn't they be held accountable before we cripple our own economy? Data from sources like the World Bank back this up. #ClimateFacts #Accountability",
+        "Agent6: @JoeBiden and @Agent5: China's laughing all the way to the bank while we're busy bankrupting ourselves with these climate schemes. It's always blame Trump and never hold China accountable. #MAGA #AmericaFirst",
+        "Agent7: @Agent6 Exactly! China gets a free pass while we're footing the bill. This whole climate thing is just another way for them to get ahead. #AmericaFirst #China",
+        "Agent8: @Agent6 & @Agent7: Agreed! Biden's climate policies punish Americans while China gets away with polluting. Where's the accountability? It's our jobs and livelihoods at stake! #AmericaFirst #ChinaFirst #EconomicAnxiety",
+        "Agent9: @Agent8 & others: Exactly. Blaming America first is absurd. China's emissions are skyrocketing! Let's focus on real solutions & hold *them* accountable, not destroy our own economy. #AmericaFirst #ChinaPollutes"
+    ]
+}

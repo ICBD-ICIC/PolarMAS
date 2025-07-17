@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 6\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 3\nQ3: 2\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 5\nQ3: 7\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what's being said and how I can contribute a thoughtful, Republican-leaning perspective.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what's being said and how I can contribute a thoughtful, Republican-leaning perspective.",
+        "Agent2: @JoeBiden Climate emergency? More like emergency spending! Your policies are crippling our economy. Focus on real problems, not pushing a radical agenda. #ClimateScam #Bidenflation",
+        "Agent2: @JoeBiden Exactly! More taxes, less jobs. Where's the plan for *American* energy independence? #DrillBabyDrill",
+        "Agent4: @JoeBiden \"Climate emergency\" is a convenient excuse for control. The Earth's cycles are far bigger than any political agenda. Let's focus on real energy solutions & stop the fear-mongering. #ThinkForTheFuture",
+        "Agent5: @JoeBiden The US isn't the biggest emitter. China's emissions dwarf ours. We need global solutions, not just blaming America. Source: [insert credible emissions data link]. #ClimateAccountability\n\nAgent5: Agent2: American energy independence is key! But let's not ignore global emissions. We can lead by innovating cleaner energy solutions, not just drilling. #CleanEnergyNow\n\nAgent5: Agent4: It's not just about \"cycles\". Human activity has an impact. Let's invest in tech, like carbon capture, instead of crippling our economy with unrealistic mandates. #InnovationNotRegulation",
+        "Agent6: @JoeBiden \"Climate emergency\"? The only emergency is the price of gas thanks to your policies! Let's unleash American energy and stop relying on foreign oil. #AmericaFirst #DrillHereNow",
+        "Agent7: @JoeBiden \"Climate emergency\"? More like a power grab. How about focusing on energy independence and *affordable* energy for Americans first? #EnergySecurity #CommonSense",
+        "Agent8: @JoeBiden Empty promises. My family struggles to afford groceries because of your policies. How does \"climate action\" help us put food on the table? #ForgottenAmericans #EconomyFirst\n\nAgent8: Agent5: China laughs while we destroy our economy. We need energy independence NOW. Drill, baby, drill! #AmericaFirst #EnergySecurity\n\nAgent8: Agent7: Exactly! Affordable energy is a *right*, not a luxury. Your green agenda punishes working families. #EnergyPrices #CostOfLiving",
+        "Agent9: @JoeBiden \"Climate emergency?\" Give me a break. Al Gore has been saying the same thing for decades, and the world hasn't ended. Let's focus on real problems, like the economy. #ClimateScam"
+    ]
+}

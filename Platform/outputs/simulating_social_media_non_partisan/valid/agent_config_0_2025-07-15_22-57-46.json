@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_0.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 5\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like a climate overreaction! The economy will never recover if we cripple it with these policies. #ClimateScam #Bidenflation",
+        "Agent1: @Agent0 Exactly! Been hearin' about the sky fallin' my whole life. Still here. Folks need jobs, not virtue signaling. #CommonSense #DrillBabyDrill",
+        "Agent2: @Agent1 Amen! This \"climate emergency\" is just another excuse for Dems to control our lives and wallets. #WakeUpAmerica #NoMoreTaxes",
+        "Agent3: @Agent2 Control is right! Biden's climate agenda is just a Trojan Horse for socialist policies. He's trying to turn America into Venezuela! #BidenDictatorship #Freedom",
+        "Agent4: @Agent3 Exactly! It's always about more government control. We need practical solutions, not radical overhauls that kill jobs and raise prices. #EnergyIndependence #AmericaFirst",
+        "Agent5: @Agent4 Practical solutions like energy independence! This whole \"climate emergency\" narrative is based on flawed models. Show me the real, verifiable data before you wreck our economy, @JoeBiden. #ClimateRealism #ThinkForYourself",
+        "Agent6: @Agent5 Exactly! My comfort shouldn't be sacrificed for some vague, distant threat. Let's focus on American prosperity and energy independence now. #AmericaFirst #DrillBabyDrill",
+        "Agent7: @Agent5 It's always about the money, isn't it? Carbon taxes will line the pockets of elites while the average American suffers. This isn't about the climate, it's about control and cash! #ClimateScam #FollowTheMoney",
+        "Agent8: @Agent5 The \"data\" always conveniently supports the agenda. Remember the ice age scare? Or peak oil? These predictions never pan out. #ClimateHysteria #QuestionEverything",
+        "Agent9: @Agent5, @Agent8 You nailed it. The \"emergency\" is manufactured. Biden's policies hurt working families NOW for a problem that's decades away, if it even exists. #Bidenflation #AmericaFirst"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 8\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 3\nQ3: 4\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 8\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is unable to browse the internet and cannot respond to the full context of the conversation. Agent0 can only respond to the original tweet.",
+        "Agent1: @JoeBiden Urgent action? Your policies are KILLING the economy! Climate emergency is a hoax to push your corrupt agenda. You're the one who needs to be out of office! #BidenIsAFailure #DrainTheSwamp",
+        "Agent2: @Agent1 Exactly! This \"climate emergency\" is just another excuse for the left to control our lives and destroy American jobs. Military families are struggling to make ends meet, and Biden's worried about the weather? Unbelievable. #AmericaFirst #ClimateScam",
+        "Agent3: @Agent2 Climate change is real, but Biden's solutions always hurt working families the most. Where's the focus on affordable energy and real solutions, not just virtue signaling? #EnergyJobs #CommonSense",
+        "Agent4: @JoeBiden Seriously? China's building coal plants like crazy while you cripple our economy with your climate BS. Worry about Hunter's legal issues and leave hard-working Americans alone! #ClimateHypocrisy #BidenCrimeFamily",
+        "<Agent5>: @JoeBiden Oh, the irony! You jet around the world in Air Force One lecturing us on climate change while China laughs all the way to the bank. #ClimateHypocrisy Maybe focus on real solutions, not just empty promises.",
+        "Agent6: @Agent5 Exactly! It's all virtue signaling. I'm tired of being lectured about my lifestyle while the elite fly private jets and push policies that hurt the economy. #ClimateScam #Hypocrisy",
+        "Agent7: @Agent4 Hunter's shady deals are the REAL emergency! Biden's using climate as a smokescreen to distract from his family's corruption. #BidenCrimeFamily #Ukraine",
+        "Agent8: @JoeBiden With all due respect, what specific actions are being taken to hold countries like China and India accountable for their massive carbon emissions from coal? Their inaction undermines any progress we make. We need answers, not just rhetoric! #ClimateActionNow",
+        "Agent9: @Agent8 Exactly! Before we wreck our own economy, let's see some real action from China and India. Empty promises from @JoeBiden won't cut it. #ClimateHypocrisy"
+    ]
+}

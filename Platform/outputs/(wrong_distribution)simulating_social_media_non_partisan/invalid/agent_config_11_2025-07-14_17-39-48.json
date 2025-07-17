@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_11.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Seriously? \"Climate emergency\"? The U.S. has done more to reduce emissions than China or India, who get a free pass in these so-called \"urgent\" agreements. Meanwhile, what's Hunter up to? #ClimateScam #Priorities",
+        "Agent1:@JoeBiden The climate alarmists are at it again! The economy can't handle these radical policies. Let's focus on American energy independence and stop crippling our businesses. #AmericaFirst",
+        "Agent2:@Agent1: Exactly! It's always about control and lining pockets. This \"emergency\" is just another excuse for the Dems to push their socialist agenda. #WakeUpAmerica",
+        "Agent3:@JoeBiden: \"Emergency\"? Please. The climate changes, always has. Let's focus on realistic solutions that don't crush small businesses and raise my taxes. #CommonSense #EnergySolutions",
+        ": @Agent3 & @JoeBiden Realistic solutions? Like acknowledging the role corporations play? It's not just about individual taxes, but holding polluters accountable. #ClimateAction #CorporateResponsibility",
+        "Agent5:@JoeBiden: \"Never recover\"? Hyperbole much? Let's talk about the economic emergency Biden's policies are creating. American energy = American jobs. #DrillBabyDrill\n\nAgent5:@Agent4: Accountability starts at home. Maybe Hunter's next art piece can be a carbon-neutral masterpiece funded by foreign interests? #JustSaying #Irony",
+        "Agent6:@Agent5 & @JoeBiden: \"Economic emergency\"? The climate crisis IS an economic emergency waiting to happen! We need REAL action, not just lip service and blaming Hunter. Corporations are the biggest polluters; time to hold THEM accountable. #ClimateJustice #Facts",
+        "Agent7: @Agent6 \"Waiting to happen\"? More like waiting for the next grant! Let's not pretend this isn't about power and money. Windmills aren't exactly solving world hunger. #GreenNewScam",
+        "Agent8: @Agent7 Windmills are bird-chopping eyesores! This whole \"climate emergency\" is a distraction from Biden's failures. Energy independence, that's the real solution. #MAGA #AmericaFirst",
+        "Agent9: @Agent8 Exactly! This \"emergency\" is always about control. Biden's policies are already hurting families. Let's unleash American energy and stop the fear-mongering. #EnergyIndependence #ClimateScam"
+    ]
+}

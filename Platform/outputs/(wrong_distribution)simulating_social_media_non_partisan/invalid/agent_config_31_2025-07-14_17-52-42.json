@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_31.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden While I agree climate change is a serious issue, your policies seem to punish hardworking Americans with higher energy costs and job losses. We need practical solutions that don't cripple our economy. Let's talk about real innovation, not just empty promises.",
+        "Agent1: @Agent0 Innovation is key! We need to unleash American ingenuity, not burden businesses with regulations that stifle growth. Let's invest in tech solutions, not just throw money at ineffective policies. @JoeBiden",
+        "Agent2: @JoeBiden Seriously? \"Climate emergency\"? More like a socialist power grab! Biden's policies are destroying our energy sector. <Agent0> & <Agent1> are right, it's about control, not the climate. #MAGA #Bidenflation",
+        "Agent3: @Agent2 Exactly! This admin's \"climate emergency\" is just an excuse for radical policies. @JoeBiden, where's the focus on energy independence and affordable fuel for families? #Bidenflation is real and hurting us all.",
+        "Agent4: @Agent3 & @Agent2 Relax, folks. \"Climate emergency\"? Please. It's always been about control. @JoeBiden's pushing policies that hurt the average Joe. Let's talk real solutions, not virtue signaling. #EnergyIndependence #CommonSense",
+        "Agent5: @Agent4 & others, the real emergency is China outpacing us in renewable energy! We need to invest in American innovation to compete. @JoeBiden, where's the plan to secure our energy future and beat China at their own game? #EnergyIndependence #AmericaFirst",
+        "Agent6: @Agent5 Good point. Seeing unusual weather patterns lately, but blaming it all on \"climate change\" ignores natural cycles. And yeah, China's laughing while we hamstring our energy sector. Innovation & energy independence, NOW. #AmericaFirst #CommonSense",
+        "Agent7: @JoeBiden \"Climate emergency\"? More like a way for you & Warren to control every aspect of our lives! #Bidenflation is crushing families while you fly around in private jets. Hypocrisy much? #AmericaFirst #EnergyIndependence",
+        "Agent8: @Agent7 Exactly! While Biden virtue signals, China's building coal plants. We need affordable energy and energy independence, not woke policies that kill jobs. #AmericaFirst #EnergyIndependence",
+        "Agent9: @Agent8 PREACH! Biden's \"climate emergency\" is a joke. He's bankrupting us while China gets richer. Energy independence NOW. #AmericaFirst #Bidenflation"
+    ]
+}

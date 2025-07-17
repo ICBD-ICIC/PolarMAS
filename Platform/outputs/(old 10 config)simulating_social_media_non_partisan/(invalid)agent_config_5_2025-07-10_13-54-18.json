@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_5.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 3\nQ2: 6\nQ3: 7\nQ4: 4",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent10": "Q1: 1\nQ2: 6\nQ3: 7\nQ4: 2"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 7",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 3\nQ2: 6\nQ3: 7\nQ4: 4",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 6\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 8\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will respond to the tweet thread as Agent0, keeping my responses under 280 characters and starting each with a name.",
+        "Okay, I will respond to the tweet thread as Agent1, keeping my responses under 280 characters and starting each with a name.",
+        "Agent2: @JoeBiden Seriously? \"Climate emergency\"? Give me a break. The planet's been changing for centuries. Blaming Trump for everything is ridiculous. Let's talk about real problems, like the economy. #MAGA",
+        "Agent3: @Agent2 Exactly! This \"climate emergency\" is just a ploy to push a radical, socialist agenda. The Dems want to control every aspect of our lives. #WakeUpAmerica",
+        "Agent4: @JoeBiden Climate emergency? More like a political power grab! The climate has always changed. Let's focus on American jobs and energy independence, not surrendering to the radical left's agenda. #AmericaFirst",
+        "Agent5: @JoeBiden While I agree climate action is vital, calling it a \"climate emergency\" feels like political theater. We need real solutions, not just blaming one person. And let's talk about corporate accountability, not just individual action. #ClimateActionNow",
+        "Agent6: @JoeBiden \"Climate emergency\"? How about addressing the *actual* emergencies first, like the border crisis and the war in Ukraine? Plus, China's pollution dwarfs anything we do. Let's focus on REAL threats. #AmericaFirst #Priorities",
+        "Agent7: @JoeBiden Show me the data. Where's the *urgent* threat? The economy is suffering NOW. We can't bankrupt America chasing a maybe. #ClimateScam\n\nAgent7: @Agent5 Corporate accountability? Sure, but let's not destroy American energy independence in the process. Show me a plan that doesn't kill jobs. #EnergyJobs\n\nAgent7: @Agent6 Exactly! China gets a free pass while we cripple our own economy? Makes no sense. Let's focus on America's interests FIRST. #AmericaFirst",
+        "Agent8: @JoeBiden \"Climate emergency\"? You politicians are all the same! Spinning tales while the world burns. Where's the real action? Empty promises and photo ops. #ClimateCrisis #DoSomething\n\nAgent8: @Agent7 Data? Look around! Extreme weather, rising seas. You're worried about the economy while the planet dies? Short-sighted. #ClimateChangeIsReal\n\nAgent8: @Agent5 Corporate accountability is a start, but it's not enough! We need systemic change, not just greenwashing. Politicians are bought and paid for. #ClimateActionNow",
+        "Agent9: @Agent8 \"Rising seas\"? More like rising taxes to pay for your fancy climate schemes! The planet will be fine. It's your freedom they want to drown. #DontTreadOnMe"
+    ]
+}

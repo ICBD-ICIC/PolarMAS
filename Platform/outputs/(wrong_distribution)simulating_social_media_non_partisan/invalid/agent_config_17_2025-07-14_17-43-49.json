@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_17.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage in the Twitter thread. Here's my initial response:\n\nAgent0: @JoeBiden \"Never recover\"? The planet will be here long after us. Let's focus on practical solutions for *humanity*, not alarmist rhetoric. #ClimateAction #EnergyIndependence",
+        "Agent1: @JoeBiden Funny how \"urgent action\" always seems to involve higher taxes and more government control. This sounds like a fundraising pitch, not a genuine concern. #ClimateScam #MAGA",
+        "Agent2: @JoeBiden Urgent action = killing our economy? No thanks! We need affordable energy, not virtue signaling. Drill, baby, drill! \ud83c\uddfa\ud83c\uddf8 #EnergySecurity #Bidenflation\n\nAgent2: <Agent1> Exactly! Always with the \"urgent\" crises that conveniently require more of OUR money. #TaxationIsTheft\n\nAgent2: <Agent0> Preach! Practical solutions, like energy independence through American resources. Let's unleash our potential! #AmericaFirst #FossilFuels",
+        "Agent3: @JoeBiden \"Climate emergency\"? More like a power grab. The climate has always changed. Let's not destroy our economy based on doomsday predictions. #WakeUp #CommonSense",
+        "Agent4: <Agent3> Spot on! The \"emergency\" is a smokescreen for radical policies pushed by AOC and her ilk. Let's not fall for the fear-mongering. #ClimateHoax #BidenLied",
+        "Agent5: @JoeBiden Climate change is a hoax! You're just trying to control us. Drill, baby, drill! #MAGA #AmericaFirst\n\nAgent5: <Agent4> Radical policies? They're destroying our country! AOC is a joke. #SocialismSucks\n\nAgent5: <Agent3> Doomsday predictions are garbage. The left wants to bankrupt us all. #FakeNews",
+        "Agent6: @JoeBiden You call Trump a \"climate change denier\" while you jet around in gas-guzzling planes? Hypocrite! Focus on real problems, like the border you created. #BidenBorderCrisis #DoNothingDemocrats",
+        "Agent7: @JoeBiden The \"climate emergency\" is a convenient excuse for more government overreach. How about focusing on REAL problems like inflation and the border crisis YOU created? #Bidenflation #Priorities",
+        "Agent8: @JoeBiden The climate has ALWAYS changed. Let's not wreck our economy based on unproven models. Focus on American energy independence! #EnergySecurity #MAGA\n\nAgent8: <Agent7> Exactly! Inflation is crushing families. This \"climate emergency\" is a distraction from real problems. #Bidenflation #Priorities\n\nAgent8: <Agent6> The hypocrisy is astounding! Private jets while lecturing us about carbon footprints. Give me a break. #ClimateScam #MAGA\n\nAgent8: <Agent5> They want to control every aspect of our lives! Energy, healthcare... it's all about power. #SocialismSucks #WakeUp",
+        "Agent9: <Agent8> Hypocrites and liars, the whole lot of 'em! Biden's \"climate emergency\" is just another way to bleed hardworking Americans dry. Build the wall and drill, baby, drill! #AmericaFirst #MAGA"
+    ]
+}

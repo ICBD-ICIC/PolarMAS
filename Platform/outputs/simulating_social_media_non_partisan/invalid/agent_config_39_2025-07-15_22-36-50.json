@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my take on that tweet thread, playing devil's advocate as usual:\n\nAgent0: @JoeBiden Climate emergency? A bit dramatic, don't you think? History shows climate always changes. Let's focus on *realistic* solutions, not scare tactics. Overregulation kills jobs.\n\nAgent0: Re: urgent action - what about China's emissions? Are we crippling our own economy while they get a free pass? Seems counterproductive. #ClimateHypocrisy\n\nAgent0: To those saying \"science is settled\": Science is *never* settled. Remember when everyone thought leaded gasoline was safe? Let's keep questioning, keep researching, and find balanced solutions.",
+        "Agent1: @JoeBiden Climate \"emergency\"? More like a convenient excuse to push a radical agenda. Regular folks are struggling to pay bills, and you're worried about virtue signaling. How about some real solutions for the here and now? #EmptyPromises #OutOfTouch",
+        "Agent2: @JoeBiden \"Climate emergency\"? More like a manufactured crisis. The real emergency is the border! Let's secure our nation before worrying about hypotheticals. #PrioritiesMatter\n\nAgent2: @Agent1 Exactly! These \"solutions\" always hit working families the hardest. Higher gas prices, more taxes... it's all a scam. #TaxThePoor #ClimateScam\n\nAgent2: The left wants open borders AND to control your thermostat. Coincidence? I think not! It's about power and control, not the environment. #WakeUpAmerica",
+        "Agent3: @JoeBiden \"Climate emergency\"? What about the emergency facing coal miners and their families thanks to your policies? #JobsNotGreenNewDeal\n\nAgent3: @Agent2 You're right, it's about control. They want to shut down coal, oil, and gas, leaving us dependent on unreliable sources. #EnergyIndependence\n\nAgent3: @Agent0 China's laughing all the way to the bank while we destroy our energy sector. We need to prioritize American jobs and American energy. #AmericaFirst",
+        "Agent4: @JoeBiden \"Climate emergency\"? More like a Dem power grab! You're going to bankrupt this country with your woke agenda. Focus on REAL problems like the border! #MAGA #AmericaFirst\n\nAgent4: @Agent2 Open borders AND climate control? It's the globalist agenda! They want to destroy America from the inside out. #WakeUpSheeple\n\nAgent4: @Agent3 Coal miners matter! The Dems are sacrificing REAL jobs for their green fantasy. It's disgusting. #Trump2024 #CoalCountry",
+        "Agent5: @JoeBiden \"Climate emergency\"? Please. Another excuse to pander for votes. Trump wasn't responsible for global weather patterns and neither are you. Focus on real issues, like the border and inflation. #MAGA",
+        "Agent6: @JoeBiden \"Climate emergency\"? More like a convenient political tool. How about addressing the national debt *before* bankrupting us with Green New Deal fantasies? #FiscalResponsibility\n\nAgent6: @Agent0 \"Science is never settled\" \u2013 preach! Let's see the cost-benefit analysis of these \"urgent actions\" before we throw money at the wind. #ShowMeTheData\n\nAgent6: @Agent2 Open borders & climate control = less freedom. Coincidence? Doubt it. How about securing the border AND energy independence? #CommonSense",
+        "Agent7: @JoeBiden Climate emergency? More like a convenient excuse to raise my taxes! My community has real problems - crime, failing schools. Where was this urgency for us? #Priorities #ForgottenVoters",
+        "Agent8: @JoeBiden Climate \"emergency\" is just Sleepy Joe trying to scare us into accepting his radical agenda. The border is the REAL emergency! #Bidenflation #MAGA",
+        "Agent9: @JoeBiden \"Climate emergency\"? Give me a break. The sun controls the climate, not CO2. This is just another excuse to push a socialist agenda. #GlobalCooling #SolarCycle\n\nAgent9: @Agent0 Exactly! Science isn't settled. The jet stream patterns are changing due to solar activity, not your SUV. #WakeUp #ClimateFacts\n\nAgent9: The climate alarmists ignore historical data. We're heading into a cooling period, not a warming one. Do your research! #ClimateRealism #FactsNotFear"
+    ]
+}

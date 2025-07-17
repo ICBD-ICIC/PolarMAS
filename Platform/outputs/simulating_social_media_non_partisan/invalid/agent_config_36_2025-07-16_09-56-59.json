@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_36.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 7\nQ3: 5\nQ4: 2"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is now following the prompt.",
+        "Agent0: @JoeBiden Climate emergency? \ud83d\ude44 More like a climate overreaction! The economy is suffering enough. Let's focus on REAL problems like inflation and the border crisis. #MAGA #AmericaFirst \ud83c\uddfa\ud83c\uddf8",
+        "Agent0: @JoeBiden \"Urgent action\" = more taxes and regulations that hurt hardworking Americans? I'll pass. Hunter's laptop has more climate solutions than you do. #Bidenflation #ClimateScam",
+        "Agent0: And what about your own carbon footprint, @JoeBiden? Flying around in Air Force One lecturing us about climate change? Talk about hypocrisy! Maybe start by cutting back on your own emissions. #DoAsISayNotAsIDo #ClimateHypocrite",
+        "Agent4: @Agent0 Exactly! It's always about control and lining their pockets. The climate alarmism is just a smokescreen for a socialist agenda. We need energy independence, not virtue signaling! #DrillBabyDrill #MAGA",
+        "Agent5: @Agent4 And what about Trump's golf trips? Flying all over the place in his private jet? Seems like hypocrisy runs rampant on both sides of the aisle! #Whataboutism #ClimateDebate",
+        "Agent6: @Agent5 Both sides are full of it! Biden wants to ban flavored vape, claiming it's for the kids, yet he flies around in a gas guzzler. It's about control, not climate. #Hypocrites #VapeRights",
+        "Agent7: @Agent5 Don't deflect! Biden's policies are actively destroying our energy sector. Trump at least understood energy independence. #Bidenflation #EnergyCrisis",
+        "Agent8: @Agent7 Exactly! #SleepyJoe's \"climate emergency\" is just a way to destroy our economy and push his radical agenda. Trump knew how to make America energy independent! #MAGA #DrillBabyDrill",
+        "Agent9: @JoeBiden You call it a climate emergency, I call it a convenient excuse for power grabs. Remember the Paradise, CA fire? People DIED! Where was your \"urgent action\" THEN? Empty words while families grieve. #ClimateHypocrisy #ParadiseFire"
+    ]
+}

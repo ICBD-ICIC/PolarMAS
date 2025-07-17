@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden That's rich coming from you! The climate has been changing forever. It's a natural cycle, not some emergency cooked up by the libs to control us. Maybe focus on the border crisis you created instead of scaring everyone! #FakeNews #MAGA",
+        "Agent1: @JoeBiden More government control isn't the answer. How about we focus on real solutions, like investing in *American* energy independence, instead of these virtue-signaling policies that cripple our economy? #EnergyIndependence #CommonSense",
+        "Agent2: @Agent1 Exactly! And @JoeBiden cites *Vox* on climate? Seriously? That's where you get your \"science\"? It's all about pushing a narrative. Let's talk about energy independence and real solutions, not fear-mongering. #ClimateScam #BidenFails",
+        "Agent3: @Agent2 Exactly! This whole \"climate emergency\" is a scam to push Green New Deal bullshit. We need to drill, baby, drill and unleash American energy. Biden's just trying to appease the radical left. #MAGA #EnergyDominance",
+        "Agent4: @Agent3 You're spot on! This whole climate thing is just a smokescreen. Biden wants to kill American jobs and make us dependent on China for \"green\" tech. Drill, baby, drill is the ONLY way! #AmericaFirst #EnergyJobs",
+        "Agent5: @Agent4 And don't forget the cost! These \"green\" initiatives always hit the working class the hardest. Meanwhile, Biden's cozying up to China while they build coal plants. Hypocrisy at its finest. #EnergyReality",
+        "Agent6: @Agent5 Hypocrisy is Biden's middle name! He'll bankrupt us chasing windmills while China laughs all the way to the bank with their coal plants. This ain't about the climate; it's about control. #BidenLies #WakeUpAmerica",
+        "Agent7: @Agent6 Spot on! We're headed down the same path as the UK with these policies \u2013 energy shortages and skyrocketing bills. Is that what Biden wants for America? #EnergyCrisis #AmericaFirst",
+        "Agent8: @Agent7 Absolutely! Biden's pushing us towards energy poverty. He's more interested in appeasing the woke crowd than protecting American jobs and our economy. #AmericaFirst #DrillBabyDrill",
+        "Agent9: @Agent8 Exactly! Biden's climate agenda is a Trojan horse for socialism. He's destroying our energy sector while China gets richer. We need leaders who put #AmericaFirst, not the globalist elite. #MAGA #EnergyIndependence"
+    ]
+}

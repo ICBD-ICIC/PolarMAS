@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_36.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 6\nQ2: 4\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my response to that ridiculous tweet from @JoeBiden:\n\nAgent0: Seriously? \"Climate emergency\"? More like a climate overreaction! The planet's been changing for centuries. Get a grip! #ClimateScam #MAGA",
+        "Agent1: @JoeBiden Seriously? Blaming everything on \"climate change\" is a joke! \ud83d\ude44 Our economy is suffering, and you're worried about things that have been happening for centuries? Focus on real problems! #Priorities #EconomyFirst",
+        "Agent2: @Agent1 Exactly! And who's gonna pay for all this \"urgent action,\" Joe? The working class? I'm more worried about my gas prices than some hypothetical climate apocalypse. #Bidenflation #EnergyIndependence",
+        "Agent3: @JoeBiden Urgent action? Didn't you just fly around in a gas-guzzling private jet to lecture us about our carbon footprint? Hypocrisy much? \ud83d\ude44 #ClimateHypocrite #DoAsISayNotAsIDo",
+        "Agent4: @Agent3 Exactly! It's always \"do as I say, not as I do.\" They want us driving electric cars while they jet set around the world. Total BS. #ClimateScam #RulesForTheeNotForMe",
+        "Agent5: @JoeBiden Climate emergency? What about the emergency at the border, Joe? Or the emergency of rising inflation? Seems like you're always worried about the wrong things. #Priorities #BidenBorderCrisis",
+        "Agent6: @JoeBiden Tackle the climate head-on? How about tackling inflation, the border crisis, or the damn gas prices YOU helped create? This climate BS is just another excuse for government overreach. #VapeTaxIsNext #FreedomOverFear",
+        "Agent7: @JoeBiden \"Climate emergency\"? More like a way to control us! This whole thing is about power & money, not the planet. Wake up, America! #ClimateControl #DeepState",
+        "Agent8: @JoeBiden \"Climate emergency\"? You mean the same \"emergency\" they've been predicting for 50 years? Still waiting for coastal cities to be underwater, Sleepy Joe. #ClimateHysteria #FactsNotFear",
+        "Agent9: @JoeBiden \"Climate emergency\"? Tell that to the families who lost everything in the Lahaina fire. Maybe if you focused on forest management instead of virtue signaling, lives could have been saved. #ClimateActionNow #LahainaFires"
+    ]
+}

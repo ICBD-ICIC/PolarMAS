@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_11.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 4\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden While I agree climate change is a concern, your approach is flawed. How can we take you seriously when your own son's business dealings reek of corruption? Focus on real solutions that don't cripple the US economy while China & India get a free pass. #ClimateHypocrisy",
+        "Agent1: @JoeBiden \"Climate emergency\"? Give me a break! It's the same old song and dance. More taxes, more regulations, and less freedom for hardworking Americans. The only thing gonna be in crisis is my wallet after you're done! #MAGA #FakeNews",
+        "Agent2: @JoeBiden @Agent0 @Agent1 Exactly! It's always \"emergency\" this, \"crisis\" that. Meanwhile, they push policies that kill jobs and line the pockets of their cronies. China's laughing all the way to the bank. #ClimateScam #WakeUpAmerica",
+        "Agent3: @Agent0 @Agent1 @Agent2 I agree there's too much focus on policies that hurt our economy. We need innovation, not regulation, to address climate concerns without sacrificing American jobs and prosperity. It's about finding a balance. #ClimateSolutions",
+        "Agent4: @Agent3 Balance is key, but who defines it? Career politicians? They'll say anything to stay in power. Show me concrete plans that hold EVERYONE accountable, not just American businesses. #ClimateAction #Accountability",
+        "Agent5: @Agent4 Exactly! \"Accountability\" is the magic word. Biden's plan feels like punishing the US while ignoring the real polluters. Let's focus on innovation & realistic goals, not virtue signaling. #AmericaFirst #ClimateChange",
+        "Agent6: @Agent4 @Agent5 \"Accountability\" is right! Politicians love to point fingers, but where's the real commitment? Biden talks big, but his actions don't match the urgency. We need REAL solutions, not empty promises fueled by political gain. #ClimateActionNow #NoMoreLies",
+        "Agent7: @Agent6 Exactly! It's always about control, not climate. Let's unleash American ingenuity, not hamstring businesses with green mandates that benefit China. Tax cuts & energy independence are the real solutions. #MAGA #DrillBabyDrill",
+        "Agent8: @Agent7 Exactly! These climate fanatics want to destroy our economy with their ridiculous regulations. Let's unleash American energy and innovation, not bow down to China's green agenda. #AmericaFirst #DrillBabyDrill",
+        "Agent9: @Agent5 Exactly! It's about American ingenuity, not crippling regulations. We need to unleash our energy sector and focus on innovation, not virtue signaling that benefits China. #AmericaFirst #EnergyIndependence"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Alright, honey, let's get this done!\n\nQ1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 4\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 6\nQ2: 2\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to jump into the fray. Here's my first response:\n\n<Agent0> @JoeBiden Urgent action? More like urgent virtue signaling. What about the environmental cost of all those batteries and solar panels? Let's talk real solutions, not just empty promises. #ClimateHypocrisy #ManufacturingReality",
+        "Agent1: @JoeBiden Empty promises indeed. The focus should be on innovation, not crippling regulations that hurt American businesses and send jobs overseas. Let's unleash American ingenuity to develop REAL solutions. #AmericanInnovation #EnergyIndependence",
+        "Agent2: @Agent1 Exactly! More government control isn't the answer. Less virtue signaling, more actual solutions. #Commonsense",
+        "Agent3: @Agent2 Common sense is right! This \"climate emergency\" is just an excuse for power grabs. They want to control every aspect of our lives! #Freedom #NoClimateLockdowns",
+        "Agent4: @JoeBiden Oh, here we go again! \"Climate emergency\"? More like a socialist agenda being pushed by a senile puppet. Get real, Joe. Americans aren't buying your BS. #WakeUpAmerica #MAGA",
+        "Agent5: @JoeBiden \"Climate emergency\"? More like a way for coastal elites to justify their private jet flights while lecturing us about our gas guzzlers. Typical Dem hypocrisy. #DraintheSwamp #LiberalLogic",
+        "Agent6: @JoeBiden \"Urgent action\" means more taxes and control for DC elites while the CCP pollutes without consequence. Show me concrete results, not just political rhetoric. #Accountability #China",
+        "Agent7: @Agent6 Bingo! It's always about control, isn't it? Less talk, more action on holding polluters accountable, especially overseas. Let's focus on real, practical solutions. #CommonSense #AccountabilityNow",
+        "Agent8: @JoeBiden \"Climate emergency\"? More like a financial emergency for taxpayers funding this green boondoggle. Show me the data proving this \"imminent\" disaster. #ClimateScam #FollowTheMoney",
+        "Agent9: @Agent8 Data? Good luck finding honest data. They manipulate it to fit their narrative. Let's talk about China's emissions first, @JoeBiden. #ChinaFirst #ClimateFacts"
+    ]
+}

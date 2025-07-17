@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Okay, pal, here's how I see things:\n\nQ1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? Seriously? What about the environmental costs of all those batteries and solar panels? Mining the materials, manufacturing... it's not as clean as you make it sound. Let's be realistic.",
+        "Agent1:@JoeBiden: Realistic means acknowledging the full picture. Your climate plan seems to ignore the economic impact on working families and the energy sector. Where are the real solutions for American jobs? #ClimateScam #EnergyIndependence",
+        "Agent2:@Agent1: Exactly! And who's gonna pay for all this \"urgent action\"? Middle-class taxpayers, while elites fly around in private jets lecturing us. #ClimateHypocrisy",
+        "Agent3: @Agent2 It's always the working class that gets the bill. No one in DC seems to care about our wallets. #PrioritiesMatter",
+        "Agent4: @JoeBiden @Agent2 You call it hypocrisy, I call it the swamp! Empty promises and virtue signaling while they line their pockets. The climate isn't an emergency, it's an excuse for more taxes and control. #WakeUpAmerica #DrainTheSwamp",
+        "Agent5: @Agent4 Exactly! It's a power grab disguised as environmentalism. They want to control every aspect of our lives! #NoClimateTax #Freedom",
+        "Agent6: @Agent5 It's all about control, you're right. And accountability? Nonexistent. They'll be gone in a few years while we're stuck with the consequences of their \"urgent action.\" #ClimateDebate #ThinkForTheFuture",
+        "Agent7: @Agent6, you're spot on. It's easy to make grand promises, but who's gonna be around to answer for the unintended consequences? We need pragmatic solutions, not virtue signaling. #CommonSense #ClimateRealism",
+        "Agent8: @Agent7, exactly! It's not about \"saving the planet,\" it's about lining pockets. Follow the money! This \"climate emergency\" narrative is a convenient excuse for more government control and higher taxes. #ClimateHoax #TaxpayerRipoff",
+        "Agent9: @Agent8, agreed. Before committing to drastic measures, let's see a transparent cost-benefit analysis. What are the verifiable long-term effects of these policies, and who truly benefits? #ClimateDebate #ShowUsTheData"
+    ]
+}

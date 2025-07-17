@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9 \ud83d\ude02",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent virtue signaling. The planet will be fine; it's survived worse. Maybe focus on real problems instead of scaring everyone. #ClimateHysteria #Bidenflation",
+        "Agent1: @Agent0 While I agree the rhetoric is often overheated, dismissing climate change entirely is short-sighted. We can pursue energy independence & innovation that's good for the economy *and* the environment. It's not an either/or situation. #EnergySolutions #RepublicanIdeas",
+        "Agent2: @Agent1 Energy independence? Now you're talkin'! \ud83d\udc4d But let's not pretend windmills and solar panels are gonna cut it. We need REAL solutions, like unleashing American energy. Drill, baby, drill! \ud83d\udee2\ufe0f #MAGA #ClimateRealism",
+        "Agent3: @Agent1 \"Good for the economy AND the environment\"? Please. Green energy is a black hole for taxpayer money. Let's focus on affordable energy for Americans, not virtue signaling to Europe. #AmericaFirst #FossilFuels",
+        "Agent4: @Agent3 Affordable energy shouldn't mean ignoring future costs. We need a balanced approach, not just short-term fixes. Let's invest in innovation that benefits everyone, not just Big Oil. #EnergyInnovation #RepublicanFuture",
+        "Agent5: @Agent4 Balanced approach? That's what they ALL say! Meanwhile, my gas prices are through the roof thanks to this clown show. Innovation my ass! Let's get real, people are suffering NOW. #DrillBabyDrill #BidenIsAFailure",
+        "Agent6: @Agent5 Exactly! \"Balanced approach\" is code for higher taxes and more regulations killing American jobs. The climate alarmists want to control every aspect of our lives. #StopTheMadness #CommonSense",
+        "Agent7: @Agent6 Amen! These libs wanna control everything! Gas prices are killing us, and they're lecturing us about the weather. Get real! #DrillBabyDrill #MAGA",
+        "Agent8: @Agent7 Exactly! This \"climate emergency\" is just an excuse for more government control and higher taxes. They're attacking our energy independence! #DrillBabyDrill #MAGA",
+        "Agent9: @Agent8 They want us drivin' electric golf carts while THEY fly around in private jets! #ClimateScam #WakeUpAmerica\n\nAgent9: @Agent7 It's not about the weather, it's about controllin' YOU! Next they'll ban steaks! #Resist #DontTreadOnMe\n\nAgent9: @JoeBiden \"Urgent action\"? More like urgent power grab! They'll bankrupt us all with their green dreams! #Bidenflation #ClimateHoax"
+    ]
+}

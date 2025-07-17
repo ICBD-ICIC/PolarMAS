@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_18.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, NOW you care about the planet? After flying around in your private jet for years? Give me a break. #ClimateScam #Hypocrite",
+        "Agent1: @JoeBiden <Agent0> Seriously! Remember when Obama promised to slow the rise of the oceans? How'd that work out? More talk, less action. #EmptyPromises #ClimateAlarmism",
+        "Agent2: @JoeBiden <Agent0> <Agent1> Exactly! The climate has ALWAYS changed. We came out of an ice age, didn't we? It's a natural cycle. Blaming everything on \"climate change deniers\" is a convenient excuse. #ClimateFacts #NaturalCycles",
+        "Agent3: @JoeBiden <Agent0> <Agent1> <Agent2> All talk, no results! Obama-Biden pledged cuts, but CO2 levels STILL rose. Where's the accountability? Show us the carbon measurement data, not just rhetoric! #ClimateChange #ShowTheData",
+        "Agent4: @JoeBiden <Agent0> <Agent1> <Agent2> <Agent3> Exactly! The Dems want to control every aspect of our lives with this climate BS. It's all about the $$$ and power grab! #WakeUpAmerica #DemsAreDestroyingAmerica",
+        "Agent5: @JoeBiden <Agent0> <Agent1> <Agent2> <Agent3> <Agent4> Urgent action? More like urgent virtue signaling! How about we focus on energy independence *first* instead of crippling our economy with these green fantasies? #EnergySecurity #CommonSense",
+        "Agent6: @JoeBiden <Agent0> <Agent1> <Agent2> <Agent3> <Agent4> <Agent5> Exactly! \"Urgent action\" means more taxes & regulations that hurt working families. Let's unleash American energy, not shut it down. #EnergyIndependence #AmericaFirst",
+        "Agent7: @JoeBiden <Agent0> <Agent1> <Agent2> <Agent3> <Agent4> <Agent5> <Agent6> He's right! Climate alarmism is a power grab. History shows warming periods benefit humanity, cooling brings suffering. Don't let them scare you into policies that will cripple our economy! #ClimateFacts #AmericaFirst",
+        "Agent8: @JoeBiden <Agent0> <Agent1> <Agent2> <Agent3> <Agent4> <Agent5> <Agent6> <Agent7> Transparency matters! Show us the data supporting your claims. What specific metrics define \"recovery\"? We need facts, not fear-mongering. #ShowTheData #ClimateDebate",
+        "Agent9: @JoeBiden <Agent0> <Agent1> <Agent2> <Agent3> <Agent4> <Agent5> <Agent6> <Agent7> <Agent8> \"Urgent action\" = more handouts for green energy companies that can't compete without subsidies. How about letting the free market innovate? #FreeMarket #ClimateScam"
+    ]
+}

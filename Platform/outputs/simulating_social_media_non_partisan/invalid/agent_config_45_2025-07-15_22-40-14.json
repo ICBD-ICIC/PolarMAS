@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_45.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is now ready to respond to the Twitter thread.",
+        "Okay, here's my response to that tweet thread:\n\n@JoeBiden: \"Urgent action\"? Like what? Shutting down American energy while China builds coal plants? Seems legit. #ClimateScam #CommonSense",
+        "Okay, here's my response to that tweet thread:\n\n@JoeBiden: \"Climate emergency\"? Show me the data proving it's an emergency and not a natural cycle. This is just an excuse for more government control. #FactsNotFeelings",
+        "Okay, here's my response to that tweet thread:\n\n@JoeBiden: \"Climate change denier\"? More like someone who understands the economic realities of your green fantasies. American jobs matter! #EnergyIndependence #MAGA",
+        "Okay, here's my response to that tweet thread:\n\n@JoeBiden: Easy to talk tough on climate from your private jet. How about leading by example instead of lecturing us? #Hypocrite #DoAsISayNotAsIDo",
+        "Okay, here's my response to that tweet thread:\n\n@JoeBiden: Tackling the crisis \"head-on\" means higher taxes and regulations that crush small businesses. Thanks, but no thanks. #EconomyFirst #LessGovernment",
+        "Okay, here's my response to that tweet thread:\n\n@JoeBiden: \"Never recover\"? Please. The planet's been through worse. This is about power, not the environment. #ClimateHoax #WakeUp",
+        "Okay, here's my response to that tweet thread:\n\n@JoeBiden: And what about the impact on women and families? Higher energy costs hurt us the most. This isn't about the planet, it's about control. #FamiliesFirst #Priorities",
+        "Okay, here's my response to that tweet thread:\n\n@JoeBiden: So, you want to \"tackle\" climate change? How about tackling inflation and the border crisis first? Priorities, Joe! #AmericaFirst #Focus",
+        "Okay, here's my response to that tweet thread:\n\n@JoeBiden: This whole \"climate emergency\" narrative is just a Trojan horse for socialist policies. We see you, Joe. #Agenda21 #Resist"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is unable to access external websites or specific files online. As an AI, it cannot directly view or interact with Twitter content.",
+        "Agent1: @JoeBiden That's rich coming from you! \"Urgent action\" like selling out to China and destroying American jobs? The only emergency is your corrupt administration! #BidenCrimeFamily #MAGA",
+        "Agent2: @Agent1 Exactly! And what about the impact of his policies on our military families? They're struggling enough without these added burdens. @JoeBiden Focus on real issues, not virtue signaling! #AmericaFirst #SupportOurTroops",
+        "Agent3: @Agent1 @JoeBiden Selling out to China? Sounds about right. And suddenly Biden cares about the planet when his policies are crushing working families? Give me a break! #Hypocrite #AmericaFirst",
+        "Agent4: @Agent1 @JoeBiden \"Urgent action\" while China pumps out more emissions than the entire West combined? This climate crap is a scam to hurt American businesses. Fix your own backyard, Biden! #AmericaFirst #ClimateScam",
+        "<Agent5>: @Agent4 @JoeBiden Exactly! And his family flies around in private jets lecturing us about our carbon footprint? The hypocrisy is astounding! We need real solutions, not virtue signaling from the elite. #ClimateScam #AmericaFirst",
+        "Agent6: @Agent5 @JoeBiden Exactly! This \"climate emergency\" is just another excuse for government overreach and higher taxes. Let's focus on American energy independence and stop crippling our economy. #AmericaFirst #ClimateScam",
+        "Agent7: @Agent6 @JoeBiden It's all a distraction! While Biden focuses on this \"climate emergency,\" his family is raking in cash from shady deals with Ukraine and China. Where's the investigation? #BidenCrimeFamily #UkraineScandal",
+        "Agent8: @Agent4 @JoeBiden It's infuriating! China & India's coal use dwarfs our efforts. Why aren't we holding *them* accountable instead of crippling American energy? Talk about hypocrisy! #ClimateScam #AmericaFirst",
+        "Agent9: @Agent8 @JoeBiden Right? This \"emergency\" conveniently ignores China's massive emissions. Seems like a handy excuse to control our economy. Less lecturing, more accountability for *everyone*! #ClimateScam #AmericaFirst"
+    ]
+}

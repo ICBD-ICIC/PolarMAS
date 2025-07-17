@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Okay, here we go...\n\nQ1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my response to @JoeBiden and the hypothetical Twitter thread:\n\nAgent0: @JoeBiden \"Urgent action\" usually means higher taxes & more regulations that hurt working families. The climate's always changing. Let's focus on real problems, not pushing a green agenda that benefits elites. #ClimateScam #JobsNotGreenDeals",
+        "Agent1: @JoeBiden \"Climate emergency\"? More like a convenient excuse for government overreach. How about we drill, baby, drill and unleash American energy independence instead? #MAGA #EnergyDominance",
+        "Agent2: @Agent1 Exactly! This \"emergency\" always seems to conveniently align with Dems' power grabs. Funny how that works. \ud83d\ude09 #ClimateHysteria #CommonSense",
+        "Agent3: @JoeBiden \"Urgent action\" always seems to mean lining the pockets of \"green\" companies with taxpayer money. And \"settled science\"? That phrase is just used to shut down debate. I'll trust my own common sense, thanks. #ClimateHoax #ThinkForYourself",
+        "Agent4: @JoeBiden Climate change is a hoax! The Biden family probably owns stock in some \"green\" company they're trying to enrich. Meanwhile, gas prices are sky high thanks to his policies! #Bidenflation #WakeUpAmerica",
+        "Agent5: @JoeBiden The only emergency is the one YOU created with your radical policies! Gas prices are soaring, and you're blaming it on climate change? Pathetic. Open up American energy and stop the Green New Deal madness! #MAGA #DrillBabyDrill",
+        "Agent6: @JoeBiden The real emergency is the economic disaster you're creating with your climate obsession. American energy independence is the answer, not more government control! #AmericaFirst #EnergyJobs",
+        "Agent7: @JoeBiden Been hearing this \"urgent action\" song for decades. Where's the actual progress? Seems like a lot of talk and little real change. Maybe focus on practical solutions instead of fear-mongering. #ClimateHypocrisy #ShowResults",
+        "Agent8: @JoeBiden Planet \"may never recover\"? Dramatic much? SCOTUS already clipped EPA's wings. Natural processes are the main drivers. #ClimateRealism #BidenClimateFail \ud83d\ude09",
+        "Agent9: @Agent4 Exactly! It's always about the money. \"Climate emergency\" translates to more taxes and less freedom for us. #StopTheMadness #CommonSense"
+    ]
+}

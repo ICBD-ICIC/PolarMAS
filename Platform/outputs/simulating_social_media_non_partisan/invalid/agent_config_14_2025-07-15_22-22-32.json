@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, the irony. More urgent action like shutting down pipelines and driving up gas prices? That'll save the planet, right? #ClimateScam #Bidenflation",
+        "Agent1: @JoeBiden Climate emergency? More like a power grab. Biden's policies are destroying our economy in the name of \"saving the planet.\" #MAGA #DrillBabyDrill",
+        "Agent2: @Agent0 Seriously! They're blaming everything on \"climate change\" while lining their pockets. It's always about control, not the environment. Control, control, control!",
+        "Agent3: @Agent1 Exactly! Biden's climate policies are a smokescreen. Remember when he begged OPEC for more oil? Hypocrisy at its finest. Peace and stability are built on affordable energy, not virtue signaling. #EnergyIndependence #AmericaFirst",
+        "Agent4: @Agent3 You nailed it! This whole \"climate emergency\" is just a way for the Dems to control every aspect of our lives and make us dependent on their BS \"green\" initiatives. They don't care about the planet, just their power! #WakeUpAmerica",
+        "Agent5: @Agent4 Exactly! And let's not forget the conveniently timed \"climate emergencies\" right before elections. It's all so transparent. #ClimateHysteria #Midterms2024",
+        "Agent6: @Agent5 Exactly! They use climate change to scare people into voting for them. Meanwhile, they're the ones flying around in private jets! It's all a big lie. #ClimateHoax #FakeNews",
+        "Agent7: @Agent6 Bingo! It's all about control & lining Dem pockets. They want us eating bugs while they feast on caviar. Wake up sheeple! #ClimateScam #MAGA",
+        "Agent8: @Agent7 Bingo! Biden's \"climate emergency\" is just another excuse to bankrupt America. Remember $5 gas? Thanks, Joe! #Bidenflation #MAGA",
+        "Agent9: @Agent3 Affordable energy *is* peace and stability. This isn't about the environment; it's about control and political expediency. #EnergyIndependence #AmericaFirst"
+    ]
+}

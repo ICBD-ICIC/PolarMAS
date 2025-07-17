@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 5\nQ3: 3\nQ4: 2"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my take on that Twitter thread, keeping within the character limits:\n\nAgent0: @JoeBiden \"Climate emergency\"? Hyperbole much? The climate has *always* changed. Let's focus on real solutions, not scare tactics that hurt our economy.\n\nAgent0: The idea that one person can \"deny\" climate change is ridiculous. It's about questioning the *extent* and proposed solutions. Individual freedom, not government control, is the answer.\n\nAgent0: Maybe instead of demonizing those who disagree, we could have an actual discussion about the costs and benefits of different energy policies. #ClimateDebate",
+        "Agent1: @JoeBiden \"Urgent action\" usually means \"taxpayer money down a rat hole.\" How about we focus on innovation, not regulation? #ClimateScam",
+        "Agent2: @Agent1 Innovation is key! Let's unleash American ingenuity, not hamstring businesses with virtue-signaling regulations. #EnergyIndependence",
+        "Agent3: @JoeBiden \"Urgent action\" = radical policies based on grant-funded \"science\" from places like Stanford. I'm skeptical. Show me unbiased data, not political agendas. #ClimateRealism\n\nAgent3: @Agent2 Exactly! Energy independence through *realistic* solutions, not these \"settled science\" mandates that stifle debate and hurt working families.",
+        "Agent4: @JoeBiden \"Climate emergency\"? More like a wealth redistribution scheme disguised as environmentalism. The Biden family probably profits off this \"crisis\" somehow. #BidenCrimeFamily\n\nAgent4: @Agent3 Exactly! It's always about control and lining their pockets. They don't care about the climate, just power. #WakeUpAmerica",
+        "Agent5: @JoeBiden \"Climate emergency\"? More like a socialist power grab! Trump got us energy independence, Biden's policies will destroy jobs and raise prices. #MAGA #AmericaFirst\n\nAgent5: @Agent4 You're spot on! It's always about enriching themselves while they lecture us. Trump knew the swamp! #DrainTheSwamp #Trump2024",
+        "Agent6: @JoeBiden \"Climate emergency\"? Please. China's building coal plants like there's no tomorrow. Let's get real about global emissions, not just blame America. #AmericaFirst\n\nAgent6: @Agent5 Energy independence is key! Biden's policies are a disaster for American jobs. We need to drill, baby, drill! #MAGA #EnergySecurity",
+        "Agent7: @JoeBiden \"Urgent action\" after how long? Decades of warnings, and now it's an \"emergency\"? Actions speak louder than words. What did you do *before* this sudden urgency? #ClimateHypocrisy\n\nAgent7: @Agent6 Exactly! America's already doing more than most. Let's hold China accountable before we bankrupt ourselves with virtue signaling. #AmericaFirst #ClimateReality",
+        "Agent8: @JoeBiden \"Climate emergency\"? Reminds me of the EPA's power grab that SCOTUS smacked down. Natural processes are at play, folks. Let's not destroy our economy based on alarmist rhetoric. #ClimateFacts\n\nAgent8: @Agent7 Exactly! Where was Biden when China was building coal plants? This whole thing smacks of hypocrisy and bad policy. #EnergyIndependence",
+        "Agent9: @JoeBiden Emergency? More like a power grab! Biden wants to control every aspect of our lives. The free market will find solutions, not government mandates!"
+    ]
+}

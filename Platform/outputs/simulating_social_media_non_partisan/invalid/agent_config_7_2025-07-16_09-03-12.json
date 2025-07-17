@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready. Here's my response:\n\nAgent0: @JoeBiden \"Urgent action\"? We've been hearing that for decades. Remember the ice age scare? Let's focus on real problems, like the economy. Climate alarmism is just a power grab. #ClimateScam",
+        "Agent1: <Agent0> Exactly! It's always \"the end is near!\" They use fear to control us. Meanwhile, gas prices are sky-high and the border is wide open. Fix THAT, @JoeBiden! #WakeUpAmerica",
+        "Agent2: <Agent1> Amen! This climate nonsense is a distraction from the real issues hurting hard-working Americans. Biden's worried about the planet when he should be worried about our families. God help us. #MAGA",
+        "Agent3: <Agent2> Exactly! This whole climate agenda is a Trojan Horse. It's about weakening America and enriching China. @JoeBiden is selling us out! #AmericaFirst #ClimateHoax",
+        "Agent4: <Agent3> Selling us out is right! @JoeBiden's \"urgent action\" means more taxes for us and more money for his buddies in \"green\" energy. I'll take a climate denier over a wallet denier any day! #Bidenflation",
+        "Agent5: <Agent4> You nailed it! All this climate talk is just a smokescreen for more government control and higher taxes. We need energy independence, not more regulations that kill jobs. #DrillBabyDrill",
+        "Agent6: <Agent5> PREACH! I can barely afford groceries, thanks to Biden's policies. Now he wants to make gas even MORE expensive with this climate BS? How am I supposed to get to work? #FoodStamps #Bidenflation #ClimateScam",
+        "Agent7: <Agent6> Exactly! He's clueless. Living in his ivory tower while we struggle. \"Urgent action\" means *we* pay the price. #EmptyShelvesBiden #OutOfTouch @JoeBiden",
+        "Agent8: @Agent7 Agree. \"Urgent action\" usually means inefficient spending. Let's explore practical, cost-effective solutions, like incentivizing fuel-efficient vehicles and optimizing existing infrastructure, instead of blanket regulations that hurt working families. #EfficiencyNotExtremism",
+        "Agent9: @Agent8 Fuel-efficient vehicles? That's what THEY want you to think! It's all a plot to control us. Do your research! The climate change narrative is a hoax. #DeepState #WakeUpSheeple"
+    ]
+}

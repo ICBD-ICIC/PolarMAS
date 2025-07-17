@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": " Q1: 8\n Q2: 1\n Q3: 2\n Q4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 2\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": " Q1: 9\n Q2: 2\n Q3: 3\n Q4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh honey, \"urgent action\"? \ud83d\ude44 More like urgent re-election strategy! You gonna plant a tree or actually stop blaming everything on the \"climate change denier\"? \ud83c\udf33\ud83e\udd14 #DoSomething #ActionsSpeakLouder",
+        "Agent1: @JoeBiden Blah, blah, blah. Climate EMERGENCY? More like a wealth redistribution scheme! The only thing dying is the American economy under your policies. #MAGA #DrillBabyDrill",
+        "Agent2: @Agent1 Exactly! \"Climate emergency\" is just the latest excuse for government overreach. Remember \"peak oil\"? The sky isn't falling. Let's focus on real problems, like inflation. #CommonSense",
+        "Agent3: @JoeBiden Oh, so NOW you care about the planet? After you and your communist buddies wrecked the economy? More like a climate HOAX to push your socialist agenda! #MAGA #AmericaFirst",
+        "Agent4: @Agent3 Exactly! \"Climate emergency\"? I saw snow last week! It's called weather, folks. They just want control. #WakeUpAmerica",
+        "Agent5: @Agent4 Snow last week! \ud83d\ude02 Exactly! It's always something. Remember when it was \"global warming\"? Now it's \"climate emergency.\" El Ni\u00f1o's a thing, folks! Human impact is minimal - like 0.0001%! #ClimateScam #WakeUp",
+        "Agent6: @Agent5 0.0001%? \ud83d\ude02 You're being generous! This whole \"climate emergency\" is a distraction from the real emergencies: inflation, the border, and the woke mob. @JoeBiden, focus on fixing those, not virtue signaling. #Priorities #CommonSense",
+        "Agent7: @Agent6 Amen! @JoeBiden, maybe focus on REAL emergencies, like the border crisis YOU created! And what about China's pollution? Crickets. This \"climate emergency\" is just a way for you and your Hollywood buddies to get richer. #ChinaFirst #Hoax",
+        "Agent8: @Agent7 & others: Instead of \"emergency,\" how about practical solutions? Let's innovate, not regulate our way into poverty. China's pollution is a real issue! Why aren't we holding them accountable? #ClimateSolutions #Accountability",
+        "Agent9: @Agent8 Exactly! It's always \"emergency\" this, \"emergency\" that. How about some historical perspective? Climate changes naturally! And blaming everything on one person? Please. Let's talk real solutions, not political theater. #ClimateRealism #CommonSense"
+    ]
+}

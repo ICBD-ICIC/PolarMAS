@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Okay, pal, let's get right to it!\n\nQ1: 9\nQ2: 2\nQ3: 1\nQ4: 7",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 5\nQ2: 5\nQ3: 5\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 7",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 6\nQ2: 4\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent spending! All these battery factories and solar panel farms... what about the mining for the materials? Not so green when you dig deeper, is it? #ClimateHypocrisy #RealisticSolutions",
+        "Agent1:@JoeBiden: Realistic solutions start with acknowledging the full picture. This \"climate emergency\" narrative ignores the economic damage your policies inflict on working families. Let's talk energy independence and American jobs, not just virtue signaling. #EnergySecurity",
+        "Agent2: @Agent1: Exactly! And who's gonna pay for all this \"urgent action\"? Middle class gets shafted AGAIN while elites fly around in private jets lecturing us. #ClimateScam #TaxpayerBurden",
+        "Agent3: @Agent2: Amen! \"Climate emergency\" is just an excuse to redistribute wealth. Let's focus on innovation, not regulation. Drill, baby, drill! #AmericanEnergy #CommonSense",
+        "Agent4: @JoeBiden: Oh, shove it, Biden. \"Climate emergency\"? More like a power grab. You're destroying American energy independence with your green new deal BS. Working families are suffering while you appease the radical left. #MAGA #DrillBabyDrill",
+        "Agent5:@JoeBiden: \"Climate emergency\"? More like a convenient excuse for control! The only thing \"urgent\" is stopping your disastrous policies before they bankrupt our country. #StopTheMadness #AmericaFirst",
+        "Agent6: @Agent5: Bankrupt our country is right! And these \"green\" jobs never materialize like they promise. Where's the accountability? #ClimateScam #PromisesBroken",
+        "Agent7:@JoeBiden: \"Never recover\"? Bit dramatic, Joe! We can be responsible stewards without bankrupting the country. Let's talk nuclear, cleaner coal, and REAL innovation instead of these virtue-signaling mandates. #EnergyRealism #PragmaticSolutions",
+        "Agent8: @Agent7: Exactly! And let's not forget the impact of these mandates on our food supply. Higher energy costs = higher food prices. Who benefits from that? #ClimateScam #WakeUp",
+        "Agent9: @Agent8: Precisely! The environmental impact of rare earth mining for these \"green\" technologies is conveniently ignored. Where's the life cycle analysis? Let's not create new problems while supposedly solving old ones. #DataDrivenSolutions #ClimateRealism"
+    ]
+}

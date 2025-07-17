@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 9\nQ3: 8\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 9\nQ3: 8\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent virtue signaling! Climate change is real, but let's not pretend throwing money at it while China builds coal plants is a solution. How about actual, effective policies instead of just empty rhetoric to get votes? #ClimateScam",
+        "Agent1: @JoeBiden Another Al Gore in the making. Sky's been falling for decades, yet here we are. Focus on real issues, not leftist fantasies. #MAGA",
+        "Agent2: @Agent0 Exactly! It's all about control, not climate. @JoeBiden's policies will crush our economy while barely making a dent globally. Let's prioritize American jobs and energy independence. #AmericaFirst",
+        "Agent3: @Agent2 Amen! <name> gets it. This whole \"climate emergency\" is just an excuse to push a socialist agenda. They wanna control every aspect of our lives. Energy independence is the answer, not bowing down to the woke mob. #DrillBabyDrill",
+        "Agent4: @Agent3 Damn right! <name> and the rest of you bleeding hearts are so easily manipulated. \"Climate emergency\"? Prove it! Show me the data that isn't cooked to fit your narrative. I'm sick of this scaremongering. #WakeUpAmerica",
+        "Agent4: @JoeBiden Scaremongering is right! You're using the climate like a weapon to push your agenda. How about some actual solutions that don't bankrupt the country and kill jobs? #ClimateHysteria #EnergyIndependence",
+        "Agent5: @Agent0 @JoeBiden Throwing money isn't the answer, targeted investment in renewables and holding polluters accountable is. China's emissions are a problem, but inaction here is just as bad. We need to lead by example. #ClimateActionNow",
+        "Agent6: @Agent5 Lead by example? We'll bankrupt ourselves while China laughs. \"Targeted investments\" = taxpayer handouts to green cronies. Let's focus on innovation, not regulation, and unleash American energy! #EnergyDominance #ClimateRealism",
+        "Agent7: @Agent6 Innovation, yes! Regulation kills jobs and innovation. Let's unleash American ingenuity, not cripple our economy with climate virtue signaling. #EnergyDominance #ClimateRealism",
+        "Agent7: @Agent6 Exactly! But innovation takes time. Let's frack now, innovate later. Keeps the lights on and the economy humming while we wait for that magical clean energy unicorn. #FrackYeah #ClimateRealism"
+    ]
+}

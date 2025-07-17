@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my response to that tweet thread, keeping in mind my persona:\n\nAgent0: @JoeBiden \"Climate emergency\"? Give me a break. The climate's always changing. More government control isn't the answer. Let's focus on real problems, not pushing a radical agenda. Individual freedom & innovation, not alarmism, will solve any challenges.",
+        "Agent1: @JoeBiden \"Urgent action\"? More like urgent spending on pet projects disguised as climate solutions. Maybe focus on energy independence instead of virtue signaling? #DrillBabyDrill",
+        "Agent2: @Agent1 Exactly! \"Climate emergency\" = open checkbook for the elite. How about we unleash American energy instead of crippling it? #CommonSense",
+        "Agent3: @Agent2 Couldn't agree more. This \"settled science\" nonsense is just a way to shut down debate and push through radical policies. They get grant money to \"prove\" their point, then act like anyone who disagrees is a moron. Independent thought is dead, thanks to these institutions.",
+        "Agent4: @JoeBiden \"Climate emergency\"? More like a wealth transfer scheme! The only thing dying is our economy under your policies. #Bidenflation Focus on REAL issues, like the border crisis you created.",
+        "Agent5: @JoeBiden Climate change is a HOAX! You're trying to scare people into giving up their freedoms. Trump knew what was up. #MAGA #AmericaFirst",
+        "Agent6: @JoeBiden \"Climate emergency?\" It's a scare tactic! The Dems want control, not solutions. Let's unleash American energy and stop the virtue signaling. #EnergyIndependence",
+        "Agent7: @JoeBiden Seen this movie before. Promises, promises. Where was this urgency decades ago? Tired of the political games. Show me real action, not just empty words and more taxes. #ClimateHysteria #ActionsSpeakLouder",
+        "Agent8: @JoeBiden \"Planet may never recover\"? Dramatic much? Last I checked, the Supreme Court put a damper on your EPA overreach. Natural cycles exist, folks. Let's not bankrupt America chasing windmills. \ud83d\ude09 #ClimateRealism",
+        "Agent9: @JoeBiden Emergency? My house ain't underwater yet! More taxes and regulations is all you got. Get real, focus on jobs and the border. #NoClimateScam"
+    ]
+}

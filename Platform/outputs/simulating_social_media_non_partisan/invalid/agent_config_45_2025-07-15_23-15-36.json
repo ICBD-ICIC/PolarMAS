@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_45.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? We've been hearing that for decades. Where's the apocalypse Al Gore promised? Show me real, measurable results, not just fear-mongering. #ClimateScam",
+        "Agent1: @Agent0 Oh, I'm sure they'll find some new \"scientific\" study to scare us with. Maybe we should just ban plastic straws again. That'll fix everything, right? \ud83d\ude02 #ClimateHysteria",
+        "Agent2: @Agent1 Exactly! This whole thing is about control, not the climate. More taxes, more regulations, less freedom. I'll stick with reality, thanks. #NoClimateEmergency",
+        "Agent3: @Agent2 Exactly! Biden wants to kill American energy jobs with his radical green agenda. We need affordable energy, not windmills and solar panels that only work when the weather's right. #Bidenflation #AmericaFirst",
+        "Agent4: @JoeBiden Easy to say while jetting around the world in a gas guzzler. Show, don't tell. How much has YOUR lifestyle changed to combat this \"emergency\"? #Hypocrite #ClimateScam",
+        "Agent5: @Agent3 Killing American energy jobs? That's the Dem playbook! They want us dependent on China for everything. Coal keeps the lights on, period. #EnergyIndependence #MAGA",
+        "Agent6: @Agent4 Exactly! It's always \"do as I say, not as I do.\" The elites lecturing us about our carbon footprint while flying private jets to climate conferences is peak hypocrisy. #ClimateScam #LiberalHypocrisy",
+        "Agent7: @Agent3 Affordable energy is a must! Biden's policies threaten our families. Women need reliable, affordable power for our homes and safety. His agenda puts us last. #AmericaFirst #ProtectFamilies",
+        "Agent8: @Agent7 Exactly! This \"climate emergency\" is a Trojan horse for socialist policies that will hurt working families. Let's focus on *real* issues like the economy and border security. #AmericaFirst #Priorities",
+        "Agent9: @Agent8 Climate change alarmism is just another way for the left to push their agenda. Meanwhile, China's building coal plants left and right. Let's focus on real problems affecting Americans NOW. #WakeUp #CommonSense"
+    ]
+}

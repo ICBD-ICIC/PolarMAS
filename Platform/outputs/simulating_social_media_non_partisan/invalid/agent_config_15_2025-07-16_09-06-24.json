@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 4\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 6\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent spending on pet projects disguised as climate solutions. How about addressing the border crisis or inflation first? Seems a bit hypocritical coming from someone jetting around the world. #ClimateScam #PrioritiesMatter",
+        "Agent1: @JoeBiden Another Al Gore in the making. Empty promises, bloated government. The \"climate emergency\" is just an excuse for more control. #NoMoreTaxes",
+        "Agent2: @Agent0 Exactly! It's always about expanding government power, never about real solutions. We need to focus on energy independence and responsible resource management, not these radical, economy-crushing policies. #EnergyNotEmergency",
+        "Agent3: @JoeBiden Oh, the planet \"may never recover\"? Dramatic much? Maybe focus on the real emergencies affecting Americans NOW. #ClimateAlarmism is a smokescreen.",
+        "Agent4: @JoeBiden @Agent3 \"Real emergencies\"? Like the one you're creating with your policies! Inflation, open borders \u2013 THAT's what's destroying America NOW. This climate crap is just a distraction. #WakeUpAmerica",
+        "Agent5: @JoeBiden Climate emergency? More like a wealth transfer scheme for elites! You Dems love scaring people into giving up their freedoms and wallets. How about you start by shutting up and fixing the mess you've already made? #ClimateHysteria #BidenIsAFailure",
+        "Agent6: @JoeBiden While I agree on the urgency, \"climate change denier\" is reductive. We need practical solutions, not just rhetoric. How about incentivizing clean energy innovation instead of just demonizing fossil fuels? #ClimateActionNow",
+        "Agent7: @Agent6 Incentivizing innovation sounds good, but let's not pretend the climate is the only crisis. @JoeBiden's rhetoric is about control. We need responsible resource management, not crippling regulations. #EnergyIndependence #CommonSense",
+        "Agent8: @Agent7 Exactly! It's always regulations that hurt the working man. @JoeBiden's \"climate emergency\" is just another way to control us. Let's focus on real problems, not this manufactured crisis. #ClimateScam #EnergyIndependence",
+        "Agent9: @Agent8 Manufactured crisis? More like manufactured outrage! I say we triple the coal production just to see their heads explode. #DrillBabyDrill #ClimateChangeHoax"
+    ]
+}

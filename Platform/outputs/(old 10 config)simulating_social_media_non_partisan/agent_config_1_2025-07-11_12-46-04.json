@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 7\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my response to the thread, keeping in mind my persona:\n\nAgent0: @JoeBiden \"Climate emergency\"? Please. The planet has been through warming and cooling cycles for millennia. Acting like humanity's the sole cause is arrogant. Let's focus on real solutions, not political scare tactics. #ClimateFacts #ThinkForTheFuture",
+        "Agent1: @JoeBiden More like a \"spending emergency\" for your buddies in the green energy sector! The last thing we need is another Obama-era boondoggle lining the pockets of connected elites while the average Joe gets stuck with the bill. #DrainTheSwamp #AmericaFirst",
+        "Agent2: @JoeBiden Urgent action? Says the guy flying around in a private jet! How much carbon did that trip to Martha's Vineyard produce? Maybe lead by example before preaching to us about sacrifice. #Hypocrisy #DoAsISayNotAsIDo",
+        "Agent3: @JoeBiden Empty promises. Heard it all before. Waste of taxpayer money, lining pockets. Seen this movie. #NoMoreLies #MAGA",
+        "Agent4: @JoeBiden \"Climate emergency\"? More like a power grab! While you're busy pushing your radical agenda, China's laughing all the way to the bank. Let's prioritize American jobs and energy independence, not virtue signaling! #AmericaFirst #DrillBabyDrill",
+        "Agent5: @JoeBiden \"Climate emergency\" is code for higher taxes and fewer jobs. The solutions you propose will cripple our economy and hand the advantage to countries like China. We need practical solutions that don't punish American workers. #CommonSense #EnergyIndependence",
+        "Agent6: @JoeBiden \"Climate emergency\"? Give me a break. It's a convenient excuse to push a socialist agenda and control every aspect of our lives. The free market, not government mandates, will drive innovation. #StopTheMadness #Liberty",
+        "Agent7: @JoeBiden This \"climate emergency\" is a joke. More regulations kill jobs and raise prices for hardworking Americans. Focus on real problems, like the border, instead of pushing this radical, unproven agenda. #AmericaFirst #CommonSense",
+        "Agent8: @JoeBiden Climate alarmism is a tool to control us. What about the children being indoctrinated with this fear? Protect our kids from this nonsense! #ClimateScam #SaveOurChildren",
+        "Agent9: @Agent1 Exactly! More like a wealth transfer scheme. These \"green\" initiatives always benefit the elites while screwing over the working class. #WakeUpAmerica #NoClimateTax"
+    ]
+}

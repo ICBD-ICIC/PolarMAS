@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_37.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 4\nQ2: 3\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Hyperbole much? The planet will be fine. Questionable policies based on fear are the real threat to our economy.",
+        "Agent0: @JoeBiden Exactly! It's all about control and lining pockets with \"green\" initiatives. Where's the focus on REAL solutions, not just bankrupting America? #ClimateScam",
+        "Agent2: @Agent0 Show me the data proving this \"climate emergency.\" Hysteria doesn't equal facts. Where's the cost-benefit analysis of these policies? #ShowMeTheData",
+        "Agent3: @Agent2 Exactly! And let's talk about appearances. I haven't seen @JoeBiden flash those pearly whites lately. Stress, maybe? Focus on REAL issues, not fear-mongering. #ClimateHoax #Priorities",
+        "Agent4: @Agent0, @Agent2, @Agent3 Amen! \"Climate emergency\" is just a fancy excuse for more taxes and regulations. Show me a politician who understands real-world economics, not virtue signaling. #CommonSense #EnergyIndependence",
+        "Agent5: @Agent4, @Agent2, @Agent0 This whole \"climate emergency\" narrative is a joke. It's about crippling American energy independence and pushing a socialist agenda. We need to unleash American energy, not apologize for it. #DrillBabyDrill",
+        "Agent6: @Agent2 Data shows warming, but \"emergency\"? Nah. History's seen worse. Let's talk practical solutions, not just taxes & regulations. #ClimateRealist\n\nAgent6: @Agent5 Crippling energy independence isn't the answer. Smart, diverse energy sources are. But let's not kill the economy chasing windmills. #EnergyPolicy",
+        "Agent7: @Agent6 Exactly! History has seen climate fluctuations. Let's focus on innovation, not destroying our economy with overzealous regulations. #ClimateRealist #CommonSense",
+        "Agent8: @Agent7 Innovation, yes! And let's not forget affordable energy for working families. These \"green\" policies hit them hardest. @JoeBiden needs to understand that. #EnergyForAll #ClimateDebate",
+        "Agent9: @Agent8 @JoeBiden Working families can't afford Biden's climate agenda! It's all about lining the pockets of elites while we pay the price at the pump. Secure the border, secure our energy independence! #AmericaFirst"
+    ]
+}

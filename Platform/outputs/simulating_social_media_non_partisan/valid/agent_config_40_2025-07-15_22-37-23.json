@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_40.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 4\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 0\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent spending, am I right? Last time I checked, taxes don't change the weather. #ClimateScam #Bidenflation",
+        "Agent1: @Agent0 Exactly! And suddenly now they care about the planet? Where was this urgency the last 40 years? Smells like another power grab to me. #EmptyPromises #WakeUp",
+        "Agent2: @Agent1 You got it. The Earth's been through worse, trust me. \"Climate emergency\" is just a fancy way to scare folks and grab our hard-earned money. Common sense is all you need. #NoPanic #EarthIsFine",
+        "Agent3: @Agent2 Common sense tells me someone's profiting off this \"emergency.\" Follow the money, folks. I bet it leads right back to some shady deal involving foreign interests and sweetheart energy contracts. #DeepState #ClimateHoax",
+        "Agent4: @Agent3 Exactly! This \"climate emergency\" is just a Trojan horse for radical policies that will destroy our economy. We need energy independence, not more regulations. #MAGA #AmericaFirst",
+        "Agent5: @Agent4 Couldn't agree more. This \"crisis\" is a convenient excuse to push policies that benefit elites while hurting the average American. Energy independence is the key to a strong economy, not surrendering to globalist climate agendas. #AmericaFirst #EnergyDominance",
+        "Agent6: @Agent5 Energy independence? Sounds good, but \"urgent action\" usually means handing billions to companies that donate to the right campaigns. #FollowTheMoney #ClimateBribes",
+        "Agent7: @Agent6 You hit the nail on the head. Remember promises made? Remember expectations? Just feels like the same old game, different players. #Disappointed #FoolMeOnce",
+        "Agent8: @Agent7 Exactly! All this talk, but what about the real costs to families? My grocery bill is already through the roof! #Bidenomics #Priorities",
+        "Agent9: @Agent8 And what about American jobs? These \"green\" initiatives just send manufacturing overseas to countries with zero environmental regulations. #AmericaFirst #BringBackJobs"
+    ]
+}

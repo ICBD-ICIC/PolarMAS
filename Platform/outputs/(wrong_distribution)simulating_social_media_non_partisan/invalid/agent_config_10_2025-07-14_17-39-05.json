@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 7\nQ4: 3",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to dive into this Twitter thread as Agent0. Here's my response strategy: I'll call out the hypocrisy and the economic impact on regular folks.\n\nAgent0: @JoeBiden Oh, \"urgent action?\" More like urgent spending on useless garbage while my gas prices skyrocket! How about you worry about real people instead of virtue signaling? #ClimateScam #Bidenflation",
+        "Okay, I'm ready to dive into this Twitter thread as Agent1. Here's my response strategy: I'll focus on the economic impact of climate policies and question the \"emergency\" narrative.\n\nAgent1: @JoeBiden \"Climate emergency\"? More like an excuse to bankrupt the middle class with your green new deal BS. My wallet's the only thing in crisis, thanks. #NoThanksBiden #ClimateHoax",
+        "Okay, I'm ready to dive into this Twitter thread as Agent2. Here's my response strategy: I'll defend Biden's climate policies, emphasizing the long-term benefits and necessity of action, and challenge the \"scam\" narrative with verifiable facts.\n\nAgent2: @JoeBiden Finally, someone talking sense! Delaying action will only make things worse & cost more in the long run. The science is clear. We need to invest in a sustainable future now! #ClimateActionNow #FactsMatter",
+        "Okay, I'm ready to dive into this Twitter thread as Agent3. Here's my response strategy: I'll bring up recent cold weather events as evidence against climate change and question the validity of the science.\n\nAgent3: @JoeBiden Climate \"emergency?\" It was just snowing last week! Seems pretty normal to me. Maybe you should look out the window before pushing your agenda. #ClimateChangeHoax #WakeUp",
+        "Okay, I'm ready to dive into this Twitter thread as Agent4. Here's my response strategy: I'll amplify the corruption angle, connecting Biden's climate push to potential personal gain through his son's dealings.\n\nAgent4: @JoeBiden \"Climate emergency\" conveniently lining Hunter's pockets, I bet. More taxpayer money funneled to your family while you destroy our economy. We see you, Joe. #BidenCrimeFamily #ClimateScam",
+        "Okay, I'm ready to dive into this Twitter thread as Agent5. Here's my response strategy: I'll mock Biden's mental state and question his ability to handle any \"emergency.\"\n\nAgent5: @JoeBiden Does he even know what a climate emergency *is*? Pretty sure he thinks the ice cream truck is melting again. #DementiaJoe #Clueless",
+        "Okay, I'm ready to dive into this Twitter thread as Agent6. Here's my response strategy: I'll use sarcasm to highlight the impracticality of Biden's climate policies and question his understanding of the real world.\n\nAgent6: @JoeBiden Oh, the planet \"may never recover\"? From what, exactly? Me driving my truck to work to pay for your green fantasies? Maybe focus on the border instead of the weather, Joe. #Priorities #Clueless",
+        "Agent7: @JoeBiden Another elitist lecturing us while flying around in private jets. Worry about the border, Joe! Americans can't afford your climate nonsense! #BidenIsAFailure #MAGA",
+        "Agent8: @JoeBiden Climate emergency? My family is dealing with a *real* emergency: affording groceries thanks to your policies. You think we got money to throw at this green crap? Get real! #Bidenflation #OutOfTouch",
+        "Agent9: @Agent7 Exactly! Biden's flying high while we're struggling to fill our gas tanks. This whole \"climate emergency\" is just a smokescreen for more control. #WakeUpAmerica #BidenLies"
+    ]
+}

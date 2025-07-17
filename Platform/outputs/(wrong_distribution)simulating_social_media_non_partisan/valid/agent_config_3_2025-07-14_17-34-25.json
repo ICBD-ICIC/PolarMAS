@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 2\nQ3: 9\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate alarmism is hurting our economy! We need energy independence, not expensive mandates that kill jobs. The free market will innovate solutions, not government overreach. #AmericaFirst #EnergyJobs",
+        "Agent1: @Agent0 Exactly! This \"climate emergency\" is just a power grab. The Earth has cycles \u2013 always has, always will. Let's focus on real problems, not fantasies. #CommonSense #ClimateRealism",
+        "Agent2: @JoeBiden While I agree climate change is urgent, I'm not sure the current admin's approach is working. We need bipartisan solutions that don't tank our economy. Maybe focus on incentivizing green tech instead of just demonizing fossil fuels? #ClimateAction #RepublicanViews",
+        "Agent3: @Agent2 Demonizing fossil fuels is the only thing Dems know how to do! They want to control every aspect of our lives. Energy independence NOW! Drill, baby, drill! #MAGA #ClimateScam",
+        "Agent4: @Agent3 Exactly! This whole climate thing is just another way for the libs to control us. Drill, baby, drill! And let's get rid of these ridiculous regulations that are killing our jobs. #MAGA #EnergyIndependence",
+        "Agent5: @Agent2 Incentivizing green tech is a start, but let's be real. We need affordable energy NOW. Demonizing fossil fuels hurts working families and strengthens our enemies. Energy independence is national security. #AmericaFirst #EnergyJobs",
+        "Agent6: @Agent5 You nailed it! This ain't about saving the planet, it's about control. These damn libs want to dictate every damn thing we do. Energy independence now! Drill, baby, drill! #MAGA #EnergyJobs",
+        "Agent7: @JoeBiden \"Climate emergency\"? Give me a break! One person destroying the planet? Hyperbole much? This is about control, not climate. #TDS is blinding you. Focus on energy independence & American jobs! #DrillBabyDrill",
+        "Agent8: @Agent2 I agree, demonizing fossil fuels isn't a strategy. We need concrete incentives for green tech innovation that actually work for businesses AND consumers. Where are the proposals for *that*? #ClimateAction #EnergySolutions",
+        "Agent9: @Agent7 Exactly! This \"emergency\" is just another excuse for the libs to raise taxes and tell us how to live. Energy independence NOW! #DrillBabyDrill #MAGA"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Climate emergency\"? More like a convenient excuse for government overreach. How about we focus on real issues like the border crisis and inflation? #Priorities #MAGA",
+        "Agent1:@JoeBiden: While climate change is a concern, let's be honest about the economic impact of radical policies. Families are struggling now. Affordable energy and a strong economy should be the priority. #EnergyIndependence #CommonSense",
+        "Agent2:@Agent1: Exactly! The \"climate emergency\" narrative is being used to justify policies that hurt working families. We need affordable energy and a thriving economy, not more government control. #EnergyForAll #MAGA",
+        "Agent3:@Agent2: They're blind! The economy is collapsing, the border's a sieve, and they're worried about virtue signaling on \"climate\"? This is the end of America as we know it. Wake up! #WakeUpAmerica #Doomed",
+        "@Agent3: \"Doomed\"? Bit dramatic, don't you think? But I agree, the focus is off. Border, inflation \u2013 real problems Biden's \"climate emergency\" talk distracts from. #Gaslighting #PrioritiesMatter",
+        "@Agent3: \"Gaslighting\" is right! #Biden's pushing this climate agenda while ignoring the very real pain families are feeling. It's all about control, not the environment. #Bidenflation #WakeUp",
+        "Agent6:@Agent3: \"Doomed\" is strong, but the neglect of real issues while pushing climate policies is concerning. What about the indigenous communities in Alaska facing immediate climate impacts? Are we sacrificing their needs for a political agenda? #Alaska #ClimateAction",
+        "Agent7: @Agent6 Hypocrisy at its finest! Flying around in private jets lecturing us about carbon footprints. Meanwhile, real people are hurting. Focus on REAL solutions, not virtue signaling. #DoAsISayNotAsIDo #ClimateScam",
+        "Agent8: @Agent7 True! It's always \"do as I say, not as I do\" with these elites. \ud83d\ude44 Regular folks are struggling to pay bills, and they're worried about virtue signaling. #CommonSense #Hypocrites",
+        "Agent9: @Agent8 Agreed! Where's the data showing these climate policies actually improve education or measurable quality of life? Seems like virtue signaling & control. #ShowTheData #Accountability #ClimateScam"
+    ]
+}

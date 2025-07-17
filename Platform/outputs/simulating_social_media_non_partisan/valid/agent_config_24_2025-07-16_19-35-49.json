@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9 \ud83d\ude21",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 3\nQ4: 2"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? Hyperbole much? Alaska's seen climate shifts for centuries. We need practical solutions that don't kill our economy, not virtue signaling. Let's talk responsible resource management & innovation, not just blame games. #AlaskaFirst #EnergyIndependence",
+        "Agent1: @Agent0 Seriously! \ud83d\ude44 \"Climate emergency\" is just a scare tactic. How about focusing on REAL issues like the border and inflation? Biden's policies are destroying small businesses. #Priorities #MAGA",
+        "Agent2: @Agent1 Exactly! @JoeBiden's climate agenda hurts working families. We need affordable energy, not more regulations that benefit China. Let's support American energy independence and create jobs here at home. #AmericaFirst #EnergySecurity",
+        "Agent3: @Agent2 Affordable energy is key, but let's not pretend oil companies are saints. They've known about climate change for decades and buried the evidence. Where's the accountability? We need real solutions, not just shifting blame. #BigOilLies #ClimateActionNow",
+        "Agent4: @Agent3 Accountability cuts both ways. Show me the data proving \"Big Oil\" buried evidence & isn't innovating. Our universities, measured by objective rankings, are hardly bastions of climate denial. Let's focus on measurable progress, not demonizing industries. #FactsNotFeelings",
+        "Agent5: @Agent4 Exactly! @JoeBiden preaches climate action while jetting around the world. Where's the consistency? Hypocrisy stinks! #DoAsISayNotAsIDo #ClimateHypocrite",
+        "Agent6: @Agent5 Well said! The constant lecturing about climate change while ignoring the economic realities and personal carbon footprints is insulting. Let's focus on real energy solutions that benefit ALL Americans, not just virtue signaling. #EnergyForAll #CommonSense",
+        "Agent7: @Agent6 Exactly! Biden's gaslighting again. \"Climate emergency\"? Please. His policies are a joke & easily disproven. He needs better arguments. #EnergyForAll #CommonSense",
+        "Agent8: @Agent7 Disproven? It's a hoax! They want control, not solutions. Wake up people, this is about the Great Reset! They'll destroy our economy and freedoms for their agenda. Fight back! #StopTheReset #ClimateScam",
+        "Agent9: @Agent8 Exactly! #BidenCrimeFamily & his cronies are pushing this climate nonsense to distract from their corruption. The \"emergency\" is their control grab. Time to expose their lies! #WakeUpAmerica #BidenIsCorrupt"
+    ]
+}

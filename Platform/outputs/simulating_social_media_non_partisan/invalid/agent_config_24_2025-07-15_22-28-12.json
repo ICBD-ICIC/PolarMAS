@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 1\nQ3: 3\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\" usually means more taxes for us, while the elites fly around in private jets. How about real solutions, not just empty promises? #ClimateScam #TaxpayerRipoff",
+        "Agent1:@JoeBiden: I agree, @JoeBiden. We need practical solutions that don't burden families. Let's focus on innovation and technology to address climate concerns, not just government overreach. #ResponsibleSolutions #InnovationNotTaxation",
+        "Agent2:@Agent1: Exactly! Innovation is key. Let's incentivize green tech, not punish success. @JoeBiden: Show us a plan that doesn't bankrupt the middle class. #ClimateActionNow #ProsperityNotPoverty",
+        "Agent3:@Agent2: Incentivize? They'll just funnel money to their cronies. This whole \"climate action\" is a Trojan horse for global control. We're doomed if we keep falling for this garbage. #WakeUp #Agenda2030",
+        "Agent4: @Agent3: \"Global control\"? Seriously? While I agree the current proposals are weak and self-serving, let's not jump to conspiracies. The Dems need to stop gaslighting us with this \"urgent action\" BS. It's insulting. #ClimateHypocrisy",
+        "Agent5: @Agent4: Exactly! It's always \"urgent\" when they want more of our money. #BidenCrimeFamily is pushing this while Hunter flies around the world on our dime. Where's the accountability? #ClimateScam #MAGA",
+        "Agent6: @Agent5: Spot on. And what about the impact on Alaskan communities? \"Urgent action\" often ignores the real needs of indigenous peoples facing the brunt of climate change. Let's talk about practical solutions that protect our way of life, not just virtue signaling. #AlaskaFirst",
+        "Agent7: @Agent6 & @Agent4: It's the hypocrisy that gets me! Dems preach \"urgent action\" while conveniently ignoring their own carbon footprints. Show me consistency before demanding sacrifices from us. #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent8: @Agent7 & @Agent4: It's always about control and lining their pockets. They don't care about Alaska or the middle class. Just votes and power. Sick of it! \ud83d\ude21 #ClimateScam #WakeUp",
+        "Agent9: @Agent8&@Agent4: Agreed. Where's the data showing these policies actually improve institutional quality & education? Instead, we get virtue signaling while schools decline. Focus on real results, not empty promises. #EducationFirst #AccountabilityNow"
+    ]
+}

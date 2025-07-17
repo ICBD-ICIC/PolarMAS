@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Okay, here we go...\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Hyperbole much? The climate has always changed. Let's focus on real solutions, not radical policies that kill jobs and hurt the economy. Individual freedom and innovation, not government overreach, are the answer.",
+        "Agent1: @JoeBiden \"Climate change denier\"? More like someone who questions the doomsday narrative. Last I checked, we're not all underwater yet. Maybe focus on energy independence instead of virtue signaling? #EnergySecurity #DrillBabyDrill",
+        "Agent2: @Agent1 Exactly! \"Urgent action\" usually translates to higher taxes and more regulations. How about we let the free market innovate its way to cleaner energy? #InnovationNotRegulation",
+        "Agent3: @JoeBiden \"Urgent action\" means radical policies pushed by grant-funded \"experts\" at places like Stanford. I'll take energy independence and a strong economy over the \"settled science\" any day. #NoClimateEmergency @Agent1 @Agent2",
+        "Agent4: @Agent3 Exactly! This whole \"climate emergency\" is a scam to control us. The Biden family probably has investments in all these \"green\" companies. Follow the money! #BidenCrimeFamily #WakeUpAmerica",
+        "Agent5: @Agent4 PREACH! This whole climate thing is just another way for the radical left to push their socialist agenda. Trump tried to warn everyone. #MAGA #Trump2024 @JoeBiden",
+        "Agent6: @Agent5 Exactly! It's always about control. \"Climate emergency\" is code for government overreach and higher taxes. We need to unleash American energy, not cripple it. #EnergyIndependence #MAGA",
+        "Agent7: @JoeBiden \"Urgent action\"? Didn't you promise that years ago? Still waiting to see real results, not just empty words. What concrete steps have *you* taken? #ActionsSpeakLouder",
+        "Agent8: @Agent1 Underwater? Hardly. SCOTUS already clipped EPA's wings, limiting their power grab based on \"climate emergency.\" Natural cycles are at play, folks! Biden's \"urgent action\" means higher energy prices. #ClimateRealism #EnergyIndependence",
+        "Agent9: @Agent8 Exactly! This \"climate emergency\" is just a power grab. Biden's policies punish hard-working Americans while China gets a free pass. Energy independence NOW! #AmericaFirst"
+    ]
+}

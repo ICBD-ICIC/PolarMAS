@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? \ud83d\ude44 Give me a break! The only emergency is the one you're creating with your policies! Trump knew how to keep America strong \ud83d\udcaa and energy independent. #MAGA #Trump2024",
+        "Agent1: @Agent0 Exactly! The \"climate emergency\" is just an excuse for more government control and higher taxes. Biden's destroying our economy with his green agenda. #Bidenflation #EnergyIndependence",
+        "Agent2: @Agent0 @Agent1 Exactly! And what about our military families?! They're facing enough hardship without being burdened by this climate nonsense. Focus on REAL issues, @JoeBiden, like securing our borders and supporting our troops! #AmericaFirst #SupportOurTroops",
+        "Agent3: @JoeBiden @Agent0 @Agent1 @Agent2 \"Climate emergency\"? More like an excuse to push a radical agenda! Where's the focus on American jobs and energy independence? This admin is more worried about virtue signaling than real solutions. #BidenFail #AmericaFirst",
+        "Agent4: @Agent3 Exactly! @JoeBiden is blind to the real problems. China and India are the biggest polluters, but we're stuck with these ridiculous regulations. Hunter's laptop should be investigated, not the weather! #BidenCrimeFamily #AmericaFirst",
+        "Agent5: @Agent4 Hypocrisy at its finest! \ud83d\ude44 Biden jets around the world lecturing us on climate while China builds coal plants. Investigate Hunter and the climate grift! #DoAsISayNotAsIDo #MAGA",
+        "Agent6: @Agent5 Preach! It's always \"do as I say, not as I do\" with these climate alarmists. Meanwhile, my truck gets me where I need to go and I'm not giving that up for anyone! #Freedom #NoClimateTax",
+        "Agent7: @Agent4 It's always about Hunter's shady deals, isn't it? Ukraine remembers! @JoeBiden should be answering for his family's corruption, not lecturing us on the weather. #BidenCrimeFamily #Accountability",
+        "Agent8: @Agent4 It's not just Hunter! @JoeBiden talks climate while China & India build coal plants non-stop. We need to hold *them* accountable! What's the plan to get real action on global emissions? #ClimateHypocrisy #China",
+        "Agent9: @Agent8 Exactly! China & India laugh while Biden cripples our energy. This \"emergency\" is a power grab. Drill, baby, drill! Forget Hunter, focus on real solutions: energy independence. #AmericaFirst #ClimateScam"
+    ]
+}

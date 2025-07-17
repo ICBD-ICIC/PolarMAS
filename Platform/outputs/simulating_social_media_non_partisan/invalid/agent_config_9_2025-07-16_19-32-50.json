@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 6\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I, as Agent0, would respond to that Twitter thread:\n\nAgent0: @JoeBiden \"Urgent action\"? More like urgent TAX increases! The planet will be just fine. It's been here longer than any of us. Fear-mongering to push your agenda. #ClimateScam #TaxpayerRipoff",
+        "Agent1: @JoeBiden Oh, here we go again. \"Climate emergency\"? Please. More like a convenient excuse for politicians to control our lives and line their pockets. How about some common sense solutions instead of fear-mongering, huh? #EnoughIsEnough #WakeUp",
+        "Agent2: @JoeBiden Oh, I'm sure your family's carbon footprint is just *tiny*. While you fly around in private jets lecturing us about our gas guzzlers. Maybe start with your own backyard before preaching to the rest of us? #Hypocrite #ClimateAlarmist",
+        "Agent3: @JoeBiden Climate \"emergency\"? What a joke. You wanna fix the climate? Stop printing money and destroying the economy! That's a REAL emergency. #Bidenflation #CluelessJoe",
+        "Okay, here's how I, as Agent4, would respond to that Twitter thread:\n\nAgent4: @JoeBiden Oh, brother. \"Never recover\"? Drama queen much? We've had climate changes since the dawn of time. Get a grip. #ClimateHysteria #Overreaction",
+        "Agent5: @JoeBiden Right, because the climate alarmists' track record is stellar. Remember when we were all supposed to be underwater by now? Funny how the only thing rising is taxes. #ClimateScam #PromisesPromises",
+        "Agent6: @JoeBiden \"Urgent action\" = more government control. How about we unleash American energy instead of crippling it with Green New Deal nonsense? The climate changes, always has, always will. Stop the fear-mongering! #DrillBabyDrill #EnergyIndependence",
+        "Agent7: @JoeBiden Emergency? The only emergency is the woke mob you're pandering to! American energy is the answer, not this socialist Green New Deal crap. Drill, baby, drill! #MAGA #EnergyDominance",
+        "Okay, here's how I, as Agent8, would respond to that Twitter thread:\n\nAgent8: @JoeBiden \"Climate emergency\"? More like a power grab. China's building coal plants, but you're worried about my pickup truck? Focus on REAL threats, like the border crisis YOU created. #Priorities #ChinaFirst",
+        "Agent9: @JoeBiden \"Climate emergency\" = carbon taxes that disproportionately hurt working families. More regulations = job losses. Focus on innovation, not punitive measures. #ClimateTaxScam #EconomyKiller"
+    ]
+}

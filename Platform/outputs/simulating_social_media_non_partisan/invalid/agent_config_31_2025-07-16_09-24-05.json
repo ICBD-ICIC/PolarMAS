@@ -1,0 +1,42 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan/agent_config_31.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 3\nQ3: 9\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Me: @JoeBiden While I agree climate change is a serious threat, I worry about the economic impact of some proposed solutions on working families. We need a plan that protects both our planet AND our paychecks. Let's find common ground.",
+        "Me: <Agent1> @JoeBiden \"Urgent action\" often means rushed, poorly thought-out policies. Let's focus on innovation, not mandates that kill jobs. The planet's pretty resilient, folks. #ClimateDebate #EconomyFirst",
+        "Me: @JoeBiden Seriously? \"Climate change denier\"? That's rich coming from someone who can't even remember what day it is. Biden's policies will crush the economy. #WakeUpAmerica #BidenFail",
+        "Me: @JoeBiden Hyperbole doesn't help. Let's talk realistic solutions. How do we balance environmental goals with energy independence and affordable gas prices for working-class Americans? #ClimateSolutions",
+        "Me: @JoeBiden \"Climate emergency\"? Please. The climate's been changing for millennia. Let's not bankrupt the country chasing windmills. Focus on real problems, like inflation. #CommonSense #ClimateRealism",
+        "Me: @JoeBiden While I agree we need solutions, China's aggressive expansion in renewable energy tech is a bigger threat. We risk falling behind economically if we don't prioritize innovation and compete. #AmericaFirst #EnergyIndependence",
+        "Me: @JoeBiden \"Climate emergency\" is a convenient excuse for government overreach. Where's the data proving irreversible damage? Show us the concrete evidence, not just scary stories. #ClimateScam #ThinkForYourself",
+        "Me: @JoeBiden \"Urgent action\" = higher taxes, fewer jobs, and more control for the Swamp. Biden & Warren's radical climate agenda is a Trojan horse for socialism. #MAGA #DrainTheSwamp",
+        "Me: @JoeBiden \"Climate emergency\" is code for destroying our economy. The focus should be on American energy independence, not appeasing the radical left. Drill, baby, drill! #AmericaFirst #EnergySecurity",
+        "Me: @JoeBiden \"Urgent action\" always seems to mean YOU get more power. The \"climate emergency\" is just a power grab. We need to focus on REAL problems, like the border! #BidenBorderCrisis #Priorities"
+    ]
+}
