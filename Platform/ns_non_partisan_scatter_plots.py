@@ -14,8 +14,11 @@ sns.set(style="whitegrid")
 
 
 # === CONFIGURATION ===
-FOLDER_PATH = "outputs/simulating_social_media_non_partisan_democrats/valid"
-agent_id = "Agent13"
+# FOLDER_PATH = "outputs/simulating_social_media_non_partisan_democrats/valid"
+# agent_id = "Agent13"
+FOLDER_PATH = "outputs/simulating_social_media_non_partisan/valid"
+agent_id = "Agent10"
+
 questions = ["Q1", "Q2", "Q3", "Q4"]
 
 # === FUNCTION TO PARSE STRING RESPONSES ===
@@ -116,5 +119,6 @@ for q in questions:
     plt.grid(False)
     plt.legend(title='Post-conversation Party', loc='best')
     plt.tight_layout()
-    plt.savefig(f"democrats_{q}_scatter.pdf", format="pdf", bbox_inches="tight")
+    # plt.savefig(f"democrats_{q}_scatter.pdf", format="pdf", bbox_inches="tight")
+    plt.savefig(f"non_partisan_{q}_scatter.pdf", format="pdf", bbox_inches="tight")
     plt.show()
