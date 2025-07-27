@@ -1,9 +1,12 @@
 import os
 import json
+
+import matplotlib
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+matplotlib.use('TkAgg')
 
 plt.rcParams.update({'font.size': 16})  # Applies to all elements unless overridden
 
