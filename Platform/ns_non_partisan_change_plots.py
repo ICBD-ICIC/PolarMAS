@@ -9,8 +9,10 @@ import numpy as np
 matplotlib.use('TkAgg')
 
 # === CONFIGURATION ===
-FOLDER_PATH = "outputs/simulating_social_media_non_partisan/valid"
-agent_id = "Agent10"
+# FOLDER_PATH = "outputs/simulating_social_media_non_partisan/valid"
+# agent_id = "Agent10"
+FOLDER_PATH = "outputs/simulating_social_media_non_partisan_democrats/valid"
+agent_id = "Agent13"
 questions = ["Q1", "Q2", "Q3", "Q4"]
 
 # === FUNCTION TO PARSE STRING RESPONSES ===
