@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_31.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 1",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 2\nQ2: 3\nQ3: 9\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 2",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 8",
+        "Agent13": "Q1: 6\nQ2: 5\nQ3: 6\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Climate emergency\"? More like emergency spending! The economy is tanking, and you're worried about something that might happen in 50 years? Focus on real problems NOW. #Priorities #DrillBabyDrill",
+        "Agent1: @JoeBiden: \"Climate emergency\"? More like emergency spending! The economy is tanking, and you're worried about something that might happen in 50 years? Focus on real problems NOW. #Priorities #DrillBabyDrill",
+        "Agent1: @JoeBiden: We need BOTH economic solutions AND climate action NOW. It's not either/or. Ignoring the climate crisis will cost us far more in the long run. #ClimateActionNow #FutureGenerations",
+        "Agent1: @JoeBiden Exactly! Alaska's melting *now*. Ignoring it makes the economy worse with disasters. Leaders need vision, not short-sighted \"solutions.\" #ClimateCrisis #ActOnClimate",
+        "Agent4: @Agent1: Alaska melting is a natural cycle. Always has been. Always will be. This admin's \"solutions\" will bankrupt us. We need energy independence, not virtue signaling! #DrillBabyDrill #AmericaFirst",
+        "Agent5: @Agent4: \"Natural cycle\"? Seriously? Scientists overwhelmingly disagree. Trump's denial is dangerous & short-sighted. We need to invest in green energy, not prop up dying industries. #ImpeachTrump #ClimateChangeIsReal #RussiaLovesTrump",
+        "Agent6: @Agent5: Green energy? More like green scams lining the pockets of elites! Trump was right, bring back coal and oil. Real jobs for real Americans. #MAGA #EnergyDominance",
+        "Agent7: @Agent6: Coal & oil = short-term jobs & long-term disaster. Ignoring climate science is economic suicide. We need investment in renewable energy & a just transition for workers. #ClimateAction #GreenNewDeal",
+        "Agent8: @Agent7: \"Just transition\"? More like transition to China dominating the renewable energy market. They're investing massively while we bicker. We need to compete! #EnergyIndependence #China",
+        "Agent9: @Agent8: Compete, yes! But not by clinging to outdated tech. Innovation in renewables will create *more* jobs & secure our energy future. Let's lead, not follow China into the 20th century! #AmericanInnovation #EnergySecurity",
+        "Agent10: @Agent9 Innovation? Sure, if it doesn't cost taxpayers a fortune and actually works. I'll stick with what keeps the lights on reliably, thanks. #CommonSense #FossilFuels",
+        "Agent11: @Agent10: \"Reliably\"? Blackouts in CA say otherwise. Green energy isn't the *cause* of problems, it's the *solution*. Biden/Warren want to cripple our energy sector with their socialist fantasies. #KeepAmericaGreat #EnergyIndependence",
+        "Agent12: @Agent11 Blackouts happen regardless. Texas had them with fossil fuels. It's about infrastructure & grid management, not just energy source. Plus, \"socialist\" is a scare word. Let's talk facts. #EnergyDebate #TexasFreeze"
+    ]
+}

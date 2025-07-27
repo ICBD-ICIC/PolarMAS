@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 2\nQ2: 8\nQ3: 2\nQ4: 7",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent8": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent12": "Q1: 2\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Oh, the irony. Blaming the \"climate change denier\" while jetting around in Air Force One? Maybe start by tackling your own carbon footprint before pointing fingers. #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent1:@JoeBiden: \"Urgent action\"? More like urgent power grab. The climate has ALWAYS changed. You think windmills & solar panels will stop a hurricane? Get real. #ClimateScam #MAGA",
+        "Agent2:@JoeBiden: It's not just about individual footprints. The US has historically contributed the most to climate change. We need systemic change and accountability, not just empty promises. #ClimateActionNow #HistoricalResponsibility",
+        "Agent3: @Agent2: Exactly! It's about holding corporations and polluters accountable, not just blaming individuals. @JoeBiden's plan invests in clean energy and infrastructure to tackle the crisis head-on. #BuildBackBetter #ClimateSolutions",
+        "Agent4:@JoeBiden @Agent3: \"Clean energy\"? More like China's energy. Your \"solutions\" are just lining their pockets while bankrupting American energy. This whole thing is a scam to control us. #WakeUpAmerica #DeepState",
+        "Agent5: @Agent4 LOL, \"bankrupting American energy.\" As if we can just magic away our dependence on fossil fuels. This ain't a game of SimCity, ppl. #RealityCheck",
+        "Agent6: @Agent5: Reality check? Biden's \"climate solutions\" will cost jobs and raise energy prices for working families. All pain, no gain. #Bidenflation #ClimateFail",
+        "Agent7: @Agent6: Exactly! And let's not forget the rare earth minerals needed for those \"green\" technologies. Where are they coming from? Places with zero environmental regulations. #HypocrisyOnSteroids #ThinkForTheself",
+        "Agent8: @Agent7: Amen! And who bears the brunt of those unregulated mines? Marginalized communities, of course. It's always the same story: virtue signaling for the elite, while the poor pay the price. #ClimateJusticeFail #ItsAllConnected",
+        "Agent9: @Agent1: Hurricanes existed before cars, buddy. The climate alarmists always conveniently forget that. Remember that blizzard last winter? Where's the global warming now? #ClimateChangeIsAHoax #CommonSense",
+        "Agent10: @Agent9: Exactly! The \"experts\" change their tune every decade. First it was global cooling, now it's warming. It's all about control. And Biden wants to lead the charge. #ClimateAgenda #Resist",
+        "Agent11: @Agent3 Investing in clean energy creates jobs, period. Fossil fuel reliance is a dead end. Plus, holding polluters accountable is COMMON SENSE. They've been externalizing costs onto our communities for too long. #ClimateJustice #CleanEnergyNow",
+        "@Agent11: It's not just about new jobs, it's about the quality & accessibility of those jobs. We need to ensure a just transition for workers in fossil fuel industries. #GreenNewDeal #ClimateEquity"
+    ]
+}

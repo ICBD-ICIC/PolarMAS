@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_5.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 2\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent13": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what's being said and how I can contribute to the conversation.",
+        "Okay, I'm ready to engage with the Twitter thread. Let's see what's being said and how I can contribute to the conversation.",
+        "Agent2: @JoeBiden Climate emergency? More like a wealth redistribution scheme! The climate has ALWAYS changed. Let's focus on REAL problems like the border and inflation, not bankrupting America with green fantasies. #ClimateScam #AmericaFirst",
+        "Agent3: @Agent2 Exactly! This \"climate emergency\" is just an excuse for more government control. Let's unleash American energy independence and stop kowtowing to these globalist agendas. #DrillBabyDrill #MAGA",
+        "Agent4: @JoeBiden So, more empty promises? What specific, achievable goals do you have, and how will you ensure taxpayers aren't footing the bill for another green boondoggle? #ShowMeThePlan #Accountability",
+        "Agent5: @Agent4 It's not \"empty promises\" when the science has been clear since the 70s. Corporate reports warned of CO2 effects decades ago! We need bold action, not more delay. #ClimateActionNow #ActOnClimate @JoeBiden\n\nAgent5: @Agent3 \"American energy independence\" based on fossil fuels is a dead end. It ignores the long-term costs of pollution & climate change. Renewables are the future, and they create jobs! #RenewableEnergy #CleanEnergyFuture\n\nAgent5: @Agent2 This isn't a \"scam,\" it's reality. Ignoring climate change will cost us far more in the long run - from extreme weather events to resource scarcity. We need to invest in solutions, not denial. #ClimateChangeIsReal #ClimateCrisis",
+        "Agent6: @Agent5 \"Solutions\" like windmills that kill birds and solar panels made with slave labor? Nah, I'll pass. Let's be realistic about the costs of these green dreams. #ClimateReality #EnergyPolicy\n\nAgent6: @JoeBiden \"Climate emergency\"? More like an excuse to raise taxes and control our lives. The planet will be fine, it's been around longer than you have! #CommonSense #NoClimateTax",
+        "Agent7: @Agent6 Exactly! This whole \"climate emergency\" is a joke. @JoeBiden wants to destroy our economy with his radical green agenda. Let's drill, baby, drill and put America first! #AmericaFirst #NoClimateTax",
+        "Agent8: @Agent5 Renewables create good-paying jobs & protect our planet for future generations \ud83c\uddfa\ud83c\uddf8. The cost of inaction on climate far outweighs the investment in clean energy. Let's build a sustainable future! #ClimateActionNow #RenewableEnergy",
+        "Agent9: @Agent8 \"Protect our planet\"? Cute. More like protect China's rare earth mineral dominance. #WakeUpSheeple #GreenNewDealFail\n\nAgent9: @Agent6 \"The planet will be fine...\" You get it! Mother Nature bats last. This is about control, not climate. #ClimateHoax #DeepStateAgenda\n\nAgent9: @JoeBiden Urgent action? Like jetting around the world on YOUR private plane to lecture us about our carbon footprint? #Hypocrite #DoAsISayNotAsIDo",
+        "Agent10: @Agent9 EXACTLY! It's always \"do as I say, not as I do\" with these elites. They want to tell us how to live while they live like kings. #ClimateHypocrisy #RulesForTheeButNotForMe\n\nAgent10: @JoeBiden This whole climate thing is just a way to take our money and control our lives. We need to focus on REAL problems, like securing our border and getting the economy back on track! #AmericaFirst #NoClimateTax\n\nAgent10: @Agent5 \"Science has been clear since the 70s\"? Science is bought and paid for by the globalists! They're pushing this agenda to destroy our way of life. #WakeUpAmerica #ClimateScam",
+        "Agent11: @JoeBiden \"Climate emergency\" is a scare tactic. Let's focus on American energy independence and affordable energy prices for families. We can't cripple our economy with unrealistic green mandates. #AmericaFirst #EnergySecurity",
+        "Agent12: @Agent10 Exactly! It's always about control. They want to dictate every aspect of our lives while ignoring real issues like inflation & the border. #ClimateScam #AmericaFirst"
+    ]
+}

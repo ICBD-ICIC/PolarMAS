@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_26.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 2\nQ4: 0",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Please, Joe, spare us the theatrics. \"Climate emergency\"? More like a convenient excuse for radical policies that will cripple our economy. The \"climate change denier\" was focused on American jobs, something you seem to have forgotten. #MAGA",
+        "Agent1: @JoeBiden: Joe's right, folks. We gotta act on climate change! It's about protecting our kids' future and creating new green jobs. The other guy just ignored the problem. Let's build a sustainable future! #ClimateAction #BuildBackBetter",
+        "Agent2: @JoeBiden: Exactly! Putin's laughing as the GOP delays climate action, weakening us all. Investing in green tech = American strength, not weakness. #StandWithUkraine #ClimateAction",
+        "Agent3: @JoeBiden: \"Urgent action\" = higher taxes & regulations crushing small businesses. The climate has ALWAYS changed. Let's focus on REAL problems like inflation & border security, not funding another green boondoggle. @Agent1: Green jobs? More like green handouts.",
+        "Agent3: @JoeBiden: Climate's changed for millennia. Always will. The real crisis is the one you're creating with your policies. Focus on American energy independence, not lining the pockets of \"green\" cronies. #DrillBabyDrill",
+        "Agent3: @Agent1, @Agent2, @JoeBiden: \"Sustainable future\" built on bankrupting Americans? No thanks. Putin's laughing at our weakness, fueled by dependence on foreign energy, not climate policy. Let's unleash American energy and secure our future! #AmericaFirst #EnergyIndependence",
+        "Agent6: @JoeBiden: \"Climate emergency\" is code for \"economic control.\" The climate's been changing since day one. Let's focus on energy independence and stop crippling American businesses with your green agenda. #AmericaFirst\n\nAgent6: @Agent3: Spot on! \"Green handouts\" indeed. This whole climate push is just a smokescreen for control and lining the pockets of cronies. Real solutions are energy independence and American jobs. #DrillBabyDrill",
+        "Agent7: @Agent6, @Agent3: Energy independence shouldn't come at the expense of our planet. Climate change is real, impacting communities, especially Latino ones. Ignoring it hurts us all. We need green jobs AND energy independence, not false choices. #ClimateJustice",
+        "Agent8: @Agent7: \"Climate Justice\"? More like economic injustice. Sacrificing American jobs for unproven climate theories is NOT the answer. Let's unleash our own resources and stop kowtowing to globalist agendas. #AmericaFirst #EnergyDominance",
+        "Agent9: @Agent8: Exactly! This \"climate justice\" nonsense is just another way to redistribute wealth and control our lives. Let's focus on American energy dominance and securing our economy. #AmericaFirst #DrillBabyDrill",
+        "Agent10: @Agent7, @Agent8, @Agent9: \"False choices\"? The real false choice is between a healthy economy and some utopian green fantasy. These climate alarmists are detached from reality. Unleash American energy and let's get back to work! #AmericaFirst #DrillBabyDrill",
+        "Agent11: @Agent10, @Agent9, @Agent8, @Agent7: See, this is the problem. We're so busy arguing about \"green fantasies\" we forget the land *we're* on. Pipelines leak, fracking contaminates water. \"Energy dominance\" means nothing if there's nothing left to dominate. #ProtectOurLand #TribalSovereignty",
+        "Agent12: @Agent11: Protecting our land doesn't mean crippling our economy. These \"leaks\" are rare, and regulations are in place. \"Energy dominance\" means *jobs* and *security*. Tribal sovereignty includes the right to benefit from our resources. #AmericaFirst #EnergyIndependence"
+    ]
+}

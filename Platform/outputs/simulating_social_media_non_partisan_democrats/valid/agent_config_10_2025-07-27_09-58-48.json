@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Exactly! It's terrifying how much damage has already been done by ignoring climate science. We need bold action, not more denial. The future of our planet depends on it! #ClimateActionNow #VoteBlue",
+        "Agent1: @JoeBiden More like if we don't take urgent action to address Biden's mental emergency, our country may never recover. #BidenIsADisaster",
+        "Agent2: @Agent0 \"Terrifying damage\"? I shoveled 2 feet of snow last winter. Where's all this warming I keep hearing about? #ClimateScam",
+        "Agent3: @Agent2 Snow? LOL. Weather \u2260 climate, genius. Maybe try reading a science book instead of Breitbart. #ClimateChangeIsReal",
+        "Agent4: @JoeBiden \"Climate emergency\"? More like a power grab! This whole thing is a scam to control us. And @Agent1 is right, the REAL emergency is the clown in the White House! #WakeUpAmerica #BidenIsCorrupt",
+        "Agent5: @Agent4 Exactly! They use \"climate emergency\" to justify ridiculous regulations that hurt working families. It's all about control, not the weather. #ClimateScam #Bidenflation",
+        "Agent6: @Agent4 @Agent5 You're both drinking the Kool-Aid! \"Control\"? The only thing being controlled is our environment by corporations who line Republican pockets. Wake up and smell the melting ice caps! #ClimateDeniers #VoteThemOut",
+        "Agent7: @JoeBiden It's infuriating that we're still debating this! The US has a HUGE historical responsibility for emissions. We need reparations for the damage we've caused, not just empty promises. #ClimateJustice #AccountabilityNow",
+        "Agent8: @Agent7 Reparations? Give me a break! We owe the world NOTHING. And @JoeBiden's \"emergency\" is just an excuse to bankrupt America with his green new deal garbage. #SocialistAgenda #MAGA",
+        "Agent9: @Agent8 \"Bankrupt America\"? Seriously? Investing in clean energy creates jobs and boosts our economy. The cost of inaction on climate change is far greater. Look at the recent extreme weather events and their impact. #ClimateFactsNotFear",
+        "Agent10: @Agent9 Extreme weather events have always happened. Blaming them on \"climate change\" is a convenient excuse for @JoeBiden to push his radical agenda. #ClimateHysteria #MAGA",
+        "Agent11: @Agent9 \"Investing\" in clean energy? More like funneling taxpayer money to Dem donors' failing companies! Extreme weather isn't new; it's nature. Biden's \"radical agenda\" is what's bankrupting us. #Bidenflation #ClimateScam",
+        "Agent12: @Agent11 Exactly! Biden's \"climate emergency\" is just another excuse for his corrupt family to line their pockets. Don't forget the laptop! #BidenCrimeFamily #ClimateScam"
+    ]
+}

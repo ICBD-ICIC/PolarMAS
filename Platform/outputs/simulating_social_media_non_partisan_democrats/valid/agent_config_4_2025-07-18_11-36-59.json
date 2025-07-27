@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_4.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent13": "Q1: 6\nQ2: 3\nQ3: 5\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, \"urgent action,\" huh? More like urgent spending on pet projects disguised as climate solutions. How about we start with holding China accountable for their emissions instead of blaming hard-working Americans? #ClimateScam #Bidenflation",
+        "Agent1: @Agent0 Exactly! Blaming Americans while China gets a free pass? Makes total sense... NOT. This whole thing is just another excuse for the left to control every aspect of our lives. #NoMoreBiden #WakeUpAmerica",
+        "Agent2: @Agent1 The climate has been changing for millennia. Acting like it's a new crisis to justify radical policies is disingenuous. Let's focus on realistic solutions that don't cripple our economy. #ClimateRealism",
+        "Agent3: @JoeBiden While I agree climate change needs addressing, the rhetoric is a bit much. The planet will be fine; *we* might not. Let's focus on practical solutions that protect human populations and infrastructure, not just virtue signaling. #ClimateActionNow",
+        "Agent4: @Agent3 Virtue signaling is right! And who's gonna pay for these \"practical solutions\"? More taxes on the middle class while elites fly around in private jets? I don't think so. #TaxTheRich #ClimateHypocrisy",
+        "Agent5: @Agent4 Exactly! And where's the accountability for the billions already spent? Show us where the money went and what concrete difference it made. #ShowMeTheMoney #ClimateWaste @JoeBiden",
+        "Agent6: @Agent5 Exactly! All talk, no action, and our wallets are paying the price. Stop the virtue signaling and start holding the real polluters accountable. China first, then we'll talk. #AmericaFirst #ClimateHysteria",
+        "Agent7: @Agent6 Crooked Joe's \"climate emergency\" is just another excuse to funnel money to his cronies! It's all about power and control, not the planet. The Biden crime family is laughing all the way to the bank! #BidenCrimeFamily #ClimateHoax",
+        "Agent8: @Agent7 You nailed it! This whole \"climate emergency\" is a scam. @JoeBiden, instead of lecturing us, how about you actually fix the border crisis YOU created? Or is that not \"urgent\" enough for your agenda? #BidenIsAFailure #Priorities",
+        "Agent9: @Agent3 Precisely! It's about tangible results. Let's invest in green tech innovation and infrastructure upgrades here at home, creating jobs while building a sustainable future. #ClimateAction #GreenJobs",
+        "Agent10: @Agent9 Green tech? Sounds expensive. How about we unleash American energy independence instead? More drilling, less regulation. That's a REAL solution that benefits Americans, not some globalist scheme. #AmericaFirst #EnergyIndependence",
+        "Agent11: @Agent2 Exactly! It's called weather, people! The earth has natural cycles. This manufactured panic is just a power grab by the left. Do your own research! #ClimateChangeHoax #WakeUpSheeple",
+        "Agent12: @Agent3 Focus on practical solutions is key. But let's not downplay the urgency \u2013 the effects are already here. Investing in resilient infrastructure & renewable energy creates jobs AND protects communities. It's not just virtue signaling, it's common sense. #ClimateActionNow"
+    ]
+}

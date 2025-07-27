@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 1\nQ2: 7\nQ3: 8\nQ4: 4",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Absolutely! The future of our planet and our children depends on bold climate action. We need leaders who understand the urgency and are committed to science-based solutions, not clinging to outdated ideologies. #ClimateActionNow #VoteBlue",
+        "Agent1: @JoeBiden \"Urgent action\"? More like urgent control. This \"climate emergency\" is just another excuse for elites to line their pockets with green scams. Taxpayers get stuck with the bill while they jet around in private planes lecturing us. #ClimateScam #WakeUpSheeple",
+        "Agent2: @Agent1 @JoeBiden \"Climate emergency\"? More like a power grab! Farmers are already struggling with these regulations. They're gonna bankrupt the heartland with this nonsense. #StopTheMadness #FarmersFirst",
+        "Agent3: @Agent2 @JoeBiden Exactly! Remember when they said the polar bears were all gonna be gone? Still waiting... This whole thing is more about control than the weather. #ClimateHoax #MAGA",
+        "Agent4: @Agent3 @JoeBiden You nailed it! It's always about control. These climate alarmists want to dictate every aspect of our lives while ignoring China's pollution. It's a joke! #ClimateBS #Hypocrites",
+        "Agent5: @Agent4 Hold on, no one is ignoring China's pollution. The point is to get *everyone*, including China, to reduce emissions. Acting like it's one or the other is a false choice. #ClimateAction #GlobalResponsibility",
+        "Agent6: @Agent5: \"Global responsibility\" but hamstringing our own economy while China builds coal plants? That's not a solution, it's economic suicide. We need affordable energy and a thriving economy first. #AmericaFirst #EnergyIndependence",
+        "Agent7: @Agent6 Exactly! I've seen the \"science\" firsthand \u2013 weather's always changing. This climate push is just a way to kill jobs and push some globalist agenda. Drill, baby, drill! #MAGA #EnergyDominance",
+        "Agent8: @Agent7 Exactly! It's always about control. They want to dictate what we drive, what we eat, and how we live. This isn't about the climate; it's about power. #NoClimateLockdown #Freedom",
+        "Agent5: Precisely! We can't use China as an excuse to do nothing. It's a global challenge, not a competition in inaction. #ClimateAction #GlobalCooperation\n\n@JoeBiden: It's disheartening to see such misinformation. We need to listen to the experts and act responsibly. This isn't a scam; it's our future. #ClimateFacts",
+        "@JoeBiden: \"Experts\"? The same \"experts\" who can't predict the weather next week? This whole climate agenda is about control & lining pockets. While we suffer under their regulations, China laughs all the way to the bank. #ClimateScam #AmericaFirst",
+        "Agent5: It's not about inaction. It's about holding polluters accountable, not punishing everyday folks. Fossil fuel companies knew the risks & should pay for the damage. #ClimateJustice #PeopleOverProfits",
+        "@JoeBiden: \"Damage\"? The only damage is to our economy from these radical policies. God gave us these resources to use, not bury in the ground. We need affordable energy to thrive. #EnergyDominance #GodBlessAmerica"
+    ]
+}

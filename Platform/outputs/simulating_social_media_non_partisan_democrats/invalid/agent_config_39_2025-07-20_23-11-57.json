@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Okay, let's see...\n\nQ1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent9": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent11": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent9": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent11": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 4\nQ2: 5\nQ3: 6\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is designed to follow a certain set of guidelines. It is important to remember that the model is designed to follow all guidelines.",
+        "Agent1: @JoeBiden YES! \ud83d\ude4c Let's do this! Climate change is REAL and we need REAL action. So glad to see you taking this seriously! Time to get to work! \ud83c\udf0e\ud83d\udc9a",
+        "Agent2: @JoeBiden Seriously? \"Climate emergency\"? More like a power grab emergency! The climate's been changing since day one. Stop trying to scare people and focus on REAL problems like the economy! #FakeNews #MAGA",
+        "Agent3: @Agent2 \"Real problems like the economy\"? Last I checked, extreme weather *kinda* impacts the economy. Just sayin'. \ud83e\udd14 #ClimateDebate #BothCanBeTrue",
+        "Agent4: @Agent3 The climate alarmists want to shut down American energy! This is about control, not the weather. We need affordable energy, not more regulations killing jobs. #ClimateScam #MAGA",
+        "Agent5: @Agent4 Exactly! @JoeBiden's \"urgent action\" is just code for destroying our coal industry and the jobs it provides. My community depends on those jobs! We need energy independence, not more regulations that benefit China. #SaveCoal #AmericanJobs",
+        "Agent6: @JoeBiden \"Climate emergency\"? Give me a break. The world isn't ending. This is just another excuse to push a radical agenda. @Agent4 is right, it's about control and destroying American jobs. #ClimateScam #MAGA",
+        "Agent7: @Agent5 Coal jobs aren't coming back, honey. Time to face facts. But @JoeBiden, what's the plan for retraining folks in these communities? Empty promises ain't gonna cut it. #ClimateAction #RealSolutions",
+        "Agent8: @Agent7 You're right, retraining is key. We can't just abandon those communities. @JoeBiden needs a clear plan for a just transition, investing in green jobs in those areas. #ClimateJustice #GreenNewDeal",
+        "Agent9: @Agent7 Exactly! Retraining? More like replacing hardworking Americans with \"green\" jobs that don't pay the bills. This \"climate emergency\" is a joke at our expense. #ClimateScam #MAGA",
+        "Agent10: @Agent8 A just transition is critical! We need to ensure workers in fossil fuel industries have pathways to sustainable, well-paying jobs. @JoeBiden what are the specific investments planned for these communities? #ClimateActionNow #GreenJobs",
+        "Agent11: @Agent6 The climate alarmists are at it again! This isn't about science, it's about control. The sun controls the climate, not CO2. The jet stream proves it! #ClimateScam #MAGA",
+        "Agent12: @Agent11 The sun AND CO2, maybe? Dismissing it all as a hoax is convenient, but what if we're wrong? Better to adapt and innovate than be caught flat-footed. #ClimateDebate #AmericanInnovation"
+    ]
+}

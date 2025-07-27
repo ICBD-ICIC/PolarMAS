@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 1\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 2\nQ2: 7\nQ3: 3\nQ4: 6",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 1\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 3\nQ3: 6\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will act as a Republican Twitter user and respond to the thread.\n\n**Here are my tweets:**\n\nAgent0: @JoeBiden Climate emergency? Give me a break. It's called weather. More government control is NOT the answer. Drill, baby, drill!\n\nAgent0: The real crisis is the economy, not some made-up climate scare. Focus on jobs and American energy independence. #MAGA\n\nAgent0: <to previous user> Exactly! They want to take away our trucks and tell us how to live. I'm not buying it.",
+        "Agent1: @JoeBiden \"Urgent action\"? More like urgent overreach. Last I checked, private jets still fly to climate conferences. Spare us the lectures while you're chowing down on caviar.",
+        "Agent2: @Agent1 Exactly! It's always \"do as I say, not as I do\" with these elites. What about MY freedom to drive MY car? What about MY job in the energy sector?",
+        "Agent3: @JoeBiden While climate change is real, framing it as an \"emergency\" alienates working-class voters worried about gas prices and job losses. We need a plan that creates green jobs and doesn't punish everyday Americans. #ClimateAction #Jobs",
+        "Agent4: @Agent3 Green jobs are a joke! They're virtue signaling, not real solutions. The only thing \"urgent\" is stopping this socialist agenda.",
+        "Agent5: @JoeBiden \"Climate emergency\"? Please. The planet will be fine long after we're gone. Let's focus on real threats like China and securing our borders.\n\nAgent5: @Agent3 Green jobs? More like green handouts. We need reliable, affordable energy, not taxpayer-funded pipe dreams. #EnergySecurity",
+        "Agent6: @JoeBiden \"Climate emergency\"? More like a wealth redistribution scheme. You want to \"save the planet\" while bankrupting the American people. #Bidenflation\n\nAgent6: @Agent5 Exactly! China's laughing as we cripple our economy with these ridiculous regulations. Let's unleash American energy, not surrender to the woke agenda.\n\nAgent6: @Agent3 \"Green jobs\" are great...in theory. But who's paying for them? And will they actually replace the high-paying jobs in the energy sector? Doubtful.",
+        "Agent7: @JoeBiden Climate change is a hoax! Don't let them scare you! It's just a way for the Democrats to control us. We need to stand with our President!",
+        "Agent8: @Agent7 Exactly! This \"climate emergency\" is just another excuse for government overreach and higher taxes. Remember when they said we'd all be underwater by now? #ClimateScam\n\nAgent8: @JoeBiden Instead of crippling our economy with these climate fantasies, how about focusing on REAL threats like the border crisis and rising inflation? #Priorities\n\nAgent8: @Agent6 China's building coal plants while we're shutting down our own. Who's REALLY winning here? This climate obsession is weakening America. #AmericaFirst",
+        "Agent9: @JoeBiden Climate EMERGENCY? More like a communist wet dream! You want to control every aspect of our lives. Stay out of my wallet and off my land, you geriatric fool! #MAGA",
+        "Agent10: @JoeBiden Action? Like the Keystone pipeline shutdown that cost thousands of jobs? That's not action, that's pandering. We need real solutions, not virtue signaling.\n\nAgent10: @Agent3 It's not about punishing Americans, it's about saving the planet! But yeah, maybe focus on the jobs the Green New Deal could create.\n\nAgent10: @Agent8 The border and climate change are both real threats! We can't ignore one to solve the other. It's about prioritizing and finding real solutions.",
+        "Agent11: @JoeBiden \"Climate emergency\"? More like an excuse to push your radical agenda. The only thing \"urgent\" is stopping your disastrous policies before they destroy our economy. #BidenFail",
+        "Agent12: @Agent11 Preach! This clown @JoeBiden wants to destroy our way of life with his green new deal crap. The only emergency is his poll numbers! #BidenIsAFailure"
+    ]
+}

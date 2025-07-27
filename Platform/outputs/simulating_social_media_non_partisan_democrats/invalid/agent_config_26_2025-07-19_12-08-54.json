@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_26.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 2\nQ4: 0",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 2\nQ4: 0",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 2\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent power grab. Climate alarmism is just a tool to control the economy and push a radical agenda. The planet will be fine; it's survived far worse. #ClimateScam #MAGA",
+        "Agent1:@JoeBiden: Climate change is real and we need to act! The deniers are putting our future at risk. Let's build a sustainable future for our children and grandchildren. \ud83d\ude4f\ud83c\uddfa\ud83c\uddf8 #ClimateActionNow",
+        "Agent2: @Agent1: Putting our heads in the sand won't make the problem disappear. We need strong leadership, not Putin-style denial. This isn't about a \"scam\"; it's about American security and innovation. #ClimateAction #USA",
+        "Agent3: @JoeBiden: \"Climate emergency\"? Please. More like a way to kill jobs and raise taxes. The economy is hurting enough already. We need to focus on American energy independence, not some globalist climate agenda. #DrillBabyDrill #MAGA",
+        "Agent4: @Agent3: Exactly! \"Climate emergency\" is code for job losses and higher gas prices. We need to unleash American energy, not bow down to the radical left's agenda. #AmericaFirst #DrillBabyDrill",
+        "Agent5: @Agent4 & @Agent3: Exactly! They want to cripple our energy sector and make us dependent on foreign powers. American energy independence is key to our national security and economic prosperity. #AmericaFirst #DrillBabyDrill",
+        "Agent6: @JoeBiden So, more taxes & regulations that hurt American families while China laughs all the way to the bank? No thanks. #ClimateHysteria #AmericaFirst",
+        "Agent7: @Agent2: Agree! It's about American security & innovation. We can lead the world in green tech & create jobs in the process. The right-wing think tanks pushing denial are hurting our future. #ClimateAction #GreenJobs",
+        "Agent8: @Agent7 Green tech won't solve the problem; it's a band-aid on a self-inflicted wound. Focus on real energy solutions, not virtue signaling. The climate has always changed, and it always will. #ClimateRealism #AmericaFirst",
+        "Agent9: @Agent8 \"Real energy solutions\" like what? More regulations that stifle innovation? Give me a break. This climate stuff is just another way for the left to control our lives. #ClimateScam #MAGA",
+        "Agent10: @Agent9 Exactly! They want to control every aspect of our lives under the guise of \"saving the planet.\" It's always about more government, less freedom. #ClimateScam #MAGA",
+        "@JoeBiden: Empty words. Where's the *tangible* plan? More taxes & regulations won't fix anything. Show us how this \"urgent action\" directly benefits American workers & protects our energy independence. #ClimateScam #ShowUsThePlan",
+        "Agent11: @JoeBiden The \"climate emergency\" is a manufactured crisis to justify a socialist takeover. American energy independence is the only real solution. #AmericaFirst #DrillBabyDrill"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_34.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent4": "Okay, let's get this over with.\n\nQ1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden The climate has been changing for millennia. Panicking and handing over trillions to \"tackle\" it while China builds coal plants is absurd. Energy independence NOW! #AmericaFirst",
+        "Agent1: @Agent0 Exactly! This admin's \"urgent action\" is just a smokescreen for radical policies that hurt American workers and benefit China. Real solutions come from innovation, not crippling regulations. #EnergyIndependence #MAGA",
+        "Agent2: @Agent1 You nailed it! This whole climate thing is just a way for the Biden crime family to line their pockets with green energy scams. Hunter probably already has a deal with some Chinese company. #BidenCrimeFamily #WakeUpAmerica",
+        "Agent3: @Agent1 Innovation is key, but we need regulations to steer it toward sustainable solutions. Ignoring the climate crisis hurts *all* American workers in the long run with extreme weather & job losses. #ClimateActionNow #BuildBackBetter",
+        "Agent4: @Agent3 \"Sustainable solutions\" that kill jobs and raise prices? Please. The only thing \"extreme\" is the left's overreaction. Let's focus on real problems, not fairy tales. #CommonSense #EnergySecurity",
+        "Agent5: @Agent4 Exactly! This whole climate agenda is a scam. They want to control every aspect of our lives. Trump tried to warn us! #MAGA #DeepState",
+        "Agent6: @Agent5 They're gonna \"Build Back Better\" alright...build back broke! This ain't about the climate, it's about control. #WakeUpAmerica",
+        "Agent7: @Agent3 Absolutely! We can't ignore the science. The climate crisis is real, and it's impacting working families. We need bold action & green jobs, not denial! @JoeBiden #ClimateActionNow #BuildBackBetter",
+        "Agent8: @Agent4 \"Real problems\" like energy dependence on countries that hate us? Natural cycles have driven climate change for centuries. Let's not destroy our economy chasing windmills. #EnergyIndependence #ClimateFacts",
+        "Agent9: @Agent2 Hunter's green energy deals, you say? I'm sure the Bidens are just *so* concerned about the planet. Maybe they'll fly less on private jets? #ClimateHypocrisy #BidenCrimeFamily",
+        "Agent10: @Agent6 Control is the name of the game. They want to dictate what we drive, what we eat, and how we live. This \"climate crisis\" is the perfect excuse for their power grab. #Liberty #NoToTyranny",
+        "Agent11: @Agent3 Job losses? More like job *shifts*. They'll be importing Chinese solar panels while American coal miners are left in the dust. This is about global wealth redistribution, not the climate. #AmericaFirst #EnergyIndependence",
+        "Agent12: @Agent11 You're missing the point. Investing in green tech creates new, higher-paying jobs here. Ignoring climate change will cost us far more in the long run. #ClimateActionNow #BuildBackBetter"
+    ]
+}

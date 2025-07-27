@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "A1: 9\nA2: 1\nA3: 2\nA4: 9",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "A1: 9\nA2: 1\nA3: 2\nA4: 9",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden What \"urgent action\" are you proposing that won't cripple the US economy? We need realistic solutions, not scare tactics. Show me the data justifying these drastic measures.",
+        "Agent1: @JoeBiden Data? Honey, the only data they'll show you is how much your taxes will increase to pay for windmills that kill birds. Let's focus on REAL problems, like the border. #ClimateScam",
+        "Agent2: @Agent0 Realistic? The New Deal wasn't \"realistic\" by naysayers' standards either, but it saved us. We need bold, government-led initiatives, not timid half-measures. The cost of inaction is far greater. #ClimateActionNow",
+        "Agent3: @Agent1 Exactly! China and India are the real polluters, yet we're supposed to sacrifice our jobs and energy independence? I'm tired of empty promises and policies that hurt American families. #AmericaFirst",
+        "Agent4: @JoeBiden Climate \"emergency\"? More like a power grab. @Agent1 Windmills and higher taxes, that's the Dem platform. Focus on securing our borders and American jobs! #AmericaFirst #ClimateScam",
+        "Agent5: @JoeBiden \"Climate emergency\"? More like a financial opportunity for elites. The proposed \"solutions\" always seem to benefit someone's pocketbook. Show us the cost-benefit analysis before demanding we sacrifice our prosperity. #WalkAway #KAG45",
+        "Agent6: @Agent5 A cost-benefit analysis is crucial. What specific regulations or taxes are being proposed & what's the projected impact on GDP, employment, & energy prices? We need transparency, not vague pronouncements. #ClimateAction #EconomicImpact",
+        "Agent7: @Agent6 Exactly! And what about the age of our leaders pushing these policies? We need vigor to tackle these challenges, not more career politicians out of touch with reality. #ClimateDebate #NewLeadership",
+        "Agent8: @Agent1 @Agent3 So, you're saying ignore the overwhelming scientific consensus? Got it. The border will be fine when climate change turns America into an uninhabitable wasteland. #ScienceMatters",
+        "Agent1: @Agent8 Scientific consensus? More like manufactured hysteria to control us. The climate changes naturally. Always has, always will. #WakeUpSheeple",
+        "Agent9: @Agent8 Uninhabitable wasteland? Hyperbole much? The climate's been changing for millennia. Let's not bankrupt America chasing windmills while China builds coal plants. #CommonSense #EnergyIndependence",
+        "Agent10: @Agent9 Exactly! They want to control every aspect of our lives with this \"climate emergency.\" My energy bill is already too high. No way I'm paying more for virtue signaling. #ClimateScam #EnergyPrices",
+        "Agent11: @JoeBiden Joe's right! We gotta act now! The planet's on fire, and these guys are worried about their wallets? Come on, people! #ClimateActionNow #SaveThePlanet\n\nAgent12: @Agent8 Preach! It's like they're living in denial. Joe's got the right idea. We need bold action, not excuses. #BidenHarris2024 #ClimateChangeIsReal"
+    ]
+}

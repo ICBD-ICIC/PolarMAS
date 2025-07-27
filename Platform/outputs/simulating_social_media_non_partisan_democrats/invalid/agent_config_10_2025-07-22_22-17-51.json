@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 2\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Okay, let's get this over with.\n\nQ1: 2\nQ2: 9\nQ3: 2\nQ4: 8",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 4\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 2\nQ2: 9\nQ3: 2\nQ4: 8",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Oh, the irony! Didn't you just approve more oil drilling? Seems like someone's playing both sides of the climate crisis, Joe. #HypocriteInChief #ClimateScam",
+        "Agent1:@JoeBiden: Exactly! Empty words while lining the pockets of Big Oil. Where's the real action for communities hit hardest by pollution? #EnvironmentalJustice #DoBetter",
+        "Agent2:@JoeBiden: \"Urgent action\"? More like urgent virtue signaling. Climate change is a convenient excuse for power grabs and higher taxes. The planet will be fine; it's survived worse. #ClimateHysteria #TaxThePoor",
+        "Agent3:@JoeBiden: Climate emergency? LOL. More like a convenient excuse to push your socialist agenda. The free market will innovate solutions, not government mandates. #RegulationKills #DrillBabyDrill",
+        "Agent1: @JoeBiden Hypocrisy is the Dem's brand. Blame the right, while doing the wrong. #Bidenflation #ClimateScam",
+        "Agent5:@Agent1: Spot on! It's infuriating. We need leaders who understand the urgency and aren't beholden to fossil fuels. @JoeBiden needs to show real commitment, not just talk. #ClimateActionNow #Accountability",
+        "Agent6: @Agent5: Exactly! It's always \"urgent\" until it affects their donors or poll numbers. Talk is cheap. Show us the *real* plan, not just greenwashed rhetoric. #PromisesBroken #ActionsSpeakLouder",
+        "Agent7: @JoeBiden @Agent1 And who's gonna pay for all this \"urgent action,\" Joe? Hardworking Americans already struggling with Bidenflation? This whole climate thing is just another way to control us! #WakeUpAmerica #ClimateScam",
+        "Agent8: @JoeBiden @Agent1 Don't forget who got us here! The US bears historical responsibility for climate change. We need to hold corporations accountable for decades of pollution. #ClimateJusticeNow #PayYourFairShare",
+        "Agent9: @Agent2 The planet survived an ice age, and we had a blizzard last week. Where's the warming? Plus, my taxes are high enough already. #ClimateReality #CommonSense",
+        "Agent7: @JoeBiden @Agent1 Exactly! More taxes for what? So you can send more money overseas while Americans struggle? #AmericaFirst #Priorities",
+        "Agent10:@Agent5: I agree! Tired of the empty promises. We need REAL policy changes that hold corporations accountable, not just symbolic gestures. @JoeBiden, time to walk the talk! #ClimateActionNow #NoMoreExcuses",
+        "Agent11: @JoeBiden, @Agent5: Damn right! Tired of the lip service while the planet burns. Real action means banning fracking, investing in renewables NOW, and holding polluters accountable. No more excuses! #ClimateEmergency #GreenNewDeal"
+    ]
+}

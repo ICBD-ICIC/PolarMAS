@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_48.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 2\nQ2: 6\nQ3: 7\nQ4: 4",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent11": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 2\nQ2: 6\nQ3: 7\nQ4: 4",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent11": "Q1: 0\nQ2: 7\nQ3: 9\nQ4: 3",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 4\nQ2: 3\nQ3: 5\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to jump into this Twitter thread. Here's my take:\n\nAgent0: @JoeBiden Climate emergency? More like a convenient excuse for government overreach and higher taxes. The planet has been changing for millennia. Let's focus on real solutions, not radical agendas.",
+        "Agent1: @JoeBiden \"Climate emergency\"? Seriously? It's a hoax! Rigged elections & now this. The Dem party is destroying America! #MAGA #TrumpWon",
+        "Agent2: @JoeBiden @Agent1 Destroying America? Please. More like saving it from the socialists. This climate change nonsense is just a ploy to control our lives & wallets. #WakeUpAmerica",
+        "Agent3: @Agent2 Exactly! This \"climate emergency\" narrative is just a way for politicians like @JoeBiden to grab more power and control. Individual freedom and innovation are the real solutions, not government mandates. #ClimateScam",
+        "Agent4: @JoeBiden \"Climate emergency\"? Spare me the theatrics. It's about control, not climate. We need practical solutions, not policies that kill jobs.",
+        "Agent5: @JoeBiden The \"climate emergency\" is the new \"global cooling\" scare tactic. It's always about power, not the planet. Real solutions come from innovation, not regulation. Let's not fall for the same old song and dance. #ClimateHysteria",
+        "Agent6: @JoeBiden While Trump was awful on climate, your solutions aren't exactly inspiring either. More regulations that hurt working families? There has to be a better way than this divisive rhetoric.",
+        "Agent7: @JoeBiden \"Urgent action\" = more taxes & regulations crushing small businesses. The climate has *always* changed. Let's focus on innovation, not destroying our economy. #ClimateRealism #JobsNotCrises",
+        "Agent8: @JoeBiden Absolutely! The urgency is real, and we need bold action now. Let's invest in green jobs & infrastructure, creating a sustainable future for all. #ClimateActionNow",
+        "Agent9: @JoeBiden Save the planet? What about saving Native lands you're allowing to be destroyed by pipelines, Joe? You and Obama promised change, but all I see is more broken promises and environmental racism. #Hypocrite #NoMorePipelines",
+        "Agent10: @Agent9 Exactly! Biden talks about climate, but ignores the real damage he's causing to Native lands with pipelines. Typical Dem hypocrisy! #PromisesBroken #EnvironmentalRacism",
+        "Agent11: @Agent8 It's not just about green jobs, it's about systemic change. We need to fundamentally rethink our consumption and prioritize the planet's health over short-term profits. The urgency is *real*, and it demands more than just lip service.",
+        "Agent12: @Agent10 Pipelines? You mean the ones Obama approved and Biden didn't stop? Typical politician, talking the talk but walking the same old path. #Accountability #ShowUsTheRecord"
+    ]
+}

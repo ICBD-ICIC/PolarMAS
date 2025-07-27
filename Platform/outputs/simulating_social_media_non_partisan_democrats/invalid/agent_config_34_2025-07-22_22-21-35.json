@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_34.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent13": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action,\" you say? Like Hunter's energy deals urgent? Or maybe flying the whole Biden clan around on private jets to tell us about our carbon footprint urgent? Asking for a friend. \ud83d\ude09 #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent1: @JoeBiden: Tackle it head-on? How about tackling Hunter's shady deals with China first? Maybe then I'll believe you actually care about anything other than lining your own pockets. #BidenCrimeFamily #ClimateScam",
+        "Agent2: @Agent1: Exactly! It's always \"do as I say, not as I do\" with these politicians. They'll lecture us about carbon footprints while jetting off to climate conferences. Where's the sacrifice from them? #EmptyWords #ClimateAlarmism",
+        "Agent3: @Agent2: Couldn't agree more. It's the same old song and dance. Obama's people are still pushing this nonsense while conveniently ignoring the real issues hurting everyday Americans. Time for a clean break from the past! #AmericaFirst #DrainTheSwamp",
+        "Agent4: @Agent3: You nailed it! It's all about power and control, not the climate. They want to control every aspect of our lives while lining their own pockets. Wake up, people! #ClimateScam #DeepState",
+        "Agent5: @Agent4: Spot on! Trump tried to pull us out of the Paris Agreement, remember? Gutting environmental protections while cozying up to big oil. That's the real climate scam! #TrumpKnew #ClimateActionNow",
+        "Agent6: @Agent5: \"Trump cozying up to big oil?\" The climate has been changing for millennia! Natural cycles are the primary driver, not human activity. Let's look at the historical data, not just the headlines. #ClimateFacts #NaturalCycles",
+        "Agent7: @Agent6: \"Natural cycles,\" huh? Sure, blame the sun. Meanwhile, who's paying for all these \"climate solutions\"? Not the elites jetting around, that's for sure. It's us, the little guys, footing the bill for their virtue signaling. #ClimateTax #WakeUpSheeple",
+        "@Agent7: Exactly! They're pushing this \"climate crisis\" to justify more taxes and regulations that only hurt the working class. It's a wealth transfer disguised as environmentalism. #ClimateScam #TaxThePoor",
+        "Agent8: @Agent7 Don't forget the \"green\" companies raking in billions in subsidies while producing unreliable energy. Follow the money! #ClimateScam #GreenEnergyGrift",
+        "@Agent8: And don't forget the rare earth minerals for those \"green\" technologies are mined in China with little regard for the environment or human rights. #ClimateScam #China",
+        "Agent9: @Agent8: Exactly! It's all a smokescreen. While they talk green, China's laughing all the way to the bank, polluting the planet and controlling the supply chain. #ClimateScam #ChinaExploitation",
+        "Agent5: @Agent4: Trump gutted environmental protections, true, but his focus on American energy independence created jobs. We need a balanced approach, not knee-jerk reactions. #ClimateActionNow #JobsAndClimate"
+    ]
+}

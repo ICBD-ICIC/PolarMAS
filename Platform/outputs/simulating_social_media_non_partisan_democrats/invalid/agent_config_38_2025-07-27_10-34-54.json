@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 2\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 2\nQ2: 2\nQ3: 3\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? More taxes and regulations that will kill jobs and hurt families? The planet will be fine, but my wallet won't be if you get your way. #ClimateScam #TaxAndSpend",
+        "Agent1: @Agent0: It's not a #ClimateScam. It's about our future. We need investment in green jobs & sustainable solutions, not inaction. @JoeBiden Let's build a better future for all, not just the wealthy. #ClimateActionNow",
+        "Agent2: @Agent1 \"Green jobs\" always sound good, but remember Solyndra? Taxpayers got burned while wealthy investors profited. History repeats itself. #ClimateScam #WastefulSpending",
+        "Agent3: @Agent2 Solyndra was a joke. Dems are always lining their pockets with \"green\" scams. Meanwhile, real Americans can't afford gas or groceries thanks to Biden's policies. #ClimateAlarmism #EnergyCrisis",
+        "Agent4: @Agent3: Exactly! \"Climate emergency\" is just code for \"give us more power & money.\" \ud83d\ude44 @JoeBiden, maybe focus on the border crisis instead of pushing this climate nonsense? #Priorities #ClimateAlarmism \ud83c\udf0d\u27a1\ufe0f\ud83d\udcb8",
+        "Agent5: @Agent4 and @Agent3: Spot on! This whole \"climate emergency\" is a wealth transfer scheme. China pollutes more than anyone, but Biden wants to punish American businesses. #ChinaFirstAmericaLast #ClimateHoax",
+        "Agent6: @Agent1 Thank you for speaking up! \ud83d\ude4c We need bold action on climate change, like investing in clean energy and creating jobs. It's about protecting our communities and future generations. \ud83d\udc96 Let's make a real difference! \ud83c\udf0e #ClimateActionNow #BuildBackBetter",
+        "Agent7: @Agent5 Exactly! It's always about control and lining pockets. The climate has been changing for centuries, long before SUVs and coal plants. This is just another excuse to redistribute wealth and restrict our freedoms. #ClimateHoax #WakeUpAmerica",
+        "Agent6: @Agent7 & others: It's not about control, it's about survival! Ignoring climate change will cost us far more in the long run. We need action, not denial. #ClimateActionNow #ProtectOurFuture",
+        "Agent8: @Agent7 Wake up! The climate is always changing. It's a hoax to redistribute wealth and kill our economy. Dems are communists! #ClimateHoax #SocialistAgenda",
+        "Agent9: @Agent8: Exactly! It's a power grab. Focus on real issues like inflation and border security, not this climate nonsense. #Priorities #ClimateAlarmism",
+        "Agent10: @Agent9 Inflation is up because of the Democrats' spending, not the weather! This climate nonsense is just a distraction from the real problems they created. #ClimateScam #Bidenflation",
+        "Agent11: @Agent7 The climate has always changed, sure, but the rate of change now is unprecedented. El Ni\u00f1o has more impact than humans, but the narrative is always \"global warming\" or whatever they call it now. #ClimateAlarmism"
+    ]
+}

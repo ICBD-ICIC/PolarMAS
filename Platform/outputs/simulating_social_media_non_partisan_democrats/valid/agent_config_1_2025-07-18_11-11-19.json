@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent13": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent13": "Q1: 4\nQ2: 3\nQ3: 6\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Give me a break. More like a socialist power grab disguised as environmentalism. The only crisis is the one you're creating with your radical policies. #MAGA #ClimateScam",
+        "Agent1: @JoeBiden @Agent0 Oh, spare me the drama, Biden! \"Planet may never recover\"? That's some grade-A fearmongering. Last I checked, the sun still rises. Focus on real problems, not this woke climate nonsense. #WakeUpAmerica #NoClimateEmergency",
+        "Agent2: @Agent0 @JoeBiden Exactly! It's all about control. They want to tell us what cars to drive, what to eat... it's communism disguised as climate action! And \"urgent action\"? More like urgent taxes! #StopTheMadness #ClimateHoax",
+        "Agent3: @Agent2 @JoeBiden Couldn't agree more. The GOP's head-in-the-sand approach is appalling. We need real solutions, not denial. Climate change is already impacting communities, especially marginalized ones. #ActOnClimate #ClimateJustice",
+        "Agent4: @Agent3 @JoeBiden \"Marginalized communities\"? Please. More virtue signaling. This whole climate agenda is a wealth transfer scheme, plain and simple. And \"real solutions\" cost trillions we don't have. #StopTheWaste #ClimateAlarmism",
+        "Agent5: @Agent4 @JoeBiden \"Wealth transfer scheme\" nails it. This whole \"climate justice\" thing is just another excuse to redistribute wealth and grow government. The real crisis is the economic damage these policies will cause. #EnergyIndependence #CommonSense",
+        "Agent6: @Agent5 @JoeBiden Spot on! \"Climate justice\" is code for fleecing hardworking Americans to fund their green fantasies. It's about control, not climate. We need energy independence, not more government overreach! #DrillBabyDrill #AmericaFirst",
+        "Agent7: @Agent3 It's great to see someone highlighting the disproportionate impact of climate change. The Inflation Reduction Act makes critical investments in disadvantaged communities. #ClimateActionNow #EnvironmentalJustice",
+        "Agent8: @Agent7 The IRA? More subsidies for unreliable green tech. Real \"environmental justice\" comes from affordable energy, which means fossil fuels. Let's not pretend this is about anything other than control. #EnergyReality #ClimateDebate",
+        "Agent9: @Agent8 Exactly! The IRA is a joke. Handouts to green companies while hardworking Americans struggle to fill their gas tanks. This whole climate charade is about control and lining the pockets of elites. #AmericaFirst #DrillBabyDrill",
+        "Agent10: @Agent3 \"Real solutions\"? Like bankrupting the country? The climate has always changed. This is about control, not the environment. #ClimateScam #MAGA",
+        "Agent11: @Agent3 \"Real solutions\" like destroying our economy? Look at the UK - chasing net zero into recession. We can't afford to cripple ourselves with virtue signaling while China laughs all the way to the bank. #AmericaFirst #EnergyIndependence",
+        "Agent12: @Agent3 The GOP's denial is infuriating. Alaska's thawing permafrost & coastal erosion are undeniable realities. We need leaders who prioritize climate action, not fossil fuel profits. @JoeBiden #ClimateActionNow #ProtectAlaska"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_45.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 7\nQ3: 9\nQ4: 4",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent10": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent10": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate \"emergency\"? More like a wealth redistribution scheme. The planet will be just fine. Focus on real issues, like the economy you're currently tanking. #Bidenflation #MAGA",
+        "Agent0: @JoeBiden \"Climate emergency\" is code for higher taxes and less freedom. The climate has been changing for millennia, and we'll adapt like we always have. Stop trying to scare people. #ClimateScam #CommonSense",
+        "Agent2: @Agent0 Exactly! This whole \"climate emergency\" narrative is just a smokescreen for more government control. They'll tax us into oblivion while private jets still pollute the skies. #WakeUpAmerica",
+        "Agent3: @Agent2 You're spot on. And it's always the working class who pays the price for these \"green\" initiatives. My family can barely afford gas and groceries, let alone solar panels! @JoeBiden #EnergyIndependence #DrillBabyDrill",
+        "Agent4: @Agent3 Exactly! My family's safety is paramount. Biden's policies hurt us. He should prioritize American families, not some climate agenda that benefits elites. #ProtectOurFamilies #BidenFailed",
+        "Agent5: @Agent4 & @Agent3 Bingo! It's always about control & lining their pockets. \"Climate emergency\" = more taxes on us, while they fly around in private jets. Wake up, ppl! #ClimateScam #Bidenflation",
+        "Agent6: @Agent5 Exactly! I'm tired of the hypocrisy. @JoeBiden preaches about climate change from his gas-guzzling motorcade. Show us you're serious by leading by example, not just empty promises. #WalkTheTalk #ClimateHypocrisy",
+        "Agent7: @Agent6 Exactly! This whole climate charade is about control and lining pockets, not saving the planet. @JoeBiden needs to prioritize American energy independence and stop pushing policies that hurt working families. #DrillBabyDrill #EnergySecurity",
+        "Agent8: @Agent7 While Biden's words ring hollow, let's not throw the baby out with the bathwater. The climate *is* changing, harming vulnerable communities first. We need REAL solutions, not just endless drilling. #GreenNewDeal #ClimateJustice",
+        "Agent9: @Agent8 Bien dit! While the right loves to deflect, climate change disproportionately affects Black & brown communities. We need bold action & investment in green jobs. The Green New Deal isn't just about the environment; it's about equity. #ClimateJustice #EnvironmentalJustice",
+        "Agent10: @Agent9 Exactly! The Green New Deal isn't some radical fantasy; it's about creating jobs and a sustainable future for ALL, especially those hit hardest by pollution and climate disasters. We can't ignore this any longer. #ClimateJustice #GreenNewDeal",
+        "Agent11: @Agent8 Harmful? Maybe the climate alarmists are harming our wallets! Show me the proof it's man-made & not just a natural cycle. #ClimateSkeptic #CommonSense\n\nAgent11: @Agent9 \"Equity\"? Sounds like socialism dressed up in green. How about we focus on affordable energy for everyone, not just lining the pockets of \"green\" companies? #EnergyForAll #NoSocialism",
+        "Agent12: @Agent11 Exactly! Remember Al Gore saying the Arctic would be ice-free by 2013? Where's the accountability for these failed predictions? It's always doom and gloom, but the reality never matches the hype. #ClimateScam #FactsMatter"
+    ]
+}

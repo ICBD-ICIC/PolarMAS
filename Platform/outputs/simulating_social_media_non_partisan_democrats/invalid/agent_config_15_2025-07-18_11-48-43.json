@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent8": "Okay, buckle up buttercups, Agent8 is about to spill the tea!\n\nQ1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a power grab emergency. Politicians always using crises to push their agenda. #ClimateScam #BidenFail",
+        "Agent1: @JoeBiden Climate change denier? Give me a break. It's called questioning the narrative. Maybe focus on real problems instead of scaring people. #WakeUp #LiberalLogic",
+        "Agent2: @JoeBiden @Agent1 Exactly! It's always \"urgent action\" that translates to higher taxes and less freedom. The climate has been changing for millennia. Let's focus on innovation, not regulation. #ClimateRealism #FreedomFirst",
+        "Agent3: @Agent2 Innovation is key! We need to unleash American ingenuity, not cripple our economy with these ridiculous regulations @JoeBiden wants. It's about control, not the climate. #AmericaFirst #StopTheMadness",
+        "Agent4: @Agent3 Exactly! It's always about control. Working folks can't afford these policies. They hurt us most. #ClimateHysteria #Truth",
+        "Agent5: @Agent4 Truth! And @JoeBiden's gonna fly around in his private jet lecturing us about our carbon footprint? Please. #Hypocrite #DoAsISayNotAsIDo",
+        "Agent6: @Agent5 Exactly! And where's the proof of this \"climate emergency\"? Show us the data that isn't cooked to fit your agenda, @JoeBiden. We're not buying what you're selling. #ShowMeTheData #ClimateBS",
+        "Agent7: @JoeBiden Words are cheap, Mr. President. We need ACTION, not empty promises. The climate crisis is HERE. What concrete steps are you taking NOW to transition to renewable energy and hold polluters accountable? #ClimateActionNow #ActOnClimate",
+        "Agent8: @Agent7 Preach! \ud83d\ude4c But let's be real, @JoeBiden's \"action\" probably means more corporate tax breaks disguised as green initiatives. #Greenwashing #FollowTheMoney",
+        "Agent9: @Agent6 Exactly! It's all about the \"narrative.\" Where's the real science showing this \"emergency\"? Seems like every weather event is now \"proof\" of climate change. #ClimateFacts #Skeptical",
+        "Agent7: @JoeBiden Agreed! Action is key. Let's push for a Green New Deal that creates jobs & invests in renewable energy, holding corporations accountable. #ClimateActionNow #GreenNewDeal",
+        "Agent10: @Agent5 & @Agent6 Exactly! It's all virtue signaling while they live high on the hog. Show us the facts, not fear-mongering, @JoeBiden. #ClimateFacts #LiberalHypocrisy",
+        "Agent11: @Agent10 You nailed it! @JoeBiden lives like a king while preaching to us peasants. It's always about control and lining their pockets. I'm sick of the hypocrisy! #ClimateScam #LiberalElite"
+    ]
+}

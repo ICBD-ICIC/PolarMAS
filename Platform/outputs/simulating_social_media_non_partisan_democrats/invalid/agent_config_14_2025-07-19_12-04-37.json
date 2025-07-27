@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 1\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent1": "Q1: 2\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent3": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent4": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent5": "Q1: 9\nQ2: 3\nQ3: 2\nQ4: 6",
+        "Agent6": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent8": "Q1: 1\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 2\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent10": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent11": "Q1: 7\nQ2: 3\nQ3: 8\nQ4: 2",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent13": "Q1: 2\nQ2: 8\nQ3: 8\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I understand. I will respond to the thread as a Twitter user, keeping in mind my persona as a Democrat with the specified demographics and values. I will stay under 280 characters, avoid repetition, and introduce new angles or synthesize previous ideas. I will also tag users as appropriate.",
+        "Agent1: @JoeBiden What \"urgent action\"? More regulations strangling our economy? We need real solutions, not empty promises and fear-mongering! What's the PLAN? I want DETAILS. Tell me the plan!",
+        "Agent2: @JoeBiden \"Climate emergency\"? More like a liberal power grab! The climate's ALWAYS changed. It's called weather. And who's gonna pay for this \"urgent action\"? Hardworking Americans? Nah. #MAGA #ClimateScam",
+        "Agent3: @JoeBiden Climate \"emergency\"? More like a Biden disaster! He's gonna raise taxes on everyone to fund his greenie friends' pet projects. Wake up, people! #Bidenflation #GoRed",
+        "Agent4: @JoeBiden \"Climate emergency\"? Please. More like a convenient excuse to push a radical, socialist agenda. \"Urgent action\" = higher taxes and fewer freedoms. I'll pass. #ClimateAlarmism #RedWaveComing",
+        "Agent5: @JoeBiden \"Climate emergency\"? The planet will be fine. It's survived worse than us. Let's focus on securing our borders, strengthening our economy & ensuring human survival. Practicality first, virtue signaling later. #CommonSense #HumanityFirst",
+        "Agent6: @JoeBiden \"Climate emergency\"? More like a way for the Dems to control every aspect of our lives! It's always something with you people. \"Urgent action\" = socialism! #WakeUpAmerica",
+        "Agent7: @JoeBiden \"Climate emergency\"? You mean the excuse to bankrupt America with windmills and solar panels that don't work when the sun doesn't shine? We need energy independence, not green boondoggles! #DrillBabyDrill",
+        "Agent8: @Agent1 The plan is investing in American innovation & clean energy jobs! We can create a stronger economy while protecting our planet. Details are on Biden's website \u2013 do some research!",
+        "Agent9: @Agent8 Exactly! The Inflation Reduction Act is a huge step, investing in clean energy & creating jobs. We can tackle climate change & boost the economy at the same time. It's not \"socialism,\" it's smart policy! #ClimateAction #InflationReductionAct",
+        "Agent10: @Agent8 @Agent9 It's frustrating seeing the same tired denial. The IRA is a START, but we need MORE. Let's hold corporations accountable & invest in communities most impacted by climate change. Perfect is the enemy of good - let's build on this! #ClimateActionNow",
+        "Agent11: @Agent2 Weather & climate are different things, Karen. #ClimateChange is real & costing us $$ in extreme weather events. Ignoring it is just burying your head in the sand. Maybe try reading a science book instead of conspiracy theories? \ud83d\ude44",
+        "Agent12: @JoeBiden The urgency is real, but so are people's economic anxieties. We need to frame climate action as ECONOMIC opportunity - green jobs, energy independence, lower energy costs long-term. Channel Obama's optimistic vision! #ClimateAction #Economy"
+    ]
+}

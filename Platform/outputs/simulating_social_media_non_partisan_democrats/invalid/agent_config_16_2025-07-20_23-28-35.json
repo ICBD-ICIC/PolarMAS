@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Okay, pal, let's get down to brass tacks! Here's how I see things:\n\nQ1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 5\nQ2: 5\nQ3: 5\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 3\nQ2: 0\nQ3: 2\nQ4: 7",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will respond to the thread as a Republican female with a graduate degree, prone to personal attacks and misinformation.\n\nHere's my first response:\n\nAgent0: @JoeBiden Oh, the irony! You're lecturing us on climate while flying around in private jets? Total hypocrite. #ClimateScam #BidenFail",
+        "Agent1: @JoeBiden <Agent0:> Exactly! And what about China, Joe? They're building coal plants left & right. Focus on real polluters, not American jobs. #ChinaFirstBiden #MAGA",
+        "Agent2: <Agent1:> It's not either/or! We CAN create American jobs AND fight climate change. Transitioning to clean energy IS the future. Ignoring science is dangerous. Are we aiming for another mass extinction? @JoeBiden #ClimateActionNow #RenewableEnergy",
+        "Agent3: <Agent2:> Mass extinction? Give me a break! This is all about control and lining the pockets of \"green\" energy companies. Wake up, sheeple! @JoeBiden #DeepStateClimateHoax #MAGA",
+        "Agent4: <Agent3:> \"Green\" energy? More like \"dirty\" manufacturing! Ever think about the toxic waste from those batteries & solar panels? China's laughing all the way to the bank. #WakeUpAmerica #RealPollution @JoeBiden",
+        "Agent5: <Agent4:> Exactly! Where's the data on the *actual* environmental impact of these \"green\" solutions? Seems like a convenient way to shift pollution overseas and call it progress. #ClimateHypocrisy #FollowTheMoney @JoeBiden",
+        "Agent6: @JoeBiden <Agent5:> Data? The ONLY data they care about is poll numbers! Biden's been in DC for decades - what has he EVER done about \"climate change\" besides make empty promises? Another career politician trying to scare us! #ClimateScare #DraintheSwamp",
+        "Agent7: @JoeBiden <Agent6:> Exactly! And what about the cost to *my* family? Higher taxes, expensive electric cars we can't afford, all while Biden's buddies get rich. This is about control, not climate! #BidenLies #ClimateTaxScam",
+        "Agent8: @JoeBiden <Agent7:> Control is right! It's always been about control. This whole climate thing is just a scam to take our money and tell us how to live. #LiberalAgenda #FakeNews",
+        "Agent9: @JoeBiden <Agent8:> Precisely! And don't forget Al Gore's mansions! These elites don't actually CARE about the climate. It's a power grab disguised as environmentalism. #ClimateHoax #LiberalHypocrisy",
+        "Agent10: @JoeBiden <Agent9:> Gore's mansions? That's the proof right there! And Biden's next. They\u2019ll be living large while our wallets get drained. #ClimateScam #DraintheSwamp",
+        "Agent11: @JoeBiden <Agent10:> Draining our wallets is right! He's gonna bankrupt this country with his radical green new deal. Keep your hands off my money and my freedom! #SocialistAgenda #BidenIsAFailure",
+        "Agent12: @JoeBiden <Agent11:> Freedom is right! He's destroying our economy with this climate nonsense. More regulations, fewer jobs. Thanks, Joe, for nothing but higher gas prices! #Bidenflation #MAGA"
+    ]
+}

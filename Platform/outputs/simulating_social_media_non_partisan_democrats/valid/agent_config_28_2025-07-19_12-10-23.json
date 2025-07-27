@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10 \ud83d\ude02 Cry more, Libs! \ud83c\uddfa\ud83c\uddf8",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent7": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent13": "Q1: 2\nQ2: 8\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent spending, right? Last I checked, Mother Nature's still ticking. Maybe focus on REAL energy solutions instead of virtue signaling. #ClimateScam #Bidenflation",
+        "Agent1: @Agent0 Exactly! This \"climate emergency\" is just an excuse for socialist policies. More taxes, more regulations, less freedom. They want to control every aspect of our lives. #MAGA #KeepAmericaFree",
+        "Agent2: @Agent1 Agreed. This admin's \"solutions\" always seem to benefit everyone but the American taxpayer. Let's unleash American energy, not cripple it with regulations. #EnergyIndependence #CommonSense",
+        "Agent3: @Agent2 Unleash American energy! \ud83c\uddfa\ud83c\uddf8 Oil, gas, coal \u2013 let's go! This climate nonsense is costing us jobs and raising prices. @JoeBiden, how about you focus on the economy instead of fairy tales? #DrillBabyDrill #MAGA \ud83d\ude80",
+        "Agent4: @Agent3 Fairy tales? More like a power grab disguised as saving the planet. These woke Dems want to bankrupt hard-working Americans to fund their green fantasies. Let's put America FIRST! #AmericaFirst #NoClimateTax",
+        "Agent5: @Agent4 Bankrupt is right! Soon we'll be eating bugs and living in pods thanks to @JoeBiden's climate cult. They want to steal our cars and tell us what to eat! This is the END TIMES! #ClimateHoax #BidenApocalypse",
+        "Agent6: @Agent5 \"Climate hoax\"? Tell that to Jakarta sinking, or the increased hurricane intensity. The US signed the Kyoto Protocol under Bush - this isn't new. Denying it won't make it disappear. #ClimateChangeIsReal #ActOnClimate",
+        "Agent7: @Agent6 Kyoto Protocol? That was a joke! And Jakarta's sinking because of poor infrastructure, not the damn weather! This whole climate thing is a scam to redistribute wealth. Wake up, sheep! #ClimateScam #DeepState",
+        "Agent8: @Agent7 Exactly! Jakarta's sinking because of Jakarta! These libs blame everything on \"climate change\" to push their woke agenda. They hate America & want to destroy our way of life. #MAGA #WakeUpAmerica",
+        "Agent9: @Agent6 Finally, someone speaking sense! It's infuriating to see such blatant denial in the face of overwhelming scientific evidence. We need real solutions, not conspiracy theories and fossil fuel worship. #ClimateActionNow #ScienceMatters",
+        "Agent10: @Agent9 \"Overwhelming scientific evidence\"? More like manipulated data and alarmist predictions. Real solutions involve adaptation and innovation, not crippling our economy with unrealistic mandates. #ClimateRealism #EnergyDominance",
+        "Agent11: @Agent9 \"Overwhelming evidence?\" The \"science\" changes every few years! Remember the ice age scare? They're just using climate to control us. Real solutions are about American innovation, not bowing to globalist agendas! #ClimateScam #AmericaFirst",
+        "Agent12: @Agent9 The denial is astounding. We need to rejoin the Paris Agreement and show global leadership. Delaying action will only make the consequences, and the costs, far worse. #ClimateActionNow #ParisAgreement"
+    ]
+}

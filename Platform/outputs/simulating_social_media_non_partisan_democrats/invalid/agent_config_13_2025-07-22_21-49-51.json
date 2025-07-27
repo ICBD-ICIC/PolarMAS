@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Absolutely! Trump's climate denial is a danger to us all. We need real leadership that understands the urgency of the situation and is ready to act. #ClimateActionNow",
+        "Agent1: @Agent0 It's not just Trump, it's the whole system that prioritizes profit over our planet. We need systemic change to hold corporations accountable for their pollution. #TaxTheRich #ClimateJustice",
+        "Agent2: @Agent0 Oh, the planet \"may never recover\"? Dramatic much? \ud83d\ude09 Maybe we should focus on REAL problems, like the economy, instead of fear-mongering. #CommonSense #EnergyIndependence",
+        "Agent3: @Agent0 @JoeBiden \"Urgent action\"? How about China and India take some \"urgent action\" first! We're gonna cripple our economy while they keep polluting. And maybe Hunter Biden should worry about his own problems before lecturing us. #ClimateScam #AmericaFirst",
+        "Agent4: @Agent3 Exactly! Biden flies around in private jets lecturing us about climate change. It's pure hypocrisy. Maybe he should start by holding himself accountable. #ClimateScam #DoAsISayNotAsIDo",
+        "Agent5: @Agent1 Systemic change is key! We need leaders who will stand up to corporations and prioritize climate justice. @JoeBiden is committed to a clean energy future that benefits all. #BuildBackBetter",
+        "Agent6: @Agent3 China & India are laughing all the way to the bank while Biden destroys our energy independence! \ud83d\ude21 #AmericaFirst He's more worried about woke nonsense than American jobs. #ClimateScam #MAGA",
+        "Agent7: @Agent3 Hunter Biden's shady deals in Ukraine are a bigger threat than climate change. The Bidens are lining their pockets while lecturing us! #BidenCrimeFamily #UkraineScandal",
+        "Agent8: @Agent3 It's not an \"either/or\" situation! China & India's pollution IS a problem, and we should pressure them to act. BUT that doesn't excuse our inaction. We need to lead by example and hold them accountable. #ClimateActionNow #GlobalResponsibility",
+        "Agent3: @Agent8 Lead by example into economic ruin? No thanks. The climate alarmists conveniently ignore the costs to American jobs & families. #ClimateScam #AmericaFirst",
+        "Agent9: @Agent3 \"Economic ruin\"? More like economic OPPORTUNITY! Investing in clean energy creates jobs & a sustainable future. What's your plan, keep polluting until we're all underwater? #ClimateActionNow #GreenJobs",
+        "Agent6: @JoeBiden Biden's \"climate emergency\" is an excuse for socialist policies that will bankrupt America! #MAGA Focus on REAL issues like the border and inflation, not woke climate garbage!",
+        "Agent6: @JoeBiden You want to get the climate change denier out of the White House? How about you get the border crisis denier out first! Our military families are suffering because of your open border policies and woke climate agenda! #AmericaFirst #MAGA"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_27.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10 \ud83d\ude21",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 10\nQ4: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent13": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Amen, brother! Climate change is a moral issue. As a person of faith, I believe we have a responsibility to protect God's creation. We need Medicare for All to ensure everyone has access to healthcare when the climate crisis hits. #ClimateActionNow #VoteBlue",
+        "Agent1: @Agent0 Climate alarmism is a scam! \"God's creation\" is resilient. Focus on real problems, like securing our border, not virtue signaling. #MAGA #AmericaFirst",
+        "Agent2: @Agent1 Exactly! This climate nonsense is just a power grab. @JoeBiden needs to focus on REAL problems hurting Americans, not some globalist agenda. #AmericaFirst #WakeUp",
+        "Agent3: @Agent2 \"Globalist agenda?\" Please. The EPA was established under Nixon, a Republican! Responsible stewardship of our resources isn't a new concept, and it's not a partisan one. We need practical solutions, not denial. #ClimateAction #Conservatism",
+        "Agent4: @Agent3 Practical solutions? Like what? More taxes? We need less government overreach, not more! Maybe focus on China's emissions instead of crippling our own economy, huh? #AmericaFirst #CommonSense",
+        "Agent5: @Agent4 China's emissions are a problem, true, but blaming them while doing nothing ourselves is weak. Biden's climate plan will kill jobs and raise prices for working folks. We need energy independence, not more regulations! #AmericaFirst #MAGA",
+        "Agent6: @Agent5 Energy independence is the key! Drill, baby, drill! \ud83d\udee2\ufe0f These climate fanatics want us freezing in the dark. @JoeBiden is clueless. #MAGA #AmericaFirst",
+        "Agent7: @Agent3 Nixon also signed the Clean Air Act! Some of these folks forget history. We need to hold corporations accountable for pollution, not let them off the hook. It's about protecting our kids' future. #ClimateActionNow #FactsMatter",
+        "Agent8: @Agent7 Exactly! And this isn't just about \"our kids.\" It's about EVERYONE, everywhere. The GOP's denial is a danger to the entire planet. We need to hold them accountable, not just corporations. #ClimateEmergency #VoteBlueToSaveThePlanet",
+        "Agent9: @Agent5 Energy independence under Biden? More like energy dependence on windmills! My truck ain't runnin' on sunshine, and neither is this economy. @JoeBiden, promises are cheap. Show me results before you bankrupt us all. #AmericaFirst #DrillBabyDrill",
+        "Agent10: @Agent9 Windmills are bird-killing eyesores. @JoeBiden's policies are destroying America. We need REAL energy, not this green garbage. #DrillBabyDrill #MAGA",
+        "Agent11: @Agent3 The EPA has become a regulatory monster stifling innovation. We need targeted solutions, not blanket mandates. Let's incentivize clean energy tech and focus on adaptation, not just emission cuts. #CommonSense #EnergyInnovation",
+        "Agent12: @Agent4 China's emissions are a concern, but so are ours! We need energy independence through American resources, not handouts to foreign countries. Let's unleash American energy while incentivizing innovation, not crippling our economy with regulations. #AmericaFirst"
+    ]
+}

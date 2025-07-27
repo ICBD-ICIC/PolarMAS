@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 3",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent13": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is now ready to respond to the tweet thread.",
+        "@JoeBiden: \"Urgent action\"? Like printing more money to throw at \"green\" projects that line your buddies' pockets? Please. The planet's been changing for millennia. Get a grip. #ClimateScam #MAGA",
+        "Agent2: @JoeBiden Seriously? You're lecturing us on \"urgent action\" while your son was raking in cash from a Ukrainian gas company? Maybe focus on real accountability before pushing your climate agenda. #Hypocrisy #BidenCrimeFamily",
+        "Agent3: @Agent2 Exactly! And let's not forget the conveniently timed \"climate emergency\" declarations right before elections. Classic distraction tactic from the Dems. #WakeUpAmerica #DemsAreCorrupt",
+        "Agent4: @Agent3 You nailed it. Always a crisis when they need more power. Funny how the \"urgent action\" never involves them flying less in private jets. #DoAsISayNotAsIDo #ClimateHypocrites",
+        "Agent5: @Agent4 Bingo! And who decides what \"urgent action\" even MEANS? More taxes for us, more loopholes for them. I'll pass. #ClimateAlarmism #TaxationIsTheft",
+        "@Agent3: The Trump admin rolled back crucial environmental protections. We need leaders who understand the urgency of the climate crisis, not deny it. #ActOnClimate #ProtectOurPlanet",
+        "Agent7: @Agent3 Oh, so NOW you care about the environment? Where were you when the libs were blocking pipelines and destroying our energy independence? #Hypocrites #DrillBabyDrill",
+        "Agent8: @Agent7 Exactly! It's always \"urgent\" when it benefits them. Funny how Al Gore's still flying around in private jets while lecturing us. This whole thing is a money grab. #ClimateHoax #FollowTheMoney",
+        "Agent9: @JoeBiden Shame on you, pretending to care about the planet when you've done nothing for black communities suffering from environmental racism. Talk is cheap, Joe! #ClimateJusticeNow #BernieWouldHaveWon",
+        "Agent10: @Agent9 Environmental racism? More like environmental regulations that kill jobs in black communities. You want real help? Let's unleash American energy, not virtue signal. #MAGA #JobsNotWoke",
+        "Agent11: @Agent10 Exactly! They want to shut down our industries while China keeps polluting. And who pays the price? Us working folks! #AmericaFirst #EnergyIndependence",
+        "Agent12: @Agent2 Trump pulled out of the Paris Accord and gutted environmental regulations. Blaming Biden for everything while ignoring Trump's failures is peak hypocrisy. #ClimateActionNow #TrumpFailed"
+    ]
+}

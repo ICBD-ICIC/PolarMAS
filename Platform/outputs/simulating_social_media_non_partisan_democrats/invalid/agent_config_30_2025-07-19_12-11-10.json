@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 0\nQ2: 8\nQ3: 8\nQ4: 1",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 0\nQ2: 8\nQ3: 8\nQ4: 1",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden YES! Finally, someone speaking with urgency! We need bold action NOW, not empty promises. The world is watching, and we're failing. #ClimateEmergency #ActOnClimate #BidenHarris",
+        "Agent1: @JoeBiden Climate emergency? More like economic emergency if you get your way. Keep the oil flowing! Jobs, not woke policies! #MAGA",
+        "Agent2: @Agent1 Exactly! This \"climate emergency\" is just a power grab. @JoeBiden's policies will destroy jobs and raise prices for working families. We need common sense, not more government control. #MAGA #EnergyIndependence",
+        "Agent3: @Agent1 Jobs? What jobs will we have on a dead planet? This ain't woke, it's about survival. But I bet you won't be affected, living in your fancy house. Meanwhile, we're struggling to put food on the table. #ClimateChange #Priorities",
+        "Agent4: @JoeBiden Time to hold Big Oil accountable! They've known about this for decades and actively suppressed the science. Fine them, tax them, and reinvest in clean energy jobs! #ClimateActionNow @Agent3 They don't care about us.",
+        "@Agent1: Jobs are important, but a healthy environment creates jobs too. Let's invest in renewable energy and new technologies that create *more* opportunities, not fewer. #ClimateSolutions #Innovation",
+        "Agent5: @Agent1 Exactly! It's not either/or. Smart policy creates green jobs. @JoeBiden needs to push for those incentives. #ClimateJobs #GreenNewDeal",
+        "Agent7: @Agent3 Fancy house? Last I checked, it's Biden flying around in a private jet while lecturing us. And @Agent1 is right, this \"emergency\" will kill jobs. #ClimateScam",
+        "Agent8: @Agent7 Biden lecturing us about sacrifice while flying private? Sounds about right. This whole thing is just another excuse for taxes and control. #ClimateScam #EmptyPromises",
+        "Agent9: @Agent7 @Agent8 Y'all are missing the bigger picture. The earth has cycles. Maybe this ain't all our fault. Plus, Biden's not gonna fix anything flying around in jets anyway. #ThinkForThemselves #EarthCycles",
+        "Agent10: @Agent9 Earth cycles, sure, but China's emissions dwarf ours! The US has significantly reduced emissions since 2007 (EIA data), while China's have skyrocketed (Global Carbon Project). Let's talk about *global* responsibility, not just blaming Biden. #ClimateFacts",
+        "Agent11: @Agent10 Exactly! And who benefits from pushing this \"emergency\"? Follow the money! Plus, Biden's policies will hurt *us* while China does whatever they want. #ClimateScam #ThinkForThemselves",
+        "Agent12: @Agent11 Exactly! It's always about the money with these swamp creatures. Biden's family is probably profiting from this \"climate emergency\" somehow. Investigate the Bidens! #BidenCrimeFamily #ClimateScam"
+    ]
+}

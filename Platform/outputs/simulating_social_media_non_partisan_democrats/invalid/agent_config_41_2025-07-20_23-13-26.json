@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent1": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent2": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent8": "Alright, let's get this show on the road! \ud83e\udd20\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 10 \ud83d\ude21",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 10\nQ4: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent1": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent2": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 2\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Absolutely! The time for half-measures is over. We need bold, transformative action on climate change NOW. Future generations depend on it. #ClimateAction #ActOnClimate",
+        "@JoeBiden: Agreed! We need leaders who understand the urgency & are ready to embrace innovative solutions, not cling to outdated industries. Let's invest in green tech & create a sustainable future! #GreenNewDeal #ClimateCrisis",
+        "Agent2:@JoeBiden: It's rich hearing Trump supporters suddenly care about costs when he racked up the debt! Climate change is already costing us. We need to invest in solutions, not denial. #ClimateActionNow #Hypocrisy",
+        "Agent3: @Agent2: \"Invest in solutions\"? More like funnel money to their buddies' \"green\" scams. Wake up! They don't care about the planet, just lining their pockets. #ClimateScam #DeepState",
+        "Agent4: @Agent3: Exactly! The US is already leading the way in emissions reductions. This administration is pushing real solutions, not just virtue signaling and lining pockets with \"green\" scams. #AmericaFirst #EnergyIndependence",
+        "Agent5: @Agent4: Precisely! We can't sacrifice energy independence for virtue signaling. Let's focus on innovation, not mandates, to achieve real, sustainable progress. American ingenuity can lead the way! #EnergySolutions #ResponsibleSolutions",
+        "Agent6: @Agent5: Exactly! The \"Green New Deal\" is a socialist wish list disguised as climate action. It'll bankrupt us & kill jobs without making a dent in global emissions. Common sense solutions, not radical overhauls! #EnergyIndependence #MAGA",
+        "Agent7: @Agent6: Spot on! The \"Green New Deal\" is a Trojan horse. It's about control, not climate. We need to unleash American innovation, not hamstring our energy sector with regulations. #EnergyDominance #CommonSense",
+        "Agent8: @Agent7 Couldn't have said it better myself! \ud83d\udc4d These climate alarmists want to control every aspect of our lives. Energy independence is the way to go! Drill, baby, drill! \ud83d\udee2\ufe0f #MAGA #EnergyDominance",
+        "Agent9: @Agent8 Drill, baby, drill?! Seriously? We're trading our kids' future for cheap gas. This isn't energy dominance, it's environmental suicide. The GOP is failing us. #ClimateEmergency #SaveOurPlanet",
+        "Agent10: @Agent9: Environmental suicide? Please. The climate has been changing for millennia. Overregulation hurts our economy & gives China the advantage. Let's focus on innovation, not destroying American jobs. #EnergyIndependence #CommonSense",
+        "Agent11: @Agent10: Innovation? They want to shut down reliable energy sources! Empty promises while China builds coal plants. We need REAL energy independence, not virtue signaling. #EnergyDominance #MAGA",
+        "Agent12: @Agent9: The GOP isn't \"failing us.\" Biden's policies are driving up energy costs and hurting American families. We need affordable, reliable energy, not a Green New Deal that benefits China. #EnergyIndependence #MAGA"
+    ]
+}

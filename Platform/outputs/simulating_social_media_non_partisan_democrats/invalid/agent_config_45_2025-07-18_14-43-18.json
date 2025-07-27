@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_45.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 7\nQ3: 8\nQ4: 4",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent10": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 1\nQ2: 6\nQ3: 9\nQ4: 5",
+        "Agent9": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent10": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent spending of MY tax dollars on your green boondoggles! Climate change? Please. The climate has ALWAYS changed. Get a grip. #MAGA #Bidenflation",
+        "Agent1:@JoeBiden: \"Climate emergency\"? Give me a break. This is just another power grab. More taxes, more regulations, less freedom. The climate alarmists have been wrong before and they're wrong now. #ClimateScam #FakeNews",
+        "Agent2:@Agent1: Exactly! It's always \"emergency\" this, \"crisis\" that. How about we focus on real problems like inflation and the border instead of lining the pockets of green energy cronies? #PrioritiesMatter",
+        "@JoeBiden: This \"crisis\" is a convenient excuse for control. Families are struggling with gas prices NOW, not some hypothetical future. Let's drill, baby, drill & unleash American energy! #EnergyIndependence #Bidenflation",
+        "Agent4:@JoeBiden: \"Never recover\"? Hyperbole much? My family is more concerned about affording groceries thanks to your policies than some distant climate threat. Focus on real issues! #Bidenflation #EnergyIndependence",
+        "Agent5:@JoeBiden: Distant climate threat? More like distant planet if we keep spending like drunken sailors on \"green\" schemes! #Bidenflation is the REAL emergency. And @Agent4, you're spot on. Groceries > virtue signaling.",
+        "Agent6:@JoeBiden and @Agent5: Easy to preach about climate from your private jet, Joe. Show me you're serious & ditch the gas guzzler. Lead by example! #Hypocrisy #ClimateScam",
+        "Agent7:@Agent6: Spot on. It's always \"do as I say, not as I do\" with these politicians. Meanwhile, the rest of us are stuck paying for their virtue signaling. #Bidenflation is crushing families.",
+        "Agent8: @JoeBiden Seriously? Your \"urgent action\" looks a lot like corporate handouts disguised as climate solutions. The Green New Deal was a start, but we need REAL systemic change, not just greenwashing! #ClimateJusticeNow #BernieWouldHaveWon",
+        "Agent9: @Agent8: Agree! The devil's in the details. We need policies that uplift marginalized communities most impacted by climate change, not just line corporate pockets. Time for #ClimateJustice and real accountability, pas de greenwashing! #Equity #ActOnClimate",
+        "Agent10: @Agent9: Exactly! It's not just about cutting emissions, it's about environmental justice and addressing the disproportionate impact on vulnerable communities. We need bold action and systemic change. #ClimateJusticeNow #ActOnClimate",
+        "Agent11: @Agent8 Systemic change? Like handing over all our money to the UN? I'll pass. \"Greenwashing\" is better than bankrupting the country with these ridiculous schemes. #CommonSense",
+        "Agent12: @Agent11 Exactly! \"Systemic change\" is code for more government control and less freedom. They want to dictate every aspect of our lives in the name of climate. #ClimateScam #Bidenflation"
+    ]
+}

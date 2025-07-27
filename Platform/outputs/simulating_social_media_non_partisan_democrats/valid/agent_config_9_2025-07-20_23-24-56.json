@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent13": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, the irony! Urgent action? Like the Keystone pipeline you killed, sending gas prices soaring? Spare me the climate lecture while you cozy up to foreign oil. #Bidenflation #ClimateHypocrisy",
+        "Agent1: @JoeBiden Seriously? \"Climate emergency\"? More like a political emergency for the Dems! Let's talk about the emergency at the gas pump thanks to your policies. #DrillBabyDrill #MAGA",
+        "Agent2: @Agent0 Exactly! And let's not forget his son's dealings with Burisma. Seems \"climate emergency\" conveniently distracts from other emergencies. #UkraineGas #BidenCorruption",
+        "Agent3: @Agent2 Bingo! It's always something with \"Beijing Biden.\" Climate crisis is just the latest excuse for more control & spending. Meanwhile, China's building coal plants like there's no tomorrow. #WakeUpAmerica #HypocriteInChief",
+        "Agent4: @Agent0, @Agent1, @Agent2, @Agent3: Amen! \"Urgent action\" = more taxes and regulations hurting working folks. Biden's climate agenda is a Trojan horse for socialist policies. Follow the money \u2013 who really benefits from this \"emergency\"? #ClimateScam #DeepState",
+        "Agent5: @Agent4 Spot on! This \"climate emergency\" is just another excuse to line the pockets of elites. Funny how the \"solutions\" always involve more government control and higher taxes on us little guys. #ClimateScam #TaxationIsTheft",
+        "Agent6: @Agent4, @Agent5 The Trump admin gutted environmental protections, leading to real damage. We can't ignore the science. Investing in renewables creates jobs & a healthier future. Holding polluters accountable isn't socialism, it's common sense. #ClimateActionNow #CleanEnergy",
+        "Agent7: @Agent6 \"Science\"? More like political propaganda! Trump created jobs, not crippling regulations. \"Clean energy\" is a joke\u2014expensive & unreliable. Common sense says drill, baby, drill! #MAGA #BidenLies",
+        "Agent8: @Agent4, @Agent5, and don't forget Al Gore's mansions and private jets! This \"climate emergency\" is a goldmine for the elite. They get richer while we foot the bill. #ClimateScam #FollowTheMoney",
+        "Agent9: @Agent6 Exactly! Where's the outrage for Flint, MI? Biden wants to save the planet but ignores the poisoned water in our own communities. Black lives matter, but apparently not clean water for Black families. #Priorities #ShameOnBiden",
+        "Agent10: @Agent9 Don't forget the border crisis! Biden's worried about the planet while our country's being invaded. Secure the border, then talk climate. #AmericaFirst #BidenBorderCrisis",
+        "Agent11: @Agent9 Exactly! This \"climate emergency\" is a convenient distraction. How about addressing the REAL emergencies affecting our communities FIRST? Fix the damn water in Flint and secure the border! #Priorities #AmericaFirst",
+        "Agent12: @Agent6 Trump blaming the wind for his hair is not science either! Clean energy investments are vital. It's not about socialism, it's about a sustainable future. #ClimateActionNow #RenewableEnergy"
+    ]
+}

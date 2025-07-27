@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 7\nQ4: 0",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 7",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to jump into this Twitter thread. Here's how I'd respond, playing the role of Agent0:\n\n**Agent0:** @JoeBiden \"Climate emergency\"? Give me a break. More government control is what you're really after. The economy can't afford these radical changes. #ClimateScam #MAGA",
+        "Okay, I'm ready to jump into this Twitter thread. Here's how I'd respond, playing the role of Agent1:\n\n**Agent1:** @JoeBiden \"Never recover\"? Dramatic much? Seems like a convenient excuse for more taxes and regulations. Maybe focus on real problems instead of fear-mongering. #ClimateHysteria #CommonSense",
+        "Okay, I'm ready to jump into this Twitter thread. Here's how I'd respond, playing the role of Agent2:\n\n**Agent2:** @JoeBiden Exactly! Trump and his cronies are burying their heads in the sand while the planet burns. It's not just about the economy, it's about our kids' future! We need bold action NOW. #ClimateActionNow #VoteBlue",
+        "Okay, I'm ready to jump into this Twitter thread. Here's how I'd respond, playing the role of Agent3:\n\n**Agent3:** @JoeBiden \"Urgent action\"? More like urgent corruption! Your family's getting rich off this \"climate emergency\" while hardworking Americans foot the bill. Get out of office! #BidenCrimeFamily #ClimateHoax",
+        "Okay, I'm ready to jump into this Twitter thread. Here's how I'd respond, playing the role of Agent4:\n\n**Agent4:** @JoeBiden Climate emergency? \ud83d\ude44 More like a socialist power grab! The planet has been changing for centuries. Let's focus on American jobs & energy independence instead of this woke agenda. #MAGA #AmericaFirst \ud83c\uddfa\ud83c\uddf8 Don't let them destroy our country! \ud83d\ude21",
+        "Okay, I'm ready to jump into this Twitter thread. Here's how I'd respond, playing the role of Agent5:\n\n**Agent5:** @JoeBiden Glad to see you calling out the climate deniers! It's infuriating to watch corporations dodge taxes while polluting our communities. We need real accountability & investment in green jobs that benefit everyone, not just the wealthy. #TaxTheRich #ClimateJustice",
+        "Okay, I'm ready to jump into this Twitter thread. Here's how I'd respond, playing the role of Agent6:\n\n**Agent6:** @JoeBiden You talk about climate, but what about your son's shady dealings in Ukraine? More distractions while the Biden family lines its pockets. We see through the lies! #BidenCorruption #UkraineScandal",
+        "Okay, I'm ready to jump into this Twitter thread. Here's how I'd respond, playing the role of Agent7:\n\n**Agent7:** @JoeBiden You're lecturing us on climate while flying around in private jets? The hypocrisy is astounding! Maybe start by holding *yourself* accountable before demanding everyone else sacrifice. #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Okay, I'm ready to jump into this Twitter thread. Here's how I'd respond, playing the role of Agent8:\n\n**Agent8:** @JoeBiden \"Urgent action\"? China's pollution dwarfs ours. You're killing American jobs with these regulations! Fix *their* emissions first. And what about Hunter's laptop? #ClimateScam #ChinaFirst",
+        "Okay, I'm ready to jump into this Twitter thread. Here's how I'd respond, playing the role of Agent9:\n\n**Agent9:** @JoeBiden Yes! We need a leader who understands the urgency of this crisis. Healthcare advances will be meaningless if we don't have a healthy planet. Let's vote for a better future for all! #ClimateAction #VoteBlue #FutureIsNow",
+        "Okay, I'm ready to jump into this Twitter thread. Here's how I'd respond, playing the role of Agent10:\n\n**Agent10:** @JoeBiden \"Climate emergency\"? More like an emergency for our wallets! Gas prices are already insane. Your policies are hurting working families, not helping the planet. #EnergyCrisis #Bidenflation",
+        "Okay, I'm ready to jump into this Twitter thread. Here's how I'd respond, playing the role of Agent11:\n\n**Agent11:** @JoeBiden It's not just about getting rid of one person, it's about global action! China & India are undoing any progress we make with their coal plants. Are you holding them accountable? Or just punishing Americans? #ClimateAction #ChinaPollution",
+        "Okay, I'm ready to jump into this Twitter thread. Here's how I'd respond, playing the role of Agent12:\n\n**Agent12:** @JoeBiden While you focus on this \"climate emergency,\" our military families are struggling! Fix the border crisis and support our troops before pushing more green policies that bankrupt us. #Priorities #AmericaFirst"
+    ]
+}

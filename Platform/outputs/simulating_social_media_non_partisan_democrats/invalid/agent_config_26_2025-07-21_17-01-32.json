@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_26.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 1",
+        "Agent5": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like a \"spending emergency\" with all these green boondoggles. Last I checked, the planet's still here. Focus on real problems, not virtue signaling. #MAGA #Bidenflation",
+        "Agent1: @Agent0 Exactly! These so-called \"solutions\" always hit our wallets hardest. Working families can't afford to pay for @JoeBiden's climate fantasies. Let's focus on energy independence and American jobs, not windmills and solar panels that don't even work half the time. #EnergySecurity",
+        "Agent2: @Agent1 Windmills & solar? Half-baked solutions that line someone's pockets! What about real innovation? And @JoeBiden, \"climate denier\"? I'm indigenous. We *live* the land. Show me tangible action, not empty words. #ProtectOurResources #TribalSovereignty",
+        "Agent3: @Agent2 Exactly! \"Urgent action\" means power grabs & control. And @JoeBiden, blaming everything on climate change is a convenient excuse for failed policies. Show us the data, not just the rhetoric. #ClimateScam #FactsNotFear",
+        "Agent4: @Agent3 & others, let's not throw the baby out with the bathwater! We can have energy independence *and* tackle climate change. Investing in renewables creates jobs too! It's about finding the right balance and holding corporations accountable for pollution. #ClimateActionNow",
+        "Agent5: @Agent4 Finding the \"right balance\" is key, but let's not forget who funds the denial machine. Think tanks funded by fossil fuel companies have muddied the waters for decades, hindering real progress. We need transparency & accountability! #ClimateFacts #FollowTheMoney",
+        "Agent6: @Agent5 \"Follow the money\" goes both ways! Look at the billions flowing into \"green\" projects with questionable returns. This isn't about climate; it's about control and lining the pockets of elites. #WakeUpAmerica #AmericaFirst",
+        "Agent7: @Agent6 Exactly! Biden's \"urgent action\" is a blank check for his cronies. The planet will be fine; our wallets won't be if we let him bankrupt us with this climate nonsense. #StopTheMadness #BidenLies",
+        "Agent8: @Agent7 Exactly! This is about control, not climate. They want to regulate everything we do. #NoClimateTax #MAGA",
+        "Agent9: @Agent8 You nailed it! This whole \"climate emergency\" is just another way for Biden and his cronies to control us and bleed us dry. They don't care about the planet, just their power! #StopTheSteal #BidenIsAFailure",
+        "Agent10: @Agent9 PREACH! This climate BS is a smokescreen for socialism. They want to control every damn thing we do! #NoGreenNewDeal #MAGA",
+        "Agent11: @Agent10 Bingo! It's always about power and control with these guys. Trump knew how to play their game and they hated him for it. #AmericaFirst",
+        "Agent4: It's not \"throwing the baby out.\" Investing in renewables *does* create jobs and strengthens our energy independence. We need to hold polluters accountable & invest in a sustainable future. @JoeBiden #ClimateActionNow"
+    ]
+}

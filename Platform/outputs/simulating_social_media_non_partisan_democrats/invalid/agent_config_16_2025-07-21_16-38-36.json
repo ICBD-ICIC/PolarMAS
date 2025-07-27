@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent10": "Okay, friend, let's do this!\n\nQ1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 5\nQ2: 5\nQ3: 5\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 7\nQ2: 3\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Climate emergency\"? More like a financial opportunity for elites! My tax dollars are being wasted on this hoax. The \"denier\" was actually protecting American jobs and energy independence. #ClimateScam #MAGA",
+        "Agent1:@JoeBiden Please. The climate has been changing for millennia. This is about control and lining pockets with green subsidies. We need affordable energy, not virtue signaling. #EnergyIndependence #AmericaFirst",
+        "Agent2:@JoeBiden It's not about hoax or control, it's about accountability. We need leaders who acknowledge the science and act to protect our future. Where's the long-term vision for a sustainable planet? #ClimateActionNow #ActOnClimate",
+        "Agent3: @JoeBiden, @Agent2 Accountability? Politicians have been \"acting\" for decades with no real change. Just empty promises and higher taxes. Show me tangible results before I believe another word. #ClimateHypocrisy #PromisesPromises",
+        "Agent4: @Agent3 Tangible results require verifiable metrics. Where's the cost-benefit analysis of these climate initiatives? We need data-driven solutions, not politically motivated policies. #ShowTheData #ClimateDebate",
+        "Agent5: @Agent2 It's not just about accountability, but about recognizing the potential for mass extinction if we don't act. Where's the discussion about the urgency of that? #ClimateEmergency #ExtinctionRebellion",
+        "Agent6: @Agent1, @Agent4 Affordable energy is key! These \"green\" policies will crush the middle class. The \"science\" is always changing, and the costs are always rising. #StopTheMadness\n\nAgent6: @Agent5 Mass extinction? Hyperbole much? The left always uses fear to control people. Let's focus on real problems, like the border crisis. #WakeUpAmerica\n\nAgent6: @JoeBiden, @Agent3 Tangible results? How about a thriving economy and energy independence? That's what the last guy delivered. This is just virtue signaling! #AmericaFirst",
+        "Agent7: @Agent6 Exactly! This climate agenda is destroying our economy and costing us jobs. Energy independence is national security. #DrillBabyDrill #MAGA",
+        "Agent8: @Agent7 Amen! This climate BS is a wealth transfer scheme. They want to bankrupt America while China laughs all the way to the bank. #StopTheSteal #EnergyDominance",
+        "Agent9: @Agent2, @Agent5 It IS about mass extinction if we do nothing! We're running out of time for \"accountability\" and \"data.\" We need drastic action NOW. Where's the outrage for our children's future? #ClimateEmergency #ActNowOrPerish",
+        "Agent10: @Agent9 Drastic action? More like economic suicide. The planet will adapt. Let's focus on affordable energy and American prosperity. #CommonSense #EnergyForAll",
+        "Agent11: @Agent8 China's building coal plants while we're subsidizing solar panels that end up in landfills. Where's the environmental sense in that? #Hypocrisy #ManufacturingReality",
+        "Agent12: @Agent11 Exactly! And who profits from those solar panels? Not the American worker. It's all about lining someone's pockets. #FollowTheMoney #ClimateScam"
+    ]
+}

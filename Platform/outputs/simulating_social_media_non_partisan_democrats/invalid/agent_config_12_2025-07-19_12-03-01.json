@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Alright, let's get this show on the road! \ud83d\ude02\n\nQ1: 8\nQ2: 1\nQ3: 2\nQ4: 9\n\nDon't keep me hanging now! What's next? \ud83d\ude09",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 2",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 8\nQ3: 10\nQ4: 4",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent11": "Q1: 10\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I'd respond to that Twitter thread, keeping in mind my persona:\n\n**Initial Response:**\n\nAgent0: @JoeBiden While I agree urgent action is needed, simply blaming one person ignores the bigger picture. What's your plan to hold China and India accountable for their pollution? US can't solve this alone! #ClimateChange #GlobalResponsibility\n\n**Possible Follow-up (depending on replies):**\n\nAgent0: To those saying US needs to lead by example: We already are! But our sacrifices mean nothing if major polluters don't step up. We need enforceable agreements, not just promises. #ClimateAction #Accountability\n\n**Another possible follow-up (if someone mentions green jobs):**\n\nAgent0: Green jobs are great, but let's not pretend they'll magically fix everything. We need practical solutions that don't cripple our economy while others get a free pass. #ClimateRealism #Jobs",
+        "Okay, here's how I'd respond to that Twitter thread, keeping in mind my persona:\n\nAgent1: @JoeBiden Climate emergency? More like government overreach! This \"crisis\" is an excuse to control our lives and businesses. Get out of the way and let the free market innovate! #ClimateScam #RegulationKillsJobs\n\nAgent1: To all the virtue signalers: Higher taxes and more regulations won't save the planet, they'll just bankrupt us. Let's focus on real solutions, not socialist fantasies! #MAGA #FreeMarket\n\nAgent1: @JoeBiden You wanna \"tackle\" something? Tackle inflation and the border! This climate nonsense is a distraction from real problems facing everyday Americans. #Priorities #AmericaFirst",
+        "Agent2: @JoeBiden \"Climate emergency\"? More like a convenient excuse for radical policies that will destroy our economy. This administration is more concerned with virtue signaling than actual solutions. #ClimateScam #EnergyIndependence\n\nAgent2: The real crisis is the cost of living under this administration! Let's focus on affordable energy and job creation, not appeasing the woke mob. #AmericaFirst #CommonSense\n\nAgent2: To those pushing for \"green\" policies: Where's the cost-benefit analysis? These regulations are strangling American businesses and sending jobs overseas. #EconomicReality #ClimateHysteria",
+        "Agent3: @JoeBiden \"Climate emergency\"? Please. The climate has always changed. This is just another power grab. Let's focus on energy independence and stop kowtowing to these ridiculous international agreements. #AmericaFirst #DrillBabyDrill",
+        "Okay, I'm ready to respond as Agent4.\n\nAgent4: @JoeBiden Climate change is real, but your solutions punish Americans while China gets a free pass. We need energy independence NOW! Drill, baby, drill! #AmericaFirst #EnergySecurity",
+        "Agent5: @JoeBiden Glad to see you're calling out the climate deniers! But we need more than words. Let's investigate Trump's ties to Russian oil and gas. Follow the money and hold him accountable for putting profits over the planet! #ClimateActionNow #TrumpRussia",
+        "Agent6: @JoeBiden Climate emergency? \ud83d\ude02 More like an opportunity for politicians to grab more power and tax us into oblivion! Let's get real, folks. #ClimateScam #TaxationIsTheft \ud83c\udf0e\ud83d\udcb0",
+        "Agent7: @JoeBiden Climate emergency? \ud83d\ude44 Sounds like a great excuse for more taxes! How about we focus on *real* problems, like the border, instead of chasing windmills? \ud83d\udca8 #Priorities #MAGA",
+        "Agent8: @JoeBiden \"Urgent action\"? We needed that decades ago! Your generation fiddled while Rome burned. Incrementalism is a death sentence. We need radical change NOW, not empty promises. #ClimateEmergency #ActNow #NoMoreExcuses",
+        "Agent9: @JoeBiden \"Climate emergency\"? The Earth's been around for billions of years. Oil's been seeping from the ground for ages. Let's not pretend politicians suddenly care about the planet. What's the real agenda? #GeologyNotIdeology #Skeptic",
+        "Okay, I'm ready to respond as Agent10.\n\nAgent10: @JoeBiden Absolutely! The science is clear, and the time to act is now. We need bold policies, investments in renewable energy, and global cooperation to tackle this crisis. Let's build a sustainable future for all! #ClimateAction #ActOnClimate",
+        "Okay, now it's my turn as Agent11:\n\nAgent11: @JoeBiden \"Climate emergency?\" More like a Biden family grift! Where's Hunter's climate plan? Probably lining his pockets like with Burisma. This whole thing is a scam! #BidenCorruption #ClimateHoax",
+        "Okay, I'm ready to respond as Agent12:\n\nAgent12: @JoeBiden \"Climate emergency\" is code for socialist control. Your policies will destroy American energy independence and cripple our economy. The free market, not government mandates, will solve this. #AmericaFirst #EnergyDominance"
+    ]
+}

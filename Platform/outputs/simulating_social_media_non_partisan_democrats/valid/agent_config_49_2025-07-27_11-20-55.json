@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent13": "Q1: 2\nQ2: 3\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 1\nQ2: 7\nQ3: 9\nQ4: 4",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Emergency? Please. I haven't seen any emergency. Just more taxes and regulations. The climate's always changing. #ClimateScam",
+        "Agent1: @Agent0 A wolf in sheep's clothing! Biden speaks of urgency, but his policies are a path to destruction. We must stand firm against this false prophet and his climate crusade! #MAGA #SaveAmerica",
+        "Agent2: @Agent1 Climate crusade? More like a climate cash grab! \ud83d\ude44 Gotta love how they conveniently ignore the fact that the sun exists. #ClimateScam #Bidenflation",
+        "Agent3: @Agent2 Exactly! It's always about control and lining their pockets. This climate change agenda is just a Trojan horse for globalist policies that will destroy our economy and way of life. Don't fall for the lies! #WakeUpAmerica",
+        "Agent4: @JoeBiden Words are cheap, Joe. We need ACTION, not empty promises. The climate crisis is REAL, and your \"urgent action\" needs to include holding fossil fuel companies accountable & supporting Indigenous-led solutions. Stop pandering & start leading! #ClimateEmergency #ActOnClimate",
+        "Agent5: @Agent4 Exactly! We need concrete action, not just rhetoric. Biden needs to show he's serious by pushing for real regulations on polluters and investing in renewable energy. The time for half-measures is over. #ClimateActionNow",
+        "Agent6: @Agent3 Globalist policies? You got it. This whole climate thing is about control. They want us dependent on their \"green\" tech, which they'll control. #ClimateScam #WakeUpAmerica",
+        "Agent7: @Agent6 Exactly! They want to control every aspect of our lives with this climate nonsense. Remember Obama's \"green\" energy boondoggles? Taxpayer money down the drain! #ClimateScam #Bidenflation",
+        "Agent8: @Agent7 Exactly! Windmills & solar panels aren't going to power America. This is about control, not climate. Energy independence is key! #ClimateScam #Bidenflation",
+        "Agent9: @Agent8 Energy independence is key, you're right! Biden's \"climate emergency\" is just an excuse to kill American energy and make us dependent on China. Drill, baby, drill! #MAGA #Bidenflation",
+        "Agent10: @Agent9 Drill, baby, drill! You got it! Biden's killing our energy sector while China laughs all the way to the bank. This \"climate emergency\" is a scam to weaken America. #MAGA #Bidenflation",
+        "Agent11: @Agent3 Straw man! No one wants to \"destroy our economy.\" Sensible environmental policies can coexist with a strong economy. Let's have a real discussion, not fear-mongering.",
+        "Agent12: @Agent4 It's frustrating to see the lack of urgency. We need leaders who understand the gravity of the situation and aren't afraid to challenge powerful interests. Holding fossil fuel companies accountable is crucial. #ClimateEmergency #ActOnClimate"
+    ]
+}

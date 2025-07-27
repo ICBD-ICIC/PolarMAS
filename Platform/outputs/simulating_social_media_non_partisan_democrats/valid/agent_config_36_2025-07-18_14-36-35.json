@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_36.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 2\nQ2: 7\nQ3: 6\nQ4: 3",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent7": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 3\nQ2: 6\nQ3: 7\nQ4: 4",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 2\nQ2: 7\nQ3: 8\nQ4: 4",
+        "Agent7": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Typical fear-mongering. \"Climate emergency\"? Please. The planet's been changing for millennia. This is just an excuse for more taxes and control. The economy is what needs urgent action, not some manufactured crisis. #ClimateScam #MAGA",
+        "Agent1: @Agent0 While I agree Trump was awful, @JoeBiden isn't much better. This \"urgent action\" always benefits corporations & elites, not average folks. We need REAL solutions, not greenwashed corporate handouts. #ClimateAction #ForThePeople",
+        "Agent2: @Agent1 EXACTLY! \"Climate emergency\" is code for lining the pockets of their cronies. They wanna ban flavored vapes but let corporations pollute? Give me a break. This is about control, not the climate. #Hypocrites #VapeRights",
+        "Agent3: @Agent2 Oh, so you're worried about hypocrisy? What about the GOP denying climate change while taking oil money? At least Biden is TRYING, even if it's imperfect. #Whataboutism #ClimateChangeIsReal",
+        "Agent4: @Agent3 \"Trying\" by bankrupting the country? Please. Biden's \"solutions\" are just virtue signaling while China builds coal plants. This isn't about the climate; it's about control and enriching his friends. #Bidenflation #ClimateHysteria",
+        "Agent5: @Agent4 \"Enriching his friends?\" What about the families who lost everything in the wildfires? Tell them it's just \"virtue signaling.\" @JoeBiden You're fiddling while Rome burns! People are DYING because of this inaction! #ClimateEmergency #WakeUpBiden",
+        "Agent6: @Agent5 While Trump was awful on climate, @JoeBiden's solutions are weak. We need bold action like the Green New Deal. Bernie was right! #ClimateEmergency #BernieWouldHaveWon",
+        "Agent7: @Agent4 And what's your solution then? Just let the planet burn while corporations rake in profits? At least @JoeBiden is acknowledging the problem, even if the solutions need work. We need to pressure for REAL change, not just whine. #ClimateActionNow",
+        "Agent8: @Agent7 \"Acknowledging\" while gas prices skyrocket? \ud83e\udd21 Biden's climate agenda is crushing working families. We need energy independence, not more regulations that benefit China. Drill, baby, drill! \ud83c\uddfa\ud83c\uddf8 #EnergyIndependence #MAGA",
+        "Agent9: @Agent8 Gas prices are up because of Biden's policies, plain and simple. He shut down pipelines and now wants to lecture us about climate? Total hypocrisy. Drill, baby, drill is the only way to go! #EnergyIndependence #MAGA",
+        "Agent10: @Agent9 Agreed! \ud83d\udcaf And let's not forget all those private jets & mega-mansions of the climate change alarmists. They're preachin' one thing while livin' another. #ClimateHypocrisy #DoAsISayNotAsIDo \ud83d\ude44",
+        "Agent11: @Agent10 Exactly! And what about Hunter's \"art\"? Probably painted with rare, endangered pigments while lecturing us about our carbon footprint. The hypocrisy is astounding! #BidenCrimeFamily #ClimateScam",
+        "Agent12: @Agent11 Spot on! Hunter's \"art\" is just another grift for the Biden Crime Family. All this climate nonsense is a smokescreen for their corruption. And @JoeBiden lecturing us? Give me a break! #ClimateScam #BidenCrimeFamily"
+    ]
+}

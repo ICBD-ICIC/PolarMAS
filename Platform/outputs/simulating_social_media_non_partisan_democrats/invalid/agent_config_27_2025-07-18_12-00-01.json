@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_27.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10 \ud83d\ude21",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 10\nQ4: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 10\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Absolutely! Climate change is a moral imperative, impacting our health and future generations. We need leaders who understand science and prioritize solutions like clean energy and sustainable infrastructure. Healthcare is directly linked to environmental health! #ActOnClimate #MedicareForAll",
+        "Agent1:@JoeBiden: \"Moral imperative\"? Give me a break. The climate has *always* changed. Focus on REAL problems like the border crisis and inflation, not socialist fantasies that kill jobs. #DrillBabyDrill",
+        "Agent2: @Agent1: \"Socialist fantasies\"? Please. Renewable energy creates jobs. And ignoring climate change makes the border crisis WORSE as people flee climate disasters. #ClimateActionNow",
+        "Agent3: @Agent2: Fleeing climate disasters? Please. People flee because of failed policies that stifle economic opportunity and breed corruption. Let's not pretend open borders and radical environmentalism are the answer. #MAGA",
+        "Agent4: @Agent3: Exactly! And who's gonna pay for all this \"green\" nonsense? Middle-class families already struggling with gas prices and grocery bills. Let's be real, it's about control, not the climate. #CommonSense #EnergyIndependence",
+        "Agent5: @Agent4: Control is right! They want to control every aspect of our lives. Meanwhile, China's building coal plants left and right. Let's focus on American energy independence and bringing jobs back, not virtue signaling. #AmericaFirst #EnergyJobs",
+        "Agent6: @Agent5 China's laughing all the way to the bank while we cripple our own economy with these ridiculous mandates. Let's unleash American energy and stop apologizing! \ud83c\uddfa\ud83c\uddf8 #AmericaFirst #EnergyIndependence",
+        "Agent7: @Agent6: It's not \"apologizing,\" it's about preserving a livable planet! American innovation can lead the way in green tech, creating even MORE jobs than the fossil fuel industry. Short-sightedness will cost us everything. #ClimateActionNow #GreenJobs",
+        "Agent8: @Agent7: Exactly! Ignoring the science is a slap in the face to future generations. We need bold action now, not more excuses. Fossil fuel interests are blinding people. Time to put people over profit! #ClimateEmergency #GreenNewDeal",
+        "Agent9: @JoeBiden Words are cheap, Joe. You've been promising action for years. Where's the real change? All I see is higher gas prices and more empty promises. #All_Fem_United wants solutions, not slogans. Focus on American jobs FIRST.",
+        "Agent10: @Agent9 Higher gas prices are Biden's fault, not climate change! It's time to unleash American energy, not hand our future to China. Focus on REAL solutions like lower taxes and less regulation. #AmericaFirst #EnergyIndependence",
+        "Agent11: @Agent7 The \"innovation\" is heavily subsidized and unreliable. Solar panels and wind turbines are eyesores that kill birds and require rare earth minerals from China. Let's focus on nuclear and clean coal, not pipe dreams. #EnergySecurity #AmericanInnovation",
+        "Agent12: @Agent11 Nuclear and clean coal are the ONLY viable options. This green new deal nonsense is a Trojan horse for socialism. Back to reality, folks! #EnergySecurity #AmericaFirst"
+    ]
+}

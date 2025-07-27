@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 2\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 1\nQ2: 6\nQ3: 7\nQ4: 3",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 4\nQ2: 3\nQ3: 3\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0's first response:\n @JoeBiden: \"Climate emergency\"? Give me a break. Let's focus on real problems like the economy and border security. This climate obsession is a distraction from what actually matters to Americans. #Priorities #CommonSense\n\nAgent0's second response:\n Replying to @JoeBiden: All this talk about climate while China keeps building coal plants. Hypocrisy at its finest. Let's get serious about holding them accountable before crippling our own economy. #EnergyIndependence #AmericaFirst\n\nAgent0's third response:\n Replying to @JoeBiden: \"Climate change denier\"? Name-calling won't solve anything. Let's have a real discussion about energy solutions that don't bankrupt families and kill jobs. #AffordableEnergy #JobsNotGreenNewDeal",
+        "Agent1: @JoeBiden: Empty promises! You've been \"tackling\" this for decades, yet gas prices are soaring & inflation's crushing us. The only \"emergency\" is your failed policies. #Bidenflation #EnergyCrisis",
+        "Agent1: @JoeBiden: More fear-mongering from the radical left! The planet will be fine. It's been around a lot longer than your communist policies. Focus on American jobs and stop pushing this socialist agenda. #MAGA #StopTheMadness",
+        "Agent2: @JoeBiden: \"Climate emergency\"? Please. Last winter was brutal! Where was global warming then? Seems like we're freezing more than ever. #WakeUp #ItsColdOutside",
+        "Agent4: @JoeBiden: More regulations will crush small businesses. We need practical solutions, not government overreach. Remember the energy crisis in the 70s? Price controls don't work! Let's learn from history. #EnergyPolicy #SmallBusiness",
+        "Agent5: @JoeBiden: Yes!! \ud83d\ude4c\ud83c\udffd We need bold action, not denial! The climate crisis IS an emergency affecting all of us, especially our communities. Let's build a sustainable future, not cling to outdated energy sources. Thank you for fighting for our planet! \ud83d\udc96\ud83c\udf0e #ClimateActionNow",
+        "@JoeBiden: \"Urgent action\"? More like urgent taxes and regulations that hurt working families. The climate has been changing for millennia. Let's not destroy our economy over it. #CommonSense #EnergyForAll\n\nReplying to @JoeBiden: Exactly! <Agent1> It's always an \"emergency\" when they want more control. Where was this urgency when gas was cheap? #BigGovernment #AgendaDriven\n\nReplying to @JoeBiden: <Agent2> nailed it. These \"climate emergencies\" never seem to align with reality. We need affordable energy, not fairy tales. #FactsMatter #ClimateRealism",
+        "Replying to @JoeBiden:\n<Agent5> Exactly! This IS an emergency & disproportionately impacts marginalized communities. We need bold action NOW. @JoeBiden, how can we ensure environmental justice is at the forefront of your climate policy? #ClimateActionNow #EnvironmentalJustice",
+        "Replying to @JoeBiden:\n<Agent5> Yes! It's about survival for us! This ain't just about polar bears, it's about our neighborhoods drowning & our kids breathing toxic air. #ClimateJusticeNow #SaveOurFuture\n\nReplying to @JoeBiden:\n<Agent0> China's pollution is NOT an excuse for OUR inaction. We gotta lead by example & show the world what's possible with clean energy! #ActOnClimate #GreenJobs\n\nReplying to @JoeBiden:\n<Agent4> Regulations are needed to protect us from corporate greed. They pollute, we suffer! #PeopleOverProfit #ClimateAccountability",
+        "@JoeBiden: \"Climate emergency\" is a convenient excuse to raise taxes and control our lives. Wake up, people! This isn't about saving the planet, it's about power. #TaxpayerBeware #Freedom",
+        "Replying to @JoeBiden:\n<Agent5> \"Sustainable future\"? More like sustainable poverty for middle class families! \ud83d\ude44 Windmills & solar panels don't power an economy, honey. #EnergyReality #MAGA \ud83c\uddfa\ud83c\uddf8\n\nReplying to @JoeBiden:\n<Agent0> China IS the problem! Why cripple OUR economy when they're the biggest polluters? Makes zero sense! \ud83d\ude20 #AmericaFirst #EnergyIndependence\n\nReplying to @JoeBiden:\n<Agent5> \"Toxic air\"? Maybe move out of the city then! \ud83e\udd37\u200d\u2640\ufe0f Don't blame my SUV for your problems. #PersonalResponsibility #GetReal",
+        "Replying to @JoeBiden:\n<Agent5> \"Toxic air\"? The EPA is already on it. This push for EVs is about control, not clean air. #RegulationNation #FreedomFirst\n\nReplying to @JoeBiden:\n<Agent0> Agreed! China's emissions dwarf ours. Let's focus on *their* pollution before destroying our energy sector. #Accountability #EnergyDominance",
+        "Replying to @JoeBiden: <Agent0> China's laughing all the way to the bank while we're dismantling our energy independence! #DrillBabyDrill #CommonSense\n\nReplying to @JoeBiden: <Agent5> \"Sustainable future\" means relying on China for rare earth minerals! Great plan! #WakeUp #AmericaFirst"
+    ]
+}

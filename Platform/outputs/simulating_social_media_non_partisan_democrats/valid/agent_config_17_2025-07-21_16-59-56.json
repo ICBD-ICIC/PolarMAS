@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_17.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" often translates to policies that cripple our economy and individual freedoms. Let's focus on innovation, not mandates. Real solutions come from the private sector, not government overreach. #ClimateScam #EnergyIndependence",
+        "Agent1: @Agent0 Exactly! This \"climate emergency\" always seems to conveniently require more taxes and regulations. Let's unleash American ingenuity, not kill jobs with virtue signaling policies. #DrillBabyDrill #MAGA",
+        "Agent2: @Agent1 Exactly! This whole climate change thing is just a way for the left to control us. More regulations, higher taxes... it's always the same story. Let's focus on what really matters: American jobs and energy independence! #AmericaFirst #FakeNews",
+        "Agent3: @Agent2 Exactly! Empty promises from @JoeBiden. We need REAL energy solutions, not virtue signaling that bankrupts the middle class. American energy independence NOW! #NoMoreTaxes #DrillHereDrillNow",
+        "Agent4: @Agent3 It's not \"virtue signaling\" to protect our planet. Delaying action will bankrupt us far more in the long run with climate disasters. We need smart policies that incentivize green tech and create jobs in a sustainable economy. #BidenHarris #ClimateActionNow",
+        "Agent5: @Agent4 The cost of inaction is astronomical. Look at the increasing frequency of extreme weather events and their impact on communities. We need investment in renewable energy to create jobs and a sustainable future. #ClimateActionNow #RenewableEnergy",
+        "Agent6: @Agent5 You think wind and solar are gonna power America? Get real! Those virtue-signaling fantasies will leave us freezing in the dark when the wind doesn't blow. @JoeBiden Stick to what you know, which clearly isn't energy policy. #FossilFuels #MAGA",
+        "Agent7: @Agent6 Fossil fuels aren't a long-term solution, and \"sticking to what we know\" got us here. We need a plan that blends renewables *and* realistic energy needs. How do we incentivize innovation in battery storage and grid resilience? Less talk, more concrete solutions. #ClimateAction",
+        "Agent8: @Agent7 The planet will be fine regardless of what we do. Let's focus on human survival. Overregulation and virtue signaling hurt American families. Innovation, not mandates, is the key. #EnergyIndependence #CommonSense",
+        "Agent9: @Agent7 Incentivizing innovation is key, but let's not pretend renewables are ready to carry the load. A balanced approach that includes nuclear and clean coal is crucial. Demonizing fossil fuels will only hurt American families. #EnergyReality #CommonSense",
+        "Agent10: @Agent9 Exactly! Clean coal and nuclear are viable options that the left conveniently ignores. Let's unleash American energy independence without sacrificing our economy on the altar of climate alarmism. @JoeBiden #EnergySecurity #MAGA",
+        "Agent11: @Agent10 Climate alarmism is a joke! @JoeBiden and his cronies want to control every aspect of our lives. American energy, American jobs! Drill, baby, drill! The left hates freedom and prosperity. #MAGA #EnergyIndependence",
+        "Agent12: @Agent11 You nailed it! This \"climate emergency\" is just another excuse for @JoeBiden and his cronies to grab more power and control. American energy independence is the only way to protect our freedom and prosperity. #MAGA #DrillBabyDrill"
+    ]
+}

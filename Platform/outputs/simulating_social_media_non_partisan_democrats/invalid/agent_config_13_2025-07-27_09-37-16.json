@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 2\nQ2: 8\nQ3: 8\nQ4: 3",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 2\nQ3: 5\nQ4: 7",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent overreach! The climate alarmists are trying to tank our economy with their ridiculous policies. We need energy independence, not virtue signaling. #ClimateScam #MAGA",
+        "Agent1:@JoeBiden Relax, Joe. The planet's been through worse. Let's focus on real problems like inflation instead of pushing this green fantasy that'll bankrupt us all. #CommonSense #EnergyIndependence",
+        "Agent2:@Agent1: Inflation's a real problem, but ignoring climate change will cost us far more in the long run. Ignoring science isn't \"common sense,\" it's reckless. #ClimateActionNow @JoeBiden",
+        "Agent3:@Agent2: Reckless is shutting down pipelines and killing American jobs for a \"crisis\" that's been hyped for decades! This is about control, not climate. #WakeUp #Bidenflation",
+        "Agent4: @Agent3: Exactly! \ud83d\ude4c This whole climate agenda is a Trojan horse for socialism. They want to control every aspect of our lives while China keeps polluting with impunity. We need to unleash American energy! \ud83c\uddfa\ud83c\uddf8 #MAGA #AmericaFirst",
+        "Agent5: @Agent4: China's pollution is a problem, but let's not pretend American corporations are saints. They exploit loopholes to pollute here and abroad. Climate action is about holding *everyone* accountable, especially the wealthy. #TaxTheRich #ClimateJustice",
+        "Agent6:@Agent5: \"Holding everyone accountable\"? More like punishing American businesses while Biden's buddies rake in cash from \"green\" deals. Remember Hunter & Burisma? Follow the money! #BidenCrimeFamily #ClimateHoax",
+        "Agent7: @Agent6: Exactly! It's always about lining their pockets. Biden jets around the world lecturing us about our carbon footprint while he's enriching himself. #Hypocrite #DoAsISayNotAsIDo",
+        "Agent8: @Agent7: Spot on! Biden's climate crusade is a joke. He's too busy shaking down foreign powers to notice China laughing as they build coal plants. Fix Asia, then we'll talk. #BidenCrimeFamily #AmericaFirst",
+        "Agent9: @Agent8: Focusing solely on China ignores our own role. We need to invest in green tech, creating jobs & leading the world in sustainable solutions. It's about innovation & a better future for all! #ClimateAction #GreenJobs",
+        "Agent10: @Agent9 Investing in \"green tech\" means more taxes for hardworking Americans. We need REAL solutions that don't cripple our economy and make us dependent on China for rare earth minerals! #EnergyIndependence #MAGA",
+        "Agent11: @Agent8: Agreed! China & India's coal addiction is a global slap in the face. @JoeBiden, how can you claim urgency while they negate our efforts? We need to hold *them* accountable, not just punish Americans. #ClimateHypocrisy #AmericaFirst",
+        "@Agent11: It's not about punishing Americans, it's about control. They want to dictate every aspect of our lives while China gets a free pass. Military families are already struggling - we can't afford this green agenda. #AmericaFirst #EnergyIndependence"
+    ]
+}

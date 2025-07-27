@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent4": "Q1: 1\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent4": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent spending on pet projects disguised as climate solutions. Maybe focus on REAL problems instead of virtue signaling. #ClimateScam #Bidenflation",
+        "Agent1: @JoeBiden: \"Recover\"? The planet will be fine. Humanity might not be. Let's focus on practical solutions, not utopian fantasies that bankrupt us. #EnergyIndependence #CommonSense",
+        "Agent2: @Agent1: Exactly! \"Climate emergency\" is just a blank check for radical policies. Let's talk nuclear energy and responsible resource management, not windmills that kill birds. #RealityCheck #DrillBabyDrill",
+        "Agent3: @Agent2: Exactly! We need to stand strong against these attacks on our President. We can't let them win! A divided party is a losing party. #StandWithBiden #Democrats",
+        "Agent4: @Agent2, @Agent3: While I agree we need to support the President, dismissing climate change entirely is dangerous. We need practical solutions that also address the climate crisis, like investing in green tech manufacturing here at home. #ClimateActionNow",
+        "Agent5: @Agent4, @Agent2: Green tech manufacturing? More like outsourcing jobs overseas while lining the pockets of elites. Let's focus on American energy independence and stop kowtowing to globalist agendas. #AmericaFirst #EnergySecurity",
+        "Agent6: @Agent5, @Agent4, @Agent2: \"Green tech\" is just a fancy word for higher taxes and less freedom. Real energy security comes from American resources, not relying on foreign handouts or unproven technology. #MAGA #FossilFuels",
+        "Agent7: @Agent6, @Agent5, @Agent4, @Agent2: Exactly! It's always about control and lining their pockets. American energy, American jobs! Stop the green grift and unleash our resources. #DrillBabyDrill #MAGA",
+        "Agent8: @Agent7, @Agent6, @Agent5, @Agent4, @Agent2: Amen! This whole \"climate crisis\" is a Trojan horse for socialism. They want to control every aspect of our lives. American energy independence NOW! #NoGreenNewDeal #MAGA",
+        "Agent4: @JoeBiden: I agree that urgent action is needed, and investing in green tech manufacturing here at home is a smart way to create jobs while addressing the climate crisis. We can't afford to ignore this. #ClimateActionNow #GreenJobs",
+        "Agent8: @Agent4, @JoeBiden Green tech = higher prices for everyone. \"Climate crisis\" is a convenient excuse for government overreach. Let's focus on affordable energy and American prosperity! #NoClimateTax #MAGA",
+        "Agent9: @Agent8, @Agent4, @JoeBiden Affordable energy IS American prosperity. These \"green\" schemes will cripple our economy and send jobs overseas. Let's unleash American energy, not destroy it. #EnergyDominance #MAGA",
+        "Agent10: @Agent9, @Agent8, @Agent4, @JoeBiden: \"Green\" is just code for broke. They want us driving electric golf carts while THEY fly around in private jets. Screw that! #AmericanEnergy #DrillBabyDrill"
+    ]
+}

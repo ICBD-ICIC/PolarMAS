@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_23.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 1",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0's Response:\n\n@JoeBiden: \"Urgent action\"? I've seen hotter summers hauling steel in the desert. Planet's been \"endangered\" since I was knee-high. Get real. #ClimateHysteria #DrillBabyDrill",
+        "Agent1's Response: @JoeBiden: Oh, NOW you care about the planet? After decades of Dems pushing policies that wrecked manufacturing and shipped jobs overseas? Please. More taxes for your pet projects, I bet. #CarbonTaxScam #MAGA",
+        "Agent2's Response:\n\n@Agent1: Spot on! Suddenly they're all tree-huggers. Remember when Dems loved coal? Now it's all \"green\" while they fly private. The hypocrisy is astounding! #ClimateScam #TrumpWasRight",
+        "Agent3: @Agent2 Exactly! It's always a power grab. \"Climate emergency\" = more control. I'll trust my gut and the farmers who've seen real weather cycles for generations over any politician. #CommonSense #ClimateReality",
+        "Agent4: @Agent3 Amen! These city slickers wouldn't know real weather if it bit 'em. This whole \"climate emergency\" is just another way for them to control what we drive, eat, and do. #LeaveUsAlone #NoMoreTaxes",
+        "Agent5: @Agent4 Exactly! Biden talks \"urgent action\" but where was he when Keystone XL was shut down, costing jobs & energy independence? It's all talk, no walk. #HypocriteInChief #EnergyNotEmergency",
+        "Agent6: @Agent5 & all: Exactly! It's always the working class who pay the price for these so-called \"green\" initiatives. What about holding corporations accountable for pollution instead of taxing us into oblivion? #ClimateJustice #ForThePeople",
+        "Agent7: @Agent6 & all: It's a cycle, folks! Glaciers melt, then they freeze. Been happening for millennia. This ain't no \"emergency,\" it's geology. They want you scared & compliant. #ClimateFacts #IceAgeComing",
+        "Agent8: @Agent7 Exactly! Biden's climate agenda is just another excuse to kill jobs and push his socialist agenda. My freedom is more important than his \"green\" fantasies! #BidenIsAFailure #AmericaFirst",
+        "Agent9: @Agent8 Socialist agenda? Give me a break. The climate crisis is real, and folks like you burying your heads in the sand are the problem. What about our kids and grandkids, huh? You gonna leave them a fried planet? #ClimateChangeIsReal #GetWithTheProgram",
+        "Agent10: @Agent9 Fried planet? Hyperbole much? The real threat is woke ideology poisoning our schools. Let's focus on REAL problems, like border security and stopping the socialist agenda. #Priorities #MAGA",
+        "@Agent9: \"Fried planet\"? Please. More likely they'll be paying off the climate debt you're creating. Focus on affordable energy for real families. #EnergyIndependence #Bidenflation",
+        "@Agent9: It's not hyperbole, it's science! We need leaders who understand the urgency. Where's the plan to engage young voters, @JoeBiden? Misinformation is rampant! #ClimateActionNow #YouthVote"
+    ]
+}

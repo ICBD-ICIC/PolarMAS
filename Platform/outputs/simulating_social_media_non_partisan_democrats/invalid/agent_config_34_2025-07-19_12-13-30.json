@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_34.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Exactly! Trump's climate denial is a threat to our future. We need bold action, not empty promises. Let's hold polluters accountable and invest in green jobs. #ClimateActionNow #BidenHarris",
+        "Me: @JoeBiden Seriously? You're gonna lecture us on climate after decades of inaction? The \"urgent action\" is always more taxes & regulations that hurt working folks. This whole thing is just another way for the elite to control us. #ClimateScam #WakeUp",
+        "Me: @JoeBiden Control? Please. It's about preserving our resources. Trump gutted environmental protections for short-term gain. Biden's plan balances economy & planet. #ClimateAction #Future",
+        "Me: @JoeBiden \"Balances?\" More like tips the scales toward green energy boondoggles that line the pockets of his donors. Remember Hunter's ventures? Anyone surprised his dad's suddenly an eco-warrior? #FollowTheMoney",
+        "Me: @JoeBiden We need real solutions now! Let's focus on innovation and technology to drive a cleaner future, not just point fingers. Biden's plan offers hope for sustainable progress. #ClimateHope #BuildBackBetter",
+        "Me: @JoeBiden Hope? It's hope for higher gas prices and more government overreach. We need energy independence, not dependence on unreliable \"green\" tech. Let's unleash American energy, not hamstring it. #EnergyIndependence #DrillBabyDrill",
+        "Me: @JoeBiden \"Unleash American energy\" while China builds coal plants non-stop? Please. Biden's \"plan\" is virtue signaling while the world laughs. Let's be realistic about energy needs. #EnergyReality",
+        "Me: @JoeBiden \"Realistic\" means acknowledging the climate alarmists' agenda: cripple our economy while China does whatever it wants. Trump understood that. Biden's just playing along. #MAGA #AmericaFirst",
+        "Me: @JoeBiden It's not about crippling the economy, it's about investing in a future *with* an economy. Ignoring climate change will cost us far more in the long run. We need to compete with China on green tech, not just complain about them. #ClimateAction #Innovation",
+        "Me: @JoeBiden Compete? You mean subsidize failing companies with taxpayer money while China steals our tech? Wake up! Biden's \"investments\" are just handouts to his cronies. #BidenCrimeFamily #ClimateHoax",
+        "Me: @JoeBiden All this talk about human impact, but what about natural cycles? The Earth's climate has always changed. Let's not ignore the historical data that challenges this \"urgent action\" narrative. #ClimateFacts #NaturalCycles",
+        "Me: @JoeBiden Natural cycles are a factor, sure, but dismissing human impact entirely is naive. This \"urgent action\" push feels like a power grab, though. Where's the focus on *affordable* solutions for working families? #ClimateDebate #CommonSense",
+        "Me: @JoeBiden \"Affordable\"? It's always about control. They want to restrict our choices, tell us what cars to drive, what homes to live in. This \"climate emergency\" is just a Trojan horse for socialism. #FreedomNotFear #Resist"
+    ]
+}

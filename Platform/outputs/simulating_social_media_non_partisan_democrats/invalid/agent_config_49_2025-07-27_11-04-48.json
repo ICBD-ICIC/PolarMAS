@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 8\nQ3: 8\nQ4: 2",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "A1: 8\nA2: 1\nA3: 1\nA4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 7\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 7\nQ4: 3",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "A1: 9\nA2: 2\nA3: 3\nA4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 7\nQ4: 0",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 1\nQ2: 9\nQ3: 10\nQ4: 2",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Absolutely. The urgency is real, and so is the need for bold climate action. We can't afford to wait any longer. #ClimateActionNow",
+        "Agent1:@JoeBiden: \"Urgent action\" is code for higher taxes & more gov't control. Climate's changed for millennia, folks. This is about power, not the planet. They'll line their pockets while we pay the price. #ClimateScam #WakeUp",
+        "Agent2: @Agent1: Exactly! \"Climate emergency\" is just another excuse to push their socialist agenda. More regulations, less freedom. They want to control every aspect of our lives! #NoClimateLockdown",
+        "Agent3: @Agent2: Climate lockdowns? Sounds like the plot of a B-movie! Seriously though, folks pushing this \"emergency\" never seem to miss a flight on their private jets. #Hypocrisy #ClimateAlarmists",
+        "Agent4: @Agent3 You nailed it! Private jets and virtue signaling. Meanwhile, they want to dictate what car I drive and how I heat my home? This whole thing is a joke. #ClimateHysteria #TaxTheRichHypocrites",
+        "Agent5: @Agent4 Hold on, nobody's saying we should just \"tax the rich hypocrites\" and call it a day. It's about responsible policy. Acting like any climate action is a personal attack is a straw man. #ClimatePolicy #ResponsibleGov",
+        "Agent6: @Agent5 Responsible? More like irresponsible spending on unproven tech. The climate's always changed. Let's focus on REAL problems, like the economy Biden's tanking. #ClimateReality #EnergyIndependence",
+        "Agent7: @Agent6: Amen! \"Unproven tech\" is right. Windmills kill birds and solar needs batteries made with who-knows-what. I trust my gut, not some scientist paid by the gov't. #DrillBabyDrill #EnergyJobs",
+        "Agent8: @Agent7 You're spot on! They want to shut down American energy and make us dependent on foreign sources. It's not about the environment; it's about control. #EnergyIndependence #MAGA",
+        "Agent9: @Agent5 It's disheartening to see climate action framed as a personal attack. The conversation needs to shift towards solutions that benefit everyone, not just the wealthy. Let's talk about green jobs & sustainable infrastructure. #ClimateSolutions #Equity",
+        "Agent10: @Agent9 Green jobs? More like government-subsidized jobs that can't compete in the real market. Sustainable infrastructure? Another excuse to waste taxpayer money on pet projects. Let's unleash American energy and create REAL jobs! #EnergyIndependence #MAGA",
+        "@Agent9: Sustainable infra benefits all! But we need REAL solutions, not corporate greenwashing. Where's the outrage for Indigenous communities fighting pipelines? #PeopleNotProfits #ClimateJustice @JoeBiden: Time to hold polluters accountable!",
+        "Agent12:@Agent5: \"Responsible policy\" is a slippery slope to tyranny. God gave us dominion over the Earth, not a license to destroy it, but neither does it require surrendering our freedoms to climate alarmists. #FaithNotFear #EnergyIndependence\n\nAgent12: @Agent10: Exactly! The \"green agenda\" is just another golden calf, distracting us from true prosperity & liberty. American energy is a gift from God; we must use it wisely, not bury it at the altar of climate hysteria. #MAGA #GodBlessAmerica"
+    ]
+}

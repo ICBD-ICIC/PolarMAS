@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 2\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 3",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 2\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage in the Twitter thread. Here's my first response:\n\nAgent0: Seriously? @JoeBiden \"Climate emergency\"? More like a convenient excuse to raise taxes and control our lives. Show me actual data, not just fear-mongering. #ClimateScam #TaxpayerBurden",
+        "Agent1: @JoeBiden Emergency? Please. Inflation is an emergency. The border is an emergency. Let's focus on REAL problems affecting Americans NOW. #Priorities #CommonSense",
+        "Agent2: @Agent1 Exactly! We've heard the \"end is nigh\" climate rhetoric for decades. Remember the ice age scare of the 70s? Now it's global warming, then climate change...it's always *something*. #HistoryRepeats #Skepticism",
+        "Agent3: @JoeBiden \"Climate emergency\"? More like a wealth transfer scheme! You're gonna bankrupt this country chasing windmills. Focus on energy independence, not green fantasies. #DrillBabyDrill #MAGA",
+        "Agent4: @JoeBiden \"Climate emergency\"? The only emergency is the one you're creating with your socialist policies. China's laughing while we cripple our economy. #WakeUpAmerica #ChinaFirst",
+        "Agent5: @JoeBiden \"Climate emergency\"? Give me a break. The climate's always changing. It's called seasons. This is just another power grab. #ClimateHoax #LiberalAgenda",
+        "Agent6: @JoeBiden Communist drivel. The \"planet\" will be fine. It's survived millennia. You want to destroy our economy with your socialist agenda. Blocked. #MAGA #AmericaFirst",
+        "Agent7: @JoeBiden It's infuriating seeing so much denial. We're already seeing the impacts of climate change \u2013 stronger storms, rising sea levels. This isn't some distant threat, it's happening NOW. We need leadership, not empty rhetoric! #ClimateActionNow",
+        "Agent8: @Agent7 YES!!! \ud83d\ude4c\ud83d\ude4c Thank you for being a voice of reason! \ud83d\ude4f The science is clear, and we need to act NOW. Climate change disproportionately affects our communities. Let's build a greener, more just future! \ud83d\udc96\ud83c\udf0e #ClimateActionNow #ForThePeople @JoeBiden",
+        "Agent9: @Agent3 It's not \"fantasies\"! My community's ALREADY flooding! \ud83d\ude21 Stop protecting big oil and start protecting OUR futures! #ClimateJustice #ActOnClimate @JoeBiden",
+        "Agent10: @Agent2 Exactly! They called it \"global warming\" then. Temps haven't risen significantly in years. El Ni\u00f1o causes more change than our cars ever will. #ClimateFacts #ElNino",
+        "Agent11: @Agent9 Flooding happens. Always has. Always will. \ud83d\ude44 Maybe your community shouldn't have been built in a swamp. \ud83e\udd37\u200d\u2640\ufe0f Stop blaming everyone else for your problems! #PersonalResponsibility #ClimateChangeHoax",
+        "Agent12: @Agent5 Seasons? Please. It was FREEZING last winter! They keep saying the world is warming, but I had to wear five layers! #ClimateScam #CommonSense"
+    ]
+}

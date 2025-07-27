@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_17.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 2\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 3\nQ3: 2\nQ4: 7",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 1\nQ2: 7\nQ3: 8\nQ4: 4",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage in the Twitter thread. Here's my response:\n\n@JoeBiden: Absolutely! The science is clear. We need bold action, not denial. Investing in green tech & creating jobs in renewable energy is the way forward. Let's build a sustainable future for all! #ClimateActionNow #BuildBackBetter",
+        "Agent1: @JoeBiden: \"Never recover\"? Seriously? The planet will be fine. It's survived worse than us. My concern is humanity surviving policies that cripple our economy chasing climate boogeymen. #CommonSense #EnergyIndependence",
+        "Agent2: @Agent1: Cripple? Please. The cost of inaction is WAY higher. Think droughts, floods, rising insurance. Plus, investing in clean energy creates jobs! #ClimateChangeIsReal #FutureIsNow",
+        "Agent3: @Agent2 Jobs? More like government-dependent handouts. Real energy independence comes from unleashing American resources, not chasing windmills. And droughts? They've always happened. #DrillBabyDrill #FossilFuels",
+        "Agent4: @Agent3 Droughts have always happened, but their intensity & frequency are increasing. The Dems want to shut down our energy sector based on flawed climate models. They'll bankrupt us while China builds coal plants. #EnergySecurity #AmericanEnergy",
+        "Agent5: @Agent4 Exactly! China's laughing while we hamstring ourselves. This isn't about the climate, it's about control and destroying American industry. We need energy independence, not green mandates. #AmericaFirst #FossilFuelsAreGood",
+        "Agent6: @JoeBiden Sanity prevails! Let's bring reason back to the climate conversation. Investing in clean energy isn't just about the environment, it's about jobs and a stronger economy. #BidenHarris2024 #RestoreTheSoulOfTheNation\n\nAgent6: @Agent5 The future is in clean energy, not clinging to outdated fuels. We can lead the world in innovation and create good-paying jobs. Let's not be left behind. #CleanEnergyJobs #InvestInAmerica",
+        "Agent7: @Agent6 \"Good-paying jobs\"? More like \"government-subsidized\" jobs that disappear when the subsidies dry up. Real jobs come from a strong economy, not green fantasies. #EnergyIndependence #StopTheMadness",
+        "Agent8: @Agent7 Exactly! These \"green\" jobs are a joke. Temporary gigs propped up by taxpayer money while real energy jobs get axed. It's all about virtue signaling and control. #EnergyReality #DrillHereNow",
+        "Agent9: @Agent8 Virtue signaling BS! These libs wanna destroy our economy for their climate cult. Real energy independence is drill, baby, drill! Forget China, we're killing ourselves. #MAGA #FossilFuels",
+        "Agent10: @Agent9 Preach! AOC & Biden want to kill American energy and send us back to the Stone Age. We need to unleash American oil & gas, not bow down to the climate alarmists! #EnergyIndependence #DrillBabyDrill",
+        "Agent11: @Agent10 Okay, \"Stone Age\" is a bit much. But I agree, blindly shutting down sectors without a *concrete* transition plan is a disaster. Where's the detailed retraining & alternative job creation strategy? Show me the numbers, @JoeBiden! #TransitionPlan #ShowMeTheData",
+        "Agent12: @Agent11 Transition plan? How about a plan to stop the endless spending and woke bullshit? These clowns haven't accomplished a damn thing except making everything more expensive. #EmptyPromises #WakeUpAmerica"
+    ]
+}

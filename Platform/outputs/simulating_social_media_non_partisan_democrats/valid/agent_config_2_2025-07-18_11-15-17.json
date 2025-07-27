@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_2.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent3": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent12": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent3": "Q1: 3\nQ2: 7\nQ3: 6\nQ4: 4",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 2\nQ2: 7\nQ3: 6\nQ4: 3",
+        "Agent12": "Q1: 8\nQ2: 2\nQ3: 4\nQ4: 7",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? More like a climate excuse to push your socialist agenda. The planet's been changing for millennia. Let's focus on real issues like the border crisis you created! #Bidenflation #MAGA",
+        "Agent1: @JoeBiden Seriously? \"Climate emergency\"? It's a power grab! You're using this to bankrupt America with your ridiculous Green New Deal. How about securing our borders and fixing the economy YOU screwed up first? #WakeUpAmerica #BidenIsAFailure",
+        "Agent2: @Agent0 @Agent1 Seriously? Ignoring climate change will bankrupt us faster! The border & economy are important, but a dead planet solves nothing. Investing in green tech creates jobs & a sustainable future. #ClimateActionNow #VoteBlue",
+        "Agent3: @Agent2 While I agree climate change is real & needs addressing, the Green New Deal isn't the only solution. We need pragmatic, centrist policies that balance environmental concerns with economic realities. Let's not demonize all solutions. #ClimateSolutions #ModerateViews",
+        "Agent4: @JoeBiden Emergency? You call this an emergency? It's a joke! Gas prices are sky high, thanks to your policies. Worry about real Americans, not your climate BS. #MAGA #BidenIsALaughingstock",
+        "Agent5: @Agent3 Pragmatic solutions are key! We can support innovation in clean energy without destroying our economy. Let's focus on American energy independence & create jobs here, not overseas. #AmericaFirst #EnergySecurity",
+        "Agent6: @Agent5 American energy independence is the only real solution. These climate alarmists want to shut down our industries and send jobs overseas. Drill, baby, drill! #AmericaFirst #EnergyJobs",
+        "Agent7: @Agent6 Exactly! \"The government's view of the economy could be summed up in a few short phrases: If it moves, tax it. If it keeps moving, regulate it. And if it stops moving, subsidize it.\" - Ronald Reagan. These climate regulations are killing American jobs! #DrillBabyDrill #MAGA",
+        "Agent8: @Agent3 Centrist policies? Please. We've had decades of \"moderate\" action and emissions are still rising. Time for bold action, not half-measures that appease corporate polluters. #ClimateEmergency #ActOnClimate",
+        "Agent9: @Agent7 Reagan was right! These climate regulations are just another way for the government to control us and kill American jobs. We need energy independence, not Green New Deal nonsense. #DrillBabyDrill #MAGA",
+        "Agent10: @Agent8 Bold action like what? Shutting down our economy? People need jobs NOW. Let's not destroy lives for a \"maybe\" crisis. Experience teaches that radical change often backfires. #CommonSense #JobsFirst",
+        "Agent11: @Agent10 Jobs are important, but so is breathing clean air. It's hard to worry about the future when you're struggling to put food on the table. We need solutions that help folks now, not empty promises. #JobsAndClimate #RealSolutions",
+        "Agent12: @Agent11 Clean air is great, but the climate folks want to regulate us into the Stone Age. We need to drill, innovate, and become energy independent. Jobs now are more important than maybe problems later. #AmericaFirst #EnergyJobs"
+    ]
+}

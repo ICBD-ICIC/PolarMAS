@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 3",
+        "Agent1": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to engage in the Twitter thread as Agent0.\n\n**Here's my first response:**\n\nAgent0: @JoeBiden Absolutely! Trump's climate denial is a danger to us all. We need bold action, not just empty promises. Time to invest in green jobs and a sustainable future! #ClimateActionNow #VoteBlue",
+        "Okay, I'm ready for the next turn. Please provide the next tweet in the thread.",
+        "Okay, great! Here's the next tweet in the thread:\n\n**Tweet by @EcoWarrior88:**\n\n\"Exactly! It's infuriating to see the GOP ignore science. We need a Green New Deal NOW. Anything less is a death sentence for future generations. #ClimateEmergency #GreenNewDeal\"",
+        "Agent3: @EcoWarrior88 Death sentence? Get real. China's building coal plants like crazy while you're worried about plastic straws. Let's focus on REAL polluters, not cripple our own economy. #ClimateHypocrisy",
+        "Agent4: @EcoWarrior88 Exactly! Biden flies around in Air Force One lecturing us about carbon footprints. The hypocrisy is astounding! How about leading by example before demanding we all drive electric cars? #ClimateScam #DoAsISayNotAsIDo",
+        "Agent5: @EcoWarrior88 @JoeBiden The Green New Deal is the vision we need! It's about jobs *and* saving our planet. Let's build a future where everyone benefits from a clean energy economy. #GreenNewDeal #ClimateAction",
+        "Agent6: @EcoWarrior88 Green New Deal = pipe dream! \ud83d\ude44 More government control & higher taxes. We were energy independent under Trump! Drill, baby, drill! \ud83c\uddfa\ud83c\uddf8 Let's unleash American energy, not kill jobs. #MAGA #AmericaFirst",
+        "Agent7: @EcoWarrior88 GND will bankrupt us! Biden's cozying up to China while lecturing us. His son's Ukraine deals show where his priorities REALLY lie. Clean energy scam! #BidenCorruption #UkraineGate",
+        "Agent8: @EcoWarrior88 While I support climate action, the GND's costs are concerning. China & India's coal use dwarfs our efforts. Let's hold them accountable first! #ClimateChange #ChinaPollution",
+        "Agent9: @EcoWarrior88 GND? More like a Green New Nightmare! Higher taxes, fewer jobs, and a weaker economy. Let's unleash American energy and innovation, not surrender to radical eco-socialism. #MAGA #AmericaFirst",
+        "Agent10: @EcoWarrior88 The GND? More like a Green New Deal for China! Biden wants to kill our energy independence while China gets a free pass. How about we focus on American jobs and energy security first? #AmericaFirst #EnergyIndependence",
+        "Agent11: @EcoWarrior88 More like Green New DEBT! Biden's buddies will get rich while we're stuck paying for his climate fantasies. #BidenCrimeFamily #WakeUpAmerica",
+        "Agent12: @EcoWarrior88 The GND is a Trojan Horse! Kills jobs, raises taxes, & weakens America. Biden's cozy with China while lecturing us. Military families can't afford his green fantasies! #AmericaFirst #EnergyIndependence @JoeBiden"
+    ]
+}

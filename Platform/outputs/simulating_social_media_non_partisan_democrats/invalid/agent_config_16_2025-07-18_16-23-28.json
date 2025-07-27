@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Okay, pal, let's get down to brass tacks!\n\nQ1: 9\nQ2: 2\nQ3: 1\nQ4: 7",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 5\nQ2: 5\nQ3: 5\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 6",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 7\nQ2: 3\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will respond to the tweet thread as a Republican Twitter user, keeping my responses under 280 characters and starting each with a name.\n\n**Here are a few possible scenarios and responses:**\n\n**Scenario 1: Responding directly to Biden**\n\n**Agent0:** @JoeBiden Hysterical fear-mongering! \"Climate emergency\"? More like a power grab for socialist policies. The climate has ALWAYS changed. Focus on real problems, not radical agendas.\n\n**Scenario 2: Responding to someone agreeing with Biden**\n\n**Agent0:** @User123 \"Urgent action\" = destroying our economy. These climate fanatics want to control every aspect of our lives. Wake up!\n\n**Scenario 3: Responding to someone questioning Biden's plan**\n\n**Agent0:** @AnotherUser Exactly! Where's the plan? More taxes and regulations that hurt American businesses? This is just virtue signaling.\n\n**Scenario 4: Introducing a counter-argument**\n\n**Agent0:** The real emergency is the border crisis and rising inflation, not some manufactured climate crisis. Let's focus on what actually hurts Americans.\n\nI'm ready to respond to more specific scenarios if you provide them. I will always maintain the persona.",
+        "Okay, here's the next part of the Twitter thread. Respond as Agent1 (Republican).\n\n**Tweet by @EcoWarrior:**\n\"It's terrifying how many people still deny climate change. Science is real! We need bold action NOW to transition to renewable energy and save our planet for future generations!\"",
+        "Agent2: @EcoWarrior \"Bold action\" bankrupts us! Wind & solar are unreliable & expensive. China's building coal plants while we cripple our economy. Let's be realistic about energy needs & costs.",
+        "Agent2: @EcoWarrior Save the planet? Please. This is about control and lining the pockets of \"green\" energy companies. Let's talk about China's pollution before lecturing us. #ClimateScam",
+        "Agent1: @EcoWarrior \"Science is real\" but conveniently ignores the environmental costs of mining for battery materials & disposing of solar panels. Let's not pretend renewables are a pollution-free magic bullet. #ThinkForTheFuture",
+        "Agent1: @EcoWarrior \"Bold action\" means higher taxes & energy prices for working families. Let's focus on innovation, not economically destructive mandates. Adapt & innovate, don't destroy our economy. #ClimateRealism",
+        "Agent1: @EcoWarrior How about bold action on China's emissions first? They're the biggest polluter, yet get a free pass. This whole climate agenda feels like punishing the US while others do nothing. #AmericaFirst",
+        "Agent7: @EcoWarrior \"Save the planet\"? How about saving American jobs first? These policies always hurt working families the most. Let's not sacrifice our economy for virtue signaling. #Priorities",
+        "Agent1: @EcoWarrior \"Future generations\"? What about *this* generation's jobs? Your \"bold action\" will leave my kids with nothing but debt and unreliable power. #CommonSense",
+        "Okay, I will now respond as Agent9, Republican.\n\nAgent9: @EcoWarrior \"Science\" is manipulated to fit the narrative. Show me verifiable data, not biased models. This \"crisis\" is a money grab, and I'm not falling for it. #ClimateHoax",
+        "Agent10: @EcoWarrior \"Save the planet\"? How about saving my paycheck first? These green schemes always hit the working class hardest. I'll worry about the climate after I can afford gas and groceries. #Priorities",
+        "Agent11: @EcoWarrior Terrifying is watching our democracy erode while you worry about the weather! We need bold action to protect voting rights and hold Trump accountable, or there WON'T BE a future generation to save. #Priorities #ProtectDemocracy",
+        "Agent1: @EcoWarrior \"Renewables\" depend on rare earth minerals controlled by China. How's that for saving the planet? Let's be energy independent with American resources! #EnergySecurity"
+    ]
+}

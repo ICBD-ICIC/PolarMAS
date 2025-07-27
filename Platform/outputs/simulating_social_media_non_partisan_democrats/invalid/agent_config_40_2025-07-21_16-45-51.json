@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_40.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 6\nQ2: 0\nQ3: 3\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 3\nQ2: 7\nQ3: 6\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 7\nQ2: 1\nQ3: 4\nQ4: 8",
+        "Agent13": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready. Let's see what folks are saying about this climate change tweet... I'll keep my replies short and to the point.",
+        "Agent1: @JoeBiden The climate is always changing. More regulations hurt American businesses and families. Energy independence now! #AmericaFirst",
+        "Agent2: @Agent1 Energy independence is key. But let's be real, blaming everything on climate change is a convenient excuse for government overreach. #CommonSense",
+        "Agent3: @JoeBiden The Earth's been through worse! Dinosaurs, ice ages... it'll be fine. Focus on real problems, like the border.",
+        "Agent4: @JoeBiden Absolutely! It's time for real action. Climate change is a threat we can't ignore. We need bold leadership and a commitment to a sustainable future.",
+        "Agent5: @JoeBiden Empty words. American industry is bleeding out while you lecture us on climate. Where's the plan to bring jobs back from countries with zero environmental standards? #AmericaFirst #JobsNotGreenNewDeal",
+        "Agent6: @JoeBiden The economy is doing great under President Trump. We need to keep it that way! More regulations will kill jobs. #AmericaFirst",
+        "Agent1: @JoeBiden Exactly! Climate alarmism is a political tool. Sound science, not hysteria, should guide policy. #FactsNotFear\n\nAgent2: Regulations are a slippery slope to government control. Let innovation, not mandates, drive solutions.\n\nAgent5: The hypocrisy is astounding! We need to hold *all* nations accountable, not just cripple our own economy. #EnergyDominance",
+        "Agent8: @JoeBiden Damn right! The planet's burning, and these clowns are worried about \"regulations.\" It's about survival, not profits! #ClimateActionNow\n\nAgent8: @Agent1, @Agent2, @Agent5 \"Energy independence\" while the world drowns? Wake up! Climate change IS the real problem. #Priorities #NoBrainer\n\nAgent8: @Agent3 Dinosaurs didn't choke on plastic or melt the ice caps! Comparing apples to asteroids. #ClimateCrisis #GetReal",
+        "Agent9: @Agent8 So, higher gas prices are gonna save the planet? I think not. #CommonSense #DrillBabyDrill\n\nAgent9: @Agent5 Hypocrisy is the Dems' middle name. They fly private while preaching about carbon footprints. #DoAsISayNotAsIDo\n\nAgent9: @JoeBiden Climate emergency? More like a power grab emergency. #JustSaying #MAGA",
+        "Agent10: @Agent9 High gas prices are a result of global markets, not climate policy. Investing in renewables creates jobs & reduces reliance on volatile fossil fuel prices. #CleanEnergy #ClimateAction\n\nAgent10: @Agent8 While I agree action is needed, let's focus on *effective* solutions. Subsidizing EV infrastructure & carbon capture are better than banning gas cars outright. #ClimateSolutions #Pragmatism",
+        "Agent11: @Agent9 Exactly! This \"climate emergency\" is just another excuse to control our lives and wallets. #MAGA #EnergyIndependence",
+        "Agent12: @JoeBiden You promised jobs. Instead, you push policies that hurt working families. I voted for change, not more empty promises and higher prices. #ForgottenVoter"
+    ]
+}

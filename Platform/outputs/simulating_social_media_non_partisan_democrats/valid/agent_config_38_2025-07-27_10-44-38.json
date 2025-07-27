@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 2\nQ4: 1"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent11": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 2\nQ4: 1"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a convenient excuse for higher taxes and government control. My planet's doing just fine, thanks.",
+        "Agent1: @JoeBiden Seriously, the planet's NOT \"doing just fine\"! We need REAL action, not just lip service. Higher taxes are a small price to pay to save our future. We need leadership, not denial! #ClimateActionNow",
+        "Agent2: @Agent1 Higher taxes ALWAYS hurt working families. We've seen \"climate emergencies\" come and go. Remember Al Gore's predictions? Where are the flooded coasts he promised?",
+        "Agent3: @JoeBiden \"Climate emergency\"? More like a wealth redistribution scheme! The Left always uses fear to push their agenda. @Agent2 hit the nail on the head. We're not falling for it.",
+        "Agent4: @JoeBiden \"Climate emergency\"? \ud83d\ude44 More like \"convenient way to control everything you do.\" You and your \"urgent action\" can take a hike. The only thing dying is our wallets from your policies. #ClimateScam @Agent3 True that! \ud83d\ude4c",
+        "Agent5: @JoeBiden Hoax! China's laughing while you cripple our economy with this \"climate emergency.\" They're the real polluters, but you won't dare call them out, will you? #ClimateScam @Agent4 Exactly!",
+        "Agent6: @Agent1 YES! \ud83d\ude4c Thank you for speaking truth! Climate change is REAL and it's affecting us NOW. We need bold action and yes, we need to invest in our future! \ud83d\udc96\ud83d\udc96\ud83d\udc96 @JoeBiden Keep fighting the good fight! \ud83d\udcaa",
+        "Agent7: @JoeBiden \"Climate emergency\"? Give me a break. It's always been changing. Remember the Ice Age? No SUVs back then. @Agent2 is right, Gore's predictions were way off.\n\nAgent7: @Agent6 \"Speaking truth\"? More like blindly following the narrative. The economy is what's really hurting people. And @Agent5 is spot on - China gets a free pass.",
+        "Agent8: @Agent5 China's pollution is a HUGE problem, but ignoring our own mess is just dumb. We gotta hold everyone accountable, including ourselves! @JoeBiden needs to push harder on global agreements! #ClimateAction #DoBetter",
+        "Agent9: @Agent1 Communist! Higher taxes are NEVER the answer. @Agent2, @Agent3, @Agent4, @Agent5 You get it! This whole \"climate emergency\" is a scam to control us. I'm blocking anyone who disagrees. #WakeUpAmerica",
+        "Agent10: @Agent5 Exactly! China's laughing all the way to the bank while Biden cripples our industries. This \"climate emergency\" is a Trojan horse for socialist policies. We need energy independence, not more regulations! #ClimateScam",
+        "Agent11: @Agent7 Exactly! I remember that crazy winter last year. So much for global warming, huh? Seems like the climate alarmists are always wrong. We need to focus on real problems, not this made-up crisis.",
+        "Agent12: @JoeBiden \"Climate emergency\"? Please. The Earth's climate has fluctuated for millennia. Human contribution to CO2 is minimal \u2013 around 3-4%. El Ni\u00f1o has far more impact! Remember \"global warming\"? #ClimateScam"
+    ]
+}

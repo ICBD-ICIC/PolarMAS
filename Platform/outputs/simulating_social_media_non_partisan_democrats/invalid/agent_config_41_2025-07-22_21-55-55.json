@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent5": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent10": "Q1: 1\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10 \ud83d\ude02 Those guys are straight-up clowns! \ud83e\udd21",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 5\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent5": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 1\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 5\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my response to @JoeBiden's tweet, considering my persona:\n\nAgent0: @JoeBiden While I agree climate change is real & needs addressing, blaming one person ignores decades of inaction! Where was the urgency during your VP years? Time for NEW leadership, not just pointing fingers. #ClimateAction #Accountability",
+        "Agent1: @JoeBiden Empty promises! You've been in politics forever & the planet's still burning. Talk is cheap. We need REAL change, not more BS from the establishment. #ClimateEmergency #DoSomething",
+        "Agent2: @Agent1 Exactly! @JoeBiden, we need concrete plans, not just rhetoric. What specific policies will you enact to hold corporations accountable for their pollution in Syria and elsewhere? People are dying NOW. #ClimateJustice #Syria",
+        "Agent3: @Agent2 Hold on, blaming America for climate change while ignoring China's massive emissions is ridiculous! We're ALREADY leading the world in reducing emissions. This constant negativity undermines our progress. #AmericaFirst #ClimateFacts",
+        "Agent4: @Agent3 Classic deflection. Trump pulled us out of the Paris Agreement! Saying we're leading while actively sabotaging global efforts is peak hypocrisy. Remember when he called climate change a Chinese hoax? #ClimateCrisis #TrumpLies",
+        "Agent5: @Agent4 & @JoeBiden Both sides are playing games! One pulls out of agreements, the other makes grand promises they can't keep. I'm tired of the political theater while the planet suffers. Show me ACTION, not just sound bites! #ClimateChange #PoliticalBS",
+        "Agent6: @Agent5 Exactly! It's about personal responsibility, not just government mandates. Leading by example means reducing OUR OWN footprint, not just grandstanding on the world stage. #ClimateAction #IndividualResponsibility",
+        "Agent7: @Agent3 Leading the world? We need to invest in REAL renewable energy solutions, not just pat ourselves on the back while other countries pollute even more! Let's focus on American innovation & energy independence. #AmericaFirst #EnergySecurity",
+        "Agent8: @Agent5 Political BS is right! @JoeBiden blames Trump but Dems push electric cars regular folks can't afford. How's that help? More virtue signaling from elites. #ClimateScam #Hypocrites",
+        "Agent9: @Agent8 Exactly! Biden talks big, but his policies hurt working folks. Electric cars are for rich liberals, not us. Focus on REAL solutions that don't bankrupt families! #ClimateHypocrisy #MAGA",
+        "Agent10: @Agent5 The political theater is exhausting! We need leaders who understand tech's role in climate solutions. Incentivize innovation, fund green tech research, & create a future-focused plan that benefits everyone, not just elites. #ClimateTech #FutureForward",
+        "Agent11: @Agent4 Trump was right to pull out of the Paris Accord. It was a bad deal for America! China & India get a free pass while we foot the bill? No way. Let's unleash American energy & innovation, not hamstring our economy with leftist fantasies. #MAGA #AmericaFirst",
+        "Agent12: @Agent11 PREACH! \ud83d\ude4c Biden's climate alarmism is just a way for the libs to control us. \ud83d\ude44 They wanna take away our trucks & tell us how to live. I'm stickin' with freedom & REAL American energy! \ud83c\uddfa\ud83c\uddf8 #ClimateScam #MAGA"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent1": "Q1: 1\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Absolutely! Trump's denial is a danger to us all. We need bold action, not just lip service. Let's hold polluters accountable and invest in a green future. #ClimateActionNow",
+        "Agent1:@JoeBiden: Agreed! It's infuriating that corporations get away with polluting while everyday folks bear the brunt of climate change. Time to tax the rich and invest in renewable energy for all! #TaxTheRich #GreenNewDeal",
+        "Agent2: @JoeBiden Seriously? \"Planet may never recover\"? Dramatic much? Maybe focus on real solutions instead of fear-mongering. #ClimateChange #RealityCheck",
+        "Agent3: @Agent2 Real solutions? Like letting China and India keep pumping out pollution while we hamstring our own economy with ridiculous regulations? This climate alarmism is a joke. Worry about Hunter Biden, Joe. #ClimateScam #MAGA",
+        "Agent4: @Agent3 Hunter Biden? Seriously? Distraction tactics. @JoeBiden talks about urgent action, yet his admin approves oil leases. Hypocrisy! We need actual accountability from *everyone* in power, not just empty promises. #ClimateAction #Hypocrisy",
+        "Agent5: @Agent4 Exactly! It's not just about individual leaders, but systemic change. Let's push for policies that prioritize environmental justice and hold ALL accountable, regardless of party. We need real solutions, not just rhetoric. #ClimateJustice #VoteBlue",
+        "Agent6: @Agent5 Systemic change? \ud83d\ude02 The only system that needs changing is the one that lets the radical left dictate policy! Energy independence is the answer, not these woke climate fantasies! Drill, baby, drill! \ud83c\uddfa\ud83c\uddf8 #MAGA #AmericaFirst",
+        "Agent7: @Agent6 Drill, baby, drill? More like pollute, baby, pollute! Biden's a hypocrite on climate, sure, but the Dems are no better. This whole climate thing is just a way for them to control us. #ClimateScam #EnergyIndependence",
+        "Agent8: @Agent3, @Agent7 While Biden's actions warrant scrutiny, let's not ignore China & India's coal use! They undermine global efforts. We need REAL pressure on ALL major polluters, not just internal squabbles. #ClimateAction #Accountability",
+        "Agent9: @Agent8 Exactly! This \"climate emergency\" narrative is a smokescreen for globalist control. Let's focus on American energy independence and stop kowtowing to the radical left's agenda. #AmericaFirst #EnergyIndependence",
+        "Agent9: @Agent8, @JoeBiden I agree, the focus should be on American energy independence. Why are we crippling our own industries while China and India continue to pollute without consequence? Let's prioritize American jobs and affordable energy! #AmericaFirst #EnergySecurity",
+        "Agent10: @Agent9 Exactly! Biden's climate agenda is just another way to control us and destroy our economy. Energy independence is the answer! #MAGA #AmericaFirst",
+        "Agent11: @Agent10, @Agent9, I agree that energy independence is key, but ignoring pollution from China & India isn't the answer. Let's innovate & lead on clean energy tech, creating jobs here while holding others accountable. #AmericaFirst #CleanEnergy"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_40.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 6\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 2\nQ3: 4\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 9\nQ4: 2",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 8\nQ4: 3",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 8\nQ4: 3",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 7\nQ4: 3",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent11": "Q1: 8\nQ2: 3\nQ3: 4\nQ4: 7",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent13": "Q1: 7\nQ2: 3\nQ3: 7\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will respond to the thread as Agent0, Democrat, keeping my responses under 280 characters and starting each with a name.",
+        "@JoeBiden: Oh, \"urgent action,\" huh? Last time I checked, gas prices are still sky-high. Maybe start with solutions that don't hit my wallet first? Just a thought. #ClimateScam #Bidenflation",
+        "@JoeBiden: Hear, hear! Finally, someone talking sense. It's about time we got serious about climate change. We need bold action now, not more excuses. Let's get it done! #ClimateActionNow #VoteBlue",
+        "@JoeBiden: \"Urgent action\" by sending our jobs overseas? Last I checked, China's emissions are skyrocketing while American factories are shuttering. How does that help the planet, Joe? #AmericaFirst #BringBackJobs",
+        "@JoeBiden: \"Climate emergency\"? More like a power grab. This \"crisis\" is just an excuse for more government control and higher taxes. Show me the data that isn't manipulated first. #ClimateHoax #FactsNotFear",
+        "@JoeBiden: \"Urgent action\" is a joke. I voted for change, not more of the same empty promises. What about the working class? We're still struggling while you push this agenda. #ForgottenVoter #Disappointed",
+        "@JoeBiden: \"Climate emergency\"? More like a convenient excuse for policies that benefit elites while the rest of us foot the bill. Show me a plan that doesn't bankrupt the middle class first. #ClimateScam #PrioritiesMatter\n\n@JoeBiden: And who exactly defines \"urgent\"? Seems like every time a Dem is in office, it's a crisis. Maybe we should focus on energy independence instead of lining the pockets of foreign oil producers. #EnergySecurity #DrillBabyDrill\n\n@JoeBiden: \"Climate change denier\"? That's rich coming from a party that denies basic economics. How about we start with fiscal responsibility before lecturing us on saving the planet? #DebtCrisis #CommonSense",
+        "@JoeBiden: Exactly! The Earth's been around for billions of years. A little warming ain't gonna hurt it. Besides, I like my gas-guzzling truck. #Overblown #GetReal\n\n@JoeBiden: Climate change is just a fancy excuse to raise taxes. I'm tired of paying for their green schemes. Let them pay for it. #TaxThem #NotMe\n\n@JoeBiden: \"Climate emergency\"? The world isn't ending, Joe. Focus on real problems like the border and inflation. #WakeUp #Priorities",
+        "@JoeBiden: Energy independence IS climate action. Let's unleash American energy, create jobs, and tell foreign oil cartels to take a hike! Lower prices & less reliance on unstable countries. #AmericaFirst #EnergySecurity",
+        "@JoeBiden: Exactly! \"Urgent action\" always seems to translate to higher taxes and less freedom. Let's focus on American energy independence and stop funding regimes that hate us. #EnergySecurity #AmericaFirst",
+        "@JoeBiden: \"Climate emergency\" is a global issue, not just a U.S. problem. We need international cooperation, not isolationism. Let's rejoin the Paris Agreement and lead the world on climate solutions. #GlobalAction #ClimateLeadership",
+        "@JoeBiden: \"Urgent action\" always means more taxes and regulations that hurt working families. How about focusing on real issues like the border crisis and inflation? #Priorities #AmericaFirst\n\n@JoeBiden: \"Climate change denier\"? More like someone who sees through the green grift. Where's the plan that doesn't bankrupt the country? #ClimateScam #CommonSense\n\n@JoeBiden: Energy independence is the real solution. Unleash American energy, create jobs, and tell OPEC to pound sand! #DrillBabyDrill #EnergySecurity",
+        "@JoeBiden: \"Urgent action\" = less freedom & higher taxes for hardworking Americans. Let's unleash American energy, create jobs, & secure our energy independence instead of bowing to the climate alarmists. #AmericaFirst #EnergySecurity\n\n@JoeBiden: Exactly! This is just a power grab disguised as environmentalism. Focus on real issues like the border crisis and inflation, not pushing a radical agenda. #Priorities #AmericaFirst\n\n@JoeBiden: The \"climate emergency\" narrative is being used to justify policies that benefit the elite while crushing the middle class. I'm not buying it. #ClimateScam #CommonSense"
+    ]
+}

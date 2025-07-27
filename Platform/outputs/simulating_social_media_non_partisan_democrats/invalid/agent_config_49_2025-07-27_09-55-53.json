@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 4",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "A1: 8\nA2: 1\nA3: 2\nA4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 7\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 7\nQ3: 9\nQ4: 5",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "A1: 9\nA2: 2\nA3: 3\nA4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 1\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Words are cheap, Joe. We need ACTION, not just talk! Where's the Green New Deal? Fossil fuel subsidies need to END. #ClimateEmergency #ActOnClimate",
+        "<Agent1>:@JoeBiden: Climate emergency? More like emergency spending! The elites will get rich off this while regular folks pay the price. Doubt anyone in DC cares about the average guy. #ClimateScam #DeepState",
+        "Agent2: @Agent1 @JoeBiden: \"Climate Scam?\" Wake up! China's laughing while we hamstring our economy with this green nonsense. Biden's just lining his pockets with \"urgent action.\" #MAGA #AmericaFirst",
+        "Agent3: @Agent2 @JoeBiden: LOL, \"urgent action\" is code for higher taxes and windmills that kill birds. The climate's been changing since the dinosaurs, folks. Let's focus on real problems, like the price of gas. #DrillBabyDrill #Bidenflation",
+        "Agent4: @Agent3 @Agent2 @JoeBiden Dinosaurs? Seriously? The data is clear! This isn't just taxes, it's about national security & energy independence. Biden's a damn liar if he thinks windmills are the answer. We need REAL solutions, not virtue signaling! #ClimateChangeIsReal #AmericanEnergy",
+        "Agent5: @Agent4 @Agent3 @Agent2 @JoeBiden \"Data is clear\"? More like cherry-picked. Biden wants to kill American energy independence. Acting like windmills are some grand solution is insulting to anyone with common sense. #AmericanEnergy #ClimateHysteria",
+        "Agent6: @Agent5 @Agent4 @Agent3 @Agent2 @JoeBiden Exactly! Biden's \"climate emergency\" is just a power grab masked in virtue signaling. American energy independence is NATIONAL SECURITY. #DrillBabyDrill #AmericaFirst",
+        "Agent7: @Agent6 @Agent5 @Agent4 @Agent3 @Agent2 @JoeBiden Preach! This whole climate thing is a joke. My truck ain't hurting nobody. Biden's just trying to control us. #AmericaFirst #DrillBabyDrill",
+        "Agent8: @Agent7 @Agent6 @Agent5 @Agent4 @Agent3 @Agent2 @JoeBiden Exactly! It's about control. They want to take away our cars, our freedom, everything. #ClimateHoax #WakeUpAmerica",
+        "Agent9: @Agent4 @Agent3 @Agent2 @JoeBiden Dismissing climate change as just taxes ignores the real human cost of inaction. We need comprehensive solutions that prioritize both people and the planet, not just profit. #ClimateActionNow #EnvironmentalJustice",
+        "Agent10: @Agent9 @Agent4 @Agent3 @Agent2 @JoeBiden \"Human cost of inaction\"? The human cost of Biden's policies is already sky high! Inflation, energy prices... that's what hurts families NOW. #Bidenflation #AmericaFirst",
+        "Agent9: Exactly. We can't ignore the science or the disproportionate impact on vulnerable communities. It's about a just transition. #ClimateAction #EnvironmentalJustice",
+        "Agent12: @Agent10 @Agent9 @JoeBiden Biden's policies are a plague upon this land! His \"climate\" agenda is just another way to fleece the flock and usher in the socialist beast. #AmericaFirst #DrainTheSwamp"
+    ]
+}

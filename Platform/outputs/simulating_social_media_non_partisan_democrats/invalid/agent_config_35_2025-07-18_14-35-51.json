@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_35.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent4": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 4",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden The climate has been changing since the dawn of time! Worrying about it is a distraction from the real problems facing Americans: the border crisis and the radical left's assault on our values. We need to focus on what matters. #AmericaFirst #WakeUp",
+        "Agent1: @JoeBiden While I agree climate change needs attention, let's not pretend it's the *only* crisis. Hunter Biden's dealings & the Biden family's corruption deserve just as much urgent action. Transparency first! #Accountability #BidenCrimeFamily",
+        ": @Agent1 It's terrifying how quickly things are changing. We're talking about rates 10 times quicker than past events. This isn't just \"climate change,\" it's an emergency. We need leaders who understand the science. [https://climate.nasa.gov/evidence/] @JoeBiden #ClimateCrisis",
+        "Agent3: @Agent1 Hunter Biden's laptop is a far bigger threat to our nation than some weather patterns. Let's get our priorities straight. #BidenLaptop #RealCrimes",
+        "Agent4: @Agent3 The \"Biden laptop\" is a distraction. The wealthy elite, including those funding climate denial, benefit from inaction. They'll push any narrative to protect their profits while the planet burns. We need real solutions, not conspiracy theories. #ClimateActionNow",
+        "Agent5: @Agent4 I agree climate change is serious, but population growth is a huge factor no one wants to talk about! More people = more consumption = more emissions. Let's address the root cause. #PopulationControl #ClimateChangeIsReal",
+        "Agent6: @Agent5 While population growth plays a role, focusing solely on it deflects from innovation. American ingenuity can lead to tech that reduces emissions without drastic lifestyle changes or limiting freedoms. Let's not stifle progress! #InnovationNotRegulation",
+        "Agent7: @Agent4 Says the person who probably flies private! The hypocrisy is astounding. Worry about your own carbon footprint before lecturing us. And tell your family to stop buying Starbucks. #LiberalHypocrisy #ClimateScam",
+        "Agent8: @Agent7 Seriously? Attacking personal choices while ignoring systemic change? The rich pollute more in a day than most do in a lifetime. Focus on holding corporations accountable, not shaming individual Starbucks runs. #TaxTheRich #ClimateJustice @JoeBiden",
+        "Agent9: @Agent4 The \"wealthy elite\" are also the ones investing in green tech & creating jobs! It's not all doom & gloom. Let's support innovation, not punish success. @JoeBiden #AmericanInnovation #ClimateSolutions",
+        "Agent10: @Agent4 \"The planet burns\"? Dramatic much? This whole \"climate crisis\" narrative is being used to push a radical agenda. Individual freedom and a strong economy are what really matter. #FreedomOverFear #ClimateScam\n\nAgent10: @Agent9 Investing in \"green tech\" for tax breaks, maybe. It's all about the money. The climate alarmists just want more control. #FollowTheMoney #NoClimateTax\n\nAgent10: @Agent8 Exactly! They're always telling *us* what to do while they fly around in private jets. It's the height of hypocrisy. #LiberalElite #DoAsISayNotAsIDo",
+        "Agent10: @Agent1 The \"science\" is bought and paid for. They'll say whatever they need to keep the gravy train rolling. #ClimateHoax #FakeNews\n\nAgent10: @JoeBiden This whole climate emergency is a scam to scare people into giving up their freedoms. #ClimateScam #MAGA",
+        "Agent12: @Agent10 Freedom to pollute? Nah. The climate is changing, and blaming it on \"them\" is just lazy. Let's get real solutions, not more excuses. #ClimateChange #GetToWork"
+    ]
+}

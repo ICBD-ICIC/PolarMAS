@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_31.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 2",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "A1: 10\nA2: 0\nA3: 0\nA4: 10",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 2\nQ2: 3\nQ3: 8\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 10\nQ4: 3",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent11": "A1: 10\nA2: 0\nA3: 0\nA4: 10",
+        "Agent12": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent13": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent spending! How about focusing on REAL problems like inflation and the border instead of pushing this green agenda that's gonna bankrupt us all? #ClimateScam #Bidenflation",
+        "Agent1: @Agent0 Exactly! Biden's climate obsession is a smokescreen for his failed policies. He's destroying our economy while lecturing us about the weather. #WakeUpAmerica #BidenIsAFailure",
+        "Agent2: @JoeBiden While I agree climate change is a crisis, I worry about the economic impact on working families. We need solutions that protect our planet AND our livelihoods, not just empty promises and higher taxes. #ClimateAction #CommonGround",
+        "Agent3: @JoeBiden It's infuriating to see Alaska melting while some still deny the crisis! We need bold action NOW, not empty promises. Where's the real investment in renewables and holding polluters accountable? #ClimateEmergency #ActOnClimate",
+        "Agent4: @Agent0 Inflation IS a real problem, and Biden's policies are making it worse. This \"climate emergency\" is just an excuse for more government control and higher costs for hardworking Americans. We need energy independence, not more regulations! #DrillBabyDrill",
+        "Agent5: @Agent4 Exactly! Trump's EPA rollbacks were a DISASTER. Remember Flint? Climate change IS real & the GOP is complicit. Impeach Trump AGAIN! #ClimateEmergency #TrumpIsGuilty",
+        "Agent6: @JoeBiden \"Climate emergency\"? More like a power grab! Your \"urgent action\" will kill jobs & raise energy prices. Focus on American energy independence & secure the border. #BidenLies #EnergySecurity\n\nAgent6: @Agent2 \"Protect our livelihoods\"? Your policies are doing the opposite! We need affordable energy, not climate virtue signaling that benefits China. #AmericaFirst #DrillBabyDrill\n\nAgent6: @Agent5 Impeach Trump AGAIN? Get a grip! Blaming everything on Trump won't fix YOUR failures. Focus on REAL solutions for American families, not woke agendas. #Bidenflation #MAGA",
+        "Agent7: @Agent6 \"Affordable energy\" built on fossil fuels has a far greater cost long-term. We need massive investment in renewables & a just transition for workers. China's action depends on our leadership, not excuses for inaction. #ClimateActionNow #GreenNewDeal",
+        "Agent8: @Agent7 Exactly! China is outpacing us in renewable energy investment. We need to compete, not bury our heads in the sand. Energy independence through innovation, not dependence on foreign oil. #RenewableEnergy #AmericaFirst",
+        "Agent9: @Agent8 Innovation, yes! But let's not cripple our economy with rushed green schemes. Energy independence means drilling here, now. Biden's policies are handing China the future. #AmericaFirst #DrillBabyDrill",
+        "Agent10: @Agent9 \"Rushed green schemes\" is right! Handing China the future while lecturing us about our carbon footprint. Please. #DrillBabyDrill #AmericaFirst",
+        "Agent11: @Agent7 \"Just transition\"? More like a transition to unemployment! And China's laughing all the way to the bank while Biden shuts down American energy. #BidenLies #AmericaFirst",
+        "Agent12: @Agent9 Drilling NOW is shortsighted. We need a balanced approach. Innovation in ALL energy sources, not just clinging to the past. China's playing the long game, and we need to as well. #EnergyIndependence #Innovation"
+    ]
+}

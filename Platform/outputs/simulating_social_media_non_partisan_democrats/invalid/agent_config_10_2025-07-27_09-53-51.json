@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 6\nQ3: 10\nQ4: 5",
+        "Agent7": "Q1: 0\nQ2: 6\nQ3: 10\nQ4: 3",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 10\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Absolutely! The climate crisis is real and demands immediate action. Trump's denial is a danger to our future. We need bold policies and investments in clean energy NOW. #ClimateAction #VoteBlue",
+        "Agent1: @JoeBiden Planet might not recover? Sounds like someone's been sniffing too much green energy. #BidenIsADisaster #MAGA",
+        "Agent2: @Agent1: Disaster? I think you mean reality check! It snowed in April last year. Where's the global warming now? #ClimateScam #WakeUp",
+        "Agent3: @Agent2 Snow in April? Lol, that's weather, not climate, genius. Typical Libs ignoring basic science. #ClimateChangeHoax #FactsMatter",
+        "Agent4: @Agent3 \"Basic science\"? More like manufactured hysteria to control us! Biden's cronies will get rich off this \"crisis\" while we pay the price. #ClimateScam #WakeUpAmerica",
+        "Agent5: @Agent4 Wake up, America? More like wake up and smell the smoke! Both parties are lining their pockets while our communities suffer. \"Climate action\" is just another tax grab. #PoliticiansAreCrooks #NoMoreLies",
+        "Agent6: @Agent5: Exactly! The GOP's denial is infuriating, but the Dems' \"solutions\" often feel like corporate greenwashing. We need REAL systemic change, not just another tax scheme disguised as climate action. #ClimateJustice #ForThePeople",
+        "Agent7: @Agent6 & all: While I agree about corporate greenwashing, let's not forget the US's historical responsibility for this mess! We need to hold corporations AND @JoeBiden accountable for REAL climate justice. Reparations for the Global South are a MUST. #ClimateDebt",
+        "Agent8: @Agent7 Reparations? Give me a break! We're already bailing out everyone else. How about we focus on America first and stop funding their \"green\" scams? #AmericaFirst #NoFreebies",
+        "Agent9: @Agent8 Focusing on America means protecting our environment too! Ignoring climate change hurts us all, including our economy. Investing in green solutions creates jobs and a healthier future. #ClimateActionNow #AmericanInnovation",
+        "Agent10: @Agent9 Jobs? More like government handouts to failing solar companies! And \"healthier future\" while they ban gas stoves? Please. #ClimateHypocrites #MAGA",
+        "Agent11: @Agent10 Gas stoves? Seriously? This isn't about your kitchen appliances, it's about the planet. #Priorities #ClimateChangeIsReal",
+        "Agent12: @Agent11 Planet? More like lining Biden's pockets! Son's deals and \"climate action\" are all about the money, not the weather. #BidenCrimeFamily #ClimateScam"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 1",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent13": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 1",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent13": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden What \"urgent action\" specifically? Show me the data proving irreversible damage. We need practical solutions, not fear-mongering. Economic impact assessments are crucial before any drastic policy changes.",
+        "Agent1: @Agent0 Practical? How about China's emissions, Joe? We gonna lecture them while our economy tanks with your \"urgent action\"? #ClimateHypocrisy",
+        "Agent2: @Agent0 @JoeBiden The \"urgent action\" is a Green New Deal! We need bold investment in renewables, infrastructure, and jobs. The cost of inaction is far greater. #ClimateActionNow\n\nAgent2: @Agent1 China's emissions are a global problem, but we must lead by example. A green economy creates jobs and strengthens our future. #GreenNewDeal #ClimateLeadership",
+        "Agent3: @Agent2 Lead by example? More like lead ourselves into bankruptcy! China & India get a free pass while we cripple our industries. Empty promises from DC! #ClimateScam @JoeBiden",
+        "Agent4: @Agent3 EXACTLY! \"Lead by example\" means higher taxes & job losses while China laughs all the way to the bank. This climate BS is just another power grab by the Dems! #WakeUpAmerica @JoeBiden",
+        "Agent5: @Agent4 @JoeBiden Exactly! It's always about control. \"Climate emergency\" is a convenient excuse for radical policies that hurt American workers. KAG45! #WalkAway #ClimateScam",
+        "Agent6: @Agent5 Radical policies like what, specifically? What's the actual cost to American workers, and how does that compare to the potential cost of inaction? Show me the numbers. #ClimateDebate",
+        "Agent7: @Agent6 I'm with you. We need real numbers, not just rhetoric. What specific regulations are being proposed and what are the projected job losses? Also, is there any consideration for the aging grid and energy independence? @JoeBiden",
+        "Agent8: @Agent7 Finally, some common sense! The right-wing echo chamber is deafening. We need concrete plans for grid modernization & a just transition for workers in fossil fuel industries. @JoeBiden, let's see the detailed proposals! #ClimateActionNow #GreenJobs",
+        "Agent9: @Agent8 \"Common sense\" from the radical left? You want to bankrupt America with your Green New Deal fantasies! Jobs in the fossil fuel industry are REAL jobs. @JoeBiden Stop pushing this climate hoax!",
+        "Agent10: @Agent9 Exactly! \"Green New Deal\" = government control & economic suicide. @JoeBiden wants to kill American energy while China builds coal plants. #ClimateScam #MAGA",
+        "Agent11: @Agent10 Preach! It's always about control and lining their pockets with carbon taxes. My energy bill is high enough already, I'm not paying for their climate fantasies! #ClimateScam #MAGA",
+        "Agent8: @JoeBiden Good to see calls for specifics! Let's focus on tangible solutions: investments in renewable energy infrastructure that create jobs & lower energy costs for working families. #ClimateActionNow #BuildBackBetter"
+    ]
+}

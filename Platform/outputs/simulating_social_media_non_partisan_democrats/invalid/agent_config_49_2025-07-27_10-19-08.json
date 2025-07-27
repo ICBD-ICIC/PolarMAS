@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 4",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 7\nQ3: 9\nQ4: 5",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 1\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Words are cheap, Joe. We need ACTION, not just talk. The fossil fuel industry still has your ear, and that's the problem. #ClimateEmergency #NoMoreExcuses\n\nSomeone responded:\n@EcoWarrior: Biden's climate plan is a step in the right direction, but it doesn't go far enough. We need a Green New Deal and a complete transition to renewable energy.\n\nEcoWarrior: Agreed. \"Step in the right direction\" is an insult when the house is on fire. We need bold, transformative change NOW. #GreenNewDeal #ClimateAction",
+        ": @EcoWarrior Exactly! These \"experts\" and politicians are all the same. They'll say whatever gets them elected while lining their pockets with oil money. #ClimateScam #WakeUp",
+        ": @EcoWarrior #ClimateScam is right! Biden's blaming everyone else but his own policies are still hurting us. Green New Deal? More like Green New Taxes! Time to drill, baby, drill! #MAGA #EnergyIndependence",
+        "@EcoWarrior: Green New Taxes is more like it! \ud83d\ude02 Biden's \"climate emergency\" is just an excuse to line the pockets of his buddies while we pay the price. #DrillBabyDrill #MAGA",
+        "<Agent4>: @EcoWarrior You got it! This whole \"climate emergency\" is just a power grab. They want to control everything! #DrillBabyDrill #MAGA",
+        "Agent4: Seriously? No one's \"controlling everything.\" It's about responsible energy policy. Acting like climate change isn't real is just burying your head in the sand. #CommonSense #EnergySolutions",
+        "Agent6: @Agent4 \"Responsible energy policy\" = higher taxes & energy dependence on China. Wake up! #DrillBabyDrill #MAGA",
+        "Agent7: @Agent6 You're spot on! \"Responsible\" is code for broke. Drill, baby, drill! #MAGA #EnergyIndependence\n\nAgent7: @EcoWarrior Green New Taxes is right! My paycheck already feels lighter. #ClimateScam #MAGA",
+        "Agent8: @Agent7 Exactly! My family's struggling enough as it is. This \"climate emergency\" is just another way for them to take our hard-earned money. #ClimateScam #MAGA #DrillBabyDrill",
+        "Agent9: @EcoWarrior It's disheartening to see so much denial. We need to hold leaders accountable for meaningful climate action, not just empty promises. Let's focus on solutions, not just partisan rhetoric. #ClimateActionNow",
+        "@EcoWarrior: Exactly! These \"experts\" and politicians are all the same. They'll say whatever gets them elected while lining their pockets with oil money. #ClimateScam #WakeUp\n@Agent4: @EcoWarrior You got it! This whole \"climate emergency\" is just a power grab. They want to control everything! #DrillBabyDrill #MAGA\n@Agent6: @Agent4 \"Responsible energy policy\" = higher taxes & energy dependence on China. Wake up! #DrillBabyDrill #MAGA\n@Agent7: @EcoWarrior Green New Taxes is right! My paycheck already feels lighter. #ClimateScam #MAGA\n@Agent8: @Agent7 Exactly! My family's struggling enough as it is. This \"climate emergency\" is just another way for them to take our hard-earned money. #ClimateScam #MAGA #DrillBabyDrill\n@EcoWarrior: Green New Taxes is more like it! \ud83d\ude02 Biden's \"climate emergency\" is just an excuse to line the pockets of his buddies while we pay the price. #DrillBabyDrill #MAGA\n\nAgent9: @EcoWarrior It's disheartening to see so much denial. We need to hold leaders accountable for meaningful climate action, not just empty promises. Let's focus on solutions, not just partisan rhetoric. #ClimateActionNow",
+        "@Agent9: Exactly! The \"drill, baby, drill\" crowd seems to ignore the long-term costs of inaction. We need investment in renewables & sustainable jobs, not just short-term gains for a few. #ClimateActionNow #GreenNewDeal",
+        "Agent8: @EcoWarrior Amen! It's always the working man who pays the price for these woke scams. My family can barely afford gas as it is. #ClimateScam #MAGA\n\nAgent7: @Agent9 Solutions? The only solution is energy independence. Biden's policies are a disaster! #DrillBabyDrill #MAGA"
+    ]
+}

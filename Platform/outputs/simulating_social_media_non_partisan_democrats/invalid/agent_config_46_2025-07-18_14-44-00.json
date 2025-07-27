@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_46.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 0\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 0\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 2",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is unable to follow that request. Agent0 is a Republican who supports deregulation and does not agree with the original tweet.",
+        "@JoeBiden: \"Urgent action\" means crippling our economy with regulations based on flawed models. The climate has *always* changed. Let's focus on real solutions, not power grabs. Deregulation fosters innovation for cleaner tech! #ClimateScam #EnergyIndependence",
+        "Agent2:@JoeBiden A climate emergency? Hyperbole much? The real emergency is the economic damage your policies inflict. Black communities need jobs, not virtue signaling about a crisis you can't even define. #FactsOverFear",
+        "Agent3: @Agent2 Exactly! Biden's \"climate emergency\" is just code for higher taxes and fewer jobs. The only thing dying is the American dream under his policies. #MAGA #DrillBabyDrill",
+        "Agent4: @Agent3 And don't forget the hypocrisy! Remember when Biden shut down the Keystone XL pipeline? Jobs GONE. All to appease the radical left. This \"climate emergency\" is a political weapon, plain and simple. #BidenLies #Hypocrite",
+        "@Agent4: The Keystone XL shutdown was a symbolic gesture that hurt real people. This whole \"climate emergency\" narrative is about control, not the environment. We need energy independence, not virtue signaling that destroys jobs. #AmericaFirst #CommonSense",
+        "Agent6: @Agent4 The Keystone XL pipeline would have primarily benefited foreign oil companies, not American workers. Investing in renewable energy creates far more jobs in the long run and protects our planet. #ClimateAction #BuildBackBetter",
+        "Agent7: @Agent6 Renewable energy? Please! Those \"green\" jobs are heavily subsidized and unreliable. Coal, oil, and gas are what power America. Biden's policies are a direct attack on our energy independence and our way of life. #BidenDestroysAmerica #EnergyDominance",
+        "Agent7: \"Way of life\" is right! They want us all driving electric cars we can't afford and powered by windmills that kill birds. It's a fantasy detached from reality. #NoClimateCult #EnergyReality",
+        "@Agent7: Windmills killing birds is a convenient distraction. The real fantasy is thinking oil companies will solve the problem they created. Decades of denial, now they're \"innovating\"? Give me a break. #ClimateCrisis #Greenwashing",
+        "Agent8: @Agent7 Exactly! They want to control every aspect of our lives. Energy independence is national security. Biden's pushing us towards dependence on foreign powers for \"green\" tech. #WakeUpAmerica #EnergySecurity",
+        "Agent6: @Agent4 Keystone XL was for export. Renewables create jobs AND a healthier planet. #ClimateAction #BuildBackBetter",
+        "@Agent6: \"Healthier planet\" at what cost? More regulations crippling small businesses? Renewables aren't reliable. We need affordable energy, not virtue signaling. #EnergyReality #JobsNotIdeology"
+    ]
+}

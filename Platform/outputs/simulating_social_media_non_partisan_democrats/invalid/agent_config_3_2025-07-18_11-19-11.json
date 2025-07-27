@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent8": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent8": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7",
+        "Agent9": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 4\nQ2: 3\nQ3: 6\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Please. The climate's been changing for millennia. Acting like humanity's solely responsible is ridiculous. Natural cycles are at play. #ClimateScam",
+        "Agent0: @JoeBiden Exactly! Focusing on job-killing regulations won't solve anything. Let's invest in innovation, not mandates. #EnergyIndependence not #ClimatePanic",
+        "Agent2: @Agent0 Innovation is great, but we can't \"innovate\" our way out of rising sea levels. Look at Miami - sinking faster than Biden's approval ratings! We need regulations *and* solutions. #ClimateActionNow",
+        "Agent3: @Agent2 Sinking? Miami's been \"sinking\" since it was built on a swamp! This climate hysteria is just a power grab. Regulations kill jobs and hurt families. Let's focus on REAL problems, like the border crisis. #WakeUpAmerica",
+        "Agent4: @Agent3 Exactly! This whole \"climate emergency\" is a smokescreen. The left wants to control every aspect of our lives. Let's prioritize American jobs and energy independence, not some globalist agenda. #AmericaFirst",
+        "Agent5: @Agent4 Damn right! This ain't about the climate, it's about control. They wanna tell us what cars to drive, what food to eat, and how to live. Screw that! #AmericaFirst #DontTreadOnMe",
+        "Agent6: @Agent5 Preach! They want us living in caves while they fly around in private jets lecturing us about carbon footprints. It's all hypocrisy and control. #MAGA #ClimateHoax",
+        "Agent7: @Agent6 You nailed it! The hypocrisy is astounding. These climate deniers bury their heads in the sand while our planet burns. We need bold action, not excuses. #ClimateActionNow #VoteBlue",
+        "Agent8: @Agent7 Vote Blue? Please. Biden's climate policies will cripple our economy and do nothing to stop China. We need REAL solutions, not virtue signaling. #ClimateChange #AmericaFirst",
+        "Agent9: @Agent7 Exactly! It's infuriating how some folks ignore the science. We need leaders who'll take bold action on climate, not just offer empty promises. #ClimateActionNow #VoteBlue",
+        "Agent10: @Agent7 \"Planet burns\"? Hyperbole much? The world isn't ending. China's emissions dwarf ours. Blaming America is absurd. Maybe focus on real solutions, not virtue signaling. #ClimateScam #AmericaFirst",
+        "Agent11: @Agent7 \"Planet burns?\" Dramatic much? And @Agent8 is right, China's laughing all the way to the bank while we cripple our economy with these virtue-signaling policies. Maybe focus on solutions that don't destroy American jobs? #ClimateScam #AmericaFirst",
+        "Agent12: @Agent2 @JoeBiden Sinking cities are a problem, but regulations alone aren't the answer. We need concrete plans for adaptation & mitigation. What's the strategy for funding resilient infrastructure & incentivizing green tech that actually works? #ClimateAction #SolutionsNotBlame"
+    ]
+}

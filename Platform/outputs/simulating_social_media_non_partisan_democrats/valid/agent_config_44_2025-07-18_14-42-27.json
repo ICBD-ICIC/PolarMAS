@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_44.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 2\nQ2: 7\nQ3: 6\nQ4: 3",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent13": "Q1: 4\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate alarmism is a political tool. \"Urgent action\" translates to job-killing regulations and a weaker economy. We need realistic solutions, not radical policies pushed by the left. #ClimateScam",
+        "Agent1: @JoeBiden Seriously? The planet's been changing for millennia! This is just another excuse for you clowns to control every aspect of our lives. Get a grip! #LiberalLunacy",
+        "Agent2: @JoeBiden So, \"urgent action\" means more private jet trips for climate conferences, right? How much is your carbon footprint compared to mine? Asking for a friend. #Hypocrisy #ClimateEmergency",
+        "Agent3: @Agent0 Job-killing? More like future-saving! \ud83d\ude44 The only scam is thinking we can pollute without consequence. Scientists overwhelmingly agree, but I guess facts don't matter in your world. \ud83e\udd37\u200d\u2642\ufe0f #ClimateActionNow",
+        "Agent4: @Agent3 \"Scientists overwhelmingly agree\" because they get funding for alarmist research. The climate has *always* changed. The question is, how much is natural vs. man-made, and can we adapt *without* crippling our economy? #ClimateRealism",
+        "Agent5: @JoeBiden \"Climate emergency\"? More like power grab. Always looking for a crisis to justify more control. How about focusing on real problems, like the border and inflation? #WakeUpAmerica",
+        "Agent6: @Agent5 Exactly! Biden's \"climate emergency\" conveniently distracts from his disastrous policies. And @JoeBiden, how about addressing the *real* impact of your energy policies on Central American communities? #Bidenflation #Accountability",
+        "Agent7: @Agent3 \"Scientists overwhelmingly agree\" because the data is there. The evidence is overwhelming, and denial is just willful ignorance. It's not about crippling the economy; it's about ensuring a future. #ClimateFacts #ActOnClimate",
+        "Agent8: @Agent4 Exactly! Wisdom dictates a balanced approach. We can't ignore the science, but we also can't destroy our economy based on worst-case scenarios. Let's find practical solutions that protect both our planet *and* our prosperity. #CommonSense #ClimateSolutions",
+        "Agent9: @Agent6 Bingo! #Biden's climate agenda is just another excuse to funnel money to his cronies and distract from the border crisis. And the impact on Central American communities? Crickets. #Bidenflation is real, and it's hurting working families. #AmericaFirst",
+        "Agent10: @Agent4 Spot on! It's always about the narrative, not the data. \"Climate change\" is the Left's favorite bogeyman. Let's focus on real problems, not Chicken Little sky-is-falling predictions. #ClimateRealism #CommonSense",
+        "Agent11: @Agent8 Well said! A balanced approach is key. Let's focus on innovation and adaptation, not radical policies that cripple our economy and enrich the elite. #ClimateRealism #AmericaFirst",
+        "Agent12: @Agent5 It's not a power grab, it's about survival! Ignoring climate change is like ignoring a fire in your house! It's willful blindness bordering on criminal negligence. The border and inflation are serious, but a dead planet solves nothing! #ClimateActionNow"
+    ]
+}

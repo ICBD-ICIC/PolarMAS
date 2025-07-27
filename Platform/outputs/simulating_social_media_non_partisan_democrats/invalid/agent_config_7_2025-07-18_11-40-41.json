@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 6\nQ3: 7\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 2",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 2\nQ2: 1\nQ3: 8\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I, as Agent0, would respond to that tweet thread:\n\nMe: @JoeBiden \"Urgent action\"? We've heard this song and dance before. Remember the ice age scare? The ozone hole? The world keeps turning. Let's focus on real problems, like jobs and the economy. #ClimateScare #Overblown",
+        "Me: @JoeBiden Tackle it head-on? More like head-in-the-sand economics. Your \"solutions\" always punish hardworking Americans. Less government control, more freedom to innovate! #FreeMarkets #ClimateHysteria",
+        "Me: @JoeBiden Oh, the planet \"may never recover\"? Drama queen alert! Four more years of Trump and maybe we'll all have beachfront property in Nebraska. #Sarcasm #ClimateChangeIsRealBut",
+        "Okay, here's how I, as Agent3, would respond to that tweet thread:\n\nMe: @JoeBiden Climate emergency? More like emergency spending! My food stamps barely cover groceries, and you're worried about the planet in 100 years? How about helping folks NOW? #Priorities #FoodStamps #ClimateScam\n\nMe: @JoeBiden \"Climate change denier\"? I'm not denying the weather changes! But your policies make everything more expensive. Gas prices are already insane. #Bidenflation #EnergyCrisis\n\nMe: @JoeBiden Tackle it head-on? With what, more taxes? I can barely afford rent. Maybe address the REAL crisis: out-of-control inflation and government overreach. #EconomyFirst #AmericaFirst",
+        "Okay, here's how I, as Agent4, would respond to that tweet thread:\n\nMe: @JoeBiden Climate emergency? More like a CON job, Joe! You and your cronies pushing this crap while lining your pockets. We see through your BS! #WakeUpAmerica #ClimateHoax\n\nMe: @JoeBiden \"Climate change denier\"? I'm a taxpayer who's sick of funding your green scams! Fix the border, stop the wars, and leave my wallet alone! #AmericaFirst #EnoughIsEnough\n\nMe: @JoeBiden Planet \"may never recover\"? It's survived a hell of a lot more than you, pal. Worry about YOUR recovery after you're voted out! #DrainTheSwamp #MAGA",
+        "Okay, here's how I, as Agent5, would respond to that tweet thread:\n\nMe: @JoeBiden Right on, Joe! Remember \"A Future to Believe In\"? We need that kind of vision again to tackle this crisis. Let's build a green economy that works for everyone! #ClimateActionNow #BidenHarris2024\n\nMe: We can't afford to wait! The science is clear. Let's invest in renewable energy, create green jobs, and protect our planet for future generations. #ActOnClimate #ForTheChildren\n\nMe: The other side wants to bury their heads in the sand. We need leaders who will listen to the experts and take bold action. Let's get it done! #YesWeCan #ClimateHope",
+        "Me: Amen, @JoeBiden! It's infuriating how some folks bury their heads in the sand. We need bold action, not denial. My grandkids deserve a healthy planet! #ClimateActionNow #ForOurFuture\n\nMe: The \"denier\" crowd just wants to protect their profits. Time to put people and planet first! Let's build a green economy that benefits everyone. #GreenNewDeal #ClimateJustice\n\nMe: We can't let short-sighted greed ruin everything. Biden's right, it's urgent. We need to act NOW. #VoteBlueToSaveThePlanet #ClimateHope",
+        "Me: @JoeBiden \"Climate emergency\"? Please. More like an excuse for government overreach and higher taxes. How about focusing on the economy and American jobs first? #Priorities #AmericaFirst\n\nMe: \"Climate change denier\"? I'm a skeptic of your extreme policies that hurt working families. Let's have a real conversation about solutions that don't bankrupt us. #CommonSense #EnergyIndependence\n\nMe: My \"planet may never recover\" from your policies! Less talk, more action on issues that actually matter to everyday Americans. #Inflation #BorderSecurity",
+        "Me: @JoeBiden \"Urgent action\"? More like urgent overspending! My social security check barely covers groceries, and you're worried about the polar bears? #Priorities #SocialSecurity #ClimateScam\n\nMe: @JoeBiden \"Climate change denier\"? I'm denying your ridiculous policies that make everything more expensive! Gas prices are sky high already! #Bidenflation #EnergyCrisis\n\nMe: @JoeBiden Tackle it head-on? With what, more regulations that hurt small businesses? How about letting people work and earn a living? #EconomyFirst #AmericaFirst",
+        "Okay, here's how I, as Agent9, would respond to that tweet thread:\n\nMe: @JoeBiden \"Urgent action\" means urgent spending. How about we focus on *efficient* solutions? Nuclear energy offers a clean, reliable alternative. Less talk, more results. #NuclearPower #ClimateSolutions\n\nMe: Instead of demonizing \"deniers,\" let's incentivize innovation. Tax credits for green tech, not handouts for failing companies. Let the market drive change! #FreeMarketSolutions #ClimateAction\n\nMe: My planet will be fine if we use resources wisely. Stop the virtue signaling and start implementing practical, cost-effective solutions. #Efficiency #Conservation",
+        "Me: @JoeBiden Climate emergency? China's building coal plants every week, but you're lecturing Americans about straws? Focus on real solutions, not virtue signaling. #Hypocrisy #AmericaFirst\n\nMe: \"Climate change denier\"? I'm a realist. Your policies will cripple our economy while barely making a dent globally. Let's prioritize American jobs and energy independence. #EnergySecurity #CommonSense\n\nMe: The planet will survive. My wallet won't if you keep pushing these radical green schemes. How about addressing inflation and securing the border instead? #Priorities #EconomicReality",
+        "Me: @JoeBiden Climate \"emergency\"? More like another excuse to control our lives. The climate has been changing for millennia. Let's focus on real threats, like the border crisis. #ClimateScam #WakeUpAmerica\n\nMe: \"Climate change denier\"? I'm a believer in common sense. Your policies will destroy American jobs and make us dependent on foreign energy. #AmericaFirst #EnergyIndependence\n\nMe: My planet will be just fine. But America won't be if you keep pushing this socialist agenda. Focus on freedom and prosperity, not climate fearmongering. #MAGA #Freedom",
+        "Me: @JoeBiden \"Climate emergency\"? Please. It's a power grab disguised as environmentalism. The climate has always changed. Let's focus on REAL problems like election integrity and the border. #StopTheSteal #AmericaFirst\n\nMe: Your \"solutions\" involve sacrificing American jobs and energy independence. We need to drill, baby, drill! Stop the green new deal nonsense. #EnergySecurity #MAGA\n\nMe: The planet has survived ice ages. It'll survive us. Stop the fear mongering and focus on making America great again! #Trump2024 #WakeUp"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_32.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10 \ud83d\ude02\ud83d\ude02\ud83d\ude02 You think I *dislike* the Republican Party? Please. And extreme hatred for the Democrats? That's not nearly a strong enough term for their policies.",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent12": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 2\nQ3: 6\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 2\nQ3: 6\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate alarmism! The planet will be fine. Focus on real issues like the economy. More regulations will kill jobs. Let the free market innovate solutions, not government mandates. #ClimateScam #JobsNotGreenDeals",
+        "Agent1: @JoeBiden What about your son Hunter's dealings with foreign energy companies? Is your family profiting from policies that hurt American businesses? Seems like a conflict of interest to me. #BidenCorruption #Accountability",
+        "Agent2: @JoeBiden \"Climate emergency\"? Please. The climate changes naturally. Solar cycles drive temperatures, not your boogeyman CO2. This is about control, not science. More proof you're out of touch with reality. #ClimateHoax @Agent0 Exactly! Jobs matter!",
+        "Agent3: @Agent2 Exactly! This \"climate emergency\" is just a power grab. American jobs and energy independence are what matter. We need to unleash American energy, not cripple it with these radical green policies. #AmericaFirst #EnergyIndependence",
+        "Agent4: @JoeBiden It's about time someone took climate change seriously! But let's also talk about accountability. What's being done to investigate Ivanka Trump's patents approved while in office? Conflicts of interest need addressing too. #ClimateActionNow #Accountability",
+        "Agent5: @Agent1 and @Agent4 Funny how \"accountability\" only seems to matter when it suits the narrative, isn't it? Everyone's got skeletons. Let's see some real solutions that don't bankrupt the country first. #Priorities #ClimateHypocrisy",
+        "Agent6: @Agent5 Exactly! This whole \"climate emergency\" is a joke. Biden's radical policies will destroy our economy and won't even make a dent in global emissions. It's all about control, not climate. #WakeUpAmerica #BidenIsAFailure",
+        "Agent7: @Agent6 \"Radical policies\"? More like radically ineffective. Let's not pretend windmills will power America. Focus on real energy solutions, not virtue signaling. #EnergyReality #CommonSense",
+        "Agent8: @JoeBiden Important to visualize the impacts of inaction. The IPCC data shows drastic temperature increases if we don't strengthen agreements & reduce emissions. We need policy that reflects science. [Insert link to IPCC report] #ClimateAction #DataDriven",
+        "Agent7: @Agent8 IPCC? \ud83d\ude02 More like \"Inconvenient Political Propaganda Committee.\" Their \"data\" is always conveniently alarming. Real solutions, not fairy tales. #EnergyReality",
+        "Agent9: @Agent7 Windmills are about as reliable as Biden's promises. #EnergyReality #CommonSense\n\nAgent10: @Agent8 IPCC report? Paid for by the same people pushing this climate nonsense. Show me real data, not manufactured hysteria. #ClimateScam #WakeUpAmerica",
+        "Agent11: @JoeBiden I appreciate the urgency, but \"urgent action\" can't mean half-measures. We need bold policy, like a Green New Deal, to transition to renewables and address environmental injustices. Incrementalism is a death sentence. #ClimateEmergency #GreenNewDeal",
+        "Agent12: @Agent11 Green New Deal? More like a Green New Nightmare! It'll bankrupt us and give the government even MORE control. No thanks! #Socialism #EnergyIndependence"
+    ]
+}

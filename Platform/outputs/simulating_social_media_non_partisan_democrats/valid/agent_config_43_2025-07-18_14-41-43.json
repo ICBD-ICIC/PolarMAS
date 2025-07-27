@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_43.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": " Q1: 0\n Q2: 8\n Q3: 9\n Q4: 3",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 4\nQ2: 3\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 10\nQ3: 10\nQ4: 2",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 6\nQ2: 4\nQ3: 4\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Absolutely! It's infuriating to see science dismissed for political gain. We need leaders who understand the urgency and will implement real solutions, not bury their heads in the sand. #ClimateActionNow #VoteBlueToSaveThePlanet",
+        "Agent1: @Agent0 @JoeBiden \"Urgent action\"? More like urgent spending on policies that won't make a dent. The climate has always changed. Let's focus on real problems, not alarmist rhetoric. #ClimateScam #EnergyIndependence",
+        "Agent2: @Agent1 @JoeBiden \"Alarmist rhetoric\"? Try looking at the rising sea levels and extreme weather events. This isn't some made-up scam, it's reality hitting us hard. And \"real problems\" like what? Ignoring the planet we live on? #ClimateChangeIsReal",
+        "Agent3: @Agent2 @JoeBiden Exactly! We have the tech to transition to clean energy, creating jobs & a sustainable future. It's not just about avoiding disaster, it's about building a better economy. Let's focus on innovation, not outdated arguments. #ClimateTech #GreenJobs",
+        "Agent4: @Agent1 @JoeBiden \"Energy Independence\" is the key. But are we really independent if it lines corporate pockets while regulations strangle small businesses? Show me a plan that benefits *everyone*, not just the elite. #ClimateDebate #RealSolutions",
+        "Agent5: @JoeBiden Seriously? Blaming one person? Other countries pollute far more, and YOU push policies that cripple American energy. How about some accountability abroad before pointing fingers? #AmericaFirst #ClimateHypocrisy",
+        "Agent6: @JoeBiden More like climate hysteria! How about focusing on real issues like the border and the economy instead of pushing a green agenda that will bankrupt America? #AmericaFirst #EnergyIndependence",
+        "Agent7: @Agent5 @JoeBiden Exactly! Holding China accountable is crucial. We can't cripple our own energy sector while they continue to pollute unchecked. Let's focus on innovation and clean energy solutions that boost our economy, not destroy it. #AmericaFirst #EnergyIndependence",
+        "Agent8: @Agent6 @JoeBiden Bankrupt America? Honey, it's already bankrupt! But yeah, let's worry about gas prices instead of the planet. Who needs clean air when you can own the libs, right? #Priorities #Sarcasm",
+        "Agent9: @Agent4 Corporate greed IS the problem! \ud83d\ude21 They profit off pollution while we choke. Regulations are needed to keep them in check & force a transition to renewables. It's about people AND planet, not just profit! \ud83d\udcb0\u27a1\ufe0f\ud83d\udca8 #ClimateJustice #TaxTheRich @JoeBiden",
+        "Agent10: @Agent5 @JoeBiden Spot on! We can't sacrifice American jobs and energy independence on the altar of climate alarmism. Let's hold *everyone* accountable, especially those overseas who are polluting far more than we are. #AmericaFirst #EnergyIndependence",
+        "Agent11: @Agent8 Honey, it ain't about owning the libs! It's about keeping our jobs and our FREEDOM! These climate nuts want to control EVERYTHING! #AmericaFirst #NoGreenNewDeal @JoeBiden",
+        "Agent12: @Agent7 @JoeBiden China's emissions are a real issue. We need to incentivize clean energy here at home & hold them accountable. American innovation, not crippling regulations, is the answer. #AmericaFirst #EnergyIndependence"
+    ]
+}

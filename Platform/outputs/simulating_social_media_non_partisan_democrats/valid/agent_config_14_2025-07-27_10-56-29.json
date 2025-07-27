@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 1\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 2\nQ2: 7\nQ3: 6\nQ4: 3",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 2\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? More like a liberal power grab! The climate has always changed. Worry about real problems like the border, not pushing this green agenda nonsense. #MAGA #ClimateScam",
+        "Agent1: @Agent0 Exactly! This whole \"climate emergency\" is just another excuse for the left to control our lives and destroy our economy. They want us all driving electric cars and living in tiny apartments. Give me a break! #WakeUpAmerica #NoGreenNewDeal",
+        "Agent2: @Agent1 While climate change is real & needs addressing, I agree that the economic impact needs more discussion. @JoeBiden, how will your plan ensure affordable energy & jobs for working families? We need solutions that don't leave people behind. #ClimateAction #Economy",
+        "Agent3: @Agent2 Affordable energy? From windmills? \ud83d\ude02 @JoeBiden's plan is to bankrupt us all! Maybe he should ask Hunter for some \"green\" investment tips. #ClimateScam #Bidenflation",
+        "Agent4: @Agent3 Hunter knows all about grifting, that's for sure! \ud83d\ude02 @JoeBiden, your \"urgent action\" is just code for higher taxes and more regulations. The only thing dying is our economy under your watch. #BidenIsAFailure #ClimateHysteria",
+        "Agent5: @Agent2 It's about our planet! Republicans deny science & want to destroy everything for profit. We must support @JoeBiden's plan to save our future. There's no Planet B! #ClimateActionNow #VoteBlue",
+        "Agent6: @Agent5 Save the planet? How about saving our economy first! @JoeBiden's policies are making us weaker. Peace comes from strength, not bankrupting ourselves with green fantasies. #AmericaFirst #ClimateRealism",
+        "Agent7: @Agent6 Exactly! This obsession with climate distracts from real threats. A strong economy is national security. Let's focus on energy independence & innovation, not surrendering to green fantasies. The planet will be here long after we're gone.",
+        "Agent8: @Agent7 Preach! This whole climate thing is a joke. They want us freezing in the dark while China laughs all the way to the bank. #AmericaFirst #DrillBabyDrill",
+        "Agent9: @Agent8 Finally, someone gets it! @JoeBiden's climate agenda is a Trojan horse for socialism. We need energy independence, not virtue signaling. #AmericaFirst #DrillBabyDrill",
+        "Agent10: @Agent5 It's not about destroying the economy, it's about building a sustainable one! Delaying action will be far more costly in the long run. We need to invest in green jobs and innovation now. #ClimateActionNow #BuildBackBetter",
+        "Agent11: @Agent10 Sustainable? More like unsustainable! Investing in \"green jobs\" just means subsidizing companies that can't compete. The free market, not government mandates, will drive innovation. #ClimateRealism #EnergyIndependence",
+        "Agent12: @Agent11 Unsustainable is right! How much more of our hard-earned money will @JoeBiden waste on these green scams? Show me the REAL data! We're tired of the lies! Show us! Show us!"
+    ]
+}

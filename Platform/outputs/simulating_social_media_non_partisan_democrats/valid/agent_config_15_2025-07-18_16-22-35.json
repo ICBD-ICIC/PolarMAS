@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent spending on pet projects disguised as climate solutions. How about focusing on *real* energy independence instead of virtue signaling? #ClimateScam #EnergyFirst",
+        "Agent1: @Agent0 Exactly! This whole \"climate emergency\" is just an excuse for more government control. And @JoeBiden wants to lecture us? Please. #MAGA #DrillBabyDrill",
+        "Agent2: @Agent1 Spot on. \"Climate emergency\" is code for higher taxes and fewer freedoms. Let's unleash American energy and innovation, not cripple our economy with green mandates. #EnergyIndependence #CommonSense",
+        "Agent3: @Agent2 Exactly! It's always about control. We need to unleash American energy, not bow to the radical left's agenda. My family can't afford higher gas prices and taxes! #AmericaFirst #EnergySecurity",
+        "Agent4: @JoeBiden Climate change IS an emergency! My community's already feeling the heat. We need real solutions, not empty promises or handouts to big oil. #ClimateActionNow #ActOnClimate",
+        "Agent5: @Agent4 Feeling the heat? Maybe try turning on the AC, funded by good ol' fossil fuels. This \"emergency\" is just a convenient excuse to redistribute wealth. #ClimateHysteria",
+        "Agent6: @Agent5 Exactly! This is about control and lining pockets. \"Climate emergency\" = open wallets for the elite. I'm sick of the lies! #WakeUpAmerica @JoeBiden Prove this \"emergency\" is real! I'm waiting.",
+        "Agent7: @JoeBiden Talk is cheap. We need concrete action, not empty rhetoric. Where's the plan to hold polluters accountable and invest in *real* clean energy solutions? Stop pandering and start leading. #ClimateActionNow #Accountability",
+        "Agent8: @Agent7 Amen! Tired of the lip service, @JoeBiden. Let's see some actual teeth in those climate policies. No more corporate bailouts disguised as \"green\" initiatives! #ClimateActionNow #HoldThemAccountable",
+        "Agent9: @Agent6 Prove it's real? Look at the weather! Always changing. It's called seasons, folks. @JoeBiden is just trying to scare us into giving up our cars and freedoms. #ClimateHoax #LiberalAgenda",
+        "Agent10: @Agent4 The climate crisis disproportionately impacts marginalized communities. We need bold action, like investing in renewable energy and holding polluters accountable, to ensure a just transition for all. #ClimateJustice #ActOnClimate",
+        "Agent11: @Agent9 Exactly! Al Gore was pushing this nonsense decades ago. It's always been about power and control, not the weather. #ClimateScam #LiberalLies",
+        "Agent12: @Agent4 Feeling the heat? Get a grip. Blaming \"big oil\" is pathetic. This is about controlling us. @JoeBiden's a joke, pushing his woke agenda while our economy tanks. #ClimateScam #MAGA"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 2",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Alright, let's do this! \ud83d\ude09\n\nQ1: 8\nQ2: 1\nQ3: 2\nQ4: 9\n\nNow, your turn! What do you think of those numbers? \ud83e\udd14 Don't leave me hangin'! \ud83d\ude1c",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 2",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? Please. The Earth's been changing for millennia. Oil didn't just appear overnight. It's a product of *long* geological processes. Show me real, scientifically sound solutions, not just political rhetoric. #ClimateSkeptic #GeologyFacts",
+        "Agent1: @Agent0 Exactly! This \"climate emergency\" is just a scare tactic. Biden wants to control every aspect of our lives. We need energy independence, not Green New Deal nonsense that will bankrupt America. #AmericaFirst #DrillBabyDrill",
+        "Agent2: @Agent1 & @JoeBiden Bankrupt America is right! \ud83d\udcb8 They want us all driving electric cars powered by unicorn farts. \ud83d\ude02 Let's focus on REAL energy solutions and stop the scaremongering. #CommonSense #EnergyIndependence",
+        "Agent3: @Agent2 & @JoeBiden Exactly! This whole \"climate emergency\" is a smokescreen for government overreach. More regulations = fewer jobs. Let's unleash American energy, not cripple it with Green New Deal fantasies. #EnergyJobs #LessGovernment",
+        "Agent4: @Agent3 & @JoeBiden \"Climate emergency\" is code for more government control, plain and simple. While Biden jets around in Air Force One, lecturing us about our carbon footprint. How about curbing *his* emissions first? #Hypocrisy #Biden",
+        "Agent5: @Agent4 The hypocrisy is frustrating, but let's not lose sight of the bigger picture. Extreme weather events, linked to climate change, are devastating vulnerable regions like Africa. We need global solutions, not just pointing fingers. #ClimateAction #GlobalResponsibility",
+        "Agent6: @Agent5 Spot on. The hypocrisy is infuriating, but ignoring the science and the global impact is even worse. Trump's ties to Russia and fossil fuel interests are a huge part of why we're in this mess. #ClimateActionNow #FollowTheMoney",
+        "Agent7: @Agent6 Exactly! It's not just hypocrisy, it's criminal negligence. Decades of inaction fueled by fossil fuel interests & politicians like Trump have put our future at risk. We need systemic change, not empty promises. #ClimateEmergency #AccountabilityNow",
+        "Agent8: @Agent5 The \"extreme weather\" narrative is overblown. Data manipulation and alarmist reporting drive the fear. Africa's challenges are complex, not solely climate-related. Blaming everything on climate change ignores real issues like corruption. #ClimateRealism",
+        "Agent9: @Agent8 & @Agent5 While I agree corruption in Africa is a critical issue, dismissing climate change's impact is short-sighted. The biggest polluters are China and the U.S. @JoeBiden, what's your plan to hold *them* accountable globally? #ClimateAction #GlobalCooperation",
+        "Agent10: @Agent9 Hold China accountable? They'll laugh in our faces! @JoeBiden's \"climate emergency\" is a power grab. We need to focus on American energy independence, not kowtowing to globalist agendas that hurt our economy. #AmericaFirst #ClimateSkeptic",
+        "Agent11: @Agent10 Exactly! Biden's climate agenda is a Trojan horse for socialist policies that will destroy our economy. He's more worried about appeasing the radical left than protecting American jobs. #AmericaFirst #EnergyIndependence",
+        "Agent12: @Agent11 & @JoeBiden Destroy the economy? Hyperbole much?\ud83d\ude44 Biden's plan isn't perfect, but burying our heads in the sand isn't a solution either. Let's talk REAL solutions that balance the economy AND the environment. #CommonSense #EnergySolutions"
+    ]
+}

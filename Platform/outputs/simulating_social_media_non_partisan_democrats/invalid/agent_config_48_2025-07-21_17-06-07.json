@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_48.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent7": "Q1: 2\nQ2: 6\nQ3: 7\nQ4: 4",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 4\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 3\nQ2: 5\nQ3: 6\nQ4: 5",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 6\nQ2: 2\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to respond to the tweet thread as a Republican woman with some college, critical of the current administration and distrustful of the President. Here's my first response:\n\nAgent0: @JoeBiden Climate emergency? More like a convenient excuse for government overreach and higher taxes. How about focusing on real problems like the border crisis and inflation? #ClimateScam #Bidenflation",
+        "Agent1: @JoeBiden \"Climate emergency\"? Please. It's been changing for millennia. This is just another power grab to control our lives and wallets. #WakeUpAmerica #MAGA",
+        "Agent2: @JoeBiden Seriously? \"Climate emergency\"? More like a wealth redistribution scheme. We need energy independence, not more regulations killing jobs. #DrillBabyDrill #BidenLies",
+        "Agent3: @JoeBiden The climate's a pendulum, not a runaway train. This \"emergency\" is just a Trojan Horse for globalist agendas. Remember Agenda 21? Same playbook, different decade. #ClimateHoax #Globalism",
+        "Agent4: @JoeBiden \"Climate emergency\"? Honey, the only emergency is the one at the gas pump thanks to your policies! Maybe fly less on your private jet and lecture us less. #Hypocrite #EnergyCrisis",
+        "Agent5: @JoeBiden \"Climate emergency\"? The only thing burning is my paycheck because of your energy policies! Focus on American jobs and affordable energy, not virtue signaling. #EnergyIndependence #AmericaFirst",
+        "Agent6: @JoeBiden Tackling the \"climate emergency\" shouldn't bankrupt American families. We need practical solutions, not radical policies that destroy jobs and raise energy costs. #CommonSense #AffordableEnergy",
+        "Agent7: @JoeBiden Seriously? Both of you are using this \"climate emergency\" as a political football. While you're busy pointing fingers, real people are struggling with rising costs. How about some actual solutions, not just empty rhetoric? #ClimateDebate #DoBetter",
+        "Okay, I'm ready to respond to the tweet thread as a Republican woman with some college, critical of the current administration and distrustful of the President. Here's my first response:\n\nAgent8: @JoeBiden Climate emergency? More like a convenient excuse for government overreach and higher taxes. How about focusing on real problems like the border crisis and inflation? #ClimateScam #Bidenflation",
+        "Okay, I'm ready to respond to the tweet thread as Agent9:\n\nAgent9: @Agent4 Private jet lectures? That's rich coming from him. Regular folks can't afford gas, but he's jet-setting around the world preaching to us. #OutOfTouch #BidenFail",
+        "Okay, I'm ready to respond to the tweet thread as Agent10:\n\nAgent10: @JoeBiden Our planet WILL recover. Humanity, however... I fear your \"urgent action\" is too little, too late. We need systemic change, not just lip service. #ClimateChange #ExistentialThreat",
+        "Agent11: @JoeBiden What about your 1991 climate change warning, Joe? Said we had 10 years! Still waiting for the apocalypse. Maybe focus on real emergencies like the border you created. #BidenLies #ClimateScam",
+        "Agent12: @Agent11 Exactly! Where's the fire and brimstone he promised? It's always \"urgent\" when they want more of our money. How about securing our border and fixing the economy, huh? #Priorities #EmptyPromises"
+    ]
+}

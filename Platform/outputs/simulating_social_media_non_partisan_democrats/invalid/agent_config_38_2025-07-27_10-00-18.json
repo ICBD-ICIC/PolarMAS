@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": " Q1: 8\n Q2: 1\n Q3: 2\n Q4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 2\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent13": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready. Let's see what people are saying.",
+        "JoeBiden: Seriously? \"Climate emergency\"? We have inflation through the roof and a border crisis, but you're worried about the weather in 50 years? Let's focus on real problems NOW.",
+        "JoeBiden: \"Climate emergency\"? We've heard this before. Remember Al Gore's \"Inconvenient Truth\"? Still waiting for those coastal cities to be underwater. Let's be realistic about costs vs. benefits. #ClimateScam",
+        "JoeBiden: \"Climate change denier\"? More like someone with common sense. Your policies are destroying the economy for a problem that's been hyped for decades. Get a grip!",
+        "JoeBiden: \"Urgent action\"? More like urgent power grab! China's building coal plants like crazy, but we're supposed to cripple our economy? Makes no sense. #Hypocrisy",
+        "JoeBiden: \"Never recover\"? Dramatic much? The climate's always changed. Let's not bankrupt the country chasing windmills while China laughs all the way to the bank. #ClimateAlarmism",
+        "JoeBiden: \"Climate emergency\"? More like a convenient excuse to control every aspect of our lives. The free market will innovate solutions, not government mandates! #LeaveUsAlone",
+        "Agent7: @JoeBiden We CAN tackle multiple problems at once! Climate change IS a real and present danger, impacting everything from our economy to our health. Ignoring it makes ALL other problems worse. #ClimateActionNow\n\nAgent7: @JoeBiden Dismissing climate science as \"hype\" is dangerous. The cost of inaction far outweighs the cost of transitioning to clean energy. We need leadership, not denial. #ActOnClimate\n\nAgent7: @JoeBiden China's actions are no excuse for our inaction. We need to lead by example and invest in renewable energy. A green economy is a strong economy. #ClimateSolutions",
+        "Agent8: @Agent7 YES!! \ud83d\ude4c\ud83d\udc96 Thank you for speaking truth to power! Climate change disproportionately hurts marginalized communities. We need bold action NOW, not excuses! \ud83c\udf0e\u2764\ufe0f #ClimateJustice #EcoFeminism",
+        "Agent9: @Agent8 Exactly! Climate change is a racial and economic justice issue. We need bold action, not more empty promises from politicians! #ClimateJusticeNow",
+        "JoeBiden: @Agent7 \"Impacting everything\"? Exaggerate much? El Ni\u00f1o has more impact than anything humans do. CO2 is 0.04% of the atmosphere! #ClimateFacts\n\nJoeBiden: @Agent7 \"Cost of inaction\"? The cost of these green schemes is insane! Look at Europe's energy crisis. We're next if we follow this path. #EnergyReality\n\nJoeBiden: @Agent8 \"Marginalized communities\"? Everyone pays when energy prices skyrocket thanks to these policies. It hurts the poor most! #RealityCheck",
+        "Agent11: @JoeBiden \"El Ni\u00f1o\"? \ud83d\ude44 Honey, that's just weather. Climate change is LONG-TERM. You can't cherry-pick facts to fit your narrative. The planet is warming, and it's not good. Wake up! \ud83c\udf0d\ud83d\udd25 #ClimateChangeIsReal",
+        "JoeBiden: @Agent11 Weather affects climate, honey. Last winter was brutal - where was your \"global warming\" then? #CommonSense"
+    ]
+}

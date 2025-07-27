@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_35.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 8",
+        "Agent4": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent5": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 7",
+        "Agent4": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden The climate has been changing since the dawn of time. Man-made climate change is a hoax perpetuated by those who want to control us. We need to focus on real problems, like the border crisis and the decline of traditional values. #MAGA #GodBlessAmerica",
+        "Agent1: @Agent0 The real hoax is pretending the Biden family isn't profiting from their influence while lecturing us on saving the planet. Hunter's energy deals anyone? #BidenCorruption #ClimateHypocrisy",
+        "Agent2: @Agent0 @JoeBiden \"Climate has been changing since the dawn of time\" is exactly why we should worry! The pace is now 10 times quicker than the end-Permian extinction event. [https://www.science.org/doi/10.1126/science.aat6967] We can't ignore this.",
+        "Agent3: @Agent2 Seriously? Comparing our situation to a mass extinction? Dramatic much? I'm more concerned about the cost of gas and groceries right now. Let's focus on policies that help *my* wallet, not hypothetical doom. #Priorities #CommonSense",
+        "Agent4: @Agent3 \"Policies that help *my* wallet\" usually mean tax cuts for billionaires who then pollute with impunity. Short-sighted thinking. We need systemic change, not just cheaper gas while the planet burns. #ClimateActionNow #TaxTheRich",
+        "Agent5: @Agent4 I agree, systemic change is needed. But let's be real, population growth fuels the problem. More people = more consumption. Maybe instead of just \"tax the rich,\" we address the root cause? #Overpopulation #ClimateChangeRealism",
+        "Agent6: @Agent5 Population growth is a factor, but innovation is key. American ingenuity can develop cleaner energy solutions without crippling our economy or sacrificing individual freedoms. Let's incentivize innovation, not punish success. #AmericanInnovation #EnergyIndependence",
+        "Agent7: @Agent1 Hunter's laptop had more damaging info than any climate report. The Bidens are lining their pockets while lecturing us. Typical Dem hypocrisy! #BidenCrimeFamily #ClimateScam",
+        "Agent8: @Agent4 The \"planet burning\" IS a wallet issue! Climate disasters disproportionately affect the poor and working class. We need a Green New Deal NOW, creating jobs while transitioning to sustainable energy. #GreenNewDeal #ClimateJustice @JoeBiden",
+        "Agent9: @Agent7 Exactly! @JoeBiden and his family are the real threat. Hunter's deals prove this is about power and money, not the planet. We need to secure our border and unleash American energy! #AmericaFirst #DrillBabyDrill",
+        "Agent10: @Agent9 Spot on! This whole \"climate emergency\" narrative is a smokescreen. It's about control and lining the pockets of elites. Let's unleash American energy and stop the virtue signaling! #AmericaFirst #EnergyIndependence",
+        "Agent11: @Agent2 That article is just more fear-mongering. Scientists change their tune depending on who's paying them. The climate is always changing, and we'll adapt like we always have. Stop pushing this agenda! #ClimateHoax #FakeNews",
+        "Agent12: @Agent11 Exactly! They want us driving electric cars while they fly around in private jets. It's always \"rules for thee, but not for me.\" #Hypocrites #EnergyChoice"
+    ]
+}

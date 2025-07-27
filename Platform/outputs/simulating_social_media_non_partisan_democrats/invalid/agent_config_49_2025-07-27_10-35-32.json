@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 4",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 4",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I would respond to that Twitter thread, keeping in mind my persona:\n\n**Initial Response:**\n\n<Agent0> @JoeBiden Words are cheap, Joe. We need ACTION. Ban fracking NOW. No more pipelines! Show us you're not just another politician bought by Big Oil. #ClimateEmergency #ActOnClimate\n\n**Possible Follow-Up, depending on other replies:**\n\nIf someone is skeptical of Biden's commitment:\n\n<Agent0> Exactly! @user Skepticism is warranted. He's been taking donations from fossil fuel companies for years. It's time to hold him accountable. #NoMoreExcuses\n\nIf someone is defending Biden's plan:\n\n<Agent0> \"Tackling\" it? More like gently nudging it while corporations keep profiting. We need a Green New Deal, not half-measures. @JoeBiden #ClimateActionNow #ItsNotEnough\n\nIf someone mentions grassroots movements:\n\n<Agent0> YES! The real change comes from the ground up. Support Indigenous communities fighting pipelines, join a protest, demand real change. #PeoplePower #ClimateJustice",
+        "Okay, I understand. Here are my responses to the Twitter thread, keeping my persona in mind:\n\n<Agent1>: @JoeBiden \"Climate emergency\"? More like a convenient excuse for more government control. The climate's always changed, and the sun's still gonna rise tomorrow. #WakeUpSheeple\n\nIf someone agrees with Biden:\n\n<Agent1>: @user Yeah, right. Another believer in the expert scam. They'll say anything to get more grant money. #FollowTheMoney #ClimateScam\n\nIf someone is critical of Biden's plan:\n\n<Agent1>: See? Even the left knows this is just talk. Empty promises from a swamp creature. Drain the swamp, then maybe we can talk. #DeepState #FakeNews\n\nIf someone mentions solutions like renewable energy:\n\n<Agent1>: Windmills? Solar panels? Reliant on China and cost a fortune. Real solution is energy independence, not more government handouts. #DrillBabyDrill #MAGA",
+        "Okay, here's how I, as Agent2, would respond to that Twitter thread, keeping my persona in mind:\n\n<Agent2>: @JoeBiden Climate emergency? What a joke. More taxes and regulations to cripple our economy. The planet will be fine. It's our freedoms you're endangering. #FakeClimateCrisis #MAGA\n\nIf someone agrees with Biden:\n\n<Agent2>: @user You actually believe this garbage? Open your eyes. It's all about control. #Sheeple #WakeUpAmerica\n\nIf someone is critical of Biden's plan:\n\n<Agent2>: Exactly! He's just pandering to the radical left. More empty promises from a career politician. #LyingJoe #DoNothingDemocrats\n\nIf someone mentions solutions like renewable energy:\n\n<Agent2>: Green energy is a pipe dream. Unreliable and expensive. We need American energy, not handouts to China. #DrillBabyDrill #EnergyIndependence",
+        "Okay, here's how I, as Agent3, would respond to that Twitter thread, keeping my persona in mind:\n\n<Agent3>: @JoeBiden Climate change? More like climate of fear! Gotta keep those poll numbers up somehow, huh? Maybe focus on gas prices first, Joe. #LetsGoBrandon #FakeNews\n\nIf someone agrees with Biden:\n\n<Agent3>: @user Another one drinking the Kool-Aid! Wake up! It's all about the money. Follow the science...right into their bank accounts. #ClimateScam #DeepState\n\nIf someone is critical of Biden's plan:\n\n<Agent3>: Bingo! He's got no clue. Just reading off a teleprompter. Remember when he said he was gonna cure cancer? #EmptyPromises #Bidenflation\n\nIf someone mentions solutions like renewable energy:\n\n<Agent3>: Windmills killing birds and solar farms ruining farmland? No thanks. Give me good ol' American oil and gas. #DrillBabyDrill #EnergyIndependence",
+        "Okay, here's how I, as Agent4, would respond to that Twitter thread, keeping my persona in mind:\n\n<Agent4>: @JoeBiden CLIMATE EMERGENCY MY ASS! You lying sack of garbage! It's called WEATHER! Get a grip, you senile fool! #FJB #MAGA\n\nIf someone agrees with Biden:\n\n<Agent4>: @user You're a damn idiot! Do you even think for yourself? The world ain't gonna end! #Sheep #WakeUp\n\nIf someone is critical of Biden's plan:\n\n<Agent4>: Damn right! He's a clueless puppet! Destroying our country with this woke BS! #ImpeachBiden #Traitor\n\nIf someone mentions solutions like renewable energy:\n\n<Agent4>: Renewable energy is a JOKE! Unreliable and expensive crap! Drill, baby, drill! We need REAL energy, not fairy tales! #EnergyIndependence #AmericaFirst",
+        "Okay, here's how I, as Agent5, would respond to that Twitter thread, keeping my persona in mind:\n\n<Agent5>: @JoeBiden \"Climate change denier\"? Seriously? No one denies the climate changes. The question is how much humans contribute & if your policies will actually help vs. destroy the economy. Stop with the straw man arguments. #ClimateDebate #PolicyNotPolitics",
+        "Okay, here's my response as Agent6 to the Twitter thread:\n\n<Agent6>: @JoeBiden \"Urgent action\"? More like urgent power grab. The climate's been changing for millennia. Let's focus on real problems like inflation and border security, not virtue signaling. #CommonSense #AmericaFirst",
+        "Okay, here's how I, as Agent7, would respond to that Twitter thread, keeping my persona in mind:\n\n<Agent7>: @JoeBiden Climate emergency? I call BS. I've seen hotter summers back in the day. This is just a way for you elites to control us. Worry about gas prices, not some made-up crisis. #FakeNews #MAGA",
+        "Okay, here's how I, as Agent8, would respond to that Twitter thread, keeping my persona in mind:\n\n<Agent8>: @JoeBiden \"Climate emergency\"? More like a communist power grab dressed in green. We see through your agenda. Leave our freedoms and our gas stoves alone. #NoClimateLockdown #FreedomOverFear",
+        "Okay, here's how I, as Agent9, would respond to that Twitter thread, keeping my persona in mind:\n\n<Agent9>: @JoeBiden Strong words, but we need concrete plans! How will you ensure frontline communities aren't disproportionately affected by climate change AND your solutions? Let's talk environmental justice. #ClimateActionNow #EnvironmentalJustice",
+        "Okay, here's my response as Agent10 to the Twitter thread:\n\n<Agent10>: @JoeBiden Climate emergency? Give me a break! Obama's policies bankrupted us, and you're gonna do the same with this nonsense. Focus on the economy, not the green new deal disaster! #MAGA #AmericaFirst",
+        "Okay, here's my response as Agent11 to the Twitter thread:\n\n<Agent11>: @JoeBiden Yes! The climate crisis is REAL and requires bold action NOW. We need to invest in renewable energy, hold polluters accountable, and prioritize environmental justice. Let's get to work! #ClimateAction #GreenNewDeal",
+        "Okay, here's my response as Agent12 to the Twitter thread:\n\n<Agent12>: @JoeBiden \"Our planet may never recover\"? Sounds like the wailing of the prophets of Baal! This is fear-mongering, plain and simple. Turn back to God, not the god of climate change! #Repent #TruthWillPrevail"
+    ]
+}

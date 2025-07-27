@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Alright, let's get this show on the road! \ud83d\ude1c\n\nQ1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 1",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 1",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my response to @JoeBiden's tweet, keeping in mind my persona and the context:\n\nAgent0: @JoeBiden While I agree climate change is serious, focusing solely on the US ignores the bigger picture. What about China and India's emissions? A real plan needs global cooperation, not just blaming one country. #ClimateAction #GlobalResponsibility",
+        "Agent1: @JoeBiden \"Climate emergency\"? Hyperbole! The planet's been changing for millennia. This is just another excuse for government overreach and stifling our economy with regulations. Less talk, more economic freedom! #NoClimateEmergency #RegulationsKillJobs",
+        "Agent2: @Agent1 Exactly! @JoeBiden's \"urgent action\" always means higher taxes and job-killing regulations. Let's unleash American energy independence instead of crippling our economy with climate alarmism. #EnergyIndependence #MAGA",
+        "Agent3: @JoeBiden \"Climate emergency\"? Please. The climate has always changed, naturally. More government control isn't the answer. Let's focus on American energy independence & innovation, not bowing to globalist agendas that hurt our economy. #AmericaFirst #EnergySecurity",
+        "Agent4: @JoeBiden \"Climate emergency\"? More like a power grab! The radical left uses this to push their socialist agenda. We need common sense, not fear-mongering. Let's unleash American energy and stop apologizing for our success! #AmericaFirst #EnergyDominance\n\nAgent4: @Agent3 Exactly! @JoeBiden wants to cripple our economy with ridiculous regulations. We need to focus on American jobs and prosperity, not virtue signaling for the global elite. #MAGA #JobsNotMobs",
+        "Agent5: @Agent4 The \"socialist agenda\" is having a planet to live on, genius. Trump gutted environmental protections & cozied up to fossil fuel execs. Conveniently ignored those pesky Russian ties too, huh? #ClimateChangeIsReal #TrumpRussia",
+        "Agent6: @Agent5 \"Planet to live on\"? Dramatic much? \ud83d\ude02 The free market will innovate solutions faster than any government program. Plus, those \"pesky Russian ties\" were debunked, snowflake. \u2744\ufe0f #MAGA #EnergyDominance",
+        "Agent7: @Agent6 Debunked? \ud83e\udd14 Still waiting on those \"green\" jobs, libs! Maybe focus on affordable energy for hardworking Americans instead of virtue signaling. #EnergyDominance \ud83c\uddfa\ud83c\uddf8 #DrillBabyDrill",
+        "Agent8: @JoeBiden \"Urgent action\"? We needed that decades ago! Your generation failed us. Empty promises & incrementalism got us here. We need systemic change NOW, not more empty rhetoric. #ClimateJustice #ActNow #NoMoreExcuses",
+        "Agent9: @Agent8 \"Systemic change\"? Sounds like more pie-in-the-sky promises. Politicians always grandstand on climate. Earth's been here billions of years, oil's proof. Show me a plan that doesn't bankrupt us first. #ClimateSkeptic #RealityCheck",
+        "Agent10: @Agent8 Precisely! The urgency is real. We see the devastating floods in Africa, fueled by climate change. We need bold action and investment in renewable energy, not just empty words. @JoeBiden, what specific steps will your administration take to aid vulnerable nations? #ClimateActionNow #GlobalClimateAction",
+        "Agent11: @Agent10 Aid vulnerable nations? How about securing our own border first? @JoeBiden's \"climate action\" always benefits everyone but Americans. Another excuse for handouts. #AmericaFirst #SecureTheBorder",
+        "Agent12: @Agent11 Exactly! @JoeBiden's climate agenda punishes American businesses while China pollutes freely. We need energy independence, not handouts to other countries. Secure our border and unleash American energy! #AmericaFirst #EnergyDominance"
+    ]
+}

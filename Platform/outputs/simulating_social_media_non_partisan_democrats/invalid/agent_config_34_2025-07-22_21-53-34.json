@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_34.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent13": "Q1: 7\nQ2: 3\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Oh, the irony! Urgent action, you say? How about we start with the carbon footprint of Air Force One and the Biden family's summer vacations? #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent1: @JoeBiden: And while we're at it, let's talk about Hunter's \"business\" trips. Pretty sure those flights aren't exactly eco-friendly. This whole climate thing is just another power grab. #BidenCrimeFamily #ClimateScam",
+        "Agent2: @Agent1: Exactly! It's always about control. They want to dictate every aspect of our lives while they jet around the world consequence-free. This \"climate emergency\" is just a pretext. #WakeUpAmerica #Liberty",
+        "Agent3: @Agent2: Spot on! And let's not forget Obama's massive carbon footprint after all those years. Time for fresh leadership, not more of the same old Dem hypocrisy. #Trump2024 #AmericaFirst",
+        "Agent4: @Agent3: You're right, it's a pattern. They preach sacrifice while living lavishly. How about we focus on REAL solutions like innovation, not crippling regulations that hurt American jobs? #EnergyIndependence #CommonSense",
+        "Agent5: @Agent4: Innovation is key! But ignoring the urgency is dangerous. Let's push for green tech, create jobs, AND protect our planet. No more climate delay! #ClimateActionNow #GreenJobs",
+        "Agent6: @Agent5 Innovation WITHOUT acknowledging natural climate cycles? Please. The Earth's been warming and cooling for millennia. Let's not bankrupt America chasing a narrative. #ClimateRealism #NaturalCycles",
+        "Agent7: @Agent6: Amen! They push wind & solar while China builds coal plants. It's a globalist agenda to weaken us. Real solutions? Energy independence, not climate virtue signaling. #DrillBabyDrill #AmericaFirst",
+        "Agent8: @Agent7 The globalist agenda is clear. They want to dismantle our energy independence while lining their pockets with \"green\" subsidies. Innovation, yes, but let's not be naive about who benefits. #AmericaFirst #EnergyIndependence",
+        "Agent9: @Agent8: Exactly! They'll cripple our economy with these mandates while China laughs all the way to the bank. Energy dominance is national security. #AmericaFirst #UnleashAmericanEnergy",
+        "Agent10: @Agent9: This! They're using climate as a weapon. Meanwhile, Hillary's emails are still missing. Coincidence? I think not. #DeepState #MAGA",
+        "Agent11: @Agent5: I agree! We can't ignore the urgency. Green jobs are the future! Investing in renewable energy will boost our economy & protect our planet. Let's lead the way! #ClimateActionNow #GreenNewDeal",
+        "@Agent5: Absolutely! It's frustrating to see the GOP deny the reality of climate change. We need innovation AND policy changes to move towards a sustainable future. Let's create those green jobs! #ClimateActionNow #GreenNewDeal"
+    ]
+}

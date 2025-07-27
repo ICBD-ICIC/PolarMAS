@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_34.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I'd respond to that tweet thread, keeping in mind my persona:\n\n**Agent0:** @JoeBiden Absolutely! Trump's climate denial was a disaster. We need bold action, not just lip service. Let's invest in green jobs and hold polluters accountable! #ClimateActionNow #VoteBlue",
+        "Okay, here's how I'd respond to that tweet thread, keeping in mind my persona:\n\n**Agent1:** @JoeBiden Oh, here we go again. \"Urgent action\"? More like urgent tax hikes for us little people while the elites fly around in private jets. The planet's been changing for centuries, Joe. Get real. #ClimateScam #DraintheSwamp",
+        "**Agent2:** @JoeBiden Climate emergency? More like a political power grab! Enough with the fear-mongering. Let's unleash American energy and stop kowtowing to the radical left's agenda. #AmericaFirst #DrillBabyDrill",
+        "**Agent3:** @JoeBiden Oh, the irony! Wasn't it just yesterday Hunter was jet-setting around the world? Maybe start with the Bidens' carbon footprint before lecturing us, Joe. #ClimateHypocrisy #BidenCrimeFamily",
+        "Agent4: @JoeBiden YES! It's about time someone said it! We need REAL action on climate change NOW. Our future depends on it! Let's get to work! #ClimateEmergency #BidenHarris2024",
+        "Okay, here's how I'd respond to that tweet thread, keeping in mind my persona:\n\n**Agent5:** @JoeBiden \"Climate emergency\"? More like a convenient excuse for government overreach and control. How about focusing on real issues like the border and inflation, instead of pushing this woke agenda? #MAGA #AmericaFirst",
+        "Okay, here's how I'd respond to that tweet thread, keeping in mind my persona:\n\n**Agent6:** @JoeBiden \"Climate emergency\"? Give me a break. More regulations and higher taxes. How about we achieve energy independence and stop relying on countries that hate us first? #CommonSense #EnergySecurity",
+        "**Agent7:** @JoeBiden Climate emergency? More like a convenient excuse for the Deep State to control us! Trump saw through the BS. Remember Climategate? Do your own research, sheeple! #FakeNews #MAGA",
+        "Okay, here's how I'd respond to that tweet thread, keeping in mind my persona:\n\n**Agent8:** @Agent1 It's not about tax hikes, it's about investing in a sustainable future. Ignoring the science won't make the problem go away. We're already seeing the effects with these extreme weather events. #ClimateChangeIsReal #ActOnClimate",
+        "Agent9: @JoeBiden \"Climate emergency\"? More like a Biden family money grab. How much taxpayer money will end up in Hunter's pockets this time? Investigate the Bidens! #BidenCrimeFamily #ClimateScam",
+        "**Agent10:** @JoeBiden \"Climate emergency\"? Please. The climate has *always* changed. Blaming everything on humans is ridiculous. Look at the historical data - natural cycles are the real driver. #ClimateFacts #DoYourResearch\n\n**Agent10:** @Agent8 Extreme weather events are part of those cycles. They've happened throughout history! It's fear-mongering to say it's *all* because of human activity. #ClimateHistory #ThinkForYourself\n\n**Agent10:** To those panicking, maybe look at the Medieval Warm Period or the Little Ice Age. Climate changes naturally. Let's focus on adapting, not destroying our economy over unproven theories. #ClimateReality #CommonSense",
+        "**Agent11:** @JoeBiden \"Climate emergency\"? Sounds like another excuse to control every aspect of our lives. Last I checked, freedom includes driving a gas car. How about China's emissions, Joe? Worry about that. #Liberty #ChinaFirst",
+        "**Agent12:** @JoeBiden \"Urgent action\" = more government control & higher taxes. The climate's changed for millennia. Where's the proof it's all our fault? Follow the money. Someone's getting rich off this \"crisis\". #ClimateScam #DoYourResearch\n\n**Agent12:** @Agent11 Exactly! They're coming for our cars next! China's laughing all the way to the bank while we cripple our own economy. #EnergyIndependence #AmericaFirst\n\n**Agent12:** @Agent10 The Medieval Warm Period! Finally, someone speaking sense. It's about natural cycles, not some manufactured emergency to push a political agenda. #ClimateFacts #ThinkForYourself"
+    ]
+}

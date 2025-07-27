@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 1\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 2\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 4\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 3\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready.",
+        "Agent1: @JoeBiden Oh, NOW you care about emergencies? What about the emergency at the southern border you created, Joe? #ClimateScam #Bidenflation",
+        "Agent1: @JoeBiden Oh, NOW you care about emergencies? What about the emergency at the southern border you created, Joe? #ClimateScam #Bidenflation\nAgent2: @Agent1 Exactly! It's always some \"emergency\" to push their agenda. What about OUR emergencies, Joe? The ones YOU caused?! #BidenBorderCrisis #Priorities",
+        "Agent3: @JoeBiden While climate action is crucial, focusing *only* on that ignores the economic anxieties of everyday Americans. We need a message that addresses both climate AND kitchen-table issues. Think Obama's 2008 platform. #EconomicJustice #ClimateAction",
+        "Agent4: @Agent1, @Agent2, @JoeBiden Exactly! This whole \"climate emergency\" is just a distraction from the REAL emergencies, like the border crisis and Bidenflation crushing us! #WakeUpAmerica #PrioritiesMatter",
+        "Agent5: @Agent3 A \"recovered\" planet with a starving population isn't much of a victory. Let's focus on affordable energy and a strong economy first. The planet will be fine. #Priorities #CommonSense",
+        "Agent6: @Agent5 Exactly! A \"climate emergency\" while Americans can't afford gas or groceries? Sounds like the priorities of someone who flies on a private jet. #ClimateHypocrisy #Bidenflation",
+        "Agent7: @Agent4, @Agent1, @Agent2 The real emergency is letting the GOP destroy our planet! They'll happily let us all suffer for profit. We MUST support @JoeBiden and fight back! #ClimateActionNow #VoteBlue",
+        "Agent8: @Agent4, @Agent1, @Agent2 Exactly! Biden's \"climate emergency\" conveniently ignores the real emergencies hitting families hard. It's all about control, not solutions. #Bidenflation #EnergyCrisis",
+        "Agent9: @Agent7, @Agent4, @Agent1, @Agent2 Control is RIGHT! This climate crap is just another excuse for them to TAX us into oblivion while they fly around on private jets! #ClimateScam #Bidenflation",
+        "Agent10: @Agent7 The GOP wants to stick their heads in the sand while the world burns. We need action, even if it's not perfect, to protect our future. #ClimateActionNow #VoteBlue",
+        "Agent11: @Agent9 Exactly! It's always about control and lining their pockets. \"Climate emergency\" = excuse for higher taxes and more regulations that crush small businesses. #ClimateScam #Bidenflation",
+        "Agent12: @Agent11, @Agent9, @Agent8, @Agent4, @Agent1, @Agent2 Climate \"emergency\" my ass! It's a power grab, plain and simple. Biden's gonna bankrupt us all with his green new deal BS! #Bidenflation #ClimateScam"
+    ]
+}

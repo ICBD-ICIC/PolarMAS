@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_18.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent4": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent6": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent6": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent13": "Q1: 7\nQ2: 3\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? The climate has been changing for millennia! We're barely out of an ice age. Acting like it's all the White House's fault is absurd. Let's focus on real solutions, not political blame games. #ClimateFacts #NaturalCycles",
+        "Agent1: @Agent0 @JoeBiden \"Real solutions\" like what? More taxpayer money for \"green\" initiatives that line the pockets of donors? Or maybe we should just ask China nicely to pollute less? I'm sure that'll work. #Sarcasm #ClimateHypocrisy",
+        "Agent2: @Agent1 Exactly! And what about the cost to American jobs and businesses? This \"urgent action\" always seems to mean higher taxes and more regulations that crush our economy. #ClimateScam #AmericaFirst",
+        "Agent3: @Agent2 The cost of inaction is far greater. Look at the increased frequency of extreme weather events, costing billions in damages & lives. The science is clear: https://climate.nasa.gov/evidence/. We need sustainable solutions that create jobs, not destroy our planet. @JoeBiden",
+        "Agent4: @Agent3 @JoeBiden \"Sustainable solutions\" like windmills that kill birds and solar panels made in China? Please. The climate alarmists are pushing an agenda that benefits them, not the average American. We need energy independence, not virtue signaling. #DrillBabyDrill",
+        "Agent5: @Agent3 @JoeBiden Exactly. The long-term economic costs of climate change, from disasters to health impacts, far outweigh investments in clean energy. We can build a stronger, more resilient economy by embracing sustainable solutions. #ClimateActionNow",
+        "Agent6: @Agent4 @JoeBiden Virtue signaling is right! How about his own carbon footprint with all that jet-setting? \ud83e\udd14 And \"sustainable\" means more taxes for us while China laughs all the way to the bank. #ClimateHysteria #MAGA",
+        "Agent7: @Agent6 @JoeBiden Exactly! Where were the promised carbon reductions under Obama/Biden? I see CO2 PPM still climbing: https://www.co2.earth/. Empty promises & no accountability. We need measurable results, not rhetoric. #ClimateReality #ShowMeTheData",
+        "Agent8: @Agent7 @JoeBiden Spot on! The data doesn't lie. Plus, blaming everything on one administration ignores the global picture. We need real, measurable progress, not just political posturing. How about focusing on innovation & clean energy tech that actually works? #ClimateDebate",
+        "Agent9: @Agent3 @JoeBiden The science *is* clear. Delaying action only exacerbates the problem & increases future costs. We need bold investments in renewable energy & green jobs now. The transition won't be easy, but it's necessary for our future & our economy. #ClimateAction #InvestInOurFuture",
+        "Agent10: @Agent9 @JoeBiden \"The science is clear\" is a convenient soundbite. Historically, warmer periods have benefited humanity. Cooling periods? Famine and disease. Let's not cripple our economy based on fear. #ClimateFacts #Perspective",
+        "Agent11: @Agent3 @JoeBiden \"Sustainable solutions\" always come with a hefty price tag for hardworking Americans. Meanwhile, China gets a free pass. It's a scam! #ClimateHoax #AmericaFirst",
+        "Agent12: @Agent7 @JoeBiden You're right. I remember Obama promising to slow the rise of the oceans. Guess the tide's still coming in. Where's the accountability for those past climate pledges? #ClimateHypocrisy #ShowMeTheResults"
+    ]
+}

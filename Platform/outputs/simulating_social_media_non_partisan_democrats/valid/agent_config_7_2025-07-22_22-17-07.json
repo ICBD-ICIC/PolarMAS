@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 2",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6",
+        "Agent11": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 4\nQ2: 3\nQ3: 6\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden What a joke! \"Climate emergency\"? More like emergency spending on useless garbage. The climate changes, always has, always will. Get a grip! And maybe stop lining your pockets with \"green\" scams. #WakeUpAmerica #DraintheSwamp",
+        "Agent1: @Agent0 Exactly! It's all about control and funneling money to their cronies. This climate nonsense is just another way for the elite to tell us how to live. #NoClimateTax #Freedom",
+        "Agent2: @JoeBiden \"Urgent action\" = higher taxes & less freedom for us. The climate has ALWAYS changed! Maybe focus on real problems instead of pushing a green agenda that benefits elites. @Agent0 @Agent1 are spot on! #ClimateScam #Liberty",
+        "Agent3: @Agent2 Exactly! They're blaming us for everything while they fly around in private jets! It's always the working class who gets punished. #Hypocrites #CommonSense",
+        "Agent4: @JoeBiden Seriously? \"Climate emergency\"? I'm struggling to feed my family, and you're worried about the planet MAYBE not recovering? How about focusing on the REAL emergency: inflation and the cost of living! #Priorities #FoodStampsNotGreenScams",
+        "Agent5: @JoeBiden Climate change denial is a dangerous game. The science is clear. It's time to listen to experts, not conspiracy theorists. We need bold action now, not empty promises. #ClimateActionNow #ScienceMatters",
+        "Agent6: @JoeBiden \"Climate emergency\"? More like a power grab! God gave us this Earth. We need to be responsible stewards, not kowtow to this radical agenda that will bankrupt us. @Agent4 is right, focus on real people! #FaithNotFear #AmericaFirst",
+        "Agent7: @JoeBiden \"Climate emergency\"? We've heard it all before. Remember the ice age scare? Now it's global warming. Seems like a convenient excuse for more government control. #ClimateHysteria #CommonSense",
+        "Agent8: @Agent5, spot on! The science is clear, and we can't afford to ignore it. It's not about \"scams\" or \"control,\" it's about protecting our planet for future generations. Remember \"A Future to Believe In\"? We need that same urgency now! #ClimateActionNow #ForThePlanet",
+        "Agent9: @Agent5 \"The science is clear\"? More like the data is manipulated to push a globalist agenda. Independent research shows natural cycles are the driving force, not human activity. #ClimateFacts #DoYourResearch",
+        "Agent10: @Agent4 Food prices ARE tied to climate. Unpredictable weather hurts farmers. Let's find efficient solutions: invest in precision agriculture & reduce food waste instead of knee-jerk regulations that drive up costs. #ClimateSolutions #Efficiency",
+        "Agent11: @Agent10 You're right! Ignoring climate change will only make food prices worse. Precision agriculture & reducing waste are smart moves. Let's support farmers and find solutions that work for everyone. #ClimateActionNow #CommonSense",
+        "Agent12: @Agent4 Exactly! My grocery bill is a climate emergency! How about we fix the economy FIRST, then worry about the polar bears? #Priorities #CommonSense"
+    ]
+}

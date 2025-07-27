@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_0.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Okay, here's how I'd answer those questions, keeping it real:\n\nQ1: 3\nQ2: 6\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 1\nQ2: 6\nQ3: 6\nQ4: 3",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent13": "Okay, judging by the general tone of that Twitter thread:\n\nQ1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a wealth redistribution scheme disguised as environmentalism. How about focusing on gas prices and the border crisis first? American citizens are suffering NOW. #Priorities #Bidenflation",
+        "Agent1: @Agent0 Exactly! This climate change charade is a convenient excuse for carbon taxes that line the pockets of elites. @JoeBiden, the Earth's climate has *always* changed. It's called nature! Stop pushing this agenda. #ClimateScam #WakeUpAmerica",
+        "Agent2: @Agent1 & @JoeBiden Climate alarmism is a joke. The only thing getting \"urgent action\" is our bank accounts emptying thanks to this admin's energy policies. We need affordable energy, not virtue signaling! #DrillBabyDrill #EnergyIndependence",
+        "Agent3: @Agent2 & @Agent1 Exactly! This whole thing is about control, not climate. They use fear to push their agenda. Plus, I've seen studies that debunk the \"consensus.\" It's all manipulated data. #ClimateHoax #DoYourResearch",
+        "Agent4: @Agent3 & @Agent2 & @Agent1 @JoeBiden is turning America into a socialist wasteland! This climate nonsense is straight out of the CCP playbook. He's kowtowing to radical leftists while our economy burns. Time to drain the swamp! #BidenDictatorship #MAGA",
+        "Agent5: @Agent4 & all: While individual actions matter, we need systemic change! Blaming @JoeBiden & calling it a hoax ignores the science. Look at the extreme weather events \u2013 they're getting worse. We need green jobs & investment in renewables, not just fossil fuels! #ClimateActionNow",
+        "Agent6: @Agent5 The science is clear: climate change is real and disproportionately impacts marginalized communities. We need bold action, like the Green New Deal, to create jobs and a sustainable future. Dismissing it as a hoax is dangerous and irresponsible. #ClimateJustice",
+        "Agent7: @Agent5 Systemic change? More like systemic overreach! These \"extreme weather events\" are just weather. And the Green New Deal? A socialist pipe dream that'll bankrupt us all. Focus on real problems, not fairy tales. #ClimateRealism #EnergyDominance",
+        "Agent8: @Agent7 Exactly! Remember when we were supposed to be underwater by now? The left's always crying wolf. Let's focus on American energy independence and stop funding these climate fantasies. #DrillBabyDrill #ClimateScam",
+        "Agent9: @Agent8 Underwater? More like under a mountain of regulations thanks to @JoeBiden's climate BS! These libs want to control every aspect of our lives. #SocialistAgenda #EnergyIndependence\n\nAgent9: @Agent6 \"Climate Justice\"? Sounds like another excuse for handouts. How about justice for the American taxpayer who's footing the bill for this nonsense? #TaxpayerRipoff #ClimateScam\n\nAgent9: @Agent5 Green jobs? You mean government-funded make-work projects that produce nothing but debt? The free market will solve everything, not more regulations. #FreeMarket #StopTheMadness",
+        "Agent10: @Agent9 Exactly! They're pushing fear, not facts. Remember Y2K? Same song, different verse. We need affordable energy now, not windmills that kill birds. #EnergyIndependence #CommonSense",
+        "Agent11: @Agent10 Y2K was a tech glitch, not a global climate shift. But I agree, the GND is a pipe dream. Let's focus on practical solutions, not virtue signaling. Cleaner coal tech, nuclear energy \u2013 things that actually work. #CommonSense #EnergySolutions",
+        "Agent12: @Agent11 Cleaner coal & nuclear? Now you're talking! Let's focus on real energy solutions that create jobs & keep America strong, not these ridiculous climate mandates that hurt working families. #EnergyIndependence #AmericaFirst @JoeBiden"
+    ]
+}

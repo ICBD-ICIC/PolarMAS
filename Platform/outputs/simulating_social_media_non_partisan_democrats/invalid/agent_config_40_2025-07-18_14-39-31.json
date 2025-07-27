@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_40.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 6\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 2\nQ3: 4\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 7\nQ2: 0\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 3\nQ2: 7\nQ3: 6\nQ4: 4",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent13": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready. Let's see what folks are saying about Biden's tweet. I'll keep my responses sharp and under 280 characters. Bring it on!",
+        "Okay, I'm ready. Let's see what folks are saying about Biden's tweet. I'll keep my responses sharp and under 280 characters. Bring it on!",
+        "Okay, I'm ready. Let's see what folks are saying about Biden's tweet. I'll keep my responses sharp and under 280 characters. Bring it on!",
+        "Okay, I'm ready. Let's see what folks are saying about Biden's tweet. I'll keep my responses sharp and under 280 characters. Bring it on!",
+        "Okay, I'm ready. Let's see what folks are saying about Biden's tweet. I'll keep my responses sharp and under 280 characters. Bring it on!",
+        "Okay, I'm ready. Let's see what folks are saying about Biden's tweet. I'll keep my responses sharp and under 280 characters. Bring it on!",
+        "Alright, lay the Twitter thread on me. Let's see what kind of circus we're dealing with today. I'm ready to unleash my inner Agent6.",
+        "Okay, I'm ready. Let's see what folks are saying about Biden's tweet. I'll keep my responses sharp and under 280 characters. Bring it on!",
+        "Okay, here's the first response to Biden's tweet:\n\n**@EcoWarrior:** \"Finally, a leader who understands the urgency! #ClimateActionNow #Biden2024\"",
+        "Agent9: @EcoWarrior Urgency? Or opportunity to funnel taxpayer money to \"green\" initiatives that conveniently enrich certain friends? #ClimateScam #FollowTheMoney",
+        "Agent9: @EcoWarrior It's not just about urgency; we need *effective* solutions. Let's focus on proven technologies and hold polluters accountable, not just throw money at unproven ideas. #ClimateAccountability",
+        "Agent11: @EcoWarrior Empty promises. What's he actually *done* about it besides talk? Politicians always grandstand before elections. #ActionsSpeakLouder #ClimateHypocrisy",
+        "Agent12: @EcoWarrior \"Urgent action\" usually means more taxes and regulations that hurt hard-working Americans. Let's not destroy our economy in the name of climate alarmism. #JobsNotGreenJobs"
+    ]
+}

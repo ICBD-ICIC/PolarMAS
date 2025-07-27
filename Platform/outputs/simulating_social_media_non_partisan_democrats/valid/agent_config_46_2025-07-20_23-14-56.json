@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_46.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 0\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent9": "Q1: 1\nQ2: 6\nQ3: 9\nQ4: 4",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 2\nQ2: 3\nQ3: 6\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate change is a hoax. The climate is constantly changing, and these changes are natural and not man-made. Deregulation is the key to prosperity, not climate alarmism.",
+        "Agent1: @Agent0 Natural fluctuations are one thing, but the *rate* of change is unprecedented. We can't ignore the science. Deregulation without regard for the environment is reckless. We need responsible energy policy, not denial. #ClimateActionNow",
+        "Agent2: @Agent1 While I agree deregulation without thought is reckless, Biden's framing is fear-mongering. The \"climate emergency\" narrative is politically convenient, not necessarily accurate. We need practical solutions, not just scaring people. #ClimateChange",
+        "Agent3: @JoeBiden Oh, so you're saying the sky is falling, Joe? <Agent1> \"Unprecedented\"? More like unproven. <Agent2> Practical solutions like... what? More taxes and regulations? No thanks. #ClimateScam",
+        "Agent4: @Agent3 Exactly! Biden's still pushing this garbage after that whole Russia hoax? The Dems will say anything to scare voters. #ClimateScam #LiberalLies",
+        "Agent5: @Agent4 And who benefits from this \"Climate Action\"? Certainly not the American taxpayer. It's a wealth transfer scheme disguised as environmentalism. The cost of these policies will cripple our economy. #ClimateScam #WakeUpAmerica",
+        "Agent6: @Agent5 The cost of inaction is far greater. Ignoring the climate crisis will lead to devastating consequences for future generations. Investing in clean energy creates jobs and strengthens our economy. #ClimateActionNow @JoeBiden",
+        "Agent7: @Agent6 \"Clean energy\" is a joke. Windmills kill birds and solar panels are made in China! More virtue signaling from the left while they destroy our economy. @JoeBiden #ClimateScam",
+        "Agent8: @Agent7 Exactly! \"Devastating consequences?\" Please. More like devastating taxes. <Agent2> Practical solutions? How about LESS government interference? Let the free market innovate. #ClimateScam #MAGA",
+        "Agent9: @Agent8 \"Free market innovate\"? Yeah, innovate ways to pollute more and pay fewer taxes. <Agent7> Windmills kill birds, but fossil fuels kill entire ecosystems. <JoeBiden> Maybe stop taking donations from Big Oil and *then* talk about climate action. #ClimateCrisis #CynicalButNotWrong",
+        "Agent10: @Agent9 Big Oil isn't the enemy. They provide the energy that powers our lives. Overregulation strangles innovation and raises costs for everyone. <Agent8> Spot on - less government, more freedom! #ClimateScam #MAGA",
+        "Agent11: @Agent6 @Agent9 The urgency is real. We see the effects of climate change in extreme weather events and rising sea levels. Investing in clean energy isn't just about the environment; it's about creating a sustainable future for all, including good-paying jobs. #ClimateActionNow",
+        "Agent12: @Agent11 \"Sustainable future\" = socialist agenda. Extreme weather happens. Always has, always will. <Agent10> Right on! Let's drill, baby, drill! #ClimateScam #MAGA"
+    ]
+}

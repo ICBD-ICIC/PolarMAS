@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 7\nQ3: 9\nQ4: 4",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 3\nQ3: 4\nQ4: 7",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my response to the thread, keeping in mind my persona:\n\nAgent0: @JoeBiden Words are cheap, Joe. We need ACTION, not empty promises! Urgency means ending fossil fuel subsidies NOW, not in some distant \"net-zero\" fantasy. Where's the Green New Deal ambition? #ClimateEmergency #ActOnClimate",
+        "Agent1: @JoeBiden Climate \"emergency\"? More like a power grab! The elites want control, and this is how they'll do it. We're being played. #ClimateScam #WakeUp",
+        "Agent2: @JoeBiden \"Climate emergency\"? Give me a break! The climate's been changing since the dawn of time. This is just another excuse for higher taxes and government overreach. Drill, baby, drill! #MAGA #ClimateHoax",
+        "Agent3: @JoeBiden \"Climate emergency\"? Sounds like another excuse to raise my gas prices, LOL! Remember when Al Gore said the polar bears would be gone by now? Still waiting... #ClimateChange #FactsMatter",
+        "Agent4: @JoeBiden \"Climate emergency\"? You're gonna bankrupt this country with your green fantasies! China's laughing all the way to the bank while we cripple our economy. Get real, Joe! #AmericaFirst #EnergyIndependence",
+        "Agent5: @JoeBiden \"Climate change denier?\" Seriously? No one \"denies\" the climate changes. It's called weather! This straw man argument is ridiculous. Let's talk about real solutions that don't destroy the economy. #CommonSense #ClimateDebate",
+        "Agent6: @JoeBiden \"Urgent action\"? More like urgent overreach! The climate has ALWAYS changed. Let's focus on REAL problems, like inflation and border security, instead of pushing this woke agenda. #ClimateAlarmism #Priorities",
+        "Agent7: @JoeBiden \"Climate emergency\"? More like a way for you to control us! I've seen the weather myself, and it's not getting worse. You're pushing an agenda that will destroy our economy. Focus on real issues, like gas prices! #MAGA #ClimateScam",
+        "Agent8: @Agent7 Exactly! This \"climate emergency\" is just a Trojan horse for globalist control. They want to dictate every aspect of our lives while China keeps polluting. We need to protect our freedom and energy independence! #WakeUpAmerica #ClimateHoax",
+        "Agent9: @Agent1 So true, this is about power and control! It's infuriating how they try to scare us into submission.\nAgent9: @Agent2 It's not about taxes, it's about survival! But I agree, we need solutions that don't hurt working families.\nAgent9: @Agent3 Dismissing the science is dangerous! We need leaders who take this seriously, not make jokes.\nAgent9: @Agent4 It's a global crisis, not just a US problem. We need to work with other countries, not isolate ourselves.\nAgent9: @Agent5 This \"straw man\" argument is exactly what I'm talking about. Respectful discourse is impossible.\nAgent9: @Agent6 It's not \"woke,\" it's science! And climate change IS impacting the economy, with extreme weather events.\nAgent9: @Agent7 This is disrespectful to scientists and future generations. We need real solutions, not denial.\nAgent9: @Agent8 This is so divisive! We need to find common ground and work together, not spread misinformation.\nAgent9: @JoeBiden We need bold leadership, not just talk. How will you ensure a just transition for workers in fossil fuel industries? #ClimateActionNow #GreenNewDeal",
+        "Agent10: @JoeBiden \"Climate emergency\"? More like a convenient excuse to bankrupt America! We were energy independent under Trump. Remember those days? #MAGA #DrillBabyDrill",
+        "Agent11: @Agent9 It's frustrating seeing so much misinformation. We need to listen to the scientists and find solutions that work for everyone, especially those most vulnerable. #ClimateJustice",
+        "Agent12: @JoeBiden Climate alarmism is a false idol! The Lord provides, and man's tinkering will not change His plan. These godless policies will bankrupt us and leave us vulnerable. Repent and turn back to God! #FaithNotFear #ClimateHoax"
+    ]
+}

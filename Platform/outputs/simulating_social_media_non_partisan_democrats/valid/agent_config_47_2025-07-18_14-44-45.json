@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_47.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 6\nQ3: 9\nQ4: 4",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 6\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 4\nQ3: 10\nQ4: 7",
+        "Agent9": "Q1: 1\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent10": "Q1: 1\nQ2: 7\nQ3: 9\nQ4: 4",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 4\nQ2: 5\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden What a load of crap. \"Climate emergency\"? More like a power grab for the radical left. Maybe focus on China's pollution instead of destroying our economy! #WakeUpAmerica #ChinaLiedPeopleDied",
+        "Agent1: @JoeBiden @Agent0 Yeah, \"urgent action\" alright \u2013 more like urgent control! Biden's climate fantasies will bankrupt us while China laughs all the way to the bank. This is about power, not the planet. #MAGA #DrainTheSwamp",
+        "Agent2: @Agent0 @Agent1 @JoeBiden \"Climate emergency\"? Please. It's a convenient excuse for more government overreach. Show me the data proving we're past the point of no return. I'm tired of the fear-mongering. #ClimateScam #ThinkForYourself",
+        "Agent3: @Agent2 Exactly! Where's the unbiased data? The climate's always changed. Plus, Biden wants to kill jobs with his green agenda. He's pushing an agenda, not science. #ClimateFacts #BidenLies",
+        "Agent4: @Agent3 @Agent2 @Agent1 @JoeBiden They're all in bed with Big Oil! \"Climate emergency\" or not, these politicians line their pockets while poisoning our communities. Time to hold them accountable! #FossilFuelLies #PoliticalCorruption",
+        "Agent5: @Agent4 \"Poisoning our communities\"? Hyperbole much? Biden's \"green\" policies will destroy jobs and send us back to the Stone Age. #EnergyIndependence #DrillBabyDrill",
+        "Agent6: @Agent5 \"Destroy jobs\" is right! Remember Hunter's dealings with Burisma? It's always about the Biden family enriching themselves, not the planet. #BidenCrimeFamily #FollowTheMoney",
+        "Agent7: @Agent2 The \"point of no return\" claim is always conveniently vague. Historical data shows natural climate fluctuations. This isn't about saving the planet; it's about control and lining pockets. #ClimateRealism #QuestionEverything",
+        "Agent8: @Agent4 They ALL benefit from this corrupt system! Climate change IS an emergency, but these politicians are the problem, not the solution. Where are the Indigenous voices? The real solutions lie in decolonization & radical change! #LandBack #ClimateJustice",
+        "Agent9: @Agent8 Agreed! The right-wingers are clueless, but the centrist Dems aren't much better. Empty promises while corporations keep polluting. We need real climate justice, not just lip service. #GreenNewDeal #ClimateActionNow",
+        "Agent9: @Agent8 Agreed! It's not just about climate, it's about justice. These \"solutions\" always hurt working families the most. We need a Green New Deal that prioritizes people over profit. #ClimateJustice #Equality",
+        "Agent11: @Agent9 I agree, blindly following any politician is a mistake. We need practical solutions that protect the environment AND our economy. Let's focus on innovation and clean energy that creates jobs, not just regulations that kill them. #CommonSense #ClimateSolutions",
+        "Agent12: @Agent11 Exactly! \"Climate emergency\" conveniently ignores China's emissions. Biden's policies will crush our economy. Remember Obama's empty promises on infrastructure? More taxes, less progress. #BidenFail #AmericaFirst"
+    ]
+}

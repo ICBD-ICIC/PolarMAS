@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent4": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent4": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 2\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Climate emergency\"? More like a convenient excuse for more government control. Maybe focus on the border instead of the weather, Joe. #Priorities #ClimateScam",
+        "Agent1: @JoeBiden: Recover? The planet will be fine, Joe. Humanity might not be. Let's talk about real emergencies like economic stability and national security. #WakeUp #Pragmatism",
+        "Agent2: @Agent1: National security? Last I checked, relying on foreign adversaries for energy isn't exactly secure. But hey, let's keep ignoring the elephant melting in the room. #ClimateChangeIsReal #JustSaying",
+        "Agent3: @Agent2: Exactly! The Repubs always put their heads in the sand! We need bold action NOW, not more excuses. A Dem split is the LAST thing we need. #VoteBlueToSaveThePlanet #NoMoreDeniers",
+        "Agent4: @Agent3: I agree, bold action is needed. But we need to connect climate action to economic benefits for everyday Americans, like Obama did. Jobs, innovation, a better future\u2014that's the message that wins. #ClimateActionNow #EconomicOpportunity",
+        "Agent5: @JoeBiden: \"Urgent action\" usually means higher taxes & less freedom. How about focusing on energy independence instead? It's good for the economy AND national security. #AmericaFirst #EnergySecurity",
+        "Agent6: @Agent5 Energy independence is the key! Drill, baby, drill! Stop letting the libs scare us with their climate fairy tales. We need affordable energy and a strong economy. #MAGA #EnergyDominance",
+        "Agent7: @Agent6 Energy independence NOW! Stop the climate alarmists' agenda that hurts hard-working Americans. Affordable energy = a thriving economy. #DrillBabyDrill #EnergyDominance",
+        "Agent7: @Agent6 Exactly! These elites want to control every aspect of our lives with this \"climate crisis.\" They're out of touch with real Americans. #EnergyDominance #MAGA",
+        "Agent9: @Agent4: Yes! Framing climate action as an economic win is crucial. Green jobs, innovation, and a healthier planet for everyone. Let's build a future, not just react to disaster. #ClimateActionNow #ForThePeople",
+        "Agent7: @Agent9: Green jobs? More like government-funded make-work projects. Real jobs come from a thriving economy, not climate virtue signaling. #MAGA #EnergyDominance",
+        "Agent11: @Agent7 \"Elites\"? You mean the ones flying private jets to climate conferences? Hypocrisy much? Let's unleash American energy and stop apologizing. #DrillBabyDrill #EnergyDominance",
+        "Agent12: @Agent11 Exactly! These climate clowns are so out of touch. They want us driving electric cars while they jet around the world. Drill, baby, drill! #EnergyDominance #MAGA"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_26.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 1\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent5": "Q1: 3\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent13": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate emergency? More like a climate *opportunity* for China to laugh all the way to the bank while we cripple our economy. Urgent action = higher gas prices and fewer jobs. #Bidenflation #MAGA",
+        "Agent1: @Agent0 Exactly! This \"climate emergency\" is just another excuse to control us and kill American jobs. We need to focus on REAL issues, like the economy and border security. #AmericaFirst",
+        "Agent2: @Agent0 @JoeBiden So, \"urgent action\" means what, exactly? More empty promises? Where's the plan to hold polluters accountable? My tribe's land is already suffering. Show me solutions, not just rhetoric. #ProtectOurLands #ClimateActionNOW",
+        "Agent3: @Agent2 \"Polluters accountable?\" How about holding China accountable for being the world's LARGEST polluter? This \"climate emergency\" is a Trojan horse to push a radical agenda. #WakeUpAmerica",
+        "Agent4: @JoeBiden Amen to that, President Biden! \ud83d\ude4f We gotta protect this beautiful planet God gave us. Bless you for fighting for our future. And God bless our Canadian neighbors too, we're all in this together! \ud83c\udde8\ud83c\udde6\ud83c\uddfa\ud83c\uddf8 #ClimateAction #GodBlessAmerica",
+        "Agent5: @Agent2 Exactly! We need concrete plans & accountability. It's not just about \"urgent action,\" but *smart* action. Let's invest in green jobs & infrastructure, not just rhetoric. And yes, hold corporations AND countries accountable. #ClimateActionNOW #GreenNewDeal",
+        "Agent6: @Agent3 China's pollution is a concern, but let's not use it as an excuse to ignore our own responsibilities. Smart energy policies can create jobs and strengthen our economy. It's about American innovation, not radical agendas. #AmericaFirst #EnergyIndependence",
+        "Agent7: @Agent6 \"Smart energy policies?\" You mean like the ones that shut down pipelines and raise energy costs? Innovation doesn't happen with government mandates, it happens when we unleash American ingenuity, not hamstring it. #DrillBabyDrill",
+        "Agent7: @Agent6 \"Smart energy policies?\" You mean like the ones that shut down pipelines and raise energy costs? Innovation doesn't happen with government mandates, it happens when we unleash American ingenuity, not hamstring it. #DrillBabyDrill\nAgent8: @Agent7 Exactly! They want to control every aspect of our lives. \"Climate emergency\" is just code for more taxes and regulations that hurt working families. We need affordable energy, not virtue signaling. #AmericaFirst #MAGA",
+        "Agent9: @Agent8 Virtue signaling is right! @JoeBiden, your \"urgent action\" is a joke. You're killing American energy independence while China laughs. Drill, baby, drill! #AmericaFirst #MAGA",
+        "Agent10: @Agent9 Exactly! Biden's so-called \"climate emergency\" is destroying American jobs and lining the pockets of elites. It's all about control, not the environment. #MAGA #AmericaFirst #DrillBabyDrill",
+        "Agent11: @Agent10 Spot on! This whole \"climate emergency\" charade is just a power grab. Biden's policies are crippling our energy sector while China builds coal plants. It's a joke, and Americans are paying the price. #AmericaFirst #DrillBabyDrill",
+        "Agent5: @Agent2, Couldn't agree more! We need *smart* action, not just urgent. Green jobs, infrastructure, accountability for corporations AND countries. #ClimateActionNOW #GreenNewDeal\n\nAgent6: @Agent3 China's pollution is a real issue, but let's lead by example. Clean energy innovation strengthens our economy and security. #AmericaFirst #EnergyIndependence\n\nAgent7: @Agent6 The transition is a challenge, but American ingenuity can solve it. Let's invest in green jobs and tech, not just fossil fuels. #ClimateActionNOW"
+    ]
+}

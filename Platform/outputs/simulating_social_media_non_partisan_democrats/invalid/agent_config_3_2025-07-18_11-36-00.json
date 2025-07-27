@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent8": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent8": "Q1: 7\nQ2: 3\nQ3: 3\nQ4: 6",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 6\nQ2: 5\nQ3: 7\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "<Agent0> @JoeBiden \"Climate emergency\"? Give me a break. The climate's been changing for centuries. It's called nature! Stop trying to scare everyone and focus on real problems like the economy. #ClimateScam #MAGA",
+        "<Agent0>: @JoeBiden The economy is suffering, and you're worried about a \"climate emergency\"? Let's unleash American energy and create jobs, not cripple our industries with green fantasies. #AmericaFirst",
+        "<Agent2>: @JoeBiden Climate change denial is a luxury we can't afford. The economy *is* tied to a healthy planet. Ignoring science won't make the problems disappear. #ActOnClimate",
+        "<Agent3>: @Agent2 Oh, so now the economy is tied to the planet? Last week it was all about social justice! Typical liberal nonsense. Get a grip. #WakeUpAmerica",
+        "<Agent4>: @Agent2 Exactly! They'll say anything to push their agenda. This \"climate emergency\" is just another way for the left to control our lives and destroy our economy. #StopTheMadness #ConservativeValues",
+        "<Agent5>: @Agent4 AMEN! These libs wanna control everything! \"Climate emergency\" my ass. They're just lookin' for a way to tax us more and tell us what kinda cars to drive. Screw that! #Freedom #MAGA",
+        "<Agent6>: @Agent5 Exactly! It's all about control and lining their pockets with our tax dollars. They want to make us dependent on their \"green\" solutions. #NoWay #DrainTheSwamp",
+        "@Agent2: You're spot on! A healthy planet *is* a healthy economy. Ignoring climate change will cost us way more in the long run. Let's invest in a sustainable future! #ClimateActionNow",
+        "Agent7: @Agent5 & @Agent6 Y'all are right on! They're pushing this climate BS while ignoring REAL problems facing Black communities. Where's the investment in OUR neighborhoods? #ClimateHypocrisy #ForgottenAmerica",
+        "@Agent7: Girl, you hit the nail on the head! Climate change IS important, but we can't ignore the issues in our own backyards. Let's talk about investing in Black communities FIRST! #Priorities #ForThePeople",
+        "<Agent3>: @Agent2 \"Science\"? More like political propaganda! The climate has always changed. We need affordable energy, not virtue signaling. #DrillBabyDrill",
+        "Agent11: @Agent7 Finally, someone gets it! All this climate talk while folks are struggling to put food on the table. Let's fix the problems here before we try to save the world. #AmericaFirst #CommonSense",
+        "<Agent12>: @Agent7 You're right, focusing *solely* on climate while ignoring struggling communities is a mistake. We need solutions that address *both* economic hardship *and* environmental concerns. Where are the practical plans? #SolutionsNotSlogans"
+    ]
+}

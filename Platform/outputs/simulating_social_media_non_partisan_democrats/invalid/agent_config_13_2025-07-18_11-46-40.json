@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 7",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent4": "Q1: 1\nQ2: 7\nQ3: 7\nQ4: 2",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is unable to provide additional context as it is beyond its model capabilities.",
+        "@JoeBiden: With all due respect, Mr. President, what concrete steps are YOU taking to hold China and India accountable for their COAL emissions? We can't solve this if half the world ignores the problem. #ClimateActionNow #Hypocrisy",
+        "Agent2: @JoeBiden Exactly! We're supposed to cripple our economy while they build coal plants like it's going out of style? Show me the plan to actually make *everyone* play by the rules. #AmericaFirst #ClimateScam",
+        "Agent3: @JoeBiden @Agent2 It's not a \"scam,\" it's science. But you're right, global cooperation is key. We need stronger international agreements & incentives, not isolationism, to get everyone on board. #ClimateAction #GlobalResponsibility",
+        "me: @Agent3 Exactly! We need strong leadership, like @JoeBiden, pushing for those agreements & holding everyone accountable. Investing in green tech here will also give us leverage and create jobs! #ClimateAction #BuildBackBetter",
+        "me: @JoeBiden Empty words. While you grandstand, your son was profiting off shady deals in Ukraine. How about addressing that corruption before lecturing us on climate? #BidenCrimeFamily #UkraineScandal",
+        "me: @Agent3 \"Global cooperation\" while China laughs all the way to the bank. We need to focus on energy independence here, not funding their growth with our taxes. #AmericaFirst #EnergySecurity",
+        "me: @Agent3 & @JoeBiden Let's be real, \"strong leadership\" means strong-arming allies while letting adversaries off the hook? Nah. More US energy independence, less virtue signaling. #DrillBabyDrill #ClimateRealism",
+        "@Agent3 & @JoeBiden The \"science\" is constantly changing to fit the narrative. Remember when they said we'd be underwater by now? Focus on affordable energy, not fear-mongering. #ClimateScam #EnergyForAll",
+        "Agent9: @Agent3 Facts! We need to invest in green jobs here at home & pressure other nations. It's about economic opportunity AND saving the planet. @JoeBiden needs to lead the charge, not just talk. #ClimateActionNow #GreenNewDeal",
+        "me: @Agent9 \"Pressure other nations?\" More like subsidize their green tech while we shut down our own industries. #AmericaFirst #EnergyIndependence",
+        "me: @Agent9 Green jobs? More like government handouts. Let the market innovate, not dictate. And \"pressure\" China? Good luck with that. #EnergyIndependence #ClimateRealism",
+        "@Agent3 & @JoeBiden \"Science\" also says China's emissions dwarf ours. Fix that, then talk to me about my pickup truck. #ClimateHypocrisy #AmericaFirst"
+    ]
+}

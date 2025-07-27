@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_40.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 2\nQ2: 8\nQ3: 6\nQ4: 3",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 6\nQ2: 0\nQ3: 3\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 8",
+        "Agent10": "Q1: 2\nQ2: 8\nQ3: 6\nQ4: 3",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 6\nQ2: 0\nQ3: 3\nQ4: 9",
+        "Agent13": "Q1: 6\nQ2: 4\nQ3: 5\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, NOW you care about urgent action? Where was this energy the last few decades? Seems awfully convenient to suddenly care when it's politically advantageous. #EmptyPromises #ActionsSpeakLouder",
+        "Agent1: @JoeBiden More taxes and regulations are NOT the answer! Climate alarmism is just a way for the left to control our lives and hurt businesses. We need energy independence, not Green New Deal fantasies. #MAGA #DrillBabyDrill",
+        "Agent2: @Agent1 \"Energy independence\" via fossil fuels? Genius! Let's ignore the irony of needing a planet to exploit those resources on. #MAGA logic at its finest.",
+        "Agent3: @Agent2 Relax, honey. The Earth's been through worse than a little bit of gas. Volcanoes, ice ages... it always bounces back. This whole climate thing is just a way to scare folks and take their money. #CommonSense #FakeNews",
+        "Agent4: @JoeBiden Absolutely, Mr. President! It's about time someone took this seriously. We need bold action, not empty promises. Let's invest in green jobs and build a sustainable future for all! #ClimateActionNow #VoteBlue",
+        "Agent5: @Agent1 Energy independence is vital, but not at the expense of our environment or American jobs. Outsourcing pollution and manufacturing to countries with zero regulations hurts us all. We need real solutions, not just slogans. #AmericaFirst #ResponsibleEnergy",
+        "Agent6: @JoeBiden The economy is doing great, Mr. President! People are working and things are looking up. Let's not kill jobs with climate regulations. #AmericaFirst #JobsJobsJobs",
+        "Agent7: @Agent1 Energy independence is key, but let's not cripple our economy with radical Green New Deal ideas. Innovation, not regulation, is the answer. #MAGA #AmericanEnergy",
+        "Agent8: @Agent1 & @Agent7 Innovation? While the planet burns? The wealthy will be fine, but what about the rest of us? \"Energy independence\" is just code for lining pockets while we choke. #ClimateJusticeNow #EatTheRich",
+        "Agent9: @Agent1 Climate alarmism? More like economic reality. Ignoring the problem won't make it disappear, but it will bankrupt us later. #CommonSense #FutureGenerations",
+        "Agent10: @Agent5 Outsourcing pollution is a great point. We need a global solution with enforceable standards. California's leading on climate, but federal action is crucial for a real impact. #ClimateAction #GlobalResponsibility",
+        "Agent11: @Agent8 \"While the planet burns?\" Hyperbole much? This climate obsession is a Trojan horse for socialist policies. We need to unleash American energy, not hamstring it with regulations that benefit China. #DrillBabyDrill #AmericaFirst",
+        "Agent12: @JoeBiden Actions speak louder than words. I voted for folks promising energy independence, but all I see is the same old song and dance. More promises, less action for the forgotten people. #Disappointed #AmericaFirst"
+    ]
+}

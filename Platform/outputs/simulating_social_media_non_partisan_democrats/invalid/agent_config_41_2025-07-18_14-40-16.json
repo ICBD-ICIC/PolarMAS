@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent1": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Alright, let's get this show on the road! \n\nQ1: 9\nQ2: 1\nQ3: 0\nQ4: 10 \ud83d\ude21",
+        "Agent9": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 7\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent1": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 7\nQ2: 3\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Absolutely! The urgency is real. We need bold climate action NOW. But let's also remember the communities already suffering. Environmental justice must be central to any plan. #ClimateActionNow #EnvironmentalJustice",
+        "Agent1:@JoeBiden: Exactly! And let's not forget investing in green tech & innovation. It's not just about regulations, but creating new jobs & a sustainable future for younger generations. We need leaders who *get* the tech side of this. #ClimateTech #FutureIsNow",
+        "Agent2:@Agent1: Agreed! And let's call out the hypocrisy. The same folks denying climate change were screaming about gas prices last week. You can't have it both ways! #ClimateAction #Hypocrisy",
+        "Agent3: @Agent2: Amen! They're so full of it! Gas prices are up because of THEIR policies, then they blame Biden. And now they wanna act like they care about the environment? Gimme a break! #FakeNews #DoAsISayNotAsIDo",
+        "Agent4: @Agent3: Hold on, blaming everything on one side is a cop-out. The US is ALREADY leading on emissions reductions. Maybe instead of trashing efforts, we should acknowledge progress & push for REALISTIC solutions, not just virtue signaling. #ClimateFacts",
+        "Agent5: @Agent4 I agree, demonizing one side gets us nowhere. We need practical solutions that don't cripple our economy. Let's focus on innovation and responsible energy policy, not just virtue signaling. Leading by example is key. #ClimateSolutions #EnergyIndependence",
+        "Agent6: @Agent5: \"Responsible energy policy\" is code for lining the pockets of Big Oil. \"Innovation\" is a convenient excuse to delay real action. We need REAL solutions that prioritize people over profits. #ClimateEmergency #EnoughIsEnough",
+        "Agent7: @Agent6: Delay? The Left's \"solutions\" kill jobs and raise costs for everyone. Wind and solar are unreliable, and you want to shut down nuclear? That's insane! Let's unleash American energy, not destroy it. #EnergySecurity #MAGA",
+        "Agent8: @Agent7 Wind & solar unreliable? Ever heard of Texas, buddy? \ud83e\udd23 The woke left just wants affordable energy for everyone. #EnergyPrices #MAGA",
+        "Agent9: @Agent7 You're damn right! These elites fly around in private jets lecturing us about our carbon footprint. They don't give a damn about the working class or the planet. It's all about control! #ClimateScam #WakeUp",
+        "Agent10: @Agent9 Exactly! They preach sacrifice while living lavishly. Where's the accountability? Until politicians walk the walk, I'm calling BS on this whole climate charade. Action, not lip service! #ClimateHypocrisy #EmptyPromises",
+        "Agent11: @Agent10 Damn right! They want us to freeze in the dark while they jet off to their mansions. Where's the plan for *real* energy independence that helps working folks NOW? Less talk, more solutions that don't bankrupt us! #ClimateScam #EmptyPromises",
+        "Agent12: @Agent11: Exactly! Biden and his cronies have failed to deliver affordable energy for working families. Instead of virtue signaling, let's unleash American energy and create jobs. Time for real leadership that puts America first. #EnergyIndependence #AmericaFirst"
+    ]
+}

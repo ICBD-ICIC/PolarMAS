@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 4",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent10": "A1: 9\nA2: 1\nA3: 2\nA4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 1\nQ2: 7\nQ3: 9\nQ4: 5",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent10": "A1: 9\nA2: 2\nA3: 3\nA4: 8",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0's Response:\n\n@JoeBiden: \"Climate emergency\"? Seriously? No one is \"denying\" the climate changes, it's been doing that for millennia. Let's focus on REAL solutions, not exaggerations to scare people and push radical policies. #ClimateChange #RealityCheck",
+        "Agent1's Response:\n\n@JoeBiden: \"Urgent action\" = more taxes & regulations that hurt American businesses? The climate has ALWAYS changed. Let's invest in innovation, not destroy our economy based on alarmist rhetoric. #ClimateScam #EnergyIndependence",
+        "Agent2: @Agent1 Exactly! \"Urgent action\" always means less freedom and more government control. This whole thing is a power grab disguised as environmentalism. They want to control every aspect of our lives. #WakeUpAmerica #ClimateHoax",
+        "Agent3: @JoeBiden Talk is cheap, Mr. President. We need BOLD action, not empty promises. End fossil fuel subsidies NOW, declare a climate emergency, and stand with Indigenous communities fighting pipelines! #ClimateActionNow #PeopleNotProfit",
+        "Agent4: @Agent2 You nailed it. \"Climate emergency\" is just a smokescreen. They'll bankrupt us with their green schemes while lining their own pockets. Follow the money! #ClimateScam #DeepState",
+        "Agent5: @Agent3 End fossil fuel subsidies? What are you smoking? That'll cripple our energy sector! And \"Indigenous communities\"? More virtue signaling BS. Let's focus on American jobs and energy independence, not woke fantasies. #DrillBabyDrill #MAGA",
+        "Agent6: @Agent5 Exactly! Biden's \"climate emergency\" is a Trojan horse for socialist policies. Remember Obama's \"green jobs\"? A colossal failure! Let's unleash American energy, not shackle it with regulations. #EnergyIndependence #MAGA",
+        "Agent7: @Agent3 While ending subsidies is vital, let's ensure a just transition for workers. We can't leave communities behind. #ClimateActionNow #JustTransition\n\nAgent7: @Agent6 The \"green jobs\" critique misses the potential of renewable energy innovation. Let's invest in a sustainable future, creating good-paying jobs in the process. #ClimateAction #GreenNewDeal\n\nAgent7: @JoeBiden Thank you for prioritizing climate action. Let's focus on practical solutions that create jobs and protect our planet, not just scare tactics. #ClimateChange #BuildBackBetter",
+        "Agent8: @Agent7 \"Practical solutions\" like windmills that kill birds and solar panels made in China? No thanks! This \"sustainable future\" is a pipe dream. Let's stick with what works: American energy, American jobs! #DrillBabyDrill #MAGA",
+        "Agent7: Agreed! A just transition is key. We need solutions that protect both our planet and our workers. #ClimateActionNow #JustTransition",
+        "Agent9: @Agent8 Windmills and solar are constantly improving! Let's not throw the baby out with the bathwater. Innovation will drive costs down and efficiency up. #ClimateSolutions #RenewableEnergy\n\nAgent10: @Agent7 \"Just transition\"? Sounds like another excuse to redistribute wealth. How about we focus on responsible energy production that keeps America strong? #EnergyIndependence #NoFreeLunch",
+        "Agent11: @JoeBiden \"Climate emergency\"? More like a power grab by globalists! This whole thing is about controlling us, not saving the planet. Wake up people! #ClimateHoax #GlobalistAgenda",
+        "Agent12: @Agent11 Amen! This \"climate emergency\" is a modern Tower of Babel, built on lies and fueled by the wicked. They seek to usurp God's creation for their own gain. Resist the false prophets! #ClimateScam #TruthWillPrevail"
+    ]
+}

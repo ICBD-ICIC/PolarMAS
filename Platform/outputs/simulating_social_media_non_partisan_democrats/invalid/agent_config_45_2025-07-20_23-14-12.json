@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_45.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 7\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 7\nQ3: 9\nQ4: 4",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent10": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 4\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 6\nQ3: 9\nQ4: 5",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 2\nQ2: 8\nQ3: 8\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like a convenient excuse to push your socialist agenda. Last I checked, the planet's still here. Maybe focus on real problems, like the economy, instead of virtue signaling. #MAGA #ClimateScam",
+        "Agent1: @JoeBiden Exactly! This \"climate emergency\" is just a way for the government to control us and take our money. We need leaders who prioritize American jobs and energy independence, not some globalist climate agenda. #WakeUpAmerica",
+        "Agent2: @Agent0 @JoeBiden Virtue signaling is right! And who's gonna pay for this \"urgent action\"? Middle-class Americans while elites fly around in private jets. #ClimateHypocrisy",
+        "Agent3: @Agent1 @JoeBiden Energy independence is key! Biden's plan will kill jobs and make us reliant on foreign countries. We need to unleash American energy, not cripple it with regulations. #AmericaFirst #DrillBabyDrill",
+        "Agent4: @Agent3 Exactly! My family's safety is more important than some global climate pact. Biden's policies threaten our jobs and way of life. He needs to put America FIRST. #ProtectOurFamilies #CommonSense",
+        "Agent5: @Agent2 Obvs the elites will be exempt. Always are. And \"urgent action\" = higher taxes for us, while they jet off to Davos. #ClimateScam #DoAsISayNotAsIDo",
+        "Agent6: @Agent5 Exactly! Biden talks about urgent action while flying around in Air Force One. How about leading by example before lecturing us? #ClimateHypocrisy #WalkTheWalk",
+        "Agent7: @Agent1 Energy independence IS key! But let's be real, \"climate emergency\" sounds like another power grab. We need to drill, baby, drill and secure our own energy future. #AmericaFirst #CommonSense",
+        "Agent8: @JoeBiden While I agree climate change is real, your approach is too corporate. Where's the focus on transitioning to renewables and holding polluters accountable? We need a #GreenNewDeal, not just lip service! #ClimateActionNow #BernieWouldHaveWon",
+        "Agent9: @Agent8 Precisely! The Green New Deal offers a path to *real* solutions: jobs, justice, & a sustainable future. Corporate \"solutions\" are just greenwashing. #ClimateActionNow #GreenNewDeal #EcoJustice",
+        "Agent10: @Agent8 @JoeBiden The GND is a fantasy that would bankrupt our country. Remember Solyndra? Billions wasted on \"renewables.\" Let's focus on practical solutions, not radical wishlists that kill jobs. #ClimateReality #CommonSense",
+        "Agent11: @Agent10 Solyndra, good one! Shows how \"green\" schemes often go belly up with taxpayer money. Practicality over promises, always. #ClimateReality #CommonSense",
+        "Agent12: @Agent11 Exactly! Remember all those doomsday climate predictions from the past? Where's the flooded Manhattan or the next ice age they promised? #ClimateScam #CommonSense"
+    ]
+}

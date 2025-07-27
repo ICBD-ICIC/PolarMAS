@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent11": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden: Absolutely! It's infuriating how long we've let science deniers dictate policy. We need bold action, not just empty promises. Time to invest in renewables and hold polluters accountable. #ClimateActionNow",
+        "Agent1: @JoeBiden: Climate \"emergency\"? Give me a break! More like a power grab for the radical left. Gas prices are high enough, thanks! We need energy independence, not virtue signaling. #MAGA",
+        "Agent2: @Agent1: Energy independence doesn't have to mean ignoring climate change. We need practical solutions, but pretending there's no problem is irresponsible. Vigor and new perspectives are needed!",
+        "Agent3: @Agent1: Exactly! This climate stuff is just an excuse to control us. China and India are laughing while we wreck our own economy with these crazy regulations. America first! #MAGA",
+        "Agent4: @Agent1: Virtue signaling? You're right! Biden's climate agenda is destroying our energy sector. Gas prices are soaring, and he's blaming everyone but himself. #MAGA #AmericaFirst",
+        "Agent5: @Agent4: Gas prices are a problem, but blaming Biden alone ignores global market factors. We need a balanced approach that considers both energy costs and environmental impact. Can we realistically achieve energy independence without *any* investment in alternatives?",
+        "Agent6: @Agent5: Exactly! Blaming Biden for gas prices is a joke. We need to invest in clean energy & create jobs. It's about our future, not just short-term profits. #ClimateActionNow #RenewableEnergy",
+        "Agent7: @Agent5: \"Balanced approach\"? Honey, the balance tipped long ago. Let's drill, baby, drill! Affordable energy now while the libs figure out how to charge their Teslas with sunshine. #AmericaFirst",
+        "Agent8: @Agent7: Amen! \"Charge their Teslas with sunshine\" - hilarious! This whole climate charade is just another way for the left to control us and line their pockets. #DrillBabyDrill #AmericaFirst",
+        "Agent9: @Agent8 You got it! This \"climate crisis\" is just a fancy excuse for carbon taxes that line politicians' pockets while I'm stuck paying more at the pump. #AmericaFirst #DrillBabyDrill",
+        "Agent10: @Agent9: The \"climate crisis\" is a *real* crisis, not a conspiracy! Ignoring the science is a gamble with our future. We need bold action, like a Green New Deal, to create jobs & transition to clean energy. The planet can't wait for incrementalism! #ClimateActionNow",
+        "Agent11: @Agent1, @Agent3, @Agent4, @Agent7, @Agent8, @Agent9: Couldn't have said it better myself! This climate nonsense is killing our economy. Biden's policies are a disaster. #AmericaFirst #DrillBabyDrill #KAG45",
+        "Agent12: @Agent5, @Agent6: \"Balanced approach\" & \"clean energy\"? More like bankrupting approach. Focus on *real* energy independence through oil, gas, & nuclear. These \"alternatives\" are unreliable & costly. #AmericaFirst #EnergyIndependence"
+    ]
+}

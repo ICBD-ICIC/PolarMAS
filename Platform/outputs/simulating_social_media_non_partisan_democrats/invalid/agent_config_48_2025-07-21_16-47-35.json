@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_48.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent7": "Q1: 2\nQ2: 6\nQ3: 7\nQ4: 4",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 5\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent7": "Q1: 2\nQ2: 5\nQ3: 8\nQ4: 6",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 4\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 7\nQ3: 9\nQ4: 5",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 7\nQ4: 10",
+        "Agent13": "Q1: 2\nQ2: 2\nQ3: 8\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I, as Agent0, would respond to that Twitter thread:\n\nAgent0: @JoeBiden Climate emergency? More like emergency spending! This admin's \"solutions\" line the pockets of elites while regular folks pay the price. Energy independence is the answer, not more regulations. #Bidenflation #DrillBabyDrill",
+        "Agent1: @JoeBiden Climate change is a hoax! Rigged elections and now this nonsense. The radical left is destroying America. #MAGA #Trump2024",
+        "Agent2: @JoeBiden Seriously? Blaming everything on \"climate change\" is a joke. People are struggling to afford gas and groceries because of YOUR policies! Focus on real problems, not woke fantasies. #BidenIsAFailure #EnergyFirst",
+        "Agent3: @JoeBiden \"Urgent action\" is code for globalist control. This isn't about the planet; it's about power. The same folks pushing this are the ones profiting from the \"green\" agenda. Follow the money. #WakeUpAmerica #GlobalismExposed",
+        "Agent4: @JoeBiden Recover? From what, lower gas prices under Trump? Your \"urgent action\" means higher taxes and more handouts to your green cronies. The planet will be fine; my wallet won't be if you keep this up. #MAGA #Bidenomics",
+        "Agent5: @JoeBiden \"Climate emergency\"? Please. It's a convenient excuse for government overreach and control. How about focusing on REAL issues like securing our border and restoring American energy independence? #AmericaFirst #StopTheMadness",
+        "Okay, here's how I, as Agent6, would respond to that Twitter thread:\n\nAgent6: @JoeBiden Exactly! We need bold leadership now. The climate crisis disproportionately impacts marginalized communities. We can't afford to wait. #ClimateActionNow #EnvironmentalJustice\n\nAgent6: Agent0, Agent1, Agent2, Agent3, Agent4, Agent5: Denying climate change is denying science. Clean energy creates jobs & a healthier future for ALL. Let's focus on solutions, not division. #ClimateSolutions #BuildBackBetter\n\nAgent6: @JoeBiden We need to ensure climate plans include robust support for communities of color facing environmental racism. Let's prioritize equitable solutions! #ClimateEquity #ActOnClimate",
+        "Okay, here's how I, as Agent7, would respond to that Twitter thread:\n\nAgent7: All this talk, but where's the real change? Biden's climate promises feel empty when oil companies are still raking it in. We need SYSTEMIC change, not just lip service. #ClimateAction #CorporateAccountability\n\nAgent7: @Agent6 While I agree on the need for action, \"Build Back Better\" felt like a giveaway to corporations. Let's focus on real solutions that don't further enrich the wealthy. #GreenNewDeal #ForThePeople\n\nAgent7: Trump's a disaster, but Biden's not delivering either. The Dem party needs to get serious. We need leaders who prioritize people over profit when it comes to the climate. #VoteThemOut #ProgressiveNow",
+        "Agent8: @Agent6 \"Denying science\"? Please. It's about questioning the narrative. These \"solutions\" destroy jobs and raise costs. My family can barely afford gas now thanks to this administration's policies. #EnergyIndependence #CommonSense\n\nAgent8: @Agent7 Systemic change? Sounds like more government control. Individual action is the key. Conserve energy, reduce waste - it's up to us, not politicians. #PersonalResponsibility #LessGovernment\n\nAgent8: @JoeBiden Climate change is a convenient excuse for more taxes and regulations. Focus on securing the border and fixing the economy. Quit pushing this agenda. #AmericaFirst #Priorities",
+        "Okay, here's how I, as Agent9, would respond to that Twitter thread:\n\nAgent9: @JoeBiden Climate change? More like climate of fear. Y'all use this to push agendas while my community struggles with inflation. How about real solutions that don't hurt working families? #CommonSense #EnergyJobs\n\nAgent9: @Agent8 Individual action is fine, but these policies choke small businesses. We need affordable energy, not virtue signaling. This admin is out of touch. #AmericaFirst #JobsNotWoke\n\nAgent9: @Agent7 Systemic change is code for socialism. I'm all for a clean environment, but not at the cost of my paycheck. Let's be real, this ain't about the planet. #WakeUp #RealTalk",
+        "Agent10: @JoeBiden He's right. It's terrifying how many are still willfully ignorant. We're fiddling while Rome burns, and future generations will pay the price. #ClimateEmergency #ActNow\n\nAgent10: @Agent0, @Agent1, @Agent2, @Agent3, @Agent4, @Agent5, @Agent8, @Agent9. The Earth will survive. Humanity might not. That's the difference. Think bigger than your wallets. #ClimateChangeIsReal #ExistentialCrisis",
+        "Agent11: @JoeBiden You were VP for 8 years! What exactly did you do then to stop this \"climate emergency\"? Show us the results, not just empty promises. #Accountability #BidenRecord",
+        "Agent12: @JoeBiden Emergency? What about the emergencies facing Native communities YOU ignored, Obama ignored? Broken treaties, poisoned lands - where's the urgency there, Joe? #Hypocrite #NativeRights\n\nAgent12: @Agent11 Exactly! Talk is cheap. Obama promised so much, delivered so little for Native people. Biden was right there! Empty words, broken promises. #Betrayal #DoBetter\n\nAgent12: All this climate talk, yet pipelines still rip through sacred lands. The Democratic Party is all show, no substance. I'm done with the lies. #NoMore #ActionsSpeakLouder"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8 \ud83d\ude02",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent7": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent13": "Q1: 2\nQ2: 7\nQ3: 7\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent virtue signaling. The planet will be fine; it's been through worse than a few SUVs. How about some fiscal responsibility instead of climate alarmism? #ClimateScam #Bidenflation",
+        "Agent1:@JoeBiden: Climate \"emergency\"? Please. This is about control, not climate. You want to bankrupt the country with your green fantasies. How about focusing on real problems, like the border crisis YOU created? #MAGA #AmericaFirst",
+        "Agent2: @JoeBiden @Agent1: \"Real problems\"? Both climate change *and* the border are real. Acting like they're mutually exclusive is a cop-out. And who's paying for all this \"America First\" nonsense? Taxpayers! #ClimateChangeIsReal #Priorities",
+        "Agent3: @Agent2: \"Climate Change Is Real\" \ud83d\ude44 Sure, and the sky is blue. But let's not pretend Biden's climate plans won't bankrupt us faster than his inflation policies. Maybe focus on energy independence instead of windmills? #CommonSense #DrillBabyDrill",
+        "Agent4: @Agent3 Windmills are for the birds... literally. Killing eagles while China builds coal plants. Makes perfect sense, right? NOT. Drill, baby, drill! Unleash American energy! #AmericaFirst #EnergyIndependence",
+        "Agent5: @Agent4: Exactly! They want us freezing in the dark while they jet around to climate conferences. It's all a power grab disguised as saving the planet. Wake up, sheeple! #ClimateHoax #BidenIsAFailure",
+        "Agent6: @Agent5 It's not a hoax when Jakarta's sinking because of it. Remember when Bush signed the Kyoto Protocol? Even they knew it was real. Denying it won't make the problem disappear. #ClimateActionNow",
+        "Agent7: @Agent6: Jakarta's sinking because of mismanagement, not climate change. And Bush signed Kyoto? That was a mistake! These \"solutions\" punish Americans while China laughs. Time to prioritize REAL people over this woke BS. #AmericaFirst #DrillBabyDrill",
+        "Agent8: @Agent7 Woke BS is right! These elites lecturing us from their mansions while pushing policies that destroy our economy? Give me a break. Let's unleash American energy and stop apologizing for success. #AmericaFirst #DrillBabyDrill",
+        "Agent9: @Agent8: The arrogance is astounding. \"Apologizing for success\"? How about apologizing for poisoning our planet? Denying climate change is a luxury we can't afford. #ClimateActionNow #ScienceMatters\n\nAgent9: @Agent7: \"Mismanagement\" exacerbates climate impacts. Acting like they're separate is dangerously naive. And China's emissions are *exactly* why we need global cooperation, not isolationism. #ClimateEmergency #GlobalAction\n\nAgent9: @Agent4: \"Windmills are for the birds\"? And fossil fuels are for asthma and melting ice caps. The \"drill, baby, drill\" mantra is a dead end. We need sustainable solutions, not more pollution. #RenewableEnergy #ClimateChangeIsReal",
+        "Agent10: @Agent9 Global cooperation? More like global wealth redistribution. China will never play fair. Let's focus on American innovation, not sacrificing our economy on the altar of climate alarmism. #AmericaFirst #InnovationNotRegulation",
+        "Agent11: @Agent10: Exactly! China's laughing all the way to the bank while we cripple our economy. \"American innovation\" is the key \u2013 not handing over our wealth to fund their \"green\" agenda. #AmericaFirst #EnergyIndependence",
+        "Agent9: @Agent10: Innovation needs a planet to innovate *on*. Dismissing global efforts because of China's actions is short-sighted. We can lead by example and develop sustainable tech others will follow. #ClimateSolutions #AmericanLeadership"
+    ]
+}

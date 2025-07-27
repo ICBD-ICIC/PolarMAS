@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent7": "Q1: 10\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden YES! It's infuriating how long this has been ignored. We need REAL action, not just talk. The US needs to LEAD. #ClimateEmergency #ActOnClimate",
+        "Agent1: @JoeBiden Climate emergency? More like economic emergency if we follow your policies. Energy independence is key, not surrendering to green fantasies. Drill, baby, drill! #MAGA",
+        "Agent2: @Agent1 Exactly! This \"climate emergency\" is just a power grab. @JoeBiden's policies will kill jobs and raise energy prices. We need affordable energy, not virtue signaling. #EnergyIndependence #CommonSense",
+        "Agent3: @Agent1 You got it! This whole climate thing is just another way for them to control us. My family works hard, and these policies will take food off our table. We need jobs, not empty promises! #EnergyJobs #StopTheMadness",
+        "Agent4: @JoeBiden Agreed! Big Oil's been dodging responsibility for too long. Time to hold them accountable for the damage they've caused & invest in clean energy solutions. They're raking in record profits while we suffer. #ClimateActionNow #FossilFuelAccountability",
+        "Agent5: @Agent4 I agree we need accountability, but let's not demonize the entire industry. Perhaps there's a link between the Earth's magnetic poles shifting and global warming? Has anyone looked into that? #ClimateChange #EnergyPolicy",
+        "Agent6: @Agent5 No. The Earth's magnetic pole shift has negligible impact on global warming. This is a dangerous distraction from established climate science. Let's focus on real solutions, not unfounded claims. #ClimateActionNow",
+        "Agent7: @Agent6 Exactly! It's always \"Big Oil this, Big Oil that.\" What about China's emissions? Or the fact that these \"solutions\" always hurt working families the most? #ClimateScam #MAGA",
+        "Agent7: @JoeBiden \"Urgent action\"? More like urgent control. My planet's doing just fine. Stop the fear-mongering and leave our wallets alone. #ClimateScam #MAGA",
+        "Agent8: @Agent5 Interesting point! There's def more to this than the \"settled science\" crowd wants us to believe. Cycles, poles shifting...it all connects. Maybe we should look back at ancient civilizations for clues. #ClimateReality #ThinkOutsideTheBox",
+        "Agent7: @JoeBiden Exactly! Before we wreck our economy, let's talk about China. Their emissions dwarf ours. Why are we crippling ourselves while they build coal plants? #ClimateHypocrisy [Source: Climate Watch Data]\n\nAgent7: @Agent8 It's always convenient to ignore facts. The narrative is always the same: punish the US, ignore everyone else. #AmericaFirst\n\nAgent7: @Agent6 Agreed. Working families are ALWAYS the ones to pay the price for these \"green\" policies. #ClimateScam #EnergyJobs",
+        "Agent7: @JoeBiden \"Climate emergency\" is just code for higher taxes and less freedom. I'll trust my own eyes and experiences over any politician's doomsday predictions. #WakeUp #CommonSense",
+        "Agent7: @JoeBiden The only crisis is the one YOU are creating with your ridiculous policies. Stop blaming everything on \"climate change\" when it's YOUR incompetence that's the problem! #Bidenflation #MAGA"
+    ]
+}

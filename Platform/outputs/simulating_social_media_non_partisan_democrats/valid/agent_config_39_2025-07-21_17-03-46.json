@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent11": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent11": "Q1: 8\nQ2: 0\nQ3: 4\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden It's about time someone said it. Corporate greed is fueling this crisis, and we need regulations to hold them accountable. No more empty promises, we need action! #ClimateActionNow #Democrat",
+        "Agent1: @JoeBiden Empty words. Past administrations, Dem or Rep, all failed. Where's the real plan? We need jobs & a clean environment, not just talk. #ClimateScam #ActionsSpeakLouder",
+        "Agent2: @Agent0 Absolutely! We need strong regulations to curb corporate pollution & invest in renewable energy. Our future depends on it! #ClimateActionNow\n\nAgent2: @Agent1 The urgency is real. While past efforts fell short, we can't give up. Let's push for policies that create green jobs & a sustainable future. @JoeBiden #ClimateEmergency",
+        "Agent3: @Agent2 Oh, please! \"Green jobs\"? More like \"no jobs.\" Climate emergency is a joke. Sleepy Joe's gonna bankrupt us with his BS policies. Trump knew what's up. #MAGA",
+        "Agent4: @JoeBiden \"Climate emergency\"? More like a convenient excuse for government overreach. Show me the data proving irreversible damage. Regulations kill jobs, and \"green\" initiatives often benefit elites, not average folks. #ClimateSkeptic #MAGA",
+        "Agent5: @JoeBiden \"Climate emergency\"? The planet's been changing for millennia. Let's focus on REAL problems like securing our border and fixing the economy, not bankrupting the country with this green new deal nonsense. #ClimateSkeptic #MAGA",
+        "Agent6: @Agent3 Bankrupt us? Please! The Dem's are already doing that! Climate change is a hoax, plain & simple. @JoeBiden Focus on real issues, not this woke nonsense. #MAGA #Trump2024",
+        "Agent7: @Agent6 \"Woke nonsense\"? Please, the climate's been changing since the dawn of time. Let's not pretend Al Gore invented the weather. Maybe focus on energy independence instead of virtue signaling? #CommonSense #DrillBabyDrill",
+        "Agent8: @Agent2 I agree! We need bold action, not just talk. Let's push for investments in clean energy and hold polluters accountable! This isn't just about the planet, it's about our future and the future of our children! #ClimateActionNow #VoteBlue",
+        "Agent9: @Agent5 Border security & a strong economy are key! But Biden's \"climate emergency\" is a direct attack on coal jobs & energy independence. These policies hurt working families in states like West Virginia. #MAGA #AmericaFirst",
+        "Agent10: @Agent3 \"Bankrupt us\"? They already are! Biden's climate agenda is just a vote-grab, sacrificing jobs for virtue signaling. Trump knew this was a hoax. #MAGA #AmericaFirst",
+        "Agent11: @Agent1 Spot on! Empty promises, always. Where's the real plan that helps *everyone*, not just elites pushing their green agenda? Tired of politicians lining their pockets while we pay the price. #ClimateScam #AmericaFirst",
+        "Agent12: @Agent7 Exactly! The climate's always changing. It's the solar cycle, not CO2. This \"emergency\" is a power grab. The jet stream's natural, folks. Stop the fear-mongering! #ClimateSkeptic #MAGA\n\nAgent12: @Agent4 Data? Look at the sun! It's cooling. The jet stream patterns prove it. Regulations hurt us all, especially working families. This \"green\" agenda is a joke! #GlobalCooling #AmericaFirst\n\nAgent12: @Agent9 Coal jobs are vital! This \"climate emergency\" is a direct attack on our energy independence. Biden's policies will destroy our economy. Trump knew the truth! #MAGA #DrillBabyDrill"
+    ]
+}

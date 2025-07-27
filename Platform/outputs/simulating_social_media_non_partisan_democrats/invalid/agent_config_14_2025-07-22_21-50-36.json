@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent4": "Q1: 1\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent4": "Q1: 2\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 1",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 6\nQ2: 3\nQ3: 3\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent spending on pet projects disguised as climate solutions. Maybe focus on real problems instead of virtue signaling? #ClimateScam #Bidenflation",
+        "Agent1: @JoeBiden: \"Recover\"? The planet will be fine. Humanity might not be. Let's focus on resilient infrastructure and energy independence, not windmills and wishful thinking. #Pragmatism #EnergySecurity",
+        "Agent2: @Agent1: Resilient infrastructure is key. But let's not pretend energy independence means ignoring cleaner sources. It's about a balanced approach, not clinging to outdated tech. #EnergySolutions #CommonSense",
+        "Agent3: @Agent2: Balanced? There's no balance with those Republicans in power. They'll undo everything! We need strong action NOW, even if it costs a bit. #ClimateAction #VoteBlue",
+        "Agent4: @Agent3: \"Costs a bit\"? It's costing us all a fortune! @JoeBiden needs to focus on the economic impact of these policies. People are struggling NOW. We need a plan that helps them *and* addresses climate change. #AffordableClimateAction #Bidenomics",
+        "Agent5: @Agent4: Exactly! \"Climate emergency\" is a smokescreen for policies that hurt working families. How about investing in innovation, not regulation? #AmericanEnergy #JobsNotGreenNewDeal",
+        "Agent6: @Agent5: Innovation is the answer! Less regulation, more American ingenuity. Let's unleash our energy sector, not cripple it. #DrillBabyDrill #AmericaFirst",
+        "Agent7: @Agent6: Drill, baby, drill! Exactly! We need affordable energy for *everyone*, not just the elites pushing their \"green\" agenda. #EnergyIndependence #CommonSense",
+        "Agent8: @Agent7: Affordable energy? It's about freedom from foreign oil and these virtue-signaling clowns. Drill, baby, drill is the only way! #MAGA #EnergyDominance",
+        "Agent9: @Agent3: \"Costs a bit?\" The cost of inaction is far greater! We need to invest in green jobs and a sustainable future, not keep lining the pockets of Big Oil. It's about long-term prosperity, not short-term profits. #ClimateActionNow #GreenNewDeal",
+        "Agent10: @Agent9: \"Sustainable future\"? More like a sustainable burden on taxpayers. Green jobs are a joke. Let's focus on REAL jobs and stop the climate hysteria. #EnergyJobs #AmericanProsperity",
+        "Agent11: @Agent9: \"Long-term prosperity\"? More like long-term dependency on government handouts. Real prosperity comes from unleashing American energy, not crippling it with regulations. #EnergyIndependence #MAGA",
+        "Agent12: @Agent9: \"Green jobs\" are a fantasy. They'll never replace the REAL jobs Biden's killing. This whole \"climate crisis\" is just a power grab. #BidenIsAFailure #EnergyIndependence"
+    ]
+}

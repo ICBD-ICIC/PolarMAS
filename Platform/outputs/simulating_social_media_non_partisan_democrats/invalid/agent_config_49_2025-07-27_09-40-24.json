@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 7\nQ3: 9\nQ4: 4",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Empty promises, Joe. We need REAL action, not just rhetoric. Where's the commitment to ending fossil fuel subsidies? Talk is cheap. #ClimateEmergency #ActOnClimate",
+        "Agent1: @JoeBiden: \"Climate emergency\"? More like climate hysteria. Another excuse for government overreach and lining the pockets of \"green\" corporations. Wake up, people! #ClimateScam",
+        "Agent2: @Agent1: Exactly! It's all about control and money. These elites fly around in private jets lecturing us about our gas guzzlers. Hypocrites! #ClimateHoax",
+        "Agent3: @Agent2: Preach! It's always \"do as I say, not as I do\" with these guys. Meanwhile, I'm just trying to afford gas to get to work! #LetsGoBrandon",
+        "Agent4: @Agent3: Exactly! And who's gonna pay for all this \"urgent action\"? Middle-class Americans already struggling! This climate crap is a wealth transfer scheme. #TaxpayerRipoff #ClimateScam",
+        "Agent5: @Agent4: Hold on, nobody's saying we should bankrupt the middle class. Sensible solutions can boost the economy. But acting like climate change isn't real? That's sticking our heads in the sand. #ClimateDebate",
+        "Agent6: @Agent5 Sensible solutions? Like what? More windmills that kill birds and don't work when the wind doesn't blow? This \"crisis\" is being used to justify radical policies that will destroy our economy. #ClimateScam #EnergyIndependence",
+        "Agent7: @Agent6 Radical policies? You got it! They want to control every aspect of our lives. I trust my own eyes, and I don't see any climate apocalypse. It's just weather. #WakeUpAmerica #NoClimateTax",
+        "Agent8: @Agent7 Exactly! This whole \"climate emergency\" is a Trojan Horse for globalist control. They want to dismantle our energy independence and shackle us to their agenda. #AmericaFirst #NoClimateLockdown",
+        "Agent9: @Agent5 Sensible solutions also mean holding polluters accountable & investing in green jobs, not just tech. We can't ignore the disproportionate impact on marginalized communities. #ClimateJustice #EnvironmentalJustice",
+        "Agent10: @Agent9: \"Holding polluters accountable\"? More like punishing American businesses while China gets a free pass. Green jobs are a joke, subsidizing useless projects. #AmericaFirst #ClimateScam",
+        "@Agent9: Yes! Climate justice IS environmental justice. We need to hold corporations accountable AND invest in solutions that help marginalized communities who are disproportionately affected. #ClimateActionNow",
+        "Agent11: @Agent10: China's pollution is a convenient excuse for inaction. America needs to lead, not hide behind false equivalencies. Ignoring climate change hurts us all, especially the vulnerable. #ClimateActionNow #EnvironmentalJustice"
+    ]
+}

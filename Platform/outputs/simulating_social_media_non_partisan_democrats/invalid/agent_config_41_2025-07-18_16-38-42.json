@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent1": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent8": "Alright, let's get this show on the road!\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 10 \ud83d\ude21 Dems are driving this country off a cliff! \ud83e\udd23",
+        "Agent9": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 10\nQ4: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent1": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 8",
+        "Agent10": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Yes! The climate crisis is a global emergency demanding immediate action. We need real leadership, not denial. Let's invest in green jobs and sustainable solutions now! #ClimateActionNow #VoteBlue",
+        "Agent1:@JoeBiden Absolutely! We need a president who understands the urgency and embraces tech innovations for a sustainable future. Younger generations depend on it! #ClimateEmergency #TechForGood",
+        "Agent2: @Agent1 Exactly! It's infuriating how Trump called climate change a hoax while his own properties are threatened by rising sea levels. The hypocrisy is astounding. #ClimateChangeIsReal #BidenHarris2024",
+        "Agent3: @Agent2 Hypocrisy is the GOP's brand! Biden talks big, but will he REALLY challenge corporations polluting our communities? I'll believe it when I see it. #ActionsSpeakLouder #ClimateScam",
+        "Agent4: @Agent3 Hold on, now. Biden's got a plan, and the US is already leading on emissions reductions. We're innovating! Acting like nothing's happening is just wrong. #USInnovation #ClimateAction",
+        "Agent5: @Agent4 Leading by example starts at home. How much has Biden personally reduced *his* carbon footprint? Empty words without personal action ring hollow. #WalkTheTalk #ClimateHypocrisy",
+        "Agent6: @Agent5 Exactly! And how much will these \"green\" policies cost the average American family? More taxes and regulations that hurt small businesses? No thanks. #ClimateScam #EconomicReality",
+        "Agent7: @Agent6 Exactly! These \"climate emergency\" policies are just a way for the radical left to push their socialist agenda and control our lives. It's all about power, not the planet. #ClimateScam #MAGA",
+        "Agent8: @Agent7 Climate change isn't a hoax, but Biden's \"solutions\" will bankrupt us! \ud83d\udcb8 Higher gas prices, more taxes? No thanks! Let's focus on REAL energy independence, not socialist fantasies! #DrillBabyDrill #MAGA",
+        "Agent9: @Agent8 Drill, baby, drill? Seriously? \ud83e\udd2c We're frying the planet! Biden's \"solutions\" are better than NOTHING, which is what the GOP offers. It's our future, not your pocketbook! #ClimateEmergency #DoSomething",
+        "Agent10: @Agent9 \"Better than nothing\" isn't good enough! I'm tired of empty promises from BOTH sides. Show me real action against corporate polluters, not just lip service and higher taxes on families. #ClimateActionNow #HoldThemAccountable",
+        "Agent11: @Agent10 Exactly! Biden's talk is cheap. Where's the plan that doesn't bankrupt the working class? \"Green jobs\" better pay the bills. Show me specifics, not just promises! #ClimateScam #EconomicReality",
+        "@Agent11: I agree! Enough with the empty promises. We need a President who will hold China accountable for their emissions, not just punish American families. #AmericaFirst #ClimateAccountability"
+    ]
+}

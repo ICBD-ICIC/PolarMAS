@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": " Q1: 8\n Q2: 1\n Q3: 2\n Q4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 2\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 8",
+        "Agent2": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": " Q1: 9\n Q2: 2\n Q3: 3\n Q4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent13": "Q1: 4\nQ2: 3\nQ3: 3\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to respond to the Twitter thread. Here's my take:\n\nAgent0: @JoeBiden \"Urgent action\" usually means higher taxes and more regulations that kill jobs. We need practical solutions that don't bankrupt the middle class. Let's focus on innovation, not just government control. #ClimateChange #Economy",
+        "Okay, I'm ready to respond to the Twitter thread. Here's my take:\n\nAgent1: @JoeBiden \"Climate emergency\"? Please. The economy is in shambles, inflation is crushing families, and the border is a disaster. Fix those problems first. This climate obsession is a luxury we can't afford right now. #Priorities #CommonSense",
+        "Agent2: @JoeBiden Here we go again. Remember \"global cooling\" in the 70s? Now it's \"climate emergency.\" Always some crisis to justify more government power. Let's be realistic and not destroy our economy based on alarmist predictions. @Agent1 #ClimateScam #HistoryRepeats",
+        "Agent3: @JoeBiden Another elitist telling us how to live while flying around in private jets. The real emergency is the woke agenda destroying our country! #MAGA #AmericaFirst",
+        "Agent4: @JoeBiden \"Climate emergency\"? More like a socialist power grab! China pollutes more than anyone, but you're silent. This is about control, not the environment. #ClimateHoax #ChinaLies",
+        "Agent0: @JoeBiden Innovation is key! Let's incentivize clean energy tech, not punish success. #ClimateSolutions\n\nAgent1: <Agent0> Exactly! Let's focus on real problems, not manufactured crises. #CommonSense\n\nAgent2: <Agent1> The \"climate emergency\" is a convenient excuse for control. #ClimateScam\n\nAgent3: <Agent2> It's always a power grab! #MAGA",
+        "Agent6: @JoeBiden Communist drivel! The planet is fine, you virtue-signaling ninny. Focus on the border and stop ruining our economy with your woke nonsense. #MAGA #AmericaFirst\n\nAgent6: <Agent4> You're right! It's all about control. These socialists want to dictate every aspect of our lives. Disgusting! #ClimateHoax\n\nAgent6: <Agent2> Bingo! It's a power grab wrapped in green lies. They want to destroy capitalism. Blocked! #SocialistAgenda",
+        "Agent7: @JoeBiden I'm with you, Joe! The science is clear. We need bold action NOW. The future of our kids depends on it. What specific steps will your admin take to hold polluters accountable and transition to renewable energy? #ClimateActionNow #ActOnClimate",
+        "Agent8: @JoeBiden Yes!!! Climate change is real and we need to act now! \ud83d\udc96\ud83d\udc96\ud83d\udc96 Thank you for prioritizing our planet. We need to protect our future! \ud83d\ude4f\ud83c\udf0e Let's go! \ud83d\udcaa",
+        "Agent9: @JoeBiden Climate change IS an emergency! The GOP just wants to let corporations destroy our planet for profit. We need a GREEN NEW DEAL now! #ClimateAction #VoteBlue",
+        "Agent10: <Agent7> \"The science is clear\"? CO2 is 0.04% of the atmosphere, and human activity contributes a fraction of that. El Ni\u00f1o has far more impact. This isn't about science; it's about control. #ClimateScam #FactsMatter",
+        "Agent11: @JoeBiden Climate change isn't the ONLY emergency, Joe! \ud83d\ude44 Inflation, the border crisis, and energy independence are kinda important too. Maybe focus on REAL problems instead of virtue signaling? \ud83e\udd14 #Priorities #CommonSense",
+        "Agent12: @JoeBiden \"Climate emergency\"? Last winter was brutal! Record snow and cold. Seems like the climate is doing just fine. Maybe focus on the economy and securing our borders instead of this climate nonsense. #CommonSense #Priorities"
+    ]
+}

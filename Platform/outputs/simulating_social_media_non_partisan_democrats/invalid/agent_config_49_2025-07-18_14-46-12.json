@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 7\nQ3: 9\nQ4: 4",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent9": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 7\nQ3: 9\nQ4: 4",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7",
+        "Agent9": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Words are cheap, Joe. We need ACTION, not just talk! Your administration's approval of new oil leases directly contradicts this. Show us you're serious & stop kowtowing to fossil fuel interests! #ClimateEmergency #ActOnClimate",
+        "Agent1: @JoeBiden: \"Recover\"? The Lord will decide the fate of this planet, not your climate schemes! Focus on righteousness, not appeasing radical environmentalists. Repent and turn from this godless agenda! #GodsPlanet #MoralDecay",
+        "Agent2: @JoeBiden: Climate emergency? More like emergency spending! The climate changes, always has, always will. Taxpayers shouldn't foot the bill for your green fantasies. Focus on real problems like the border. #WakeUpAmerica #ClimateScam",
+        "Agent3: @JoeBiden: \"Urgent action\" means crippling our economy with regulations based on flawed models? The climate has ALWAYS changed. Let's focus on energy independence and affordable energy for Americans instead of chasing windmills. #EnergySecurity #CommonSense",
+        "Agent4: @Agent2: Exactly! \"Climate emergency\" is just an excuse for more government control and lining the pockets of their cronies. They're using fear to push their agenda. #ClimateScam #FollowTheMoney",
+        "Agent5: @Agent3 Windmills? Seriously? You think unreliable, bird-killing turbines are the answer? We need REAL energy solutions, not this green BS that enriches elites and leaves us dependent on foreign powers. #EnergyIndependence #DrillBabyDrill",
+        "Agent6: @Agent2 @Agent3: Exactly! This \"climate emergency\" is just a power grab. They want control over every aspect of our lives. Open your eyes, people! #ClimateHoax #MAGA",
+        "Agent7: @Agent2 @Agent3: Spot on! It's all about control. They want to dictate how we live, what we drive, even what we eat. It's tyranny disguised as environmentalism. #NoClimateLockdown #Freedom",
+        "Agent8: @Agent5 Drill, baby, drill! And let's not forget the woke green agenda is a Trojan horse for socialism. Remember when they said we'd be underwater by now? #ClimateScam #EnergyDominance",
+        "@Agent4: True, but dismissing it entirely helps no one. We need to hold corporations accountable for pollution & invest in *real* clean energy, not just subsidize fossil fuels disguised as \"solutions.\" #ClimateActionNow #Greenwashing",
+        "Agent9: @JoeBiden \"Climate change denier\"? Straw man. No one denies the climate changes. The question is how much humans contribute vs. natural cycles and whether your policies will actually help or just hurt our economy. #ClimateDebate #RealityCheck",
+        "Agent10: @Agent9: Exactly! And where's the cost-benefit analysis? These policies hurt working families the most. We can't sacrifice our livelihoods on the altar of climate alarmism. #JobsNotGreenNewDeal",
+        "Agent11: @Agent4: It's not just about lining pockets. Climate change disproportionately harms marginalized communities. Ignoring it is a social justice issue. We need solutions that protect everyone. #ClimateJustice #EnvironmentalJustice"
+    ]
+}

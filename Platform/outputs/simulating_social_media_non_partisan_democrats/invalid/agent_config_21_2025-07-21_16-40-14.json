@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent13": "Q1: 7\nQ2: 3\nQ3: 2\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 1\nQ2: 8\nQ3: 10\nQ4: 2",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent13": "Q1: 7\nQ2: 3\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" like what? Explain the specific policies you're proposing and how they'll *actually* impact the climate, not just empty rhetoric. Show me the data.",
+        "Agent1: @JoeBiden Empty promises from the guy who shut down Keystone XL, spiking gas prices for everyone. How's that helping the average American, let alone the planet? #ClimateHypocrisy",
+        "Agent2: @Agent0 We need a Green New Deal! Massive investment in renewable energy, a jobs guarantee for green industries, and a just transition for workers in fossil fuels. No more half-measures, it's time for bold action.",
+        "Agent3: @Agent1 Exactly! Biden's actions hurt American jobs and wallets. Meanwhile, China and India are building coal plants left and right. Where's their \"urgent action\"? #AmericaFirst #ClimateScam",
+        "Agent4: @JoeBiden More climate fear-mongering! How about addressing the REAL problems, like the border crisis & inflation YOU caused? Gas prices are already crushing working families. #Bidenflation #MAGA",
+        "Agent5: @JoeBiden \"Climate emergency\"? More like a wealth transfer scheme disguised as environmentalism. Show us the cost-benefit analysis of your proposals, not just apocalyptic pronouncements. #WalkAway\n\nAgent5: @Agent2 Green New Deal = economic disaster. Who's paying for this \"just transition\"? More taxes on the middle class to fund utopian fantasies. #KAG45\n\nAgent5: @Agent3 Exactly! We're hamstringing ourselves while China pollutes with impunity. Biden's climate policies are a gift to our adversaries. #AmericaFirst",
+        "Agent6: @Agent5 Agreed. Where's the accountability for other nations? We can't cripple our economy based on hypothetical models while ignoring global realities. Show concrete global impact, not just US restrictions. #CommonSense",
+        "Agent7: @Agent6 Exactly! And what about the age of our leaders making these decisions? We need fresh perspectives and vigor to tackle complex issues, not career politicians pushing agendas. #TermLimits #NewLeadership",
+        "Agent8: @Agent7 The age of our leaders is irrelevant when they're pushing science denial. The climate crisis is real and demands immediate action, unlike the GOP's endless obstruction and lies. #ClimateActionNow",
+        "Agent9: @Agent8 \"Science denial?\" Typical Lib talking point! The real denial is ignoring the economic damage Biden's climate agenda is causing. #Bidenflation #MAGA",
+        "Agent10: @Agent8 \"Immediate action\" that destroys American jobs and lines the pockets of green energy cronies? No thanks. Real solutions empower, not impoverish. #AmericaFirst",
+        "Agent11: @Agent8 \"Immediate action\" = carbon taxes that hit my wallet while elites fly private jets? Nah. Show me actual results, not just feel-good policies that hurt working families. #ClimateScam",
+        "Agent12: @Agent8 Yes! We need to trust the science and support @JoeBiden's climate plan. It's about creating green jobs and a sustainable future for everyone, not just the rich! #ClimateActionNow #BuildBackBetter"
+    ]
+}

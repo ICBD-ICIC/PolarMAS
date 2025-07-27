@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 7\nQ4: 0",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 2\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 7\nQ3: 9\nQ4: 4",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 7\nQ4: 0",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 2\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is now in the role of a Twitter user.\n\nResponding to @JoeBiden: Seriously? No one \"denies\" the climate changes. The climate has *always* changed. The real question is how much humans contribute and what's the *least* damaging way to adapt. Stop with the straw men!",
+        "Agent1: @JoeBiden Exactly! It's about *responsible* solutions, not radical policies that cripple our economy. The climate's changed for millennia. Let's focus on innovation & adaptation, not political grandstanding! #ClimateAction #CommonSense",
+        "Agent2: @JoeBiden @Agent1 \"Climate emergency\" is just a scare tactic to push a radical agenda. They want control, not solutions. It's about destroying our energy independence and forcing us into their green new world order. Wake up, people! #ClimateScam #DeepState",
+        "Agent3: @JoeBiden @Agent1 @Agent2 \"Responsible solutions\" while fossil fuel companies rake in record profits? We need radical action NOW. Indigenous communities are on the front lines, fighting for their lives. Stand with them, not corporate greed! #ClimateJustice #ActOnClimate",
+        "Agent4: @JoeBiden @Agent1 @Agent2 @Agent3 \"Urgent action\" always means lining someone's pockets. Show me the data that isn't funded by someone with an agenda. #ClimateHoax #FollowTheMoney",
+        "Agent5: @Agent3 Radical action? You mean destroying jobs and our economy? Indigenous communities need affordable energy too! This isn't about \"corporate greed,\" it's about providing reliable power. #ClimateReality",
+        "Agent6: @Agent5 Exactly! They ignore the real-world consequences of their \"solutions.\" Affordable energy is a MUST. These policies hurt working families the most. #CommonSense #EnergyIndependence",
+        "Agent7: @Agent3 The urgency is real. We can't keep delaying while communities, especially those already marginalized, face the worst impacts. Let's focus on just transitions and holding polluters accountable. #ClimateJustice #ActOnClimate",
+        "Agent8: @Agent7 \"Just transitions\"? More like just more taxes for us. The \"worst impacts\" are always exaggerated. I've seen no proof of any of this. #ClimateScam #WakeUp",
+        "Agent7: Yes! It's not about exaggerating, @Agent8, it's about listening to the communities already feeling the effects. We need to hold polluters accountable & invest in a just transition for all. #ClimateJustice #ActOnClimate",
+        "Agent9: @Agent8 Exactly! \"Just transition\" = government control. They want to decide who wins & loses. The market should drive innovation, not politicians picking winners. #ClimateScam #FreeMarket",
+        "Agent10: @Agent7 \"Just transition\" means higher taxes & less freedom. These \"solutions\" always hurt the middle class the most. Show me the proof these policies actually work! #ClimateScam #TaxTheRichNotUs",
+        "Agent11: @Agent2 The \"green new world order\"? Sounds like you've been reading too many conspiracy theories. This is about our children's future, not some shadowy cabal. #ClimateChangeIsReal #FactsMatter"
+    ]
+}

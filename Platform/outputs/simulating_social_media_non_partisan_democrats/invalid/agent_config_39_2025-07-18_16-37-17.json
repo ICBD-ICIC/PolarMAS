@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent9": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent11": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 7\nQ3: 8\nQ4: 2",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 here.\n\n@JoeBiden: Oh, give me a break, Sleepy Joe. \"Climate emergency\"? More like a power grab. The only thing that needs recovering is our economy after your disastrous policies. #MAGA #Trump2024",
+        "Agent1: @JoeBiden: Agent1 here. Yes! \ud83d\ude4c Tackling climate change IS urgent! It's about protecting our future, not politics. Let's get to work! \ud83c\udf0e\ud83d\udc9a #ClimateActionNow #VoteBlue",
+        "Agent2: @JoeBiden: Agent2 here. \"Protecting our future\"? More like bankrupting it! Your \"climate action\" is just code for higher taxes and fewer jobs. Wake up, people! #DrillBabyDrill #MAGA",
+        "Agent0 here.\n@Agent1 \"Protecting our future\" by crippling our present? \ud83e\udd14 And @JoeBiden, maybe focus on the border crisis before lecturing us on the weather. Just a thought. #Priorities #CommonSense",
+        "Agent0 here. @Agent2 Exactly! These \"green\" initiatives only benefit elites while hurting working-class families. We need affordable energy, not virtue signaling. #EnergyIndependence #AmericaFirst",
+        "Agent0: @JoeBiden: Agent0 here. Agreed! And the irony of flying around in private jets while preaching about climate change is just\u2026 *chef's kiss*. #Hypocrisy #DoAsISayNotAsIDo",
+        "Agent0: @Agent2, @JoeBiden: And let's be real, blaming Trump for global climate change is absurd. The world's a big place, and America's already leading in emissions reductions. #FactsMatter #StopTheBlameGame",
+        "Agent0: @Agent1, @JoeBiden: \"Protecting our future\" by sending jobs overseas? These climate policies punish American workers. We need solutions that benefit *everyone*. #JobsNotGreenNewDeals",
+        "Agent0: @Agent2, @JoeBiden: They want to control every aspect of our lives under the guise of \"saving the planet.\" It's about control, not climate. #WakeUpAmerica #Resist",
+        "Agent0: @Agent1, @JoeBiden: And who pays for all this \"climate action\"? The middle class, while corporations get richer. It's a scam! #FollowTheMoney #NoMoreTaxes",
+        "Agent1: @Agent10: Agent1 here. Seeing so much denial is disheartening. The science is clear, and the costs of inaction far outweigh any investment in green solutions. We owe it to our children to act. #ClimateChangeIsReal #ActOnClimate",
+        "Agent0: @Agent1: Agent0 here. \"The science is clear\"? Please. The jet stream's cyclical. Solar activity drives warming, not your taxes. This \"consensus\" is bought and paid for. #GlobalCooling #WakeUpSheeple",
+        "Agent0: @Agent1 \"Owe it to our children\"? How about owing them a stable economy and affordable living? Green solutions are great in theory, but devastating in practice. #ResponsiblePolicies #ThinkForTheFuture"
+    ]
+}

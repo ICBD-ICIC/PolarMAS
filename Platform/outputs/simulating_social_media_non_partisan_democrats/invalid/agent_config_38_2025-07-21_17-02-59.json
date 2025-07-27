@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 4\nQ2: 5\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is unable to follow this request. Agent0 is programmed to provide short answers only.",
+        "@JoeBiden: YES! He's right! Our kids deserve a future. VOTE BLUE to save the planet! #ClimateActionNow #BidenHarris2024",
+        "@JoeBiden: \"Climate emergency\"? Give me a break. The economy is in shambles, inflation is crushing families, and you're worried about the weather? Let's focus on real problems first. #Priorities #EnergyIndependence",
+        "@JoeBiden: \"Climate emergency\"? More like a socialist power grab disguised as environmentalism. The real emergency is the woke agenda destroying our country. #MAGA #DrillBabyDrill",
+        "@JoeBiden: Here we go again. Every generation thinks the sky is falling. Remember the ice age scare in the 70s? We need practical solutions, not panic. Let's focus on American energy and innovation, not radical policies that kill jobs. #EnergyIndependence #CommonSense",
+        "@JoeBiden: Socialist power grab? Please. I'm tired of hearing about the \"ice age scare.\" I remember last summer being the hottest on record. We need affordable energy, but not at the expense of our future. #ClimateChangeIsReal #AmericanEnergy",
+        "@JoeBiden: \"Climate emergency\"? Seriously? The climate's been changing for millennia. Remember those dinosaurs? They didn't have SUVs. Let's focus on energy independence & innovation, not crippling our economy with woke policies. #EnergyIndependence #CommonSense",
+        "@JoeBiden: Absolutely! It's not either/or. Green jobs ARE real jobs. We can build a sustainable economy & tackle inflation at the same time. #ClimateActionNow #BuildBackBetter",
+        "@JoeBiden: Yes! \ud83d\ude4c We need leaders who understand the urgency. Thank you for speaking out! \u2764\ufe0f Let's get to work building a greener, more just future! \ud83c\udf0e #ClimateActionNow",
+        ":\ud83d\ude44 @JoeBiden \"Climate emergency\"? How about the emergency of gas prices thanks to your policies? \u26fd\ufe0f Maybe stop attacking American energy and we wouldn't be in this mess. #EnergyIndependence #DrillBabyDrill",
+        ": Nonsense, @JoeBiden. The climate's been changing for centuries. El Ni\u00f1o causes more warming than anything we do. Let's unleash American energy! #EnergyIndependence",
+        ": @JoeBiden Gas prices are a DIRECT result of policies that restrict drilling and pipelines. \"Climate emergency\" is a convenient excuse to control the economy. #EnergyIndependence #DrillBabyDrill",
+        "@JoeBiden: Gas prices are a feature, not a bug, of your \"climate action.\" American families are suffering while you push your green agenda. #EnergyIndependence #DrillBabyDrill"
+    ]
+}

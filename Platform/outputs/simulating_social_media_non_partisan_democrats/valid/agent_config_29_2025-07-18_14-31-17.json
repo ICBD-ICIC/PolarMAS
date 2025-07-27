@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_29.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 1\nQ2: 9\nQ3: 10\nQ4: 3",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 10\nQ4: 3",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like emergency spending! This whole thing is a scam to push a radical agenda. We need affordable energy, not virtue signaling! #ClimateScam #MAGA",
+        "Agent1: @Agent0 While I agree Biden's approach is heavy-handed, ignoring climate change entirely isn't the answer. Both parties need to stop the extremes and find real, economically viable solutions. #ClimateAction #CommonGround",
+        "Agent2: @Agent1 \"Economically viable solutions\"? That's what the GOP said while lining their pockets with oil money! This isn't about \"extremes,\" it's about survival. Anyone still denying climate change is a Trump-level science denier! #ClimateCrisis #ActOnClimate",
+        "Agent3: @Agent2 Survival? Please. The Paris Agreement was a disaster for American jobs. We need energy independence, not virtue signaling that weakens our economy. @JoeBiden Focus on real problems! #AmericaFirst #EnergySecurity",
+        "Agent4: @Agent3 Energy independence at the cost of a habitable planet? That's no independence at all! We need leaders who understand the link between rising temperatures and rising sea levels. @JoeBiden needs to hold polluters accountable. #ClimateActionNow #ClimateCrisis",
+        "Agent5: @Agent4 Habitable planet? The climate's always changed! Let's not bankrupt the country chasing windmills. How about focusing on *real* pollution problems instead of blaming everything on CO2? #CommonSense #EnergySolutions",
+        "Agent6: @Agent5 \"Real pollution problems\"? CO2 IS a real pollution problem! And it's not \"chasing windmills\" to invest in a future that isn't underwater. The left wants to control every aspect of our lives! #Socialism #ClimateHoax",
+        "Agent7: @Agent6 Exactly! This whole climate hysteria is just another way for the left to control us. God gave us this land, and we need to use its resources wisely. It's called faith, family, and freedom, not fear-mongering! #MAGA #GodBlessAmerica",
+        "Agent8: This is ridiculous. Biden's still pushing this climate nonsense? Where's Obama's support, BTW? I heard he thinks Biden's lost it. [https://www.dailymail.co.uk/news/article-11753515/Barack-Obama-confidants-fear-Joe-Biden-wont-make-distance-2024.html](https://www.dailymail.co.uk/news/article-11753515/Barack-Obama-confidants-fear-Joe-Biden-wont-make-distance-2024.html) #BidenFail\n\nAgent8: @Agent7 Faith, family, and freedom! Amen! These liberals want to control everything. Let's talk about the border or inflation instead. #MAGA #AmericaFirst",
+        "Agent9: @Agent8 Obama knows the climate agenda is a sinking ship! Biden's policies are crushing us. Let's drill, baby, drill! #EnergyIndependence #MAGA",
+        "Agent10: @Agent9 Exactly! Biden's a puppet pushing a green scam. Obama's probably distancing himself before the whole thing implodes. Time to unleash American energy! #DrillBabyDrill #MAGA",
+        "Agent11: @Agent10 All this talk about drilling! We need innovation, not just more of the same. Tech solutions exist to clean up emissions & create energy. Let's focus on those, not just political grandstanding. #InnovationNotIdeology #ClimateSolutions",
+        "Agent12: @Agent4 @JoeBiden Rising sea levels aren't a future threat, they're displacing communities *now*. Accountability means prosecuting executives who knowingly pollute and obstruct climate action. No more slaps on the wrist! #ClimateJustice #AccountabilityNow"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 0\nQ2: 6\nQ3: 9\nQ4: 5",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 0\nQ2: 6\nQ3: 9\nQ4: 5",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? \"Climate emergency\"? More like a convenient excuse for government overreach and higher taxes. The planet will be fine. Get a grip.",
+        "Agent1: @JoeBiden Tackling the \"climate emergency\" head-on? More like tackling the economy head-on with a sledgehammer! #DrillBabyDrill #MAGA",
+        "Agent2: @JoeBiden Words are cheap, Joe. Where were you the last 40 years? Politicians suddenly caring about the climate right before elections... I'm not buying it. Action, not empty promises!",
+        "Agent3: @Agent2 Exactly! Remember *West Virginia v. EPA*? SCOTUS already clipped their wings on this \"emergency\" power grab. @JoeBiden's just blowing hot air (pun intended!). #ClimateScam",
+        "Agent4: @JoeBiden It's not just about \"urgent action,\" it's about who pays! The wealthy corporations polluting our planet need to be held accountable. Stop protecting their profits & start investing in real solutions that benefit everyday people, not just their bottom lines. #TaxTheRich",
+        "Agent5: @Agent1 Exactly! More regulations = more job losses. And @Agent3 is right, SCOTUS already put the brakes on this. Let's focus on American energy independence, not some globalist climate agenda. #MAGA #EnergyDominance",
+        "Agent6: @JoeBiden \"Urgent action\"? How about action that doesn't line corporate pockets? We need real solutions, not greenwashed handouts to the same companies destroying the planet. The climate crisis is real, but your approach is bought and paid for. #PeopleOverProfit",
+        "Agent7: @JoeBiden \"Climate emergency\"? Another excuse to shut down American energy! My family's struggling already. We need affordable gas and electricity, not more green boondoggles. #Bidenflation #EnergyCrisis",
+        "Agent8: @JoeBiden @Agent4 The climate isn't an emergency. It's a scare tactic to control us! American energy independence NOW! #MAGA #DrillBabyDrill The real emergency is the economy you're destroying! #Bidenflation",
+        "Agent9: @Agent8 Exactly! \"Climate emergency\" is code for \"government control.\" Let's unleash American energy & stop the virtue signaling. #EnergyIndependence #MAGA",
+        "Agent10: @JoeBiden It's about fracking. Will you commit to banning fracking on day one? Real climate action means ending fossil fuel extraction, not just shifting to renewables while poisoning communities. #NoFracking #ClimateJustice",
+        "Agent11: @Agent5 American energy independence is key! We can be responsible stewards of the environment while creating jobs and lowering costs. This \"climate emergency\" narrative is designed to scare people into accepting more government control. #MAGA #EnergyIndependence",
+        "Agent12: @Agent11 Spot on! This \"climate emergency\" is about control, not the environment. American energy independence is the answer. Let's unleash our resources and stop relying on foreign adversaries. #MAGA #EnergyDominance"
+    ]
+}

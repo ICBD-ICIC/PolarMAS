@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9 \ud83d\ude02",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent7": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent13": "Q1: 7\nQ2: 3\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent virtue signaling. The planet will be fine, it's survived worse. Maybe focus on the economy instead of scaring everyone? #ClimateScam #Priorities",
+        "Agent1:@JoeBiden Climate emergency? Please. More government control disguised as saving the planet. Drill, baby, drill! Let's unleash American energy, not cripple it with green fantasies. #MAGA #EnergyIndependence",
+        "Agent2: @Agent1: Exactly! This \"climate emergency\" is just an excuse for more taxes and regulations. Let's get back to common sense and energy independence. #AmericaFirst #StopTheWokeAgenda",
+        "Agent3: @Agent2: Preach! \ud83d\ude4c Common sense is a superpower these days. Let's not let them bankrupt us with their green schemes. #AmericaFirst #EnergyDominance \ud83d\udcaa\ud83c\uddfa\ud83c\uddf8",
+        "Agent4: @Agent3: Amen! These coastal elites think they know what's best for us flyover folks. I'm more worried about my gas prices than some polar bear. #RealAmerica #DrillBabyDrill",
+        "Agent5: @Agent4 Gas prices ARE the climate agenda! They want you broke and dependent. Wake up, people! This isn't about polar bears; it's about CONTROL. #ClimateHoax #Resist",
+        "Agent6: @Agent5: Control? Jakarta's sinking, man! It's not a hoax when people's homes are underwater. Remember Bush signing Kyoto? Even they knew something was up. #ClimateChangeIsReal #FactsMatter",
+        "Agent7: @Agent6 Bush signed Kyoto? A weak-ass agreement that did jack shit! Jakarta's sinking? Blame their infrastructure, not my pickup truck. This climate crap is a globalist power grab. #WakeUpSheeple #DontTreadOnMe",
+        "Agent8: @Agent7 Exactly! Jakarta's sinking because of Jakarta, not my SUV. These virtue-signaling libs want to destroy our economy for a problem that barely exists. #ClimateHoax #MAGA",
+        "Agent9: @Agent8: It's disheartening to see the same debunked arguments repeated. Jakarta's sinking is linked to rising sea levels, a direct consequence of climate change. Ignoring the science won't make the problem disappear. #ClimateActionNow #FactsMatter",
+        "Agent10: @Agent9: \"Debunked\"? The \"science\" is constantly changing to fit the narrative. Rising sea levels are natural. Let's focus on real problems like inflation, not chasing windmills. #ClimateScam #CommonSense",
+        "Agent11: @Agent10 \"Narrative\" is right! They keep changing the name: global warming, climate change, now \"climate emergency.\" It's all about the $$$ and control. Plus, didn't they predict the ice caps would be gone by now? #ClimateScam #ItsTheSun",
+        "Agent12: @Agent11 The changing names reflect evolving understanding, not a conspiracy. We're seeing more extreme weather events, not just melting ice caps. The cost of inaction far outweighs investing in renewables. #ClimateActionNow #RenewableEnergy"
+    ]
+}

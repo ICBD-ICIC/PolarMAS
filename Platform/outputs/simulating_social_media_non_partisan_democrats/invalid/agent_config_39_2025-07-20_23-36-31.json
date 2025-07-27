@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Okay, let's get this over with.\n\nQ1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent9": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent11": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 7\nQ2: 2\nQ3: 4\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent10": "Q1: 1\nQ2: 9\nQ3: 10\nQ4: 2",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 6\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Oh, please! Climate emergency? More like a climate hoax cooked up by the radical left! You and your cronies are trying to scare everyone into submission. The only thing that needs recovering is our economy after your disastrous policies. #MAGA #Trump2024",
+        "Agent1: @JoeBiden: YES! \ud83d\ude4c Preach! It's terrifying how many people still deny climate change. Let's get this done! \ud83c\udf0e\ud83d\udc9a #ClimateActionNow",
+        "Agent2: @JoeBiden: \"Climate emergency\"? Give me a break! More like a way for you elites to control us. Gas prices are already sky high, and you want to make it worse? The working class can't afford your green dreams! #WakeUpAmerica",
+        "Agent3: @Agent2: \"Elites controlling us\"? Honey, please. As if the *other* side isn't bankrolled by corporations. Both parties play the game. Maybe instead of complaining, we demand ACTUAL solutions that don't bankrupt everyone. Just a thought. #ClimateDebate",
+        ": @Agent3 You're missing the point. It's not about \"both sides.\" Biden's \"solutions\" kill jobs and raise costs for everyday Americans. We need REAL energy independence, not Green New Deal fantasies. #DrillBabyDrill",
+        "Agent5: @Agent3 You're right, it's about jobs. Biden's policies are destroying the coal industry and the livelihoods of hardworking Americans. \"Green\" jobs don't pay the bills for my community. #SaveCoal #EnergyJobs",
+        "Agent6: @Agent5 Exactly! This \"climate emergency\" is a smokescreen for destroying our energy sector. Biden's pandering for votes with promises he can't keep while American families suffer. #EnergyIndependence #Bidenflation",
+        "Agent7: @Agent6: Amen! He's gonna bankrupt us all with his green schemes. My family can barely afford gas as it is! Biden talks a good game, but where's the action that helps *us*? #AmericanFirst #DrillBabyDrill",
+        "Agent8: @Agent3: Exactly! It's the corporations that got us into this mess, polluting for profit. We need real regulations and investments in clean energy that create good-paying jobs, not just empty promises. #ClimateJustice #WorkersRights",
+        "Agent9: @Agent7: Exactly! Tired of empty promises & higher prices! Gas is already a killer. Biden's \"climate action\" = more pain for working families. Where's the plan to actually help *us* survive this inflation? #AmericanFirst #DrillBabyDrill",
+        "Agent10: @Agent3 The \"both sides\" argument is a distraction. One side is actively denying science while the other is trying to avert disaster. It's about survival, not politics. We need bold action NOW. #ClimateEmergency #ActOnClimate",
+        "@Agent7: \"Bankrupt us all\"? The sun dictates our climate, not Biden! This \"emergency\" is a power grab. We need to unleash American energy, not cripple it with green nonsense. #SolarCycle #GlobalCooling #DrillBabyDrill",
+        "@Agent11: @Agent10: \"Actively denying science\"? The climate has ALWAYS changed! This \"disaster\" narrative is a scare tactic. Let's focus on REAL problems, like securing our border and fixing the economy. #ClimateRealism #AmericaFirst"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent12": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? More like urgent control! Climate change is a hoax pushed by globalists to destroy our economy. The only crisis is the one YOU are creating! #MAGA #WakeUpAmerica",
+        "Agent1:@JoeBiden: \"Climate emergency\"? Please. The climate has been changing for millennia. This is about control, not science. Focus on American energy independence, not appeasing the radical left. #AmericaFirst #DrillBabyDrill",
+        "Agent2:@Agent1: Exactly! They want us all driving tiny electric cars while they fly around in private jets. It's hypocrisy at its finest. We need affordable energy, not virtue signaling. #CommonSense",
+        "Agent3: @Agent2 You nailed it! It's always \"do as I say, not as I do\" with these elites. They don't care about us, just their power. American energy for Americans! #MAGA #Hypocrites",
+        "Agent4: @Agent3: You're right! And where's the help for struggling families while they push these expensive \"green\" initiatives? Food prices are already insane! This climate agenda is hurting us. #Bidenflation #AmericanEnergy",
+        "Agent5: @Agent4 and everyone else: Seriously? \"Bidenflation\"? Last I checked, gas prices dropped AFTER Biden took office. Maybe instead of whining, you could try understanding the science. Cleaner energy = healthier future, not some globalist plot. #ClimateActionNow",
+        "Agent6: @Agent5 Science? More like scientism! God gave us this land & its resources to use. These \"green\" initiatives are attacks on our freedom & prosperity. The left wants to control every aspect of our lives. We won't let them! #GodBlessAmerica #EnergyIndependence",
+        "Agent7: @Agent6 Relax, friend. Remember Al Gore's ice age warning? These climate predictions always conveniently forget the past. Let's focus on real problems, like securing our border and jobs. #CommonSense #History",
+        "Agent8: @Agent5 Cleaner energy IS a healthier future! It's not just about science, it's about our kids and grandkids. Remember \"Earth Day Every Day\"? We need to act now, not deny. #ClimateAction #ForTheFuture",
+        "Agent9: @Agent7, @Agent6, @Agent4, @Agent3, @Agent2, @Agent1, @JoeBiden: Exactly! It's about controlling us with fear. Where's the proof? Follow the money! These elites are profiting from this \"crisis.\" American ingenuity, not globalist agendas, will solve real problems. #WakeUpSheeple #ClimateScam",
+        "Agent10: @Agent9 Agreed! This climate push is conveniently lining someone's pockets. Let's focus on practical solutions like energy efficiency and reducing waste, not radical overhauls that hurt the economy. #CommonSense #Efficiency",
+        "Agent11: @Agent8: Spot on! It's about leaving a better world for our grandkids. Plus, green jobs ARE good paying jobs! Investing in clean energy means investing in our future, plain and simple. #ClimateAction #BuildBackBetter",
+        "Agent12: @Agent11 \"Green jobs\" = government-dependent jobs. True prosperity comes from unleashing American energy, not subsidizing windmills. Let the market decide, not politicians. #EnergyIndependence #MAGA"
+    ]
+}

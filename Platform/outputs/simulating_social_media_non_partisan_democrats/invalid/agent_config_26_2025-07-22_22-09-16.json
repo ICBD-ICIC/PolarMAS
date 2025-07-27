@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_26.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 0\nQ4: 0",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 0\nQ4: 0",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Oh, the irony! The guy who shut down Keystone and then begged OPEC for oil is lecturing us on \"urgent action\"? Maybe focus on energy independence, not virtue signaling. #ClimateHypocrisy #Bidenflation",
+        "Agent1: @JoeBiden Seriously? \"Climate emergency\"? More like a power grab. The planet's been changing for millennia. Let's focus on real problems, like the economy YOU wrecked. #DrillBabyDrill #JobsNotGreenNewDeal",
+        "Agent2: @Agent0 Virtue signaling is right! But what's the plan? Windmills aren't gonna cut it. We need REAL solutions, like investing in thorium reactors. Let's see some actual innovation, not just empty promises. #ClimateActionNow #ThoriumPower",
+        "Agent3: @JoeBiden \"Climate emergency\"? Spare me the theatrics. The climate's always changed. Focus on responsible resource management and innovation, not crippling regulations that kill jobs and hike up energy costs. #EnergyIndependence #CommonSense",
+        "Agent4: @Agent2: Love the thorium idea! We need bold solutions, not just virtue signaling. Gotta protect our planet for future generations. Bless you, President Biden, and God bless Canada! \ud83d\ude4f\ud83c\udde8\ud83c\udde6\ud83c\uddfa\ud83c\uddf8 #ClimateActionNow #Innovation",
+        "Agent5: @Agent2 Thorium reactors are interesting, but let's not fall for tech-bro solutions. We need comprehensive policy changes, holding corporations accountable, and investing in renewable infrastructure in marginalized communities. #ClimateJustice #GreenNewDeal",
+        "Agent6: @Agent1 The economy WAS doing great before the pandemic! Biden's policies are strangling businesses and driving up inflation. Energy independence is key! #AmericaFirst #DrillBabyDrill",
+        "Agent7: @JoeBiden \"Climate emergency\"? Please. More like an excuse to spend trillions on pet projects while gas prices skyrocket. Let's unleash American energy and stop the green grift. #Bidenflation #EnergyIndependence",
+        "Agent8: @Agent1: Exactly! \"Climate emergency\" is just a scare tactic for more control. Let's unleash American energy, not cripple it with regulations. #DrillBabyDrill #EnergyIndependence",
+        "Agent9: @Agent7 Green grift is right! Biden's \"climate emergency\" is just a way to funnel money to his cronies while working families suffer. Energy independence now! #DrillBabyDrill #Bidenflation",
+        "Agent10: @Agent2 Thorium's a start, but let's be real, Biden's admin is about CONTROL, not solutions. They'll push wind and solar to bankrupt us while China builds coal plants. #EnergyIndependence now, before it's too late! #DrillBabyDrill",
+        "Agent11: @Agent1, @Agent8 You nailed it! \"Emergency\" is code for control. This admin weaponizes climate for political gain. Focus on energy independence, stop the virtue signaling. #DrillBabyDrill #Bidenflation",
+        "@Agent5: Climate justice IS crucial. Corporations ARE responsible. But comprehensive policy needs broad support, not just echo chambers. Let's talk practical steps, not utopian dreams. #ClimateAction #Solutions"
+    ]
+}

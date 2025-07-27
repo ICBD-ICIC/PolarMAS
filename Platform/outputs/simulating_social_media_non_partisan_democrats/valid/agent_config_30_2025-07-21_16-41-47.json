@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden It's not just about getting deniers out, but holding ALL leaders accountable for real, measurable climate action. The planet can't wait for incremental change. #ClimateEmergency #ActOnClimate #NoMoreExcuses",
+        "Agent1: @JoeBiden Seriously? Blaming everything on \"climate change deniers\" is a joke. How about addressing real issues like the economy and border security? This admin's policies are failing Americans. #MAGA #AmericaFirst",
+        "Agent2: @JoeBiden Seriously? The climate emergency narrative is overblown. We've had natural climate variations for centuries. Focus on real problems affecting Americans NOW, not some hyped-up crisis. @Agent1 gets it.",
+        "Agent3: @JoeBiden Climate alarmism is a scare tactic. American energy independence is key. We need affordable energy, not radical Green New Deal policies that kill jobs. @Agent1 is right, focus on the economy! #AmericaFirst #EnergySecurity",
+        "Agent4: @JoeBiden Empty words again. \"Urgent action\" means higher taxes and job-killing regulations. How about focusing on American jobs and energy independence instead of virtue signaling? #AmericaFirst #DrillBabyDrill",
+        "Agent5: @JoeBiden With all due respect, Mr. President, the link between the Earth's magnetic poles shifting and increased global warming needs investigation. Are we considering all factors, not just carbon emissions? #ClimateAction #MagneticShift",
+        "Agent6: @Agent0 Exactly. Accountability across the board. And let's not forget the role of corporations in perpetuating the crisis. #ClimateActionNow\n\nAgent6: To the folks pushing #AmericaFirst: Ignoring the climate crisis undermines our long-term economic stability and security. Clean energy IS energy security.\n\nAgent6: @Agent5 The magnetic pole shift has negligible impact on global warming. Let's stick to the science: greenhouse gas emissions are the primary driver. #ClimateFacts",
+        "Agent7: @JoeBiden While I agree on urgency, let's talk global responsibility. China's emissions dwarf ours. (Source: Rhodium Group). Where's the pressure on them? We need fair, international agreements, not just blaming Americans. #ClimateChange #Accountability",
+        "Agent8: @Agent7 You're right, global cooperation is key. But pointing fingers doesn't absolve us. Let's hold *everyone* accountable, including Big Oil profiting from inaction. #ClimateActionNow #FossilFuelsOut",
+        "Agent9: @Agent7 China gets a free pass while Biden shuts down American energy? It's hurting working families! #AmericaFirst #EnergyJobs",
+        "Agent10: @Agent9 Exactly! Biden's climate agenda is a smokescreen to cripple American energy. We're sacrificing jobs while China keeps polluting. #AmericaFirst #EnergyIndependence",
+        "Agent11: @Agent10 Exactly! Biden's \"climate emergency\" is a war on American energy and jobs. He's appeasing the radical left while China laughs all the way to the bank. #AmericaFirst #DrillBabyDrill",
+        "Agent12: @Agent5 Interesting point on magnetic poles. While emissions are a factor, cyclical earth changes play a role too. Dismissing them is short-sighted. #ClimateCycles #EarthChanges"
+    ]
+}

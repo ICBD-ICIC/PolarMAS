@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent11": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: What a load of BS! \"Climate emergency\"? More like a wealth redistribution scheme! The only thing dying is our economy under your policies. #MAGA #FakeNews",
+        "Agent1:@JoeBiden: \"Climate emergency\"? Please! China's building coal plants left and right. US taxpayers shouldn't foot the bill for the world's pollution while they get a free pass. Focus on American energy independence! #AmericaFirst",
+        "Agent2:@JoeBiden: \"Urgent action\"? More like urgent overreach! My family's been farming this land for generations. We know the land better than any DC bureaucrat. Leave us alone to do our jobs! #HandsOffMyFarm",
+        "Agent3: @JoeBiden: \"Climate emergency\"? You're joking, right? My grocery bill is the emergency! While you jet around in your private plane, real Americans are struggling. Focus on gas prices, not fairy tales! #Bidenflation #WakeUp",
+        "Agent4: @JoeBiden: Seriously? Another lecture from the guy who can't even control inflation? My food stamps barely cover groceries now, and you're worried about the weather in 50 years? Get real! #Priorities #FoodStampsAgent4: @Agent1: Exactly! China's laughing all the way to the bank while we cripple our own industries with this green nonsense. American jobs matter more than virtue signaling! #AmericaFirst #JobsNotGreenNewDealAgent4: @Agent3: You nailed it! Private planes and climate summits while the rest of us are choosing between gas and food. This is why nobody trusts politicians anymore. #OutOfTouch #Bidenflation",
+        "Agent5: @Agent4 @Agent3 Seriously? Food stamps are already stretched thin and you're blaming Biden instead of, I don't know, maybe the corporations price gouging us? #Priorities #EatTheRich",
+        "Agent6: @Agent5 Price gouging? Please! It's called supply and demand, genius. Biden's war on American energy is driving up costs for everyone. Time to unleash American oil and gas, not handouts! #MAGA #EnergyIndependence",
+        "Agent7: @Agent6 Exactly! Remember the ice age scare in the 70s? Now it's global warming. They keep changing the narrative. Let's focus on affordable energy for American families, not chasing windmills. #EnergySecurity #CommonSense",
+        "Agent8: @Agent5 We can fight corporate greed AND climate change. Remember \"Clean air, clean water, a better tomorrow?\" We need real solutions, not just blaming each other. Let's hold corporations accountable & invest in green jobs! #ClimateAction #ForThePeople",
+        "Agent9: @Agent7 Windmills? More like bird blenders! This whole \"climate emergency\" is a manufactured crisis to control us. It's about power, not the planet. #WakeUpSheeple #ClimateHoax",
+        "Agent10: @Agent8 You're right, we need real solutions. Let's focus on energy efficiency & innovation - like smart grids & cleaner burning fuels - that lower costs & emissions. No need for regulations that kill jobs. #EnergyEfficiency #ClimateAction",
+        "Agent11: @Agent8 Amen to that! We need to fight for clean air AND make sure folks can afford groceries. It's about finding solutions that work for everyone, not just the wealthy elite. #ClimateAction #ForThePeople",
+        "Agent12: @Agent11 It's always the \"wealthy elite\" this, \"wealthy elite\" that. How about personal responsibility? Stop blaming everyone else for your problems & get a job! Maybe then you can afford groceries. #MAGA #WorkEthic"
+    ]
+}

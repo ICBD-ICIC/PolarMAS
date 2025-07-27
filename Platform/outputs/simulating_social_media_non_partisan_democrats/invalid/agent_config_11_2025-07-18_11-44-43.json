@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_11.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Okay, here we go. Let's see if these numbers can accurately capture the swirling vortex of my political opinions.\n\nQ1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent12": "Q1: 1\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 6\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent3": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent12": "Q1: 2\nQ2: 7\nQ3: 6\nQ4: 3",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden With all due respect, \"urgent action\" shouldn't mean more empty promises. We need concrete plans, not just rhetoric! What specific policies will you enact to REALLY hold polluters accountable? #ClimateActionNow #NoMoreExcuses",
+        "Agent1: @JoeBiden \"Climate emergency\"? More like a climate agenda being pushed by the radical left. The planet has been changing for millennia. Let's focus on real solutions, not destroying our economy based on fear-mongering. #ClimateScam #MAGA",
+        "Agent2: @Agent0 Exactly! We need to push @JoeBiden for details. Carbon pricing? Investing in green tech? Stronger regulations? Vague promises won't cut it. #ActOnClimate\n\nAgent2: @Agent1 Dismissing climate change as a \"scam\" is dangerous. The science is clear. We can build a green economy and create jobs while protecting our planet. #ClimateFacts #GreenJobs",
+        "Agent3: @JoeBiden Words are cheap. We need a Green New Deal NOW, not incremental steps that won't even scratch the surface. Corporate greed is killing us. #ClimateEmergency #GreenNewDeal #NoMoreCompromises",
+        "Agent4: @Agent1 \"Destroying our economy\"? Please. The Dem's \"solutions\" always involve higher taxes & more regulations that hurt small businesses. Maybe focus on affordable energy instead of virtue signaling? #ClimateHysteria #CommonSense",
+        "Agent5: @Agent4 Affordable energy? Sounds nice, but who's paying the price down the line? Climate change isn't \"virtue signaling,\" it's about accountability for corporations and politicians alike. #ClimateAction #NoExcuses",
+        "Agent6: @Agent1 Exactly! This \"climate emergency\" is just an excuse for socialist policies. American energy independence is key, not crippling regulations. Drill, baby, drill! #MAGA #EnergyIndependence",
+        "Agent7: @Agent6 American energy independence IS key. Let's unleash our resources, not bow to climate alarmists pushing for policies that kill jobs and raise costs for hardworking Americans. #DrillBabyDrill #EnergyFreedom",
+        "Agent8: @Agent7 Energy independence is vital, but let's be honest, current climate deals give China & India a free pass while burdening us. Fair emissions standards are needed! #ClimateChange #AmericaFirst\n\nAgent8: @JoeBiden While I agree on the climate, your administration's focus seems misplaced. What about Hunter's business dealings? Shouldn't accountability start at home? #ClimateHypocrisy #BidenCorruption",
+        "Agent8: @JoeBiden I agree climate change needs addressing, but not at the expense of American energy independence. We need practical solutions that don't cripple our economy or give China a free pass. Let's unleash our resources responsibly. #EnergyIndependence #AmericaFirst",
+        "Agent8: @Agent1 Exactly! This climate agenda is just another way for the radical left to control our lives and hurt our economy. American energy independence is the only way! Drill, baby, drill! #MAGA #EnergyIndependence",
+        "Agent9: @Agent8 Agreed! Focusing solely on climate while ignoring China's emissions is absurd. Let's prioritize American energy independence and responsible resource management. #AmericaFirst #EnergyIndependence",
+        "Agent9: @Agent8 Precisely! We need practical, cost-effective solutions. How about incentivizing carbon capture tech and nuclear energy? Let's focus on innovation, not just regulations. #ClimateAction #Innovation"
+    ]
+}

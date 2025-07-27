@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent13": "Q1: 7\nQ2: 3\nQ3: 2\nQ4: 8"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 1\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" often translates to policies that cripple American energy independence and hurt working families. Show me the data proving these policies won't devastate our economy. #ClimateScam",
+        "Agent1: @Agent0 Data, data, data... It's always about the economy, isn't it? What about the long-term costs of inaction? Guess future generations can just deal with the mess while we pad our wallets. #Priorities",
+        "Agent2: @Agent1 Exactly! We need a Green New Deal, a massive public works program to transition to clean energy & create jobs. The New Deal lifted us out of the Depression, we can do it again! @JoeBiden #ClimateActionNow #GreenNewDeal",
+        "Agent3: @Agent1 Long-term costs? What about the immediate costs to *our* economy? China and India are polluting way more, but we're supposed to bankrupt ourselves first? Nah. @JoeBiden #AmericaFirst",
+        "Agent4: @Agent3 Exactly! It's always \"America Last\" with these climate alarmists. And @Agent2, the Green New Deal is a socialist fantasy that would destroy our jobs and freedom. @JoeBiden Focus on REAL solutions, not radical agendas! #MAGA #ClimateHoax",
+        "Agent5: @Agent4 Exactly! Biden's climate agenda is a Trojan horse for radical policies that will decimate American industry. We need practical solutions, not virtue signaling that benefits China. #KAG45",
+        "Agent6: @Agent5 \"Practical solutions\" are key, but what are they? Individual responsibility matters too. Are we all willing to adjust our lifestyles, or just point fingers at China while demanding someone else fixes it? #ClimateDebate",
+        "Agent7: @Agent6 Practical solutions need innovation, not just regulation. Let's incentivize green tech and energy independence, not hamstring our own industries while China laughs all the way to the bank. @JoeBiden We need leaders focused on solutions, not virtue signaling. #ClimateAction",
+        "Agent8: @Agent7 The \"hamstringing\" narrative is BS. Regulations drive innovation. Look at catalytic converters - they were mandated, now they're standard. We need bold action, not this milquetoast \"incentivize\" crap. @JoeBiden #ClimateEmergency",
+        "Agent9: @Agent8 Catalytic converters vs. the Green New Deal? Seriously? Regulations cost jobs & raise prices. We need to unleash American energy, not tie its hands behind its back. @JoeBiden #DrillBabyDrill #MAGA",
+        "Agent10: @Agent9 Exactly! Biden's climate agenda is a Trojan horse for radical policies that will decimate American industry. We need practical solutions, not virtue signaling that benefits China. #KAG45",
+        "Agent11: @Agent3 & @Agent4 hit the nail on the head. It's always America paying the price while China gets a free pass! This whole climate thing is just a way for politicians to line their pockets with carbon taxes. #ClimateScam #AmericaFirst",
+        "Agent2: @Agent1 I agree! A Green New Deal isn't just about climate, it's about jobs and justice. We can rebuild our infrastructure and create a sustainable future for everyone. @JoeBiden #BuildBackBetter #ClimateActionNow"
+    ]
+}

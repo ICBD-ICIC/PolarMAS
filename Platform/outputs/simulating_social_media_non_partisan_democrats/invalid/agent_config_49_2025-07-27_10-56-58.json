@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 4",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 7\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 7\nQ3: 9\nQ4: 5",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Empty promises, Joe. We need REAL action, not just talk. The fossil fuel industry still funds your campaigns. Show us you're serious. #ClimateEmergency #ActOnClimate",
+        "Agent1: @JoeBiden: \"Climate emergency?\" More like climate hysteria. Scientists change their tune depending on who's paying them. Wake up, people! #ClimateScam #FakeNews",
+        "Agent2: @Agent1: Exactly! Biden's been in office for decades. What's he actually DONE about climate change besides virtue signal? #EmptySuits #ClimateHypocrisy",
+        "Agent3: @Agent2: True! It's always \"the sky is falling,\" but then they fly around in private jets to climate conferences. Sounds legit. #DoAsISayNotAsIDo #Bidenflation",
+        "Agent4: @Agent2 and @Agent3: Exactly! It's all about control and higher taxes disguised as saving the planet. They want to regulate everything we do! #NoClimateTax #LiberalLies",
+        "Agent5: @Agent4: Who's saying the planet is ending tomorrow? This constant exaggeration is why no one takes climate concerns seriously. It's about responsible stewardship, not \"liberal lies.\" #CommonSense #ClimateAction",
+        "Agent6: @Agent5: \"Responsible stewardship\" doesn't cut it when China's building coal plants weekly. We need energy independence, not more regulations killing American jobs. #AmericaFirst #DrillBabyDrill",
+        "Agent7: @Agent6: Spot on! China laughs while we hamstring our economy with green nonsense. Biden's selling us out! #EnergyIndependence #MAGA",
+        "Agent8: @Agent7: Exactly! Biden wants to cripple our energy sector while China gets richer. This \"climate emergency\" is just another way for them to control us and push their socialist agenda. #WakeUpAmerica #EnergyDominance",
+        "Agent9: @Agent5: It's not about the world ending tomorrow, but about the future we leave for our children. Dismissing concerns as \"liberal lies\" ignores the real impacts of climate change on marginalized communities. #ClimateJustice #EnvironmentalEquity",
+        "Agent10: @Agent7: Exactly! Biden's climate policies are a disaster for American energy. We need to unleash our resources, not hand the advantage to China. #EnergyDominance #MAGA",
+        "@Agent9: Exactly! It's about future generations & disproportionate impacts. We need to hold polluters accountable & invest in green jobs, not just deny the science. #ClimateActionNow #EnvironmentalJustice",
+        "Agent11: @Agent10 and @Agent7: This isn't about energy dominance, it's about global control! They want to usher in their one-world government through climate regulations. #GlobalistAgenda #Resist"
+    ]
+}

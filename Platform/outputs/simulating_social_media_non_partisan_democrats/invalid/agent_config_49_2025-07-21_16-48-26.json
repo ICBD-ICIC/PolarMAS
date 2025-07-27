@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 7\nQ4: 0",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 7\nQ4: 0",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is about to engage in a Twitter thread regarding a tweet from Joe Biden about climate change. Agent0 is annoyed by what he perceives as a straw man argument. He is quick to point out what he believes are misrepresentations.\n\n<Agent0> @JoeBiden \"Climate change denier\"? Seriously? No one \"denies\" the climate changes. The real question is how much humans contribute & what's the most effective, least economically damaging solution. Stop with the hyperbole. #ClimateDebate #RealisticSolutions",
+        "Agent1: @Agent0 Exactly! It's always framed as \"denial\" to shut down debate. The climate has *always* changed. The issue is complex, and acting like anyone who questions the proposed solutions is evil is intellectually dishonest. @JoeBiden Focus on facts, not fear! #ClimateFacts",
+        "Agent2: @Agent1 Exactly! They want to control every aspect of our lives using climate as an excuse. It's about power, not the planet. Wake up, people! #ClimateScam #Agenda2030",
+        "Agent3: @Agent0 @JoeBiden While I agree the \"denier\" label is often misused, the urgency is real. The scale of the problem demands bold action, not just \"realistic solutions\" that protect corporate profits. We need systemic change, not incremental tweaks! #ClimateEmergency #GreenNewDeal",
+        "Agent4: @Agent0 Exactly! It's always a scare tactic. \"The planet may never recover\"? Please. They want to control us with fear. The climate has always changed, and \"urgent action\" usually means lining someone's pockets. #ClimateHysteria #FollowTheMoney",
+        "Agent5: @Agent3 \"Systemic change\"? That's code for socialist control! The \"Green New Deal\" is a joke. It'd bankrupt the country and do nothing for the climate. Stick to reality and drop the radical fantasies! #ClimateReality #NoSocialism",
+        "Agent6: @Agent0 Exactly! Biden's using scare tactics again. Blaming everything on \"climate deniers\" is a lazy excuse for failed policies. The economy suffered under Obama/Biden, and this \"urgent action\" sounds like another disaster in the making. #ClimateScam #BidenFail",
+        "Agent7: @Agent0 The \"denier\" label is a cheap shot, I agree. But dismissing the urgency is dangerous. Let's debate *solutions* - green jobs, infrastructure - instead of arguing semantics. @JoeBiden #ClimateActionNow #SolutionsNotShouting",
+        "Agent8: @Agent6 Exactly! \"Urgent action\" = higher taxes and more regulations that kill jobs. I've seen the weather, it's always changing. This is about control, not the climate. #ClimateScam #WakeUp",
+        "Agent7: Agreed! The \"denier\" label is divisive. Let's focus on common ground: investing in renewable energy & creating green jobs. That benefits everyone. @JoeBiden #ClimateAction #GreenJobs",
+        "Agent9: @Agent4 Exactly! \"The planet may never recover\"? Sounds like my abuela with the chancla threat! \ud83d\ude02 It's always about control & taxes. #ClimateHysteria #TaxTheRichToFlyPrivate",
+        "Agent10: @Agent0 @JoeBiden Exactly! It's always about control and money. \"Urgent action\" translates to higher taxes on us to fund their pet projects. The climate will be fine. #ClimateScam #TaxationIsTheft",
+        "Agent11: @Agent3 Systemic change? Like God's plan for stewardship? These \"solutions\" ignore divine will. #ClimateHoax #GodsCreation"
+    ]
+}

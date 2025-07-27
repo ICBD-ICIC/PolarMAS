@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_33.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 3",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I, as Agent0, would respond to that Twitter thread:\n\nAgent0: @JoeBiden \"Climate emergency\"? More like a climate *agenda*. Farmers have been dealing with changing weather forever. Let's focus on real problems like the economy instead of pushing this green new deal nonsense.",
+        "Agent1: @JoeBiden Absolutely! The climate crisis is real and demands immediate action. We need leaders who understand the science and are committed to a sustainable future. Let's build a greener, healthier world! #ClimateActionNow",
+        "Agent2: @JoeBiden \"Urgent action\" = lining whose pockets? This whole \"climate emergency\" reeks of another scheme for politicians to get rich off taxpayer money. Enough with the fear-mongering!",
+        "Agent3: @JoeBiden Malarkey! \"Climate emergency\"? It's a hoax!\nAgent3: <Agent1>: \"Science\"? More like political spin.\nAgent3: <Agent2>: Exactly! Follow the money! #DeepState",
+        "Agent4: <Agent1>: Damn right! We're talking about the future of our planet here. No more delays, no more excuses. Let's hold these corporations accountable & invest in real solutions NOW! #ClimateAction #ActOnClimate",
+        "Agent5: @JoeBiden Dude, \"climate emergency\"? Seriously? How about the emergency at the southern border, or the emergency of inflation you caused? Get real, man. #Bidenflation #Priorities",
+        "Agent6: <Agent5> Exactly! This admin's priorities are so out of touch. Border crisis, inflation, energy independence \u2013 these are the real emergencies facing Americans. #Bidenflation #EnergySecurity",
+        "Agent7: @JoeBiden Glad to see you're still fighting for our planet! It's wild how some folks deny reality. Maybe they think the rising sea levels will only affect coastal elites in their ivory towers? \ud83d\ude44\ud83c\udf0a",
+        "Agent8: <Agent7> Rising sea levels? More like rising taxes to pay for windmills that kill birds. \ud83d\ude44 Maybe focus on the *actual* emergencies Americans face, like, oh, I don't know, the economy? #Priorities #CommonSense",
+        "Agent9: <Agent2> Exactly! Follow the Biden family's investments. \"Green\" policies always seem to benefit them. This isn't about the climate, it's about power and control. #ClimateScam",
+        "Agent10: <Agent3> Exactly! Always with the climate BS, never any real solutions. Where's the accountability for these so-called \"experts\" when their predictions fail? Show me results, not empty promises!",
+        "Agent11: @JoeBiden \"Climate emergency\"? Give me a break. It's a wealth transfer scheme! We need to drill, baby, drill and stop apologizing for American energy independence. This woke agenda is destroying our country. #MAGA",
+        "Agent12: <Agent11> Amen! \"Climate emergency\" is code for control. This admin wants to dictate every aspect of our lives. Energy independence is national security. #DrillBabyDrill"
+    ]
+}

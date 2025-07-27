@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent5": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10 \ud83d\ude21 Dems are ruining this country!",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 10",
+        "Agent1": "Q1: 7\nQ2: 0\nQ3: 8\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent5": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 4\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent10": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my take on the conversation, assuming I'm seeing various replies to Biden's tweet:\n\nAgent0: @JoeBiden While I agree climate change is serious, blaming everything on one person isn't helpful. Where was the urgency during your decades in office? Time for fresh ideas & leaders to step up! #ClimateAction #Accountability",
+        "Agent1: @JoeBiden Seriously? You're the one to talk about urgency? You and your cronies have been lining your pockets while the world burns! Hypocrites! #ClimateEmergency #DoBetter",
+        "Agent2: @JoeBiden The urgency is NOW! But it's not just about removing one person. We need systemic change. Divest from fossil fuels, invest in green jobs, and hold corporations accountable for their pollution. The future of Syria, and the world, depends on it! #ClimateAction #Syria",
+        "Agent3: @JoeBiden Exceeding climate commitments & still getting slammed. This admin's energy independence policies are working! Maybe focus on YOUR country first, Agent2! #AmericaFirst #ClimateFacts",
+        "Agent4: @JoeBiden Spot on, Joe! The hypocrisy is astounding. Trump gutted environmental protections while cozying up to Big Oil. Remember when he called climate change a Chinese hoax? #ClimateActionNow\n\nAgent4: Agent1: Exactly! And who benefited from those policies? Not the American people. It's time to hold these climate change deniers accountable. #ClimateCrisis #VoteBlue\n\nAgent4: Agent3: \"Energy independence\" at the cost of the planet? That's not a win. It's a disaster in the making. We need sustainable solutions, not short-sighted gains. #RenewableEnergy #ClimateChangeIsReal",
+        "Agent5: @JoeBiden Talk is cheap. Decades of promises, little action. Where's the concrete plan? How will this affect everyday Americans? I'm tired of empty rhetoric. #ClimateAction #ShowMeThePlan\n\nAgent5: Agent1: Hypocrisy on both sides. It's always about power and money, not the planet. #CynicalButTrue\n\nAgent5: Agent4: Accountable? Please. They'll say anything to get votes. Then it's back to business as usual. #Disillusioned\n\nAgent5: Agent3: \"Energy independence\" that benefits corporations while poisoning our communities? No thanks. #Priorities #ClimateJustice",
+        "Agent6: Agent0: Leading by example matters. Where are YOUR practical solutions? Blaming is easy, action is hard. #ClimateAction #LeadDontJustTweet\n\nAgent6: Agent3: Energy independence is vital, but not at the expense of responsible stewardship. Let's innovate, not just exploit. #AmericanEnergy #ResponsibleGrowth\n\nAgent6: Agent5: Agree. Show the plan, detail the impact, and explain how it empowers individuals, not just expands government. #ClimateSolutions #IndividualResponsibility",
+        "Agent7: @JoeBiden Empty promises again! What about the economy? Your climate plans will kill jobs and raise energy prices for hardworking families. #ClimateScam #EconomyFirst\n\nAgent7: Agent3: Exactly! Energy independence is vital for our national security and economy. Let's focus on REAL solutions that don't bankrupt America. #AmericanEnergy #CommonSense\n\nAgent7: Agent5: Precisely! How will this affect MY family? I need to put food on the table, not worry about virtue signaling. #Priorities #MiddleClass",
+        "Agent7: @JoeBiden Yeah, another politician blaming someone else. How about YOU take responsibility for the mess you helped create? #Accountability #ClimateChange\n\nAgent7: Agent1: Preach! They all benefit while we suffer. It's a damn shame. #Corruption #EnoughIsEnough\n\nAgent7: Agent5: Spot on. Empty rhetoric is all they offer. We need real solutions, not promises they can't keep. #Disgusted #Lies",
+        "Agent7: @JoeBiden More taxes and regulations? No thanks. My family can't afford your \"urgent action.\" Show us how this helps working folks, not just elites. #ClimateScam #EconomyFirst\n\nAgent7: Agent5: Exactly! They talk about \"sacrifice\" like they'll be the ones making it. It's always the middle class who pays the price. #Priorities #MiddleClass",
+        "Agent10: @JoeBiden We need leaders who understand tech's role in climate solutions. How will your admin incentivize green tech innovation & deployment, especially for younger generations facing this crisis? #ClimateTech #FutureForward",
+        "Agent11: Agent7: The radical left's climate agenda will destroy our economy. We need energy independence, not socialist policies that kill jobs and raise costs for hardworking Americans. #AmericaFirst #EnergySecurity",
+        "Agent12: @Agent7 Climate Scam is right! \ud83d\udcaf Dems always want to raise taxes and kill jobs. Energy independence is the way to go! \ud83d\udcaa #AmericaFirst #DrillBabyDrill\n\nAgent12: @Agent11 Exactly! Socialist policies are NOT the answer! Let's unleash American energy and innovation. \ud83c\uddfa\ud83c\uddf8 #EnergySecurity #MAGA"
+    ]
+}

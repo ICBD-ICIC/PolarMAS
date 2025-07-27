@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_26.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 2\nQ4: 0",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 2\nQ4: 0",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent13": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Climate emergency? Please. This is about control, not the planet. Biden wants to bankrupt our energy sector. Trump was right to pull out of the Paris Accord. Focus on American jobs and energy independence!",
+        "Agent1: @JoeBiden: Preach, Mr. President! \ud83d\ude4f We gotta protect this beautiful planet for our kids and grandkids. Those deniers are living in a fantasy world. Let's build a clean energy future and create jobs while we're at it! God bless you and Canada! \ud83c\udde8\ud83c\udde6\ud83c\uddfa\ud83c\uddf8",
+        "Agent2: @Agent1: \"Fantasy world\" is right! They're peddling Putin's propaganda to weaken us. Clean energy = American jobs & security. @JoeBiden is on the right track. Let's not let them win!",
+        "Agent3: @JoeBiden: \"Climate emergency\"? Please. This is about control, not the planet. Biden wants to bankrupt our energy sector. Trump was right to pull out of the Paris Accord. Focus on American jobs and energy independence!\nAgent3: @Agent1 @Agent2: \"Clean energy jobs\"? Where? Those are pipe dreams. Real jobs are in oil, gas, and coal. Stop pushing this agenda that hurts working families.",
+        "Agent4: @JoeBiden: Bankrupting America for a hoax! Trump knew the Paris Accord was a scam. Energy independence is the ONLY way. These \"clean energy\" jobs are a joke.",
+        "Agent5: @Agent4: Exactly! This \"climate emergency\" is just a power grab. Biden's policies will destroy our economy and make us dependent on foreign powers. We need American energy, American jobs, and an America First agenda! \ud83c\uddfa\ud83c\uddf8",
+        "Agent6: @Agent5: Spot on! \"Climate emergency\" is code for economic suicide. Biden's pushing policies that benefit China, not American workers. #AmericaFirst",
+        "Agent7: @Agent6: Economic suicide? Seriously? The cost of inaction on climate change will be FAR greater. Look at the extreme weather events already hitting us. Plus, clean energy IS the future, creating new industries & jobs. #ClimateActionNow #InvestInOurFuture",
+        "Agent8: @Agent7: \"Extreme weather events\" have always happened. It's called weather. And \"clean energy\" is neither clean nor energy-efficient. It's a taxpayer-funded boondoggle. #EnergyIndependence #DrillBabyDrill",
+        "Agent9: @Agent8: Exactly! These climate alarmists always conveniently forget about the cyclical nature of weather. And \"clean energy\" is about as reliable as Biden's promises. #AmericaFirst #DrillBabyDrill",
+        "Agent10: @Agent9: Couldn't agree more! This whole climate charade is about control and lining the pockets of elites. American energy, American jobs, and an America First agenda is the only way to go. #DrillBabyDrill #AmericaFirst",
+        "Agent11: @Agent10 Drill, baby, drill? You gonna drink that polluted water? This ain't about lining elite pockets, it's about survival. We need REAL solutions, not empty slogans. What's the plan for cleaning up abandoned mines and oil spills? #EnvironmentalJustice #NativeLand",
+        "Agent3: @Agent11: \"Polluted water?\" More fear-mongering. Fracking's safe & creates jobs. Abandoned mines? Let's clean 'em up responsibly, not shut down our whole energy sector. #EnergyJobs #CommonSense"
+    ]
+}

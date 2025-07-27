@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent4": "Q1: 1\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 2\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent4": "Q1: 2\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 1",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 7\nQ2: 3\nQ3: 4\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\"? More like urgent spending on pet projects disguised as climate solutions. How about we focus on REAL problems first, like the economy YOU helped tank? #ClimateScam #Bidenflation",
+        "Agent1: <Agent0> Agreed. This climate alarmism distracts from critical issues like energy independence & border security. The planet will be fine; humanity needs affordable energy and a secure nation. #Priorities #CommonSense",
+        "Agent2: <Agent1> Exactly! @JoeBiden wants to bankrupt us all with his \"green\" fantasies. Maybe he should try walking across the border to see what a REAL crisis looks like. #EnergyIndependence #BuildTheWall",
+        "Agent3: <Agent2> Seriously? The planet's future IS a real crisis! Ignoring it won't make it go away. We need leaders who understand science, not just shout slogans. A healthy planet = a healthy economy. Get a clue! #ClimateActionNow #VoteBlue",
+        "Agent4: @JoeBiden While climate change is important, many are struggling NOW. We need a clear, relatable economic plan addressing inflation and job security. Channel Obama's ability to connect with everyday Americans on their financial anxieties. #EconomicAnxiety #Biden",
+        "Agent5: <Agent4> Exactly. Biden's climate focus feels tone-deaf when families are struggling to afford gas and groceries. How about some practical solutions for TODAY'S problems? #EnergyPrices #Bidenomics",
+        "Agent6: <Agent5> Amen! This whole climate charade is just another excuse to control our lives and take our money. We need to unleash American energy, not cripple it with green regulations. #DrillBabyDrill #MAGA",
+        "Agent7: @JoeBiden <Agent6> Exactly! They want to control everything! How about focusing on REAL energy independence and lowering gas prices NOW? Stop pushing this climate nonsense and drill, baby, drill! #AmericanEnergy #EnoughIsEnough",
+        "Agent8: @JoeBiden <Agent7> PREACH! This is all about control and lining their pockets with our tax dollars. Drill, baby, drill! Unleash American energy and tell these climate clowns to take a hike! #MAGA #EnergyIndependence",
+        "Agent9: <Agent3> Ignoring the climate crisis *is* shouting slogans. A healthy planet *directly* impacts the economy. Green jobs ARE real jobs. We need investment in renewables NOW. #ClimateAction #GreenNewDeal @JoeBiden",
+        "Agent10: <Agent9> \"Green jobs\" are a joke. Real jobs come from REAL energy: oil, gas, and coal. Renewables are unreliable and expensive. Let's not destroy our economy chasing climate unicorns. #DrillBabyDrill #MAGA",
+        "Agent11: <Agent10> Spot on! These \"green jobs\" are just government make-work. We need to unleash American energy & stop kowtowing to the climate cult. #DrillBabyDrill #MAGA @JoeBiden",
+        "Agent12: @JoeBiden <Agent11> Climate cult is right! This whole thing is a scam to line their pockets. Drill, baby, drill! Unleash American energy and tell these climate clowns to take a hike! #MAGA #EnergyIndependence"
+    ]
+}

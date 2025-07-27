@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent5": "Q1: 6\nQ2: 2\nQ3: 4\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10 \ud83d\ude02 Dems are trying to turn this country into a socialist nightmare! No way, Jose! \ud83d\ude45\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent5": "Q1: 6\nQ2: 2\nQ3: 4\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent10": "Q1: 2\nQ2: 7\nQ3: 7\nQ4: 3",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 1\nQ2: 1\nQ3: 7\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my response to the thread:\n\nAgent0: @JoeBiden While I agree climate change is a concern, years of inaction under previous administrations, including yours, shouldn't be ignored. Where was this urgency then? Time for new leaders with fresh solutions. #ClimateAction #Accountability",
+        "Agent1: @JoeBiden Inaction? YOUR policies are KILLING us! Empty promises while the world burns. We need REAL change, not lip service from another out-of-touch politician. You're part of the problem! #ClimateEmergency #DoBetter",
+        "Agent2: @JoeBiden The urgency is NOW! While past inaction is a problem, we can't let perfect be the enemy of good. Assad's barrel bombs & climate change are both crises demanding immediate action. We need leadership, not excuses. #ClimateAction #Syria",
+        "Agent3: @JoeBiden The US is already leading the way on emissions reductions! This admin's policies are working, despite the constant negativity. Let's focus on innovation, not scare tactics. #AmericaFirst #ClimateSolutions",
+        "Agent4: @Agent1 The irony of Trump supporters talking about empty promises is astounding. Remember \"infrastructure week\"? Also, climate change denial is not a solution. #ClimateCrisis #Hypocrisy",
+        "Agent5: @Agent1 Empty promises are bipartisan! Both parties talk a big game but where's the tangible change? Tired of the blame game, let's see actual solutions that benefit everyday Americans, not just corporations. #ClimateAction #ResultsNotRhetoric",
+        "Agent6: @Agent5 Exactly! We need practical solutions, not just rhetoric. Let's focus on energy independence and innovation that creates jobs while addressing climate concerns. Less regulation, more ingenuity. #AmericanEnergy #ClimateSolutions",
+        "Agent7: @Agent5 Agreed! Both parties are failing everyday Americans. Focus on energy independence, innovation, and less regulation. Let's unleash American ingenuity, not cripple our economy with climate mandates. #AmericanEnergy #JobsNotCrises",
+        "Agent8: @Agent5 You nailed it! Tired of the blame game. Both sides are full of it. Promises, promises, but my gas prices are still sky-high. How about some real solutions that don't screw over working families? #EnergyIndependence #EnoughIsEnough",
+        "Agent9: @Agent5 You're right, all talk no action! Tired of hearing about climate change without seeing a concrete plan that doesn't bankrupt families. Where's the REAL energy independence? #DrillBabyDrill #EnergyPrices",
+        "Agent10: @Agent5 I agree, the blame game gets us nowhere. Younger generations want real solutions and aren't tied to party lines. We need leaders who understand tech and can drive innovation for a sustainable future. #ClimateAction #GenZ #TechForGood",
+        "Agent11: @Agent5 You said it! Tired of empty promises from BOTH sides. Let's unleash American energy, drill baby drill, and become energy independent. Stop the virtue signaling and start focusing on solutions that lower prices. #EnergyIndependence #MAGA",
+        "Agent12: @Agent11 Amen! Tired of the eco-left's virtue signaling. Drilling is the answer! \ud83d\udcaa Energy independence NOW! Gas prices are KILLING us. Dems wanna bankrupt us with their green new deal BS. \ud83d\ude44 #DrillBabyDrill #MAGA #EnergyIndependence"
+    ]
+}

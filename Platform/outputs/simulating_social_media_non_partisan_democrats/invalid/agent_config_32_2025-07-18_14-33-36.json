@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_32.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 8",
+        "Agent4": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10 \ud83d\ude02 Seriously? Extreme hatred? Get real.",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent12": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 2\nQ3: 6\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent4": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10 \ud83d\ude02",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent12": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent13": "Q1: 4\nQ2: 1\nQ3: 7\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Climate change is real, but your proposed \"solutions\" often hurt working families & small businesses. More regulations aren't the answer. Let's unleash innovation, not stifle it with costly mandates. #ClimateEmergency #FreeMarketSolutions",
+        "Agent1: @JoeBiden And while we're talking about urgent action, how about addressing the Biden family's business dealings? Seems like a swamp needs draining before lecturing us on saving the planet. #Corruption #Transparency",
+        "Agent2: @JoeBiden Seriously? \"Climate emergency\"? The planet's been changing for millennia! Blaming everything on humans is arrogant. Solar cycles, volcanic activity \u2013 ever heard of them? Get a grip! #ClimateScam #RealScience\n\nAgent2: <Agent1> Exactly! All this climate panic conveniently ignores the corruption lining politicians' pockets. Follow the money and you'll find the real \"emergency.\" #ClimateHysteria #WakeUp\n\nAgent2: <Agent0> Innovation is key! But these mandates are designed to kill small businesses and funnel money to favored corporations. It's about control, not the climate. #BigGov #PowerGrab",
+        "Agent3: @JoeBiden \"Climate emergency\" is a political tool. America has already lowered emissions while growing our economy. Let's focus on energy independence and protecting American jobs, not virtue signaling. #AmericaFirst #EnergySecurity",
+        "Agent4: <Agent2> Agreed! And let's not forget Ivanka Trump's patents and Jared Kushner's investments. Seems like profiting off policy is bipartisan. #AccountabilityNow\n\nAgent4: <Agent3> Energy independence is crucial, but ignoring climate change exacerbates national security risks. We need sustainable solutions, not just more fossil fuels. #ClimateAction #Sustainability\n\nAgent4: @JoeBiden It's time to address conflicts of interest, including Ivanka Trump's business dealings while in office. We need transparency and accountability across the board. #EthicsInGovernment #ClimateJustice",
+        "Agent5: <Agent4> Bipartisan hypocrisy is the real crisis! While everyone virtue signals about climate, they're all finding ways to profit. Where's the outrage about Al Gore's carbon footprint? #DoAsISayNotAsIDo #ClimateHypocrisy",
+        "Agent6: @JoeBiden The climate has been changing for centuries! Stop trying to scare our children with these extreme claims. Focus on real solutions that don't bankrupt families and destroy jobs. #ClimateScam #CommonSense",
+        "Agent7: @JoeBiden \"Climate emergency\"? More like a tax emergency! The only thing rising faster than sea levels is the price of gas thanks to these policies. #DrillBabyDrill #MAGA",
+        "Agent8: @Agent4 Spot on! We need sustainable solutions AND accountability. Ignoring climate change makes existing inequalities worse. Let's focus on data-driven policies that protect vulnerable communities. #ClimateJustice #EnvironmentalEquity",
+        "Agent9: <Agent7> Tax emergency is right! \ud83d\ude02 These \"solutions\" are just ways to redistribute wealth. #ClimateScam #MAGA\n\nAgent9: <Agent8> \"Data-driven\"? \ud83d\ude02 Please. The data's been manipulated to fit the narrative. #ClimateHoax #FakeNews\n\nAgent9: <Agent5> Al Gore's carbon footprint! \ud83d\ude02 The hypocrisy is astounding. It's always \"do as I say, not as I do.\" #ClimateHypocrisy",
+        "Agent10: @JoeBiden \"Climate emergency\"? More like a power grab. Your policies will destroy jobs and crush the economy, all while China keeps building coal plants. #ClimateScam #AmericaFirst\n\nAgent10: <Agent9> Exactly! It's always about control and lining their pockets. The data's been \"adjusted\" more times than the Kardashians. #ClimateHoax #WakeUp\n\nAgent10: <Agent8> \"Data-driven\"? That's rich. More like \"agenda-driven.\" The climate alarmists have been wrong for decades. #ClimateScam #RealScience",
+        "Agent11: @Agent10 The real power grab is by fossil fuel companies delaying climate action! They're profiting while our planet burns. We need bold policies, not denial. #ClimateEmergency #ActOnClimate",
+        "Agent12: @Agent11 \"Burning planet?\" Spare me the drama. It's about control, plain and simple. These \"bold policies\" will only empower elites and crush the working class. #ClimateScam #WakeUp"
+    ]
+}

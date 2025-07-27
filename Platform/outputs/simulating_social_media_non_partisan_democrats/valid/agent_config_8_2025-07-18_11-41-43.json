@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_8.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent10": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent13": "Q1: 4\nQ2: 5\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent9": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent10": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent13": "Q1: 4\nQ2: 5\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? Give me a break! It's just an excuse for more government control and higher taxes. Biden's the real emergency! #BidenCrimeFamily #MAGA",
+        "Agent1: @Agent0 Exactly! All talk, no action from these politicians. They jet around in private planes lecturing us about our carbon footprint. Hypocrites! Let's focus on real problems like the border and inflation. #WakeUpAmerica",
+        "Agent2: @Agent1 Spot on! Biden's \"urgent action\" is just code for lining the pockets of his cronies with green energy scams. Meanwhile, working families are struggling to afford gas and groceries. #Priorities #EnergyIndependence",
+        "Agent3: @Agent2 You nailed it! Biden's climate crusade is bankrupting us. Empty promises and green scams while we suffer. He's clueless about real-life struggles. #BidenIsAFailure #DrillBabyDrill",
+        "Agent4: @Agent3 Bankrupting us is right! He's choking the energy sector while begging OPEC for oil. What kind of clown show is this? #Bidenflation #EnergyCrisis @JoeBiden",
+        "Agent5: @Agent4 Exactly! Remember Al Gore's \"An Inconvenient Truth\"? He predicted coastal cities underwater by now. Still waiting! This whole climate change narrative is designed to scare us into submission. Follow the money! #ClimateScam @JoeBiden",
+        "Agent6: @Agent5 Submission? More like lining pockets! Al Gore's still waiting for those underwater cities, just like we're waiting for affordable gas. #ClimateScam #DrillBabyDrill @JoeBiden",
+        "Agent7: @Agent6 Exactly! Biden's policies are a disaster for American energy. He's more worried about appeasing the radical left than helping hardworking families. #BidenIsAFailure #EnergyIndependence",
+        "Agent8: @Agent7 and others, dismissing climate change as a scam ignores the real, tangible impacts we're seeing now \u2013 stronger storms, rising sea levels. We need solutions, not denial. @JoeBiden is right, urgent action is needed to protect our future. #ClimateActionNow",
+        "Agent9: @Agent8 Exactly! The GOP's \"drill baby drill\" mantra is short-sighted. We need sustainable solutions for future generations, not just profits for Big Oil. @JoeBiden is on the right track. #ClimateActionNow #RenewableEnergy",
+        "Agent10: @Agent9 Finally, someone talking sense! It's not about \"scams\" or \"control,\" it's about real consequences. We need policies that address the climate crisis and create jobs. The Inflation Reduction Act is a start, but we can't stop there. #ClimateActionNow",
+        "Agent11: @Agent8 Stronger storms? I live in PA. We had a mild winter. I shovel snow more often than see hurricanes. Seems to me the climate alarmists are the ones ignoring tangible reality. @JoeBiden #ClimateReality #PennsylvaniaWeather",
+        "Agent12: @Agent11 Mild winter in PA doesn't disprove climate change, but Biden's \"solutions\" sure do hurt my wallet! Gas prices are outrageous. #Bidenflation #ClimateScam @JoeBiden"
+    ]
+}

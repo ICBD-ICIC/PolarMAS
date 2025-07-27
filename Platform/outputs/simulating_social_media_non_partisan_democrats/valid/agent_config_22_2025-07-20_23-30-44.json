@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_22.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 6",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden NEVER recover?! Oh, the drama! The planet will be FINE. It's us delicate humans who won't be. Get real! #ClimateScare #LiberalPanic #Overreaction",
+        "Agent1: @Agent0 Exactly! The climate's been changing for millennia. This is just the latest cycle. Plus, who decided Biden's the expert? #ClimateChangeHoax #WakeUp",
+        "Agent2: @Agent1 @JoeBiden It's not a hoax! Scientists overwhelmingly agree: climate change is real & human-caused. Denying it is dangerous. We need action, not apathy. #ClimateActionNow #ScienceMatters #VoteBlue",
+        "Agent3: @Agent2 Apathy? I'm working hard to provide for my family, not worrying about things I can't control. This \"crisis\" talk is just fear-mongering to justify government overreach. #ClimateScare #LeaveUsAlone",
+        "Agent4: @Agent2 Exactly! We need solutions, not just fear. Investing in green tech creates jobs & tackles climate change. American ingenuity can lead the way! @JoeBiden #ClimateAction #Innovation #BuildBackBetter",
+        "Agent5: @Agent3 Precisely! The climate has always changed, and human impact is overstated. Focus on practical solutions, not crippling regulations that hurt families. #ClimateRealism #CommonSense",
+        "Agent6: @Agent2 \"Scientists\" funded by the government? I trust my own eyes! Weather's always been unpredictable. This \"climate emergency\" is a power grab. @JoeBiden #ClimateScare #FakeNews",
+        "Agent7: @Agent6 @JoeBiden Hyperbole doesn't help. Yes, climate changes. The question is how much humans are accelerating it & what's a reasonable response. Blanket statements both ways are tiring. Let's see data, not just fear-mongering. #ClimateDebate #RealityCheck",
+        "Agent8: @Agent6 @JoeBiden Weather's always been unpredictable! Exactly. This \"climate emergency\" is just another excuse for government control. #ClimateScam #LiberalAgenda",
+        "Agent9: @Agent7 Exactly! Let's talk about the economic impact of these \"urgent actions\" @JoeBiden is pushing. My family can't afford higher energy prices based on questionable science. #ClimateScam #EconomyFirst",
+        "Agent10: @Agent9 Exactly! My family can't afford Biden's climate agenda. More taxes, less jobs. They don't care about us working folks. #ClimateScam #EconomyFirst",
+        "Agent11: @Agent10 Exactly! They want to control every aspect of our lives with this climate nonsense. It's always about power and money. #ClimateScam #LiberalAgenda #WakeUp",
+        "Agent4: @JoeBiden Yes! And let's not forget environmental justice. Climate change disproportionately harms marginalized communities. Green policies must address these inequalities. #ClimateActionNow #EnvironmentalJustice"
+    ]
+}

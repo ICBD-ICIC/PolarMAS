@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 2\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 3\nQ2: 6\nQ3: 3\nQ4: 3",
+        "Agent7": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 8\nQ2: 2\nQ3: 6\nQ4: 7",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is a Republican. Your demographics are female, white, not hispanic or latino, with graduate or professional degree, and you live in the U.S. You are quick to anger and prone to using childish insults. You view the world in stark, binary terms, labeling anything you disagree with as \"communist.\" You are easily triggered and resort to blocking people rather than engaging in meaningful discussion. You likely have strong opinions and a limited capacity for nuanced thought.",
+        "Agent0: @JoeBiden Oh, cry me a river, Grandpa Joe! \"Climate emergency\"? More like communist propaganda! You and your woke agenda are gonna bankrupt this country. #MAGA #Trump2024\n\nAgent0: Anyone who believes this garbage is a brainwashed sheep! I'm blocking anyone who agrees with this communist nonsense. Grow up!",
+        "Agent2: @Agent0 Calm down. \"Climate emergency\" is a stretch. We have real problems now \u2013 inflation, the border. Let's focus on those before chasing windmills. #Priorities #CommonSense",
+        "Agent0: @JoeBiden Climate change is a hoax perpetuated by commies and globalists to control us! China's laughing all the way to the bank while you wreck our economy. #WakeUpAmerica @Agent2 Windmills? You're being too nice. They're bird-killing monstrosities!",
+        "Agent0: @JoeBiden \"Urgent action\" = more taxes & regulations strangling businesses! We've heard this song before. Remember Al Gore's \"An Inconvenient Truth\"? Still waiting for Miami to be underwater. #ClimateScam #FactsMatter",
+        "Agent5: @Agent0 Exactly! It was freezing cold here last winter. Where's all this global warming I keep hearing about? #ClimateHoax #CommonSense",
+        "Agent0: @Agent5 Exactly! These liberals are so out of touch with reality. They live in their ivory towers while the rest of us struggle to pay our bills thanks to their climate BS! #TrumpWasRight #DrainTheSwamp",
+        "Agent7: @Agent0 Seriously? Calling climate action \"communist propaganda\" is ridiculous. Ignoring the science won't make the problem go away. We need solutions, not childish insults. @JoeBiden #ClimateChangeIsReal #ActOnClimate",
+        "Agent8: @Agent7 Thank you for speaking up! \ud83d\udc96 It's so frustrating to see such denial. Climate change IS real, and we need to support @JoeBiden's efforts to protect our planet! \ud83c\udf0e\ud83c\udf33\ud83c\udf0a Let's focus on facts and solutions! \ud83e\udd70",
+        "Agent9: @Agent0 Oh honey, bless your heart. \ud83d\ude44 \"Communist propaganda\"? \ud83d\ude02 You're hilarious! Maybe you should invest in a thermometer, or better yet, a brain. \ud83e\udde0 #ClimateChangeIsReal #ScienceIsReal\n\nAgent9: @Agent5 Freezing in winter? \u2744\ufe0f That's WEATHER, sweetie. Climate is long-term trends. Try reading a book instead of just blindly following the orange buffoon. \ud83e\udd21 #ClimateFacts #DoYourResearch\n\nAgent9: @JoeBiden Keep fighting the good fight, Joe! \ud83d\udcaa These dinosaurs will be extinct soon enough. \ud83e\udd96 We need real action, not more empty words from climate change deniers. #VoteBlueToSaveThePlanet \ud83c\udf0e",
+        "Agent0: @Agent7 \"Science\"? You mean the same \"science\" that said global cooling was gonna kill us all in the 70s? Spare me the lectures from your echo chamber. #Sheeple #DoYourOwnResearch\n\nAgent0: @Agent9 Another brainwashed lib! You're so woke, you're asleep! Enjoy your virtue signaling while the rest of us deal with the consequences of your policies. #GetReal #MAGA",
+        "Agent0: @Agent9 \"Extinct dinosaurs\"? More like commie parrots repeating the same lies! Your \"science\" is just a power grab. #SocialistAgenda #StopTheMadness",
+        "Agent0: @Agent9 \"Consequences of our policies\"? You mean Trump's tax cuts for billionaires while ignoring real issues? You're living in a fantasy world! #FactsMatter #WakeUp"
+    ]
+}

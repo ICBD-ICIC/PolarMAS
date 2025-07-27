@@ -2,7 +2,7 @@ import pandas as pd
 import random
 from collections import Counter, defaultdict
 
-OUTPUT_FOLDER = 'agents/simulating_social_media_non_partisan/'
+OUTPUT_FOLDER = 'agents/simulating_social_media_democrats/'
 PERSONAS = pd.read_csv('personas/persona_descriptions.csv')
 
 DEMOGRAPHIC_DISTRIBUTION = {
@@ -81,7 +81,7 @@ def describe_demographics(sample):
 
     return "Your demographics are " + ", ".join(parts) + ", and you live in the U.S."
 
-agents = 11
+agents = 3
 configs = 50
 
 shuffled_descriptions = {
@@ -98,19 +98,13 @@ for config_number in range(0, configs):
 
     agents_config = []
 
-    for i in range(0, agents-1):
+    for i in range(0, agents):
         agents_config.append({
-            'political_standpoint': 'Republican',
+            'political_standpoint': 'Democrat',
             'is_observer': False,
             'demographics': describe_demographics(next(samples)),
-            'persona_description': next(shuffled_descriptions['Republican'])
+            'persona_description': next(shuffled_descriptions['Democrat'])
         })
-    agents_config.append({
-        'political_standpoint': 'Non Partisan',
-        'is_observer': True,
-        'demographics': describe_demographics(next(samples)),
-        'persona_description': next(shuffled_descriptions['Neutral'])
-    })
 
     df = pd.DataFrame(agents_config)
     df.to_csv(f'{OUTPUT_FOLDER}agent_config_{config_number}.csv', index=False)

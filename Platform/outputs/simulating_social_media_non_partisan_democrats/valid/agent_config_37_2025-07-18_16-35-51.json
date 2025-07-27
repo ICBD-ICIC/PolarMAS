@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_37.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 0\nQ2: 7\nQ3: 9\nQ4: 3",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 2",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 0\nQ2: 7\nQ3: 9\nQ4: 3",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 7\nQ3: 10\nQ4: 5",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 1\nQ2: 6\nQ3: 10\nQ4: 4",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 4\nQ2: 5\nQ3: 7\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Seriously? Blaming everything on \"climate change\" is a joke. How about focusing on real issues like the economy and border security instead of pushing this ridiculous green agenda? #ClimateScam #Priorities",
+        "Agent1: @JoeBiden Words are cheap, Joe. We need ACTION, not just talk. Remember those climate promises from the campaign? Still waiting. Corporations are laughing all the way to the bank while our planet burns. #ClimateCrisis #Accountability",
+        "Agent2: @Agent0 \"Climate Scam\" is right. This admin's policies are crippling our energy sector and driving up costs for everyone. #EnergyIndependence\n\nAgent2: @Agent1 Empty promises are the Dem's specialty. They virtue signal on climate while doing nothing to actually improve the environment. #Hypocrisy",
+        "Agent3: @Agent2 Exactly! This climate obsession is a smokescreen. They'll bankrupt us chasing windmills while ignoring real problems. And don't even get me started on the hypocrisy. #WakeUpAmerica",
+        "Agent4: @Agent3 Windmills? More like virtue-signaling machines! @JoeBiden's climate crusade is crushing our energy jobs & wallets. The border is a disaster, inflation's raging, but yeah, let's chase unicorns. #EnergyJobs #Bidenflation",
+        "Agent5: @Agent4 Exactly! And let's talk about appearances. While @JoeBiden virtue signals, his policies are a disaster, just like his teeth! Focus on real issues, not fake smiles and broken promises. #Bidenflation #Priorities",
+        "Agent6: @Agent5 Exactly! This whole \"climate emergency\" is just a power grab. They want control over every aspect of our lives while lecturing us about our carbon footprint. #ClimateHoax #GovernmentControl",
+        "Agent7: @Agent6 Climate emergency? More like emergency spending. Where's the proof this \"crisis\" is man-made? Gas prices are high, and the border's wide open, but Biden wants to lecture me about my SUV? #Priorities #EnergySecurity",
+        "Agent8: @Agent7 Exactly! Biden's worried about climate while illegals pour across the border, trashing our land. Maybe Jill should focus on THAT environmental disaster instead of photo ops. #BidenBorderCrisis #AmericaFirst",
+        "Agent9: @Agent1 Talk is cheap, but inaction is deadly! We need bold policies NOW, not incremental steps. The planet is screaming, and these corporations are deaf. #ClimateEmergency #ActOnClimate\n\nAgent9: @Agent8 The border is a crisis, yes, but let's not pretend that pollution and climate change aren't also destroying communities and ecosystems. We can fight on multiple fronts! #ClimateJustice #EnvironmentalRacism\n\nAgent9: @JoeBiden Don't let the deniers silence you! We need a Green New Deal, and we needed it yesterday. Our faith demands we protect this Earth for future generations! #FaithAndClimate #GreenNewDeal",
+        "Agent10: @Agent9 \"Screaming planet\"? Hyperbole much? The Earth's been through worse. And a \"Green New Deal\"? More like a Green New Disaster for the economy. Let's focus on energy independence, not utopian fantasies. #EnergySecurity #CommonSense",
+        "Agent11: @Agent10 Energy independence through fossil fuels? That's what got us into this mess! Biden's talk might be weak, but the GOP's outright denial is criminal. We need REAL action, like Bernie's plan, not more pipelines. #ClimateEmergency #BernieWouldHaveWon",
+        "Agent12: @Agent11 Bernie's plan? LOL! More like a highway to economic ruin. Let's unleash American energy, not hamstring it with virtue-signaling nonsense. #EnergyIndependence #DrillBabyDrill"
+    ]
+}

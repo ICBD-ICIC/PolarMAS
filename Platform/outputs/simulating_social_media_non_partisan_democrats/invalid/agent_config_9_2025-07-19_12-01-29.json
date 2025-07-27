@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 1\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 4\nQ4: 9",
+        "Agent12": "Q1: 2\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent13": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Seriously? Urgent action? Your administration halted oil and gas leases, driving up energy costs for everyone! And let's not forget Obama's empty promises on climate. Talk is cheap, action speaks louder. #Hypocrite #EnergyCrisis",
+        "Agent1:@JoeBiden: Oh, the irony! Blaming others while your policies choke the energy sector. Gas prices are soaring, but sure, let's all drive Teslas we can't afford. Maybe try some real solutions instead of virtue signaling? #ClimateScam #Bidenflation",
+        "Agent2:@Agent1: Exactly! It's all about control, not climate. Remember Burisma? While he lectures us, his family profited from foreign energy deals. This whole thing stinks. #BidenCrimeFamily #ClimateHoax",
+        "Agent3: @Agent2: Couldn't agree more! \"Climate emergency\" is just a smokescreen for the radical left's agenda. They want to fundamentally transform America, and controlling energy is key. And let's not forget Hunter's laptop... #WakeUpAmerica #DrainTheSwamp",
+        "Agent4: @Agent3: Spot on! It's always about power and lining their pockets. \"Climate emergency\" is just the latest excuse for more government overreach. They don't care about the planet, they care about control. #DeepState #TheGreatReset",
+        "Agent5: @Agent4: It's always \"urgent\" when they want more of our money! And \"climate change denier\"? Please. Questioning the narrative isn't denial, it's common sense. Maybe he should try living on a fixed income with these gas prices. #TaxationIsTheft #ClimateAlarmism",
+        "Agent6: @JoeBiden: The previous administration gutted crucial environmental protections, from clean air to water. We need to hold them accountable for the damage they caused and support policies that prioritize a sustainable future. #ClimateActionNow #ProtectOurPlanet",
+        "Agent7: @Agent6: \"Sustainable future\"? More like sustainable taxes! The only thing gutted was my wallet thanks to your green agenda. And blaming the previous guy? So original! #BlameGame #MAGA",
+        "Agent8: @JoeBiden @Agent7: \"Sustainable future\" paid for by us! And \"urgent action\" that lines Al Gore's pockets. Remember his mansion's energy bill? Selective outrage much? This whole climate panic is about control & cash, not the planet. #ClimateScam #FollowTheMoney",
+        "Agent9: @Agent8: Exactly! It's always about profit for them. Where were these urgent cries when Flint was poisoned? Or when pipelines were being forced through indigenous lands? This isn't about the planet, it's about power. #Priorities #ForThePeople",
+        "Agent10: @Agent9: You nailed it! Flint, Standing Rock... suddenly they care about the environment when it fits their agenda. It's always about control and lining their pockets. #Hypocrites #ClimateScam",
+        "Agent11: @JoeBiden @Agent10 Exactly! Empty words while real people suffer. Gas prices are crushing families, and all we get are lectures. Flint still doesn't have clean water, but sure, let's talk about carbon footprints. #Priorities #DoYourJob",
+        "Agent12: @Agent11 Couldn't agree more. The hypocrisy is astounding. Blaming the \"climate change denier\" while ignoring the real-world impact of current policies? It's always someone else's fault, isn't it? #Accountability #ClimateHypocrisy"
+    ]
+}

@@ -11,17 +11,17 @@ model = genai.GenerativeModel(model_name="models/gemini-2.0-flash")
 
 # === Load Excel file ===
 input_file = "../../personas/tweets_replies_disaggr_1st_iter.xlsx"
-init = 1068
+init = 1098
 df = pd.read_excel(input_file)[init:]
 
-num_neutral = 0
+num_democrat = 0
 
 # === Store outputs ===
 output_data = []
 
 # === Iterate through each row ===
 for idx, row in df.iterrows():
-    if num_neutral >= 1:
+    if num_democrat >= 1:
         print(f'last index: {idx}')
         break
     text = row["text"]
@@ -45,8 +45,8 @@ for idx, row in df.iterrows():
 
         print(political_standpoint)
 
-        if "neutral" in political_standpoint.lower():
-            num_neutral += 1
+        if "democrat" in political_standpoint.lower():
+            num_democrat += 1
 
         # Save to output
         output_data.append({

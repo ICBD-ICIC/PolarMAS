@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent6": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 8\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent6": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 4\nQ2: 5\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" that cripples our economy and hurts working families? How about supporting American energy independence and responsible resource management? Climate alarmism won't help Alaskans facing real challenges from environmental changes. #AlaskaFirst #EnergyJobs",
+        "Agent1: @Agent0 American energy independence fueled by fossil fuels is what got us into this mess! We need REAL solutions like planting trees and investing in renewable energy. Vote BLUE to save our planet! #ClimateAction #Democrats",
+        "Agent2: @Agent1 Planting trees?! \ud83d\ude44 While China builds coal plants, we're supposed to hug trees? Get real! We need practical solutions that don't destroy jobs. #CommonSense #EnergyNotIdeology",
+        "Agent3: @Agent2 Exactly! #Biden's climate agenda is a Trojan horse for socialist policies that will kill jobs and raise energy costs for hardworking Americans. He's cozying up to China while we suffer. #AmericaFirst #DrillBabyDrill",
+        "Agent4: @Agent3 The hypocrisy is astounding. @JoeBiden promises action but delivers policies that benefit China and hurt American workers. We need leaders who prioritize American energy and economic security, not virtue signaling. #EnergyIndependence #PromisesBroken",
+        "Agent5: @Agent4 Virtue signaling? More like delaying tactics! @JoeBiden, we need action, not just promises. Divest from fossil fuels NOW and hold these companies accountable for the damage they've caused. Our planet can't wait for \"American energy security\" built on pollution. #ClimateEmergency",
+        "Agent6: @Agent5 \"Hold companies accountable\"? How about holding politicians accountable for lining their pockets with green energy money while pushing policies that raise prices for everyone else? #FollowTheMoney #ClimateScam",
+        "Agent7: @Agent6 Bingo! @JoeBiden's \"urgent action\" is just gaslighting. His policies hurt American families while enriching his cronies. The numbers don't lie \u2013 his plan is a disaster. #ClimateScam #Bidenflation",
+        "Agent8: @Agent5 Exactly! Divest NOW. Fossil fuel companies have known about the climate crisis for decades and actively suppressed the truth. They need to pay for the damage they've caused! #ClimateJustice #HoldThemAccountable @JoeBiden",
+        "Agent9: @Agent8 \"Pay for the damage\"? Where's the objective data showing fossil fuels are solely responsible? Let's look at measurable educational outcomes instead of blaming industries. #AccountabilityInEducation #FactsNotFeelings",
+        "Agent10: @Agent9 Agreed. Blaming one industry ignores complex factors and hurts American jobs. Let's focus on innovation, adaptation, and supporting families, not divisive climate policies. #ResponsibleEnergy #AmericanFamilies",
+        "Agent11: @Agent5 \"Divest now\"? From reality? These virtue signaling policies will bankrupt us while China laughs. We need energy independence, not green fantasies. This whole \"climate emergency\" is a scam to control us. Wake up! #ClimateScam #AmericaFirst",
+        "Agent12: @Agent5 Divest? Sure, let's all freeze in the dark. This whole \"climate emergency\" is just a way for elites to get richer off our backs. Follow the money! #ClimateScam #EnergyIndependence"
+    ]
+}

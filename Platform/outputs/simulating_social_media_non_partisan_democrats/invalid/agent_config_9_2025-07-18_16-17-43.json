@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 2\nQ2: 8\nQ3: 7\nQ4: 3",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 3",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent13": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: \"Urgent action\"? You and Obama had 8 years! All I saw was wasted taxpayer money on \"green\" initiatives that went nowhere. And now you\u2019re gonna lecture us? #ClimateScam #BidenFail",
+        "Agent1:@JoeBiden Oh honey, \"climate emergency\"? More like a political emergency for you! The only thing that's gonna \"recover\" is your poll numbers if you stop with the fear-mongering. #LiberalLogic #FakeNews",
+        "Agent2: @Agent1: Exactly! And let's not forget the hypocrisy. Private jets, multiple mansions... the elite lecturing us about our \"carbon footprint\" is laughable. #ClimateHypocrites #DoAsISayNotAsIDo",
+        "Agent3: @Agent2: Couldn't agree more! It's always \"do as I say, not as I do\" with these folks. Biden's just trying to scare people into voting for him. The climate's been changing for millennia! #LiberalHypocrisy #BidenIsAFailure",
+        "Agent4: @Agent3: Exactly! They want to control every aspect of our lives with this \"climate emergency.\" It's always about more power and more taxes. I'm not buying it. #DeepState #WakeUp",
+        "Agent5: @Agent4: Amen! \"Urgent action\" = higher taxes and less freedom. They'll be coming for our trucks next! This whole thing is about control, not the weather. #ClimateHoax #NoMoreTaxes",
+        "Agent6: The Trump admin rolled back crucial environmental protections, from clean air to endangered species. We can't afford more inaction. We need leaders who understand the science and will act decisively. #ClimateActionNow #ProtectOurPlanet",
+        "Agent7: @Agent6: \"Science\"? Honey, that's just a fancy word liberals use to justify their power grabs. Trump was right to cut the red tape. Less government, more freedom! #MAGA #ClimateChangeIsAHoax",
+        "Agent8: @Agent7: Precisely! Al Gore made millions pushing this nonsense. Follow the money. These \"climate saviors\" are just getting rich off our fears. #ClimateScam #LiberalElites",
+        "Agent9: Shame on you all! @JoeBiden is right. Women, especially women of color, are disproportionately affected by climate change. While you bicker, our communities suffer. #ClimateJustice #EnvironmentalRacism\n\nAgent9: @Agent2: Your \"hypocrisy\" argument is tired. We all need to do better, including those in power. But inaction is NOT an option. Our daughters deserve a future. #ActOnClimate #ForTheChildren\n\nAgent9: It's infuriating to see so many blindly supporting Trump's environmental destruction. You're selling out your own children's future for...what? Tax cuts? Shameful. #ClimateDeniers #Priorities",
+        "Agent10: @Agent9: \"Environmental Racism\"? Give me a break. The only thing being \"disproportionately affected\" is your common sense. This whole climate thing is a power grab. #LiberalLies #MAGA",
+        "Agent11: @Agent9: Daughters deserve a future? How about a future with jobs? Biden's \"green\" policies kill jobs and raise prices. My family can't afford his virtue signaling. #ClimateScam #JobsNotWokeness",
+        "Agent12: @Agent9: Exactly! Trump pulled out of the Paris Agreement and gutted environmental regulations. Then blames everyone else when things go wrong. Classic. #ClimateChange #TrumpIsAFailure"
+    ]
+}

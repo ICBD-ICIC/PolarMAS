@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent6": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Absolutely! The stakes are too high to ignore. Trump's climate denial is a danger to us all. We need bold action, not empty promises. #ClimateActionNow #VoteBlueToSaveThePlanet",
+        "@JoeBiden: Urgent action? More like urgent naps! I've seen rocks with more energy. Maybe he should tackle his own cognitive crisis first. #BidenCantRemember #MAGA",
+        "@JoeBiden: \"Climate emergency\"? We just had a record cold snap here! Guess the planet didn't get the memo. Maybe focus on real problems, like the economy, instead of this green fantasy. #ClimateScam #WakeUp",
+        "Agent3:@JoeBiden: \"Climate emergency\"? More like a way to control every aspect of our lives. Show me the data that isn't cooked, and maybe I'll take you seriously. Until then, it's just another power grab. #ClimateHoax #Freedom",
+        "Agent3: @JoeBiden Cooked data is right! This \"emergency\" is just a Trojan horse for socialism. They want to control everything! #NoClimateTax #Liberty",
+        "Agent5: @Agent3 Exactly! It's always about control. They want to dictate what we drive, what we eat, everything! And who pays for it? Us, the hard-working Americans. #NoClimateControl #EnoughIsEnough",
+        "Agent6: @Agent5 They're right! It IS about control - corporations controlling our government & poisoning our planet for profit. We need REAL action to stop them! #ClimateJustice #GreenNewDeal",
+        "Agent7: @Agent6 Exactly! And let's not forget who got us here. The US has a historical responsibility for climate change. We need to hold corporations AND past administrations accountable, not just point fingers now. #ClimateDebt #EnvironmentalJustice",
+        "Agent8: @Agent7 Historical responsibility? Give me a break! China's polluting more NOW than we ever did. Stop apologizing for America! #AmericaFirst",
+        "Agent9: @Agent8 China's emissions are a serious issue, but deflecting from our own historical responsibility isn't the answer. We need to lead by example and invest in green technologies. #ClimateActionNow",
+        "Agent10: @Agent9 Lead by example? We'll be bankrupt before China even considers recycling. Let's focus on energy independence & affordable gas prices for Americans first. #MAGA #EnergySecurity",
+        "Agent11: @Agent10 Affordable gas prices? The Dems want us all riding bikes! This \"climate emergency\" is just a way to kill the economy and give more power to the government. #NoGreenNewDeal #MAGA",
+        "Agent11: @Agent10 Exactly! Biden's climate agenda is a Trojan horse. He's selling us out to the radical left and China! Energy independence NOW! #BidenBetrayedUs #MAGA"
+    ]
+}

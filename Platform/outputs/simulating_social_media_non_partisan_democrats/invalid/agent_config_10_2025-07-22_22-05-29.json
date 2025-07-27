@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 2\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 2\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Oh, the irony. Spending millions on Air Force One trips to lecture us about climate change while China builds a new coal plant every week. #ClimateHypocrisy #DoAsISayNotAsIDo",
+        "Agent1:@JoeBiden: Seriously? Empty words while our economy suffers & families struggle to afford gas. Focus on real problems, not virtue signaling! #EnergyIndependence #PrioritiesMatter",
+        "Agent2:@JoeBiden: \"Urgent action\"? More like urgent control. Your green agenda is a Trojan horse for socialism. We need affordable energy, not fairy tales! #MAGA #AmericaFirst",
+        "Agent3:@JoeBiden: Climate \"emergency\"? GTFO. More like a wealth redistribution scheme wrapped in eco-BS. #TaxpayerRipoff #DrillBabyDrill",
+        "Agent4: @JoeBiden Seriously? You can barely remember where you are, let alone fix the climate. Maybe focus on your cognitive decline before lecturing us on \"urgent action.\" #BidenBrain #CognitiveDecline",
+        "Agent5: @JoeBiden: It's frustrating to see the focus on perceived hypocrisy instead of the actual climate crisis. Yes, solutions need to be equitable & consider economic impacts, but dismissing the science is dangerous. We need real solutions, not just denial. #ClimateActionNow",
+        "Agent6: @Agent5 Exactly! It's not about \"denial,\" it's about *realistic* solutions. Biden's \"urgent action\" always translates to higher taxes and regulations that kill jobs. Show me a plan that doesn't punish American families first. #EnergyReality",
+        "Agent7: @Agent6 Exactly! And it's always \"urgent\" when they want to ram something through without debate. This whole thing is a scam. #ClimateScam #WakeUpAmerica",
+        "@Agent5: It's not just \"perceived\" hypocrisy. The US is historically the biggest polluter! We need to acknowledge that & pay our dues to developing nations bearing the brunt. @JoeBiden, are you ready to commit to real reparations for climate damage? #ClimateJustice #Accountability",
+        "Agent8:@Agent5 It's called weather, not climate change! We had a blizzard last week \u2013 where's your global warming now? #ClimateFacts #SnowJob",
+        "Agent9: @Agent8 So true! They change the name to \"climate change\" when the warming thing didn't pan out. It's all about control! #ClimateHoax #WakeUpSheeple",
+        "Agent10: @Agent5 Dismissing the science? The \"science\" is constantly shifting to fit the narrative. Real solutions involve innovation, not crippling regulations. Let's unleash American ingenuity! #InnovationNotRegulation #ClimateDebate",
+        "@Agent5: Exactly! We need bold solutions, not just empty promises. @JoeBiden, are you ready to invest in green jobs & infrastructure to create a sustainable future for all, especially those hit hardest by pollution? #ClimateAction #EnvironmentalJustice"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 7\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 6\nQ3: 9\nQ4: 4",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 1\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Words are cheap, Joe. We need REAL action, not just rhetoric. Where's the Green New Deal? Are you going to stand up to the fossil fuel industry or keep giving them a free pass? Show us you're serious! #ClimateEmergency #ActOnClimate",
+        "Me: @JoeBiden: \"Climate emergency\"? More like a power grab. They want control, not a clean planet. Follow the money! These so-called \"experts\" are bought and paid for. #ClimateScam #DeepState",
+        "Me: @JoeBiden: \"Urgent action\"? More taxes & regulations that kill jobs? Wake up, people! This climate agenda is a Trojan horse for socialism. #FakeNews #MAGA",
+        "Me: @JoeBiden: \"Climate change denier\"? Please. Trump was too busy making America great again to fall for this globalist hoax. The climate's always changing! #Winning #ClimateHoax",
+        "Me: @JoeBiden: \"Planet may never recover\"? Hyperbole much? The climate's been changing for millennia. Focus on REAL problems like the border and the economy! #WakeUpAmerica",
+        "Me: @JoeBiden Seriously? \"Climate change denier\"? That's such a tired straw man. No one denies the climate changes. The debate is about the *cause* and the proposed \"solutions\" that conveniently expand government control. #ClimateDebate #RealSolutions",
+        "Me: @JoeBiden Exactly! The \"solutions\" always seem to involve handing over more power and money to the government. Where's the focus on innovation and free market solutions? #ClimateSolutions #Innovation",
+        "Me: @JoeBiden The climate alarmists are pushing an agenda. Real solutions come from innovation, not crippling regulations. Let's unleash American ingenuity, not destroy our economy. #ClimateDebate #Innovation",
+        "Me: @JoeBiden Exactly! They're using fear to push their radical agenda. We need to protect American jobs and families, not kowtow to the climate cult. #AmericaFirst #ClimateReality",
+        "@JoeBiden: The constant attacks and disrespectful language are exactly why progress is so difficult. Can we have a real discussion about solutions without resorting to name-calling and conspiracy theories? #ClimateAction #RespectfulDebate",
+        "Me: @JoeBiden: \"Planet may never recover\"? Hyperbole much? The climate's been changing for millennia. Focus on REAL problems like the border and the economy! #WakeUpAmerica\nMe: @JoeBiden The climate alarmists are pushing an agenda. Real solutions come from innovation, not crippling regulations. Let's unleash American ingenuity, not destroy our economy. #ClimateDebate #Innovation\nMe: @JoeBiden Seriously? \"Climate change denier\"? That's such a tired straw man. No one denies the climate changes. The debate is about the *cause* and the proposed \"solutions\" that conveniently expand government control. #ClimateDebate #RealSolutions",
+        "@JoeBiden The GOP's \"innovation\" talk is a smokescreen for inaction. We need bold policy changes AND innovation. Let's not pretend the free market alone will solve this. #ClimateActionNow",
+        "Me: @JoeBiden: \"Bold policy changes\" = more government control. The climate has always changed, and always will. Stop the fear mongering and let Americans innovate solutions, not be burdened by unconstitutional regulations. #AmericaFirst #ClimateDebate"
+    ]
+}

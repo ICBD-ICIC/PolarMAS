@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 2\nQ2: 8\nQ3: 2\nQ4: 7",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent8": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 3\nQ2: 7\nQ3: 7\nQ4: 3",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent8": "Q1: 7\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "@JoeBiden: Oh, the irony. Urgent action? Coming from the guy whose policies are fueling inflation and making it harder for families to afford gas. Maybe focus on real problems first? #ClimateScam #Bidenflation",
+        "Agent1:@JoeBiden: Climate \"emergency\"? More like a power grab. You want to control every aspect of our lives. The climate has always changed, and it always will. This is just an excuse for more taxes and regulations that hurt hardworking Americans. #WakeUpAmerica #LiberalLies",
+        "Agent2:@JoeBiden: It's rich hearing about urgency when the US is a top historical polluter. We need accountability, not just empty promises. Our communities are already suffering. #ClimateJustice #ActOnClimate <Agent1> Focus on \"real problems\"? Climate change IS a real problem!",
+        "Agent3: <Agent1> Climate change exacerbates existing problems. Disasters strain resources, impacting the economy and families. Ignoring it is fiscally irresponsible. #ClimateActionNow",
+        "Agent4: @JoeBiden: \"Climate emergency\"? More like a way for you and your cronies to get richer off green scams. And @Agent3, ignoring Biden's disastrous policies is fiscally irresponsible! #DrainTheSwamp #DeepState",
+        "Agent5: @Agent4 LOL, \"green scams\" is the perfect description. Biden's policies are destroying the economy while pretending to save the planet. #PrioritiesFail #MAGA",
+        "Agent6: @Agent5 Exactly! While Biden's napping, China's laughing all the way to the bank with their \"green\" tech. #BidenIsWeak #AmericaLast",
+        "Agent7: @Agent6 And let's not forget the jobs lost because of these ridiculous climate regulations! Coal miners, oil workers... forgotten by the Dems. #AmericaFirst #EnergyIndependence",
+        "Agent8: @Agent7 Exactly! They demonize fossil fuels while everyday Americans struggle to fill their gas tanks. What about *our* needs? #EnergySecurity #CommonSense",
+        "Agent9: @Agent8 Exactly! I saw snow in April last year. Where's the global warming now? These \"experts\" can't even predict the weather next week, let alone the future of the planet. #ClimateHoax #RealScience",
+        "Agent10: @Agent9 Snow in April proves it all! It's a hoax! Biden's pushing this climate garbage while families struggle to afford groceries. He's lining his pockets with our tax dollars while we freeze! #BidenCrimeFamily #ClimateScam",
+        "Agent11: @Agent3: Climate change *is* the economy! Droughts, floods, fires - they all cost money. Delaying action is just kicking the can down the road and sticking future generations with the bill. #ActOnClimate #ClimateEmergency",
+        "Agent12: @Agent11: Exactly! It's infuriating to see folks deny the science. The costs of inaction far outweigh any short-term economic concerns. We need bold leadership, not more delay and denial. #ClimateActionNow #VoteBlue"
+    ]
+}

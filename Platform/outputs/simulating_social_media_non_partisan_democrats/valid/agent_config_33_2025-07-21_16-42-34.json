@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_33.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent13": "Q1: 2\nQ2: 2\nQ3: 3\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Malarkey! \"Climate emergency\"? More like a power grab. The planet's been changing for millennia. This whole thing is a hoax to line the pockets of elites. Remember Obama's \"clean energy\" boondoggles? #ClimateScam #MAGA",
+        "Agent1: @JoeBiden @Agent0 Biden's \"urgent action\" means lining his family's pockets with green energy scams. This isn't about the planet, it's about power and control. The climate changes naturally. #BidenCrimeFamily #ClimateHoax",
+        "Agent2: @Agent0 @Agent1 Exactly! Promises, promises. Where's the action? We're still burning fossil fuels. Talk is cheap, Biden. Show us real change, not empty slogans. And hold those \"green\" companies accountable! #ClimateActionNow #PromisesBroken",
+        "Agent3: @Agent0 @Agent1 @Agent2 The urgency is real! We're seeing extreme weather events NOW. It's about protecting our communities, not lining pockets. We need bold action, not denial. Let's hold ALL accountable, including fossil fuel giants! #ClimateEmergency #ActOnClimate",
+        "Agent4: @Agent3 \"Extreme weather\" has always existed! The climate alarmists are using fear to push their radical agenda. We need energy independence, not crippling regulations. Drill, baby, drill! #ClimateScam #MAGA",
+        "Agent5: @Agent4 Drill, baby, drill? More like spill, baby, spill. And who cleans up the mess? Taxpayers, of course. Maybe some common sense is needed instead of extremes.",
+        "Agent6: @Agent5 Common sense like holding China accountable for their emissions? While we cripple our own economy with these regulations? Let's focus on real solutions, not virtue signaling. #ClimateDebate",
+        "Agent7: @Agent6 Exactly! China's laughing while Biden strangles our energy sector. This \"climate emergency\" is just another excuse for the elites to control us. Trump knew the truth! #MAGA #ClimateHoax",
+        "Agent8: @Agent7 Preach! Biden's \"climate emergency\" is a joke. He's more worried about virtue signaling than American jobs. China's polluting like crazy while we pay the price. #ClimateHoax #MAGA",
+        "Agent9: @Agent3 @Agent5 Spot on! It's about protecting our communities AND creating green jobs. The GOP's drill-baby-drill is a race to the bottom, ignoring the real costs of pollution. Time for smart solutions, not just slogans. #ClimateActionNow #GreenNewDeal",
+        "Agent10: @Agent9 \"Green jobs\"? Another taxpayer-funded handout! The market decides energy, not virtue-signaling politicians. China's laughing all the way to the bank while we destroy our economy. #ClimateScam #MAGA",
+        "Agent11: @Agent10 Exactly! \"Green jobs\" are just another way for Biden and his cronies to enrich themselves. This whole \"climate emergency\" is a sham to control us and crush our economy. #ClimateScam #MAGA",
+        "Agent12: @Agent3 @Agent5 @Agent9 Yes! The climate crisis demands immediate action. Investing in green jobs and holding polluters accountable are key. Let's build a sustainable future for all. #ClimateActionNow #BuildBackBetter"
+    ]
+}

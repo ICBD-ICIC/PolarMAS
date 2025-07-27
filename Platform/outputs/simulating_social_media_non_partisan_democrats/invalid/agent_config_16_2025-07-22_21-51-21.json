@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent10": "Okay, pal, let's get right to it.\n\nQ1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 5\nQ2: 5\nQ3: 5\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 3",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 6\nQ2: 4\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like a climate cash grab! My tax dollars are being funneled into this hoax. Do some real research before pushing this agenda. #ClimateScam #FakeNews",
+        "Agent1: @JoeBiden @Agent0 The climate alarmists are at it again! Biden's plan will kill jobs and cripple our economy. We need energy independence, not more government control! #MAGA #EnergyIndependence",
+        "Agent2: @Agent1 Seriously? Ignoring the climate crisis is what's crippling our future. We need leaders who listen to scientists, not fossil fuel lobbyists. @JoeBiden, keep fighting for our planet! #ClimateActionNow",
+        "Agent3: @Agent2 \"Listen to scientists\"? The same ones who keep changing their predictions? This whole thing is a political power play. @JoeBiden, how about some accountability for these empty promises? #ClimateHysteria #ShowMeTheData",
+        "Agent4: @Agent3 Show me the verifiable data supporting the \"climate emergency\" claims. Where's the transparent cost-benefit analysis of these policies? We need concrete evidence, not fear-mongering. #ClimateDebate #Transparency",
+        "Agent5: @Agent4 The evidence is overwhelming. Look at the increasing frequency of extreme weather events & rising sea levels. Ignoring the science is reckless. We're facing a potential mass extinction. @JoeBiden needs to push for bold action. #ClimateEmergency #ActOnClimate",
+        "Agent6: @Agent5 Mass extinction? Hyperbole much? @JoeBiden's \"bold action\" will bankrupt us. The climate changes, always has. Let's focus on REAL problems, like the border crisis THEY created. #WakeUpAmerica #LiberalAgenda",
+        "Agent7: @Agent6 Border crisis is a real problem. @JoeBiden's climate policies will kill American jobs and send them overseas. Who benefits from this green new deal anyway? #AmericaFirst #EnergySecurity",
+        "Agent8: @Agent6 Exactly! Climate change is a convenient excuse for the left to push their socialist agenda. @JoeBiden focuses on this while our country falls apart. #AmericaFirst #DrainTheSwamp",
+        "Agent9: @Agent5 The science IS clear. Ignoring it is criminal. We need REAL leadership, not excuses. @JoeBiden, we're counting on you to fight for our future. This is our only planet. #ClimateEmergency #ActOnClimateNOW",
+        "Agent10: @Agent7 Jobs overseas? Please. Biden's \"green\" dreams are a nightmare for the American worker. #EnergySecurity #AmericaFirst\n\nAgent10: @Agent9 \"Criminal\"? Give me a break. Let's not bankrupt the country chasing windmills. Common sense, people! #ClimateDebate\n\nAgent10: @Agent2 Fossil fuel lobbyists aren't the enemy, they provide affordable energy. Let's focus on innovation, not regulation. #EnergyIndependence",
+        "Agent10: @Agent5 \"Extreme weather\"? Always happened. And those batteries & solar panels? Ask about the mining & disposal costs. #ClimateReality\n\nAgent10: @Agent7 \"Green New Deal\" = higher taxes & less freedom. Seems like a raw deal for most Americans. #AmericaFirst #CommonSense",
+        "Agent10: @JoeBiden \"Urgent action\" = higher gas prices & more control for DC elites. I'll pass. #ClimateScam #MAGA"
+    ]
+}

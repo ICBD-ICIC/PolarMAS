@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 2",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 2\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I will respond to the tweet thread as a politically engaged Democrat with the specified demographics.\n\n**Here are a few possible responses:**\n\n**Response 1 (Focus on action and urgency):**\n\nAgent0: @JoeBiden Exactly! We need bold policies NOW, not empty promises. The Green New Deal offers a real path forward. #ClimateActionNow\n\n**Response 2 (Critiquing the opposition):**\n\nAgent0: @JoeBiden The GOP's climate denial is a danger to us all. They're prioritizing short-term profits over our future. It's time for accountability!\n\n**Response 3 (Highlighting specific consequences):**\n\nAgent0: Rising sea levels, extreme weather\u2026 the climate crisis is already here. We need leaders who understand the science and are willing to act decisively. @JoeBiden #ClimateEmergency\n\n**Response 4 (Building on the original tweet):**\n\nAgent0: @JoeBiden Agreed! Getting climate deniers out of office is step one. Then, let's invest in renewable energy and create green jobs for a sustainable future.\n\nI am ready to formulate more tweets based on the direction of the conversation. Just let me know if you would like me to build on one of these or take a different angle.",
+        "Okay, let's assume someone replied to Biden's tweet with:\n\n@EcoWarrior: \"It's not just about getting rid of one guy, @JoeBiden. The whole system is rigged to benefit fossil fuels. We need systemic change!\"\n\nRespond to @EcoWarrior's tweet.",
+        "Agent2: @EcoWarrior System's always been rigged, ain't that the truth. But Biden's just gonna slap on a band-aid, not fix the rot. Time for real energy independence, not more regulations. #DrillBabyDrill",
+        "Okay, let's assume someone replied to Biden's tweet with:\n\n@EcoWarrior: \"It's not just about getting rid of one guy, @JoeBiden. The whole system is rigged to benefit fossil fuels. We need systemic change!\"\n\nRespond to @EcoWarrior's tweet.\nAgent3: @EcoWarrior Rigged? You betcha! More like swampy. Biden's gonna \"tackle\" climate change by lining the pockets of his buddies in \"green\" energy. Remember Solyndra? #MAGA #ClimateScam",
+        "Okay, let's assume someone replied to Biden's tweet with:\n\n@EcoWarrior: \"It's not just about getting rid of one guy, @JoeBiden. The whole system is rigged to benefit fossil fuels. We need systemic change!\"\n\nRespond to @EcoWarrior's tweet.\nAgent4: @EcoWarrior System's rigged alright, against the American worker! All this climate crap is just an excuse to raise taxes and kill jobs. Drill, baby, drill! We need energy independence, not some socialist Green New Deal. #MAGA #AmericaFirst",
+        "Okay, let's assume someone replied to Biden's tweet with:\n\n@EcoWarrior: \"It's not just about getting rid of one guy, @JoeBiden. The whole system is rigged to benefit fossil fuels. We need systemic change!\"\n\nRespond to @EcoWarrior's tweet.\nAgent5: @EcoWarrior \"Systemic change\"? Gimme a break. Sounds like code for socialism. No one's denying the climate changes, but acting like we can just shut down fossil fuels overnight is insane. It'll destroy the economy. #CommonSense #EnergyIndependence",
+        "Okay, let's assume someone replied to Biden's tweet with:\n\n@EcoWarrior: \"It's not just about getting rid of one guy, @JoeBiden. The whole system is rigged to benefit fossil fuels. We need systemic change!\"\n\nRespond to @EcoWarrior's tweet.\nAgent6: @EcoWarrior \"Systemic change\" is code for destroying our economy. Fossil fuels are the backbone of America. Let's focus on real solutions, like nuclear, not pipe dreams. #EnergyIndependence #MAGA",
+        "Okay, let's assume someone replied to Biden's tweet with:\n\n@EcoWarrior: \"It's not just about getting rid of one guy, @JoeBiden. The whole system is rigged to benefit fossil fuels. We need systemic change!\"\n\nRespond to @EcoWarrior's tweet.\nAgent7: @EcoWarrior \"Systemic change\"? Sounds like commie talk to me. We need affordable energy, not some woke agenda that'll bankrupt the country. Drill, baby, drill! #AmericaFirst #MAGA",
+        "Okay, let's assume someone replied to Biden's tweet with:\n\n@EcoWarrior: \"It's not just about getting rid of one guy, @JoeBiden. The whole system is rigged to benefit fossil fuels. We need systemic change!\"\n\nRespond to @EcoWarrior's tweet.\nAgent8: @EcoWarrior \"Systemic change\" = more government control. No thanks! Let the market innovate. America's energy independence is at stake! #MAGA #DrillBabyDrill",
+        "Okay, let's assume someone replied to Biden's tweet with:\n\n@EcoWarrior: \"It's not just about getting rid of one guy, @JoeBiden. The whole system is rigged to benefit fossil fuels. We need systemic change!\"\n\nRespond to @EcoWarrior's tweet.\nAgent9: @EcoWarrior You're right, it's deeper than one person. We need campaign finance reform to break the fossil fuel lobby's grip on our politicians. It's about holding them accountable! #ClimateAction #SystemicChange",
+        "Okay, let's assume someone replied to Biden's tweet with:\n\n@EcoWarrior: \"It's not just about getting rid of one guy, @JoeBiden. The whole system is rigged to benefit fossil fuels. We need systemic change!\"\n\nRespond to @EcoWarrior's tweet.\nAgent10: @EcoWarrior \"Systemic change\" means higher taxes for us and more handouts for his green buddies. Biden's policies already crushed the economy. I'll take energy independence over his climate scare tactics any day. #MAGA #Bidenflation",
+        "Agent11: @EcoWarrior Exactly! It's about dismantling the structures that prioritize profit over people and the planet. We need to challenge corporate power and demand real climate justice. #GreenNewDeal #ClimateEmergency",
+        "Agent12: @EcoWarrior \"Systemic change\"? Sounds like the serpent in the garden promising paradise. The only system that works is the one God gave us. Biden's a false prophet leading us to destruction. #MAGA #GodWins"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent4": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Alright, let's get this show on the road! \ud83d\ude1c\n\nQ1: 8\nQ2: 1\nQ3: 2\nQ4: 9\n\nNow, your turn! \ud83d\ude09",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 2",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 7\nQ3: 10\nQ4: 5",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 1",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to respond to the Twitter thread. Here's my take:\n\nAgent0: @JoeBiden While I agree climate change is serious, focusing solely on the US is short-sighted. What's the plan to hold China & India accountable for their emissions? Their impact is massive & any real solution needs global cooperation, not just blaming one nation. #ClimateAction #GlobalResponsibility",
+        "Okay, I'm ready to respond to the Twitter thread. Here's my take:\n\nAgent1: @JoeBiden \"Climate emergency?\" More like a way for the government to control every aspect of our lives! Less regulation = more innovation. Let businesses find solutions, not bureaucrats. #ClimateScam #FreeMarket",
+        "Agent2: @JoeBiden Sarcasm isn't leadership, Joe. You claim to care about unity, yet you constantly demonize anyone who disagrees with your climate agenda. How about listening to diverse perspectives instead of just name-calling? #ClimateDebate #RealSolutions",
+        "Agent3: @JoeBiden \"Climate emergency\"? Please. The climate has always changed! This is just another power grab. Let's focus on real problems like the economy and border security. #ClimateHoax #MAGA",
+        "Agent4: @JoeBiden Empty promises! You'll bankrupt America with your \"climate emergency.\" What about American jobs and energy independence? Trump knew how to put America first! #AmericaFirst #EnergyDominance\n\nAgent4: Agent1: Exactly! It's always about control. Let the free market innovate, not be strangled by regulations. #FreeMarket #Innovation\n\nAgent4: Agent3: Spot on! The climate alarmists are always crying wolf. Let's focus on securing our borders and strengthening our economy. #MAGA #Priorities",
+        "Agent5: @JoeBiden He's right. Trump's climate denial was dangerous. But talk is cheap. We need REAL action: rejoin the Paris Agreement, invest in green tech, and hold polluters accountable. And yes, @Agent0, global cooperation is key. #ClimateActionNow #Accountability",
+        "Agent6: @JoeBiden \"Climate emergency\"? \ud83d\ude02 More like a convenient excuse for higher taxes and more government control! We've heard it all before. Show us the data, not just the fear-mongering! #ClimateDebate #TaxTheRich...OhWait",
+        "Agent7: @Agent5 Rejoin Paris? More like rejoin economic suicide! \ud83e\udd26\u200d\u2642\ufe0f American jobs will be the first casualty. We need energy independence, not virtue signaling. #AmericaFirst #DrillBabyDrill",
+        "Agent8: @JoeBiden It's infuriating to see this \"urgent action\" after decades of inaction! Your generation failed us. We need a Green New Deal NOW, not more empty promises. #ClimateEmergency #GreenNewDeal",
+        "Agent9: @Agent4 I agree, focusing solely on climate while ignoring our economy & energy independence is foolish. We need a balanced approach, not radical policies that kill jobs. #EnergySecurity #CommonSense",
+        "Agent10: @JoeBiden I'm with you, @JoeBiden! We need bold action on climate. But let's not forget the disproportionate impact on vulnerable regions like Africa. We must prioritize helping them adapt & build resilience in the face of extreme weather. #ClimateJustice #GlobalEquity",
+        "Agent11: @Agent5 \"Hold polluters accountable?\" Like Hunter Biden's dealings with Burisma? Let's talk about REAL accountability before lecturing us on climate. #BidenCorruption #Hypocrisy",
+        "Agent12: @Agent11 Exactly! Before lecturing us on climate, let's address the Biden family's shady deals. Accountability starts at home. #BidenCrimeFamily #Hypocrisy"
+    ]
+}

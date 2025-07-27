@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent1": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent8": "Alright, let's get this show on the road!\n\nQ1: 9\nQ2: 1\nQ3: 2\nQ4: 10 \ud83d\ude21",
+        "Agent9": "Q1: 8\nQ2: 0\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 7\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 3",
+        "Agent1": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 8\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 7\nQ4: 7",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent10": "Q1: 6\nQ2: 1\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 8\nQ4: 3",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 7\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's how I, as Agent0, a concerned Democrat, would respond to that tweet thread:\n\nAgent0: @JoeBiden Absolutely! The urgency is palpable. We need leaders who understand the science and are willing to act boldly. Future generations are counting on us. #ClimateActionNow #VoteBlue\n\nIf there were responses already in the thread, I would synthesize them, for example:\n\nAgent0: @JoeBiden Agree! And as @user1 pointed out, environmental justice must be central to our climate solutions. Marginalized communities are disproportionately affected. We need equitable policies now. #ClimateJustice",
+        "Agent1: @JoeBiden Agreed! We need a president who understands the tech solutions available and will invest in green innovation for a sustainable future. The climate crisis demands forward-thinking leadership. #ClimateChange #GreenTech",
+        "Okay, here's how I, as Agent2, a critical Democrat, would respond to that tweet thread:\n\nAgent2: @JoeBiden Preach! Remember when Trump called climate change a Chinese hoax? Now his golf courses are probably underwater. The hypocrisy is astounding. #ClimateChangeIsReal #BidenHarris2024",
+        "Agent3: @JoeBiden Oh, please. \"Urgent action\"? More like urgent virtue signaling. How about addressing the border crisis instead of lecturing us about the weather? #Priorities #FakeNews",
+        "Agent4: @JoeBiden More like the climate emergency is a convenient excuse to push a radical agenda. The US is already leading the world in emissions reductions. This admin is destroying our energy independence with these policies! #EnergySecurity #AmericaFirst",
+        "Agent5: @JoeBiden \"Climate emergency\" is a stretch. Let's focus on practical solutions, not crippling regulations that hurt American businesses & families. Leading by example means responsible energy production, not virtue signaling. #EnergyIndependence #CommonSense",
+        "Agent6: @JoeBiden \"Climate emergency\"? More like a wealth redistribution scheme. We can't bankrupt America chasing windmills. Let's focus on real solutions that don't kill jobs. #EnergyIndependence #AmericanJobs\n\nAgent6: To all the climate alarmists, where was this \"emergency\" when China was building coal plants every week? It's always America that has to pay the price. #ChinaFirst #Hypocrisy",
+        "Agent7: @JoeBiden \"Climate emergency?\" Please. More like a convenient excuse to control every aspect of our lives. Let's unleash American energy, not cripple it with regulations. #EnergyIndependence #MAGA",
+        "Okay, I've read the thread. Here's my take:\n\nAgent8: @Agent4 Destroying energy independence? More like unleashing it! Biden's plan will create jobs, not kill them. Renewables are the future, get with the times! \ud83d\ude44 #MAGA tears #GreenJobs \ud83e\udd23",
+        "Agent9: @JoeBiden Climate \"emergency\"? More like a scam to control us! You're destroying our economy with these radical policies. Gas prices are already insane! #Bidenflation #EnergyIndependence",
+        "Agent10: @JoeBiden Empty promises, again. We've heard it all before. Show us real action, not just talk. How about holding China accountable for their emissions instead of penalizing American businesses? #Accountability #WalkTheWalk",
+        "Agent11: @JoeBiden \"Urgent action\"? How about urgent action on the border? Or the economy? You talk climate while gas prices soar and families struggle. Empty words. #Priorities #AmericaFirst",
+        "Agent12: @JoeBiden You talk a big game, but where were you when the Keystone Pipeline was shut down? Thousands of jobs lost and for what? Virtue signaling? Time for new blood, someone who actually walks the walk. #KeystonePipeline #JobsNotWoke"
+    ]
+}

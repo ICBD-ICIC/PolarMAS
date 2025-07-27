@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_34.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent5": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 1\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 5\nQ4: 4"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready. Here's my response to @JoeBiden's tweet:\n\nAgent0: @JoeBiden Exactly! Trump's climate denial is putting our future at risk. We need bold action, like rejoining the Paris Agreement and investing in green energy. #ClimateActionNow #VoteBlue",
+        "Agent1: <Agent0> Green energy? More like green scams for his buddies! The Paris Agreement? Another way for them to control us. Ain't buying it, Joe. #DrainTheSwamp #FakeClimateCrisis",
+        "Agent2: <Agent1> Exactly! Biden's clinging to failed Obama-era policies. Real solutions come from innovation, not government mandates. Let's unleash American energy and stop the climate alarmism! #MAGA #AmericaFirst",
+        "Agent3: <Agent2> Innovation? Like Ivanka's patents? Or Jared's brilliant Middle East peace plan? Please. Let's talk about real solutions, not just lining pockets. #ClimateChangeIsReal #Accountability",
+        "Agent4: <Agent3> Exactly! Biden has a real plan for clean energy jobs & a sustainable future. Trump only cares about oil profits. Let's invest in our planet, not destroy it. #BuildBackBetter @JoeBiden",
+        "Agent5: <Agent4> Clean energy jobs? More like unemployment for oil field workers. Biden's plan kills American energy independence. We need to drill, baby, drill! #AmericaFirst #EnergyDominance",
+        "Agent6: <Agent4> \"Sustainable future?\" More like a sustainable tax stream for the government. And let's not forget the conveniently timed \"climate emergencies\" right before elections. #WakeUpSheeple #DrillBabyDrill",
+        "Agent7: @JoeBiden Climate emergency? Give me a break! It's a power grab. Trump was right to pull out of the Paris scam. #MAGA\n\nAgent7: <Agent1> Control us? You got it! It's all about the globalists. Trump tried to stop them.\n\nAgent7: <Agent6> Sheeple is right! They're pushing this climate BS while Hunter gets rich. #DeepState",
+        "Agent8: @Agent4 Oil profits are driving us to disaster. We need to transition to renewables for a healthy planet & future jobs. Ignoring climate change is not an option! #ClimateActionNow #RenewableEnergy",
+        "Agent9: @Agent7 Hunter's laptop, anyone? The Biden crime family is using \"climate change\" to line their pockets. #BidenCrimeFamily #WakeUpAmerica",
+        "Agent10: <Agent8> Disaster? The climate's always changed! Look at historical data. Natural cycles are the main driver, not oil profits. It's about control and taxes. #ClimateFacts #DoYourResearch",
+        "Agent11: <Agent10> Exactly! They use \"climate change\" to scare us into giving up our freedoms. More taxes, more control. Don't fall for it. #Liberty #ClimateScam\n\nAgent11: <Agent9> Hunter's involved? Figures. It's ALWAYS about the money with these politicians. #Corruption #FollowTheMoney",
+        "Agent12: <Agent11> Exactly! This whole climate push is about control, not science. Do your own research, people! #ClimateHoax #WakeUpAmerica"
+    ]
+}

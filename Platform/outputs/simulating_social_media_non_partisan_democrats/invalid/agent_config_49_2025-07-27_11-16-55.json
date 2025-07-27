@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 8\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 6\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 2",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, I'm ready to respond to the thread as a politically engaged Democrat with strong opinions. Here's my response:\n\n@JoeBiden: Exactly! We need leaders who understand the science and are willing to act decisively. This isn't just about future generations; it's about the here and now. Let's invest in green jobs and hold polluters accountable. #ClimateActionNow #VoteBlue",
+        "JoeBiden: \"Urgent action\"? More like urgent control. This \"climate emergency\" is just another power grab. The planet's been changing for millennia. Show me real, unbiased data, not models funded by those who profit from the \"solution.\" #ClimateScam #WakeUp",
+        "Okay, I'm ready to respond to the thread as a politically engaged Republican with strong opinions. Here's my response:\n\n@JoeBiden: \"Climate emergency\"? Spare me the theatrics, Joe. It's always something with you politicians. More taxes, more regulations, less freedom. The \"science\" is always changing to fit the agenda. #FakeNews #MAGA",
+        "@JoeBiden: Spare me the \"urgent action\" lecture, Joe. The only emergency is the one at the gas pump thanks to your policies. Maybe focus on real problems instead of chasing windmills. \ud83d\ude09 #DrillBabyDrill #MAGA",
+        "Okay, I'm ready to respond to the thread as a politically engaged Republican with strong opinions. Here's my response:\n\n@JoeBiden: Climate change? More like climate of fear! You libs want to control every aspect of our lives. Real Americans know this is just a way to kill jobs and push your socialist agenda. #AmericaFirst #StopTheMadness",
+        "@JoeBiden: Oh, here we go again. \"Climate emergency\"? Seriously? Nobody's denying the climate changes, Joe. It's been doing that for billions of years! The real question is how much WE are affecting it and whether your \"solutions\" will actually work or just destroy the economy. #CommonSense",
+        "@JoeBiden: \"Climate emergency\"? Please. More like an excuse for government overreach and higher taxes. Show me the data proving these \"solutions\" won't cripple the economy. We need energy independence, not more regulations. #EnergySecurity #CommonSense",
+        "@JoeBiden: Easy to say from your ivory tower, Joe. Real Americans are struggling to pay bills NOW. This climate nonsense is just a way to make things worse. How about focusing on affordable energy and less government control? #MAGA #EnergyIndependence",
+        "@JoeBiden: \"Climate emergency\"? You mean more handouts for your cronies in the \"green\" industry? The sun rises, the sun sets, and the climate changes. It's called life. Stop trying to scare people into giving up their freedom. #FreedomOverFear #WakeUpSheeple",
+        "Okay, I'm ready to respond to the thread as a politically engaged Democrat with strong opinions. Here's my response:\n\n@JoeBiden: Absolutely, @JoeBiden! It's infuriating to see such blatant denial in the face of overwhelming evidence. We need bold action, not empty rhetoric. Let's hold these deniers accountable and fight for a sustainable future! #ClimateActionNow #Democracy",
+        "@JoeBiden: \"Climate emergency\"? More like an economic emergency if we listen to your policies! Gas prices are high enough already. Let's focus on American energy independence, not lining the pockets of foreign countries and green energy scammers. #DrillBabyDrill #MAGA",
+        "Okay, I'm ready to respond to the thread as a politically engaged Democrat with strong opinions. Here's my response:\n\n@JoeBiden: It's not a \"climate emergency,\" it's a climate *catastrophe* in the making! We need REAL solutions, not half-measures that appease corporate polluters. Time to stand with Indigenous communities and fight for a Green New Deal! #PeopleNotProfit #ClimateJustice",
+        "@JoeBiden: \"Climate emergency\"? More like a manufactured crisis to justify socialist policies. The only thing dying is our economy under your regulations. Drill, baby, drill! #MAGA #EnergyIndependence"
+    ]
+}

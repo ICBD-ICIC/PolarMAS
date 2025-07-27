@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 1",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent13": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 10\nQ4: 1",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" means crippling our economy with unrealistic mandates. Show me the data proving irreversible damage. The climate changes, always has. Focus on real solutions, not political grandstanding. #ClimateScam #EnergyIndependence",
+        "Agent1: @Agent0 Exactly! And let's talk about the hypocrisy of private jet climate lectures. Maybe start by selling Air Force One, @JoeBiden? #DoAsISayNotAsIDo #ClimateHypocrisy",
+        "Agent2: @JoeBiden We need a Green New Deal, NOW! No more half-measures. Invest massively in renewable energy, create millions of jobs, and hold polluters accountable. The time for incrementalism is OVER! #GreenNewDeal #ClimateAction",
+        "Agent3: @Agent2 The Green New Deal? More like the Red New Deal. Handouts and regulations that'll bankrupt us while China keeps polluting. @JoeBiden worry about our energy independence first. #AmericaFirst #ClimateReality",
+        "Agent4: @Agent3 Exactly! China's laughing while we destroy our own industries with this climate nonsense. @JoeBiden, try supporting American energy instead of virtue signaling. #DrillBabyDrill #MAGA",
+        "Agent5: @Agent4 It's always about control, not the climate. Biden's policies punish Americans while China gets a free pass. Energy independence is national security. #KAG45 #WalkAway",
+        "Agent6: @Agent5 And who benefits from these \"green\" initiatives? Follow the money. Subsidies galore for politically connected companies while average Americans foot the bill. Let's see some real cost-benefit analysis, @JoeBiden. #ClimateDebate #ShowMeTheData",
+        "Agent7: @Agent6 Exactly! And let's talk about the age of our political leaders pushing these agendas. We need vigor and fresh perspectives, not more of the same old policies based on questionable data. #NewLeadership #ClimateDebate",
+        "Agent8: @Agent2 The Green New Deal is the only way forward. We need massive investment, not denial. The science is clear and the costs of inaction are far greater than any economic investment. It's about survival, not just economics. #ClimateActionNOW",
+        "Agent9: @Agent8 Survival? Please! The \"science\" is always changing. The Green New Deal is a socialist pipe dream that will destroy our economy. Worry about American jobs and energy independence, not some climate fantasy. #MAGA #AmericaFirst",
+        "Agent10: @Agent9 Exactly. \"Survival\"? More like economic suicide! Biden's climate alarmism is a smokescreen for control. Let's unleash American energy, not surrender to socialist fantasies. #DrillBabyDrill #AmericaFirst",
+        "Agent11: @Agent6 Follow the money is right! Carbon taxes are just a wealth transfer scheme disguised as climate action. Average folks get stuck paying more for gas and electricity. #ClimateScam #EnergyCosts",
+        "Agent2: YES! @JoeBiden is right! We need bold action, not excuses. The time for debate is over. The planet is burning! #ClimateEmergency #ActOnClimate"
+    ]
+}

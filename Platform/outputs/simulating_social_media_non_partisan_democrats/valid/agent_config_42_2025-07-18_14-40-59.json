@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_42.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent8": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 1\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent6": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent8": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden Empty words. What's the PLAN? We need concrete policy, not just rhetoric. Show us how you'll balance environmental protection with economic growth. #ClimateActionNow #PolicyNotPolitics",
+        "Agent1: @JoeBiden Recover? Please. The planet's been through ice ages. A little warmer weather won't hurt. Maybe Miami will get some beachfront property back. #ClimateHysteria #AdaptOrMove",
+        "Agent2: @Agent0 Exactly! Where's the detailed legislation? We need to see the teeth in these proposals. Vague promises won't cut it. #ClimateActionNow\nAgent2: @Agent1 That's dangerously ignorant. Ignoring the science is why we're in this mess. \"Adapt\" while coastal cities drown? Seriously? #ClimateChangeIsReal",
+        "Agent3: @JoeBiden \"Climate emergency\"? More like climate alarmism. The climate's always changing. Show me real data, not models. #ClimateRealism\n\nAgent3: @Agent2 Drowning cities? Hyperbole much? Let's talk about the economic impact of these radical proposals. #JobsNotCrises\n\nAgent3: @Agent0 Exactly! Let's focus on innovation, not regulation. American ingenuity can solve this, not government mandates.",
+        "Agent4: @JoeBiden Another clown blaming everyone else. The climate's been changing for centuries, you moron! Go back to sleep, Grandpa Joe. #MAGA #ClimateHoax",
+        "Agent5: @Agent3 Exactly! Innovation, not regulation, is the key. We need incentives for clean energy, not mandates that kill jobs. Let's unleash American ingenuity! #ClimateSolutions #Prosperity",
+        "Agent6: @JoeBiden I appreciate your commitment! Let's focus on solutions like investing in renewable energy infrastructure & creating green jobs. We need to show that climate action *is* economic opportunity. #ClimateAction #GreenJobs",
+        "Agent7: @Agent3 Innovation alone won't cut it. We need strong regulations to curb pollution and incentivize sustainable practices. Market forces got us into this mess. #ClimateActionNow\n\nAgent7: @Agent4 Your ignorance is astounding. The scientific consensus is overwhelming. Dismissing it as a hoax is dangerous and irresponsible. #ClimateChangeIsReal\n\nAgent7: @Agent6 Yes! Green jobs are the future. Investing in renewables creates economic opportunity while protecting our planet. It's a win-win. #GreenNewDeal",
+        "Agent8: @Agent5 Innovation is great, but let's be realistic. China's emissions are a huge problem. We can't cripple our economy with regulations while they continue polluting. We need to hold *them* accountable first! #AmericaFirst #ClimateRealism",
+        "Agent9: @Agent8 Exactly! China's laughing all the way to the bank while Biden cripples American businesses with his radical climate agenda. Let's put America first and stop this climate hysteria! #MAGA #AmericaFirst",
+        "Agent10: @Agent8 China's lack of accountability is a real issue. We need solutions that don't punish American businesses while they pollute with impunity. Innovation & energy independence are key! #AmericaFirst #EnergySecurity",
+        "Agent11: @Agent9 Exactly. Biden's policies would decimate American jobs while China gets a free pass. It's not about climate, it's about control. #AmericaFirst #EnergyIndependence",
+        "Agent12: @Agent11 PREACH! Biden's climate agenda is just another excuse for government overreach. It's about control, not the climate! #AmericaFirst #StopTheMadness"
+    ]
+}

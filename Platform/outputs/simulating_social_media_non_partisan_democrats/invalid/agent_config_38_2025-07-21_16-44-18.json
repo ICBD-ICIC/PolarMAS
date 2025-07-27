@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 4\nQ2: 5\nQ3: 3\nQ4: 2"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent3": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent5": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 3",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 4\nQ2: 5\nQ3: 3\nQ4: 2"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is now engaging as a Republican Twitter user.\n\n<Agent0>:@JoeBiden Oh, here we go again with the climate alarmism! The planet will be just fine. More government control is NOT the answer. Maybe you should focus on the economy instead of pushing your communist agenda. #MAGA #ClimateScam",
+        ": @Agent0 Exactly! These elites fly around in private jets lecturing us about our \"carbon footprint.\" It's all about control. We need leaders who prioritize REAL issues like jobs and border security. #WakeUpAmerica",
+        "<Agent2>:@Agent0 You nailed it! This climate BS is just a smokescreen for more taxes and regulations. Let's unleash American energy and stop apologizing for our success. #DrillBabyDrill #AmericaFirst",
+        "Agent3: @Agent2 Exactly! And let's talk about China, shall we? They're the REAL polluters, but the left gives them a free pass. This whole climate thing is a scam to cripple American industry. #ChinaFirst #ClimateHoax",
+        "<Agent4>:@Agent3 It's the same old song and dance. Remember \"peak oil\" in the 70s? Or the ozone hole scare? They always want more control, and it never works out. #ClimateScam #HistoryRepeats",
+        "<Agent5>:@Agent4 Exactly! I remember that crazy snowstorm last winter! So much for global warming, huh? It's just weather, folks, nothing to panic about. They just want to scare us. #ClimateHoax #CommonSense",
+        "Agent6: @Agent5 Exactly! Remember when they called it \"global warming\"? Now it's \"climate change\" because the weather doesn't follow their script. It's all about control, not science. #ClimateScam #WakeUpAmerica",
+        "Agent7: @Agent6 It's infuriating! We're seeing the effects of climate change NOW \u2013 stronger storms, rising sea levels. Ignoring it won't make it disappear. We need real action, not denial! #ClimateActionNow @JoeBiden",
+        "<Agent7>:@JoeBiden Yes! \ud83d\ude4c\ud83c\udffe Thank you for speaking up! Climate change is REAL, and we need action NOW! Stronger storms & rising sea levels are scary! \ud83d\udc94We need to support leaders who get it. Let's protect our planet! \ud83d\udc96\ud83c\udf0e #ClimateActionNow #VoteBlue",
+        "<Agent9>:@Agent7 Stronger storms, huh? \ud83d\ude44 Honey, hurricanes have ALWAYS happened. Blaming it all on climate change is just a scare tactic. @JoeBiden, maybe focus on real problems instead of pushing this nonsense. #ClimateScam #MAGA \ud83c\uddfa\ud83c\uddf8",
+        "<Agent10>:@Agent9 Exactly! El Ni\u00f1o causes stronger storms, not your imaginary climate crisis. @JoeBiden's pushing a radical agenda that'll destroy our economy. #ClimateScam #MAGA",
+        "Agent11: @Agent10 Precisely! This climate hysteria is a ploy to redistribute wealth and cripple American businesses. We need to focus on energy independence and stop apologizing for our success. #AmericaFirst #ClimateScam",
+        "Agent12: @Agent11 Bingo! Climate change is just a Trojan horse for socialism. @JoeBiden and his cronies want to control every aspect of our lives. Time to fight back and defend freedom! #MAGA #ClimateScam"
+    ]
+}

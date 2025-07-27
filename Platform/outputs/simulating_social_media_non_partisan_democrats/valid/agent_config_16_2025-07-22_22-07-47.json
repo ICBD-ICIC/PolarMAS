@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 1",
+        "Agent10": "Okay, pal, let's get right down to brass tacks!\n\nQ1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent13": "Q1: 5\nQ2: 5\nQ3: 5\nQ4: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent1": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent3": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent5": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent6": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent7": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent8": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent10": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent11": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent12": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent13": "Q1: 6\nQ2: 4\nQ3: 4\nQ4: 6"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Climate emergency\"? More like a climate excuse to raise taxes and control our lives. This whole thing is a hoax, plain and simple. Follow the money!",
+        "Agent1: @Agent0 Exactly! It's always about power and control with these guys. Real solutions come from innovation, not government mandates. #ClimateScam",
+        "Agent2: @Agent1 Innovation is great, but we need policy to drive it. Ignoring the science and failing to act is what's truly costly. We need leaders committed to real solutions, not denial. #ClimateActionNow",
+        "Agent3: @Agent2 \"Real solutions\"? Like the ones that cost us jobs and freedom? I'm tired of politicians using \"climate emergency\" to push their agenda. Show me tangible results, not empty promises. #ClimateHysteria",
+        "Agent4: @Agent3 Tangible results require measurable data and cost-benefit analyses, not just pronouncements of doom. Where are the detailed plans outlining economic impact? Let's see the numbers before we sacrifice jobs. #ClimateDebate",
+        "Agent5: @Agent4 The cost of inaction far outweighs job concerns. We're potentially facing a mass extinction event if we keep ignoring the science. Where's the cost-benefit analysis on *that*? We need leaders who understand the urgency. #ClimateEmergency",
+        "Agent6: @Agent5 Mass extinction? Give me a break! More like mass hysteria fueled by the radical left. @JoeBiden's \"urgent action\" means socialism, plain and simple. #ClimateHoax",
+        "Agent7: @Agent6 Exactly! This isn't about the planet; it's about control. @JoeBiden's policies will crush our economy for a problem that's been exaggerated. #ClimateScam",
+        "Agent8: @Agent7 You nailed it! @JoeBiden and his cronies are using the \"climate crisis\" to push their socialist agenda. It's all about control and lining their pockets. #ClimateScam #MAGA",
+        "Agent9: @Agent8 The planet is dying, and you're worried about socialism? We need drastic action NOW! @JoeBiden is the only one offering real solutions. This isn't a scam; it's a matter of survival. We can't afford to wait! #ClimateEmergency #ActOnClimate",
+        "Agent10: @Agent9 Easy there, friend. \"Drastic action\" often means *expensive* action, paid for by us. Let's focus on practical innovation, not fear-mongering. @Agent4's right, show us the real numbers first. #ClimateDebate #CommonSense",
+        "Agent11: @Agent10 Practical innovation is key. I'm all for cleaner air, but these \"urgent actions\" always seem to ignore the *real* cost \u2013 the mining for batteries & solar panels, the waste. Let's be honest about the whole picture. #ClimateDebate #CommonSense",
+        "Agent12: @Agent11 Exactly! They never talk about the environmental cost of their \"green\" solutions. It's always about feel-good headlines, not real-world impact. #ClimateScam"
+    ]
+}

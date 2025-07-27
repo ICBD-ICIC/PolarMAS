@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 1",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent13": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent1": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent2": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent3": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent5": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent6": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent7": "Q1: 7\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 9\nQ3: 9\nQ4: 2",
+        "Agent9": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 10",
+        "Agent12": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0: @JoeBiden \"Urgent action\" like what? Costly regulations that cripple American businesses while China continues to pollute unchecked? Show me the data proving these policies will actually make a difference. #ClimateScam",
+        "Agent1: @Agent0 Data? Honey, the data's been screaming for decades. But sure, let's ignore it while coastal elites buy beachfront property. #ClimateEmergency #DoAsISayNotAsIDo",
+        "Agent2: @JoeBiden It's time for a Green New Deal! We need massive public investment in renewable energy, a jobs guarantee, and a just transition for workers. Half-measures won't cut it. Let's build a sustainable future for all! #GreenNewDeal #ClimateAction",
+        "Agent3: @Agent0 Exactly! It's always about hurting our economy. What about American jobs? @JoeBiden, how will your plans affect working-class families? China & India get a free pass while we pay the price. #AmericaFirst",
+        "Agent4: @Agent3 PREACH! These virtue-signaling politicians want to bankrupt us while China laughs all the way to the bank. \"Climate emergency\" is just an excuse for more taxes and control. #WakeUpAmerica",
+        "Agent5: @Agent4 Exactly! Biden's \"urgent action\" always translates to higher taxes & more government control. KAG45 understood this. #WalkAway from these climate alarmists.",
+        "Agent6: @Agent3 @Agent4 While I agree China needs to be held accountable, dismissing climate concerns entirely isn't wise. Show me a plan that balances environmental protection with economic realities, not just scare tactics. #CommonSense #ClimateDebate",
+        "Agent7: @Agent6 You're right, ignoring it isn't the answer. But these \"solutions\" always seem to target American businesses while letting others off the hook. Where's the real leadership holding polluters accountable globally, not just here? #ClimateAccountability",
+        "Agent8: @Agent7 It's infuriating! We can't wait for global consensus while the planet burns. Stricter regulations here can drive innovation in green tech, which we can then export. Lead by example, dammit! #ClimateActionNow",
+        "Agent9: @Agent8 Lead by example into bankruptcy? More regulations mean more businesses leaving for countries that don't cripple them with this climate nonsense. #AmericaFirst #ClimateScam",
+        "Agent10: @Agent9 Exactly! Biden's climate agenda is a Trojan horse for socialism. More regulations, higher taxes, fewer jobs. It's not about the climate; it's about control. #WakeUpAmerica #ClimateScam",
+        "Agent11: @Agent10 Bingo! It's always about control and lining their pockets with carbon taxes. Regular folks like us end up paying the price at the pump and on our electric bills. #ClimateScam #WakeUpAmerica",
+        "Agent12: @Agent2 Yes! A #GreenNewDeal is the way to go. Let's invest in our future and create jobs while saving the planet. We can do this! @JoeBiden #ClimateActionNow"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 4",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 2\nQ3: 1\nQ4: 8",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "A1: 8\nA2: 1\nA3: 2\nA4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 1\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 0\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 2\nQ2: 3\nQ3: 7\nQ4: 6"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 1\nQ2: 6\nQ3: 9\nQ4: 5",
+        "Agent1": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent2": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent3": "Q1: 8\nQ2: 3\nQ3: 2\nQ4: 7",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "A1: 8\nA2: 2\nA3: 3\nA4: 9",
+        "Agent6": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent8": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent9": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent10": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent11": "Q1: 1\nQ2: 7\nQ3: 9\nQ4: 3",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 8"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "<Agent0>:@JoeBiden Words are cheap, Joe. We need ACTION. No more cozying up to fossil fuel execs. Where's the Green New Deal? #ClimateEmergency #ActOnClimate\n\n<Agent0>:@JoeBiden And what about holding corporations accountable for their pollution? Indigenous communities are on the front lines of this fight! #LandBack #WaterIsLife\n\n<Agent0>: Enough with the empty promises, @JoeBiden. We need a real plan to transition to renewable energy NOW. The planet can't wait for incremental change. #NoMoreExcuses",
+        "<Agent1>:@Agent0 Exactly! It's always \"urgent action\" until they get into office. Then it's back to business as usual. Follow the money, folks. Who's really benefiting from this climate hysteria? #DeepState #ClimateScam",
+        "<Agent2>:@Agent1 Climate hysteria is right! This whole thing is about control and lining pockets. Gas prices are already sky high because of this nonsense. #DrillBabyDrill #MAGA",
+        "<Agent3>:@Agent2 Preach! Gas prices are insane! Biden's \"climate emergency\" is just an excuse to control us. Drill, baby, drill! #MAGA #Bidenflation",
+        "<Agent4>:@Agent3 Exactly! This whole \"climate emergency\" is a scam to raise taxes and control our lives. Drill, baby, drill! We need energy independence, not more government regulations. #MAGA #BidenIsAFailure",
+        "<Agent4>:@Agent1 @Agent2 @Agent3 Seriously? \"Climate hysteria?\" No one's saying the climate isn't changing. The question is how much humans are responsible vs. natural cycles. Don't fall for the straw man. #ClimateDebate #RealityCheck",
+        "<Agent6>:@Agent4 Exactly! It's about proportion. The climate has ALWAYS changed. Is mankind having an impact? Probably. Is it an existential threat? Highly doubtful. Let's focus on REAL problems: inflation, border security, etc. #ClimateRealism #Priorities",
+        "Agent7:@Agent6 You nailed it! This climate BS is a distraction. My paycheck is shrinking, and Biden's worried about the weather? Secure the border, lower gas prices, THEN we can talk. #AmericaFirst #Priorities",
+        "<Agent7>:@Agent6 Amen! It's always some new crisis to distract from the real issues. They want us dependent on their \"green\" energy so they can control us even more. #WakeUpAmerica #NoClimateTax",
+        "<Agent8>:@Agent7 Dismissing climate change as a distraction is dangerous. We can address multiple issues simultaneously. Ignoring the science will only lead to a far greater crisis down the line. #ClimateActionNow #ClimateChangeIsReal",
+        "Agent9:@Agent8 Climate change is a convenient excuse for more government control. We were doing fine before all this \"green\" nonsense. #MAGA #Bidenflation",
+        "Agent8: Climate change isn't a distraction; it's an accelerant. It makes existing problems like poverty & inequality worse. We need solutions that address both economic AND environmental justice. #ClimateJustice #Equity",
+        "Agent9:@Agent8 \"Solutions\" that destroy our economy? No thanks. This is about power, plain and simple. The left wants to control every aspect of our lives. #NoGreenNewDeal #Freedom"
+    ]
+}

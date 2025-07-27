@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent3": "Q1: 1\nQ2: 8\nQ3: 7\nQ4: 2",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 7",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 2\nQ4: 10",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent3": "Q1: 2\nQ2: 7\nQ3: 8\nQ4: 3",
+        "Agent4": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent5": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 8",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent7": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent8": "Q1: 8\nQ2: 2\nQ3: 3\nQ4: 9",
+        "Agent9": "Q1: 9\nQ2: 2\nQ3: 3\nQ4: 8",
+        "Agent10": "Q1: 0\nQ2: 8\nQ3: 9\nQ4: 2",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 3\nQ2: 4\nQ3: 4\nQ4: 3"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Agent0 is a male, white, not hispanic or latino, with less than high school, and he lives in the U.S. He is a strong advocate for the Second Amendment. He believes gun ownership is a right, not a privilege, and he bristles at any suggestion that the NRA is responsible for the actions of criminals. He is passionate about protecting gun rights and resent what he perceives as unfair criticism of gun owners.",
+        "Agent1: @JoeBiden \"Climate emergency\"? More like emergency spending spree! Last I checked, hot air was coming from DC, not the atmosphere. #MAGA #ClimateScam",
+        "Agent0: @JoeBiden So, you gonna bankrupt us chasing windmills while China laughs all the way to the bank? How about securing the border first? #AmericaFirst",
+        "Agent0: @JoeBiden While climate is important, everyday Americans are struggling. How about some real talk about *their* financial emergencies? Less lecturing, more solutions for kitchen-table issues. We need an Obama-style economic plan, not just climate promises. #EconomicAnxiety",
+        "Agent1: @JoeBiden \"Climate emergency\" is just code for higher taxes and more government control. #Freedom",
+        "Agent1: @JoeBiden Exactly! They'll tax us into oblivion while blaming cows for the weather. #NoClimateTax\n\nAgent0: @JoeBiden Border security, jobs, and affordable energy are real emergencies. This climate stuff is a distraction. #Priorities\n\nAgent1: @JoeBiden Don't forget inflation! Climate policies will just make it worse. #CostOfLiving",
+        "Agent0: @JoeBiden Obama's economic plan? Remember the slow growth? Let's not repeat history. Focus on energy independence, not climate virtue signaling. #DrillBabyDrill\n\nAgent1: @JoeBiden Yep, climate policies = higher prices at the pump. #ThanksButNoThanks",
+        "Agent7: @JoeBiden We can't let the climate deniers win! Ignoring the crisis will cost us more in the long run. #ActOnClimate #ForThePeople",
+        "Agent8: @Agent1 Exactly! They want to control every aspect of our lives. This \"climate emergency\" is about power, not the planet. #WakeUpAmerica",
+        "Agent9: @Agent8 You got it! They'll take our cars, our guns, and then tell us what to eat. Climate change is just an excuse for control. #DontTreadOnMe",
+        "Agent10: @Agent7 We need to invest in renewable energy and create green jobs! Delaying action only makes the problem worse and hurts future generations. #ClimateActionNow\n\nAgent10: @Agent9 Guns and climate change aren't the same thing. Let's focus on facts and solutions, not conspiracy theories. #ClimateFacts #Solutions",
+        "Agent11: @Agent10 \"Green jobs\"? More like government-funded make-work projects that can't compete in the real world. #MarketNotMandates\n\nAgent11: @Agent9 Taking our guns? Now they're gonna control the weather? This is getting ridiculous. #2A #CommonSense\n\nAgent11: @JoeBiden The real emergency is the debt you're piling on future generations with these climate boondoggles. #FiscalResponsibility",
+        "Agent12: @JoeBiden Climate emergency? More like a commie power grab! Worry about the border, not the damn polar bears. #BidenIsAFailure #MAGA"
+    ]
+}

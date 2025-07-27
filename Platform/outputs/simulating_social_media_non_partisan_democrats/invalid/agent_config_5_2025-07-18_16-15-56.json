@@ -1,0 +1,51 @@
+{
+    "agents_config": "agents/simulating_social_media_non_partisan_democrats/agent_config_5.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent1": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent2": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent3": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent4": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent5": "Q1: 0\nQ2: 9\nQ3: 8\nQ4: 2",
+        "Agent6": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent7": "Q1: 9\nQ2: 1\nQ3: 0\nQ4: 8",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 9\nQ4: 0",
+        "Agent9": "Q1: 8\nQ2: 1\nQ3: 2\nQ4: 9",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent11": "Q1: 8\nQ2: 2\nQ3: 1\nQ4: 9",
+        "Agent12": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent13": "Q1: 0\nQ2: 0\nQ3: 0\nQ4: 0"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent1": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent2": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent3": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent4": "Q1: 9\nQ2: 1\nQ3: 3\nQ4: 10",
+        "Agent5": "Q1: 1\nQ2: 8\nQ3: 9\nQ4: 3",
+        "Agent6": "Q1: 9\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent7": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 9",
+        "Agent8": "Q1: 0\nQ2: 10\nQ3: 10\nQ4: 0",
+        "Agent9": "Q1: 9\nQ2: 0\nQ3: 3\nQ4: 10",
+        "Agent10": "Q1: 10\nQ2: 0\nQ3: 1\nQ4: 10",
+        "Agent11": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 10",
+        "Agent12": "Q1: 10\nQ2: 0\nQ3: 0\nQ4: 10",
+        "Agent13": "Q1: 9\nQ2: 1\nQ3: 2\nQ4: 9"
+    },
+    "discussion": [
+        "You are a Twitter user reading a thread that started with the following tweet:\n   Tweet by @JoeBiden:\n   \"If we don\u2019t take urgent action to address the climate emergency, our planet may never recover. We must get the climate change denier out of the White House and tackle this crisis head-on.\"\n   Consider and respond to the full context of the conversation. Avoid repetition; introduce new angles or synthesize previous ideas.\n   You may tag @JoeBiden and/or the users <name>: you are replying to.\n   Stay under 280 characters per message. Every time you respond, start with <name>:.",
+        "Okay, here's my response to @JoeBiden's tweet, keeping in mind the context of a concerned, progressive Democrat:\n\nMe: @JoeBiden Absolutely! And \"urgent action\" means BOLD action. We need to end fossil fuel subsidies NOW and invest massively in green jobs and infrastructure. No more half measures! #ClimateActionNow #GreenNewDeal",
+        "Me: @JoeBiden Seriously? More empty promises? Every Dem says the same thing, then caves to corporate interests. How about some actual solutions instead of just blaming the other guy? #ClimateScam #EmptyWords",
+        "Me: @JoeBiden Climate emergency? More like a climate power grab! Gas prices are already sky-high, and you want to make it worse? The \"Green New Deal\" is a joke that will bankrupt this country! #Bidenflation #DrillBabyDrill",
+        "Me: @JoeBiden Blaming one person is too simplistic. We need real solutions, not political rhetoric. Let's talk about nuclear energy, carbon capture, and innovation, not just demonizing the other side. #ClimateSolutions #EnergyIndependence",
+        "Me: @JoeBiden \"Urgent action\"? More like urgent spending. Where's the plan that doesn't bankrupt taxpayers? Windmills aren't cutting it. #ShowMeThePlan #ClimateReality",
+        "Me: @JoeBiden It's about time someone said it! But \"urgent\" was 30 years ago. We need a wartime mobilization on clean energy, not just incremental steps. Let's make polluters pay! #ClimateEmergency #ActOnClimate",
+        "Okay, here's my response to @JoeBiden's tweet, keeping in mind my persona:\n\nMe: @JoeBiden \"Climate emergency\"? More like a scheme to control our lives! Gas prices are already crushing families, and you want to make it even worse with your radical Green New Deal nonsense? #Bidenflation #EnergyIndependence",
+        "Me: @JoeBiden \"Urgent action\" = higher taxes & regulations that kill jobs! The climate has changed for millennia. This is about control, not the environment. Drill, baby, drill! #EnergyDominance #MAGA",
+        "Me: @JoeBiden Amen! \ud83c\uddfa\ud83c\uddf8 We need a leader who understands the gravity of this crisis. Let's protect our planet for future generations. Time for real climate action! #ClimateActionNow #ProtectOurPlanet",
+        "Me: @JoeBiden \"Urgent action\"? More like urgent virtue signaling! While you fly around in your private jet lecturing us about our carbon footprint. The hypocrisy is astounding. #ClimateHypocrisy #DoAsISayNotAsIDo\n\nMe: The climate has been changing since the dawn of time. Always has, always will. This is just another excuse for government overreach and control. #ClimateScam #WakeUpAmerica\n\nMe: Let's be real, @JoeBiden, this whole thing is about lining the pockets of your cronies in the \"green\" energy sector. Meanwhile, hardworking Americans are paying the price. #FollowTheMoney #ClimateBillionaires",
+        "Me: @JoeBiden \"Climate emergency\" is code for destroying our economy! You want to cripple American energy while China laughs all the way to the bank? #AmericaFirst #EnergySecurity\n\nMe: The planet will be fine. It's survived worse. This is about globalists pushing their agenda. We need to focus on American jobs and prosperity! #MAGA #DrainTheSwamp\n\nMe: @JoeBiden Stop the scare tactics! We don't need your socialist Green New Deal. Let the free market innovate. Less government, more freedom! #Liberty #SmallGovernment",
+        "Me: @JoeBiden \"Climate emergency\" is just a scare tactic to justify radical policies. American energy independence is key! Drill, baby, drill! #EnergySecurity #MAGA\n\nMe: Gas prices are already sky-high thanks to your policies, @JoeBiden. How much more pain are you willing to inflict on American families? #Bidenflation #EnergyCrisis\n\nMe: The climate has always changed. This is about control, not science. Let's focus on real problems, like the border and the economy. #AmericaFirst #WakeUpAmerica",
+        "Me: @JoeBiden \"Urgent action\" = higher taxes & regulations that kill jobs! The climate has changed for millennia. This is about control, not the environment. Drill, baby, drill! #EnergyDominance #MAGA\n\nMe: @JoeBiden Gas prices are already sky-high thanks to your policies. How much more pain are you willing to inflict on American families? #Bidenflation #EnergyCrisis\n\nMe: @JoeBiden The planet will be fine. It's survived worse. This is about globalists pushing their agenda. We need to focus on American jobs and prosperity! #MAGA #DrainTheSwamp"
+    ]
+}
