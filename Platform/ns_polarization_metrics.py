@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 matplotlib.use('TkAgg')
 
-plt.rcParams.update({'font.size': 16})  # Applies to all elements unless overridden
+plt.rcParams.update({'font.size': 20})  # Applies to all elements unless overridden
 
 # Data preparation function
 def polarization_metrics(df):
