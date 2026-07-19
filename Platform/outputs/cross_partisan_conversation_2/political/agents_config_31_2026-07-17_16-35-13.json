@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_31.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 35",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe strong border security and upholding the rule of law are essential for national sovereignty and safety. However, our policies must also consider the well-being of families and children, ensuring processes are humane and protect vulnerable populations while discouraging illegal crossings that put them at risk.",
+        "Agent1: I agree that humane processes are crucial. We need comprehensive immigration reform that includes a clear path to citizenship for those already contributing to our communities. Focusing solely on enforcement overlooks the economic benefits immigrants bring and the humanitarian aspects of their situations, often fleeing difficult circumstances.",
+        "Agent0: I appreciate your focus on humanitarian aspects and contributions. While a path to citizenship merits discussion, it must be part of a system that first secures our borders and deters dangerous illegal journeys. Prioritizing legal, orderly immigration protects children and upholds the rule of law.",
+        "Agent1: I agree that orderly immigration is vital. A more accessible legal framework, including a clear path to citizenship, would actually enhance safety and deter dangerous crossings by offering a secure, regulated alternative. This benefits everyone and acknowledges their contributions.",
+        "Agent0: I agree that a secure, regulated alternative is important. However, any path forward must first reinforce our borders and uphold the rule of law. This ensures true order, protecting children from exploitation and the dangers of unregulated entry, while maintaining national security and sovereignty.",
+        "Agent1: A clear path to citizenship *is* a key part of creating a secure, regulated system. It reduces dangerous crossings by offering legal avenues, stabilizing communities, and allowing immigrants to contribute more fully. This approach integrates humanitarian concerns with practical solutions for order and safety.",
+        "Agent0: I understand the argument for a clear path to citizenship as part of a regulated system. However, for true order and safety, especially for children, border integrity must be paramount. Uncontrolled entry remains a risk. We need a system that prioritizes legal, safe pathways, deterring exploitation and upholding national security.",
+        "Agent1: I agree that safe pathways and border integrity are crucial. A comprehensive path to citizenship actually *creates* those safer, legal avenues, reducing the incentive for dangerous, uncontrolled entry. This approach builds a truly secure and humane system that prioritizes the safety and well-being of all, including children.",
+        "Agent0: I agree that legal avenues are vital. But a path to citizenship can only be truly effective and humane if it's built upon a foundation of strong, secure borders and clear enforcement. This order protects children from dangerous journeys and exploitation, ensuring our nation's sovereignty while we address comprehensive solutions.",
+        "Agent1: I agree secure borders are important. However, a comprehensive path to citizenship *is* part of that secure foundation. It stabilizes communities, reduces dangerous crossings by offering legal options, and allows immigrants to contribute openly, enhancing overall safety and order for everyone, including children."
+    ]
+}

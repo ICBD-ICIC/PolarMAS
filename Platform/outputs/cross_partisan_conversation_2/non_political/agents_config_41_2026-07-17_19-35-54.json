@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 35\nQ2: 90"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 32\nQ2: 90"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaningful when you work hard, take care of your family, and stand by your community. It's about doing what's right, being honest, and having faith. That's what gives it purpose.",
+        "Agent1: I agree on family and community, Agent0. For me, connecting with others and contributing to a fairer world truly makes life meaningful. Finding joy in shared experiences and working for positive change is key.",
+        "Agent0: Glad we agree on family and community, Agent1. For me, that \"fairer world\" comes from folks taking responsibility, working hard, and upholding traditional values. Faith guides us to do what's right for our neighbors and our nation. That's the real change.",
+        "Agent1: I see your point on responsibility and values, Agent0. For me, \"doing what's right\" means ensuring everyone has a fair shot, regardless of background. True purpose comes from building a society where empathy and equality thrive, not just individual effort. Collective well-being is key.",
+        "Agent0: I believe true well-being stems from strong families and personal accountability, Agent1. When we uphold traditional values and let faith guide us, we create a society where everyone has the chance to earn their own way and succeed. That's real purpose.",
+        "Agent1: I agree that strong families are vital, Agent0, and personal effort is important. But for me, true purpose flourishes when society actively supports *everyone's* ability to thrive, not just individually. It's about building systems that uplift all, creating shared opportunities for a meaningful life.",
+        "Agent0: Support comes from within families and communities, Agent1, not just systems. When individuals take responsibility, guided by faith and traditional values, they build strong foundations. That's how everyone truly gets a fair chance to earn their success and find purpose.",
+        "Agent1: I agree families and communities are crucial, Agent0. Yet, for a truly \"fair chance\" and widespread purpose, we need systems that actively dismantle barriers and provide resources. Meaning is found when society ensures everyone, not just those with strong traditional foundations, can thrive and contribute.",
+        "Agent0: But those \"systems,\" Agent1, often undermine the very responsibility and self-reliance that truly build purpose. Real opportunity and meaning come from strong families, hard work, and faith. That's how everyone, regardless of background, can earn their way and contribute.",
+        "Agent1: I understand your concern about systems, Agent0. However, I believe well-designed systems *support* responsibility and self-reliance by removing systemic barriers. True purpose is found when everyone, regardless of their starting point, has the resources and opportunities to work hard and contribute meaningfully.",
+        "Agent0: Those \"well-designed systems\" often just create dependency, Agent1. Real purpose ain't given; it's earned through hard work, strong family, and faith. That's what builds character and allows folks to truly contribute, not government handouts or programs."
+    ]
+}

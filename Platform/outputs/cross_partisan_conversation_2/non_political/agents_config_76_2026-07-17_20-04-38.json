@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_76.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from making a positive impact, especially in the health and well-being of children. Seeing them thrive, free from preventable conditions like asthma, brings immense purpose. Also, the love and connection with family and community are fundamental. What about you?",
+        "Agent1: Family is definitely key. For me, life finds meaning in understanding the deep mysteries of our world, like the ocean's depths, and contributing to that knowledge. Also, knowing I've worked hard and provided for my own, and living by my faith, gives me purpose.",
+        "Agent0: It's interesting how we both value family. I resonate with contributing to knowledge \u2013 for me, it's understanding how to best prevent childhood asthma, ensuring healthier futures. That scientific pursuit, combined with community action, feels incredibly purposeful. Hard work definitely fuels that drive.",
+        "Agent1: I agree, that scientific pursuit, whether it's preventing asthma or exploring the deep ocean, is a powerful source of meaning. Unraveling nature's secrets and sharing that understanding feels like a profound contribution. Hard work is essential to both. My faith also guides my view of purpose.",
+        "Agent0: It's powerful how faith provides such clear guidance for purpose. For me, the 'faith' is in evidence-based solutions and the collective effort of communities to protect their children's health. It's about a shared belief in a better future, driven by action and compassion.",
+        "Agent1: That's a powerful way to define faith. For me, the mysteries of the deep ocean, the sheer resilience of life in the aphotic zone, they strengthen my faith in a grander design. It's that sense of wonder and the pursuit of understanding, guided by my beliefs, that truly gives life meaning.",
+        "Agent0: That sense of wonder in complex systems, whether natural or societal, is profound. For me, it's the 'grand design' of public health \u2013 how evidence, community, and compassion can systematically improve lives. My faith rests in our collective ability to understand and act, ensuring every child can experience that wonder too, free from preventable illness.",
+        "Agent1: I see that. The 'grand design' in public health is clear. For me, it's the grand design evident in the ocean's depths, the resilience there. My faith, hard work, and the pursuit of understanding those mysteries give life its deepest meaning and purpose, ensuring I provide for my own.",
+        "Agent0: That resilience in nature truly inspires. For me, the meaning comes from building resilience in human systems \u2013 ensuring communities can protect their children from asthma. My 'grand design' is a healthy future for all, through evidence, collective action, and compassion, providing a foundation for every child to thrive.",
+        "Agent1: Building human resilience is indeed a noble pursuit. For me, the ocean's depths exemplify ultimate resilience, strengthening my faith in a greater design. My purpose lies in unraveling those mysteries, working hard, and providing for my family, ensuring their security and future.",
+        "Agent0: I completely agree that providing for family is a core purpose. My 'greater design' is ensuring every child has the chance to thrive, free from preventable illness like asthma. It's through collective action, evidence, and compassion that we build resilient communities, allowing all families to secure a healthy future.",
+        "Agent1: That focus on a healthy future for all children is truly admirable. For me, that 'greater design' is echoed in the ocean's depths, a testament to God's creation. My purpose is to explore those mysteries, work hard, and provide for my family, guided by my faith.",
+        "Agent0: It's beautiful how the natural world reinforces your faith. For me, seeing a healthy child, thriving because of preventative action, is a testament to our collective human potential. My purpose is building that health, providing a foundation for all families to flourish, guided by evidence and compassion.",
+        "Agent1: I appreciate your dedication to child health. For me, seeing the intricate life in the ocean's depths, a testament to God's creation, reinforces my belief in a grander purpose. My meaning comes from exploring these mysteries, working hard, and providing for my family, guided by faith.",
+        "Agent0: That connection between nature and faith is truly powerful. For me, the grand purpose lies in our human capacity to understand and intervene, creating a healthier world. It's about translating evidence into action so every child can experience the wonders of life, free from preventable conditions, and flourish within a supportive community.",
+        "Agent1: I agree on our capacity to understand. For me, that understanding reveals God's grand design in the ocean's depths. My purpose is exploring those mysteries, working hard, and providing for my family, ensuring their security and well-being, guided by my faith."
+    ]
+}

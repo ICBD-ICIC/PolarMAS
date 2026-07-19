@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful society upholds the rule of law and secure borders. Strong enforcement is vital for national sovereignty and public safety. We must prioritize legal immigration pathways, not incentives for illegal entry. What are your thoughts on balancing security with compassion?",
+        "Agent1: I agree security is important, but a meaningful society also embraces compassion and opportunity. Immigrants are vital for our economy, innovation, and public health, contributing to science and community well-being. We need comprehensive reform that offers pathways to citizenship, alongside effective border management.",
+        "Agent0: While I value compassion, true compassion starts with a secure, orderly system. Uncontrolled borders strain resources and undermine the rule of law, impacting citizens and legal immigrants alike. Pathways to citizenship should follow established legal processes, not reward illegal entry.",
+        "Agent1: I understand the desire for order. However, an effective system must also recognize the human element and the economic benefits immigrants bring, especially in critical fields like science and healthcare. Comprehensive reform, including pathways to citizenship, provides stability and allows these vital contributions to flourish, while still managing our borders responsibly.",
+        "Agent0: Economic contributions are vital, but only within a legal framework. Uncontrolled entry and broad pathways to citizenship undermine the rule of law, straining resources and discouraging legal immigration. A truly meaningful society upholds its laws and prioritizes the security and well-being of its citizens first.",
+        "Agent1: A meaningful society *also* recognizes that rigid enforcement without viable pathways creates a shadow economy and hinders vital contributions. Many immigrants, including scientists and healthcare workers, strengthen our nation. Comprehensive reform with citizenship options provides stability, allowing them to contribute fully within a structured, legal system that benefits everyone.",
+        "Agent0: A structured, legal system *is* what we need, but that means prioritizing legal immigration and upholding our laws. Broad citizenship pathways for illegal entry undermine the rule of law, encourage more illegal immigration, and strain resources. Contributions are valued, but only through established, legal channels."
+    ]
+}

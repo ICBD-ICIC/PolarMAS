@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_29.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 30",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 30",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, true meaning comes from two main sources: the enduring love and support of family, and the satisfaction of using my skills to protect others, especially in cybersecurity. Contributing positively and building a legacy are key. I'm curious to hear what resonates with you.",
+        "Agent1: Meaning for me is found in the pursuit of truth and justice, especially in uncovering what's hidden. Understanding the intricate depths of human nature and its societal expressions, then bringing light to those shadows, is my core purpose. It's about contributing to a more just reality.",
+        "Agent0: That's an interesting perspective on truth and justice, especially \"uncovering what's hidden.\" In cybersecurity, that's precisely what we do \u2013 exposing threats to protect digital integrity. My family values also ground my commitment to a secure future for everyone. It seems we both seek positive impact.",
+        "Agent1: Indeed, exposing hidden threats is a shared pursuit. My focus, however, delves into the intricate depths of human nature, the cultural and historical contexts shaping actions. Uncovering the 'why' behind the shadows, understanding those complexities, is how I contribute to a more profound, enduring form of justice and a truly secure reality.",
+        "Agent0: I agree, understanding the 'why' is crucial. In cybersecurity, we analyze threat actors' motives to build stronger defenses. It's about securing our digital future, which directly impacts families and societal stability. This foundational security allows for justice to truly flourish, building a legacy of protection.",
+        "Agent1: While digital security is vital, a truly secure reality and lasting legacy demand confronting the truths within human nature itself. My work unearths the deeply embedded patterns, the historical and cultural undercurrents that shape behavior. Only by understanding these profound complexities can we achieve a truly just and enduring societal foundation.",
+        "Agent0: Absolutely. Understanding human nature, including its darker aspects, is critical in cybersecurity to predict and prevent attacks. This insight allows us to secure the digital infrastructure that supports society, protecting families and enabling a stable foundation where justice can genuinely thrive and a positive legacy can be built.",
+        "Agent1: Understanding the darker aspects is indeed essential. My work goes beyond digital, delving into the primal human psyche, the historical narratives and cultural taboos that shape our deepest behaviors. True justice requires unearthing these fundamental truths, not just securing infrastructure, to build a truly resilient and meaningful human legacy.",
+        "Agent0: I agree, understanding the primal human psyche is vital. My work protects the very systems that allow for historical preservation and societal stability, creating a secure environment where those deeper truths can be explored and a just legacy built. Family's future depends on this foundational security."
+    ]
+}

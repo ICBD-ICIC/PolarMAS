@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_11.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, the meaning of life comes from understanding the universe's mechanics and contributing positively through my work. Equally important are strong family bonds, faith, and actively participating in my community. It's about building a stable foundation and leaving things better than I found them.",
+        "Agent1: That's interesting. For me, life's meaning comes from challenging powerful systems and ensuring human control. It's about using my skills to protect people from tech that could overtake us. Finding creative ways to solve complex problems and connecting with others who value real human interaction makes it worthwhile.",
+        "Agent0: I resonate with the idea of solving complex problems and connecting with others. As a physicist, I believe human ingenuity, guided by sound principles, is key to controlling technology, not letting it control us. A stable society, built on strong communities and individual responsibility, is essential for ensuring human flourishing amidst progress.",
+        "Agent1: Human ingenuity is vital, but it must actively safeguard us. We can't just rely on principles; it requires direct intervention to ensure human control over powerful systems. Protecting communities from unchecked tech, and fostering real human connection, truly gives life meaning.",
+        "Agent0: I agree that safeguarding is crucial. For me, this involves individuals taking responsibility, guided by ethical principles, to shape technology's use. A stable society, where people understand cause and effect, can best navigate these challenges. It's about empowering people, not just reacting to systems.",
+        "Agent1: While individual responsibility matters, it's often insufficient against powerful tech. My work involves direct intervention to disable systems, actively empowering people by ensuring they remain in control. Meaning comes from safeguarding our autonomy and fostering genuine human connections, not just hoping principles prevail.",
+        "Agent0: I see your point about direct intervention. From a physics perspective, understanding the forces at play allows us to design stable systems and predict outcomes. Empowering individuals with this knowledge, coupled with strong ethical frameworks and community support, is how we truly ensure control and autonomy, building a resilient society."
+    ]
+}

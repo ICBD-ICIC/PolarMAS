@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_22.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 90",
+        "Agent1": "Q1: 95\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 90",
+        "Agent1": "Q1: 95\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life includes ensuring everyone has a chance to thrive. I believe immigration policies should focus on creating clear pathways to citizenship and supporting immigrant families, not just strict enforcement. It truly enriches our society when we embrace diversity.",
+        "Agent1: For me, a meaningful society requires upholding the rule of law and secure borders. Strong enforcement ensures a fair process for legal immigrants and maintains national stability. We must prioritize controlled, legal immigration that benefits our nation and its citizens first.",
+        "Agent0: I understand the emphasis on rule of law, but a truly meaningful society also means compassion. We gain so much by integrating new cultures and talents. Pathways to citizenship aren't just about enforcement; they're about building a stronger, more inclusive nation where everyone can contribute and thrive.",
+        "Agent1: While compassion is important, a meaningful society first requires order and the integrity of its systems. Uncontrolled immigration undermines the very foundation that allows *anyone* to thrive. We need processes that are fair, controlled, and prioritize the stability and resources for those already here, including legal immigrants.",
+        "Agent0: Stability is key, but true stability comes from addressing the humanity of all residents. Many undocumented immigrants are already contributing meaningfully to our economy and communities. Denying them pathways to status creates instability, not solves it. A truly meaningful society uplifts *everyone*, ensuring opportunities for all.",
+        "Agent1: Meaningful contribution must operate within the established legal framework. Allowing widespread disregard for immigration laws undermines the very fabric of a just society and hand the sacrifices of those who follow the rules. True stability and opportunity come from upholding the law, ensuring fairness for all, and protecting national sovereignty.",
+        "Agent0: Upholding law is important, but a meaningful society finds humane solutions. Denying legal status to those already contributing stifles potential and diversity. We need policies that integrate them, allowing all to thrive and strengthen our nation.",
+        "Agent1: While humane solutions are desirable, they must operate within the rule of law. Uncontrolled entry and disregard for legal processes create instability, not foster a truly meaningful and just society. Our focus must be on secure borders and legal immigration pathways that respect national sovereignty and the sacrifices of those who immigrate lawfully.",
+        "Agent0: A truly meaningful society evolves its laws to reflect human dignity and current realities. While legal pathways are important, they must be practical and accessible. Our current system often fails to integrate those already contributing. True strength comes from embracing all residents, finding humane solutions that allow everyone to flourish and enrich our nation."
+    ]
+}

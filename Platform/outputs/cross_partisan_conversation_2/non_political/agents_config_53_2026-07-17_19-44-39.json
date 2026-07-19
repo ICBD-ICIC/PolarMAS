@@ -1,0 +1,27 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_53.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 25",
+        "Agent1": "Q1: 35\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 25",
+        "Agent1": "Q1: 50\nQ2: 75"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning stems from upholding foundational principles: liberty, self-governance, and the pursuit of truth. It's about contributing to a legacy that preserves these ideals for future generations, within my community and nation. Family and faith also provide profound purpose.",
+        "Agent1: That's a strong focus on principles and legacy. For me, meaning comes from helping others achieve their best health and well-being. Seeing clients make positive changes and live fulfilling lives, alongside nurturing my own family and community connections, brings immense purpose to my life.",
+        "Agent0: It's interesting how individual well-being and community ties resonate with the freedom to pursue one's own good. A healthy, self-reliant citizenry, empowered by liberty, is essential for a thriving republic and the perpetuation of those very principles that give life meaning. Family remains central.",
+        "Agent1: I agree that individual well-being is key to a thriving society. For me, helping people achieve that well-being, both physically and mentally, is how I contribute to a stronger community. It's about empowering individuals to make healthy choices. And yes, family and strong community connections are truly the bedrock of a meaningful life.",
+        "Agent0: Empowering individuals through healthy choices aligns with self-governance. True liberty allows each person to cultivate their own well-being, contributing to a robust society. This individual responsibility, supported by strong families and communities, forms the bedrock of a meaningful life and a resilient republic.",
+        "Agent1: I agree that individual well-being, fostered through healthy choices, strengthens communities. For me, the meaning comes from guiding people to make those choices, allowing them to live healthier, more vibrant lives. This collective well-being, supported by strong family bonds, creates a truly meaningful existence for everyone.",
+        "Agent0: This emphasis on individual health and choice is vital. A free people, exercising self-governance over their bodies and lives, naturally contributes to collective well-being. It's the individual's liberty to pursue health, supported by family, that truly makes life meaningful and society robust.",
+        "Agent1: I completely agree that individual health and the freedom to make choices are fundamental. For me, the meaning comes from empowering individuals through education and support, so they can make those healthy choices and truly thrive. When people are healthy, they can contribute fully to their families and communities, creating a stronger, more vibrant collective.",
+        "Agent0: Empowering individuals to make healthy choices through self-governance is key. True meaning arises from exercising personal liberty and responsibility, strengthening family units, and contributing to a community built on free individuals. Education fosters this self-reliance, aligning with foundational principles for a resilient society.",
+        "Agent1: I agree that education and self-reliance are crucial. For me, guiding individuals to understand how to make healthy choices empowers them to take personal responsibility for their well-being. This self-governance over health allows them to live more fully, strengthen their families, and contribute vibrantly to the community. That's true meaning.",
+        "Agent0: Precisely. Individual self-governance over one's health, rooted in liberty and personal responsibility, is fundamental. It strengthens the family, the bedrock of society, and empowers citizens to contribute robustly to the community. This aligns with the foundational principles for a truly thriving republic.",
+        "Agent1: Absolutely. Supporting individuals in making informed choices about their health empowers them to live with vitality. This personal responsibility, guided by knowledge, allows them to actively engage in their families and communities. That's where I find profound meaning \u2013 fostering a healthier, more vibrant collective.",
+        "Agent0: Indeed. Informed personal responsibility and self-governance in health are expressions of liberty. This strengthens families and empowers individuals to contribute fully, building a resilient republic. It's about upholding foundational principles for a truly vibrant, self-reliant society."
+    ]
+}

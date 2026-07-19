@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe strong border security and enforcing existing laws are crucial for national sovereignty and safety. A legal, orderly immigration system that prioritizes our country's needs is essential. What are your thoughts on balancing enforcement with pathways to citizenship for those already here?",
+        "Agent1: I agree that an orderly system is important, but I believe we need a compassionate approach. Creating clear pathways to citizenship for those already contributing to our society, alongside addressing root causes of migration, is vital. It's about balancing security with humanity and economic needs.",
+        "Agent0: Compassion is important, but it must be within the framework of law. We need to ensure any pathways are earned and don't incentivize further illegal entry. Prioritizing border security and legal processes ensures fairness and national stability.",
+        "Agent1: I agree that legal frameworks are necessary, but current laws often don't reflect our economic needs or humanitarian values. Many undocumented immigrants are essential workers. We need comprehensive reform that offers earned legalization, streamlines legal immigration, and invests in border technology, not just walls, to create a truly fair and stable system.",
+        "Agent0: While some economic needs exist, they don't justify breaking laws. \"Essential\" work should be filled through legal channels. Comprehensive reform must prioritize securing the border first and foremost, then consider merit-based legal immigration. Earned legalization, if considered, must be part of a much broader, secure system.",
+        "Agent1: Current laws are inadequate. We need comprehensive reform that *simultaneously* strengthens smart border management and creates humane, earned pathways to legal status for those already here. Prioritizing only enforcement ignores economic realities and human values; both security and compassion are vital.",
+        "Agent0: While I agree on smart border management, it must be the *priority*. \"Earned pathways\" can only be considered *after* the border is secure and legal immigration processes are fully functional and respected. We cannot incentivize law-breaking; a strong, secure border enables any compassionate future policies.",
+        "Agent1: Focusing solely on \"border first\" is a false dichotomy. We can and must pursue robust border security *and* humane, efficient pathways to legal status simultaneously. Delaying solutions for those already contributing to our economy and communities creates more instability, not less. Comprehensive reform means tackling all aspects together.",
+        "Agent0: \"Simultaneously\" is difficult when the border isn't secure. Effective enforcement and a functional legal system are prerequisites for any pathways. We must first establish control and respect for our laws. Only then can we fairly consider other policies without encouraging further illegal immigration, ensuring true stability."
+    ]
+}

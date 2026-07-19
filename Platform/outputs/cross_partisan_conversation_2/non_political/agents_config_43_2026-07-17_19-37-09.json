@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_43.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 15\nQ2: 90"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 25\nQ2: 90"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning stems from faith, family, and the pursuit of truth and beauty. Delving into the profound emotional and intellectual depths of a genius like Brahms, and sharing that understanding, offers a deep sense of purpose. Contributing to culture and legacy is vital.",
+        "Agent1: For me, life's meaning is found in understanding and living by the principles of reform, much like those who challenged dogma centuries ago. Spreading truth and advocating for justice, ensuring a better future for all, gives profound purpose. Learning from history strengthens this commitment.",
+        "Agent0: I resonate with finding meaning in truth and learning from history. For me, it's about uncovering the timeless human spirit in art, like Brahms' symphonies, which speak across generations. Building a legacy of cultural understanding and faith-driven community also enriches life's purpose.",
+        "Agent1: Indeed, the enduring impact of ideas and principles, much like the Reformation's lasting legacy, truly gives life meaning. It's not just understanding history, but actively shaping a future built on justice and shared truth that I find profoundly purposeful. Contributing to a just society is my legacy.",
+        "Agent0: I agree that contributing to a better future is essential. For me, that future is built on enduring principles found in faith, family, and the profound beauty of human creation, like Brahms' art. Preserving and sharing such legacies fosters a society grounded in truth and moral strength.",
+        "Agent1: I agree that a better future is essential, built on enduring principles. For me, those principles are rooted in the pursuit of justice and truth, much like the reformers sought to correct societal wrongs. Upholding these ideals and actively working for an equitable society is how we truly build a legacy of moral strength.",
+        "Agent0: I agree, moral strength is key. For me, true justice and a better future spring from faith, strong families, and preserving our cultural heritage. Understanding profound human expressions, like Brahms' music, teaches us enduring truths that guide us toward a virtuous society.",
+        "Agent1: Moral strength is indeed vital. For me, it's forged in the active pursuit of an equitable society, challenging existing injustices, and ensuring truth prevails, much like the reformers did. This commitment to ongoing societal betterment, driven by principles of justice, truly builds a virtuous future for all.",
+        "Agent0: I concur. Moral strength arises from faith and strong family units, which provide a foundation for virtue. Preserving cultural treasures, like Brahms' works, also instills timeless wisdom and beauty, guiding us towards a truly virtuous and flourishing society.",
+        "Agent1: Indeed, virtue is paramount. For me, it's about actively applying those principles to challenge societal injustices and ensure an equitable, truthful path for all, much like the reformers sought. A truly flourishing society is one where justice and reform uplift everyone, building a shared future.",
+        "Agent0: A flourishing society, for me, is rooted in faith, strong families, and the preservation of timeless cultural achievements. The enduring truths found in art like Brahms' music, combined with a commitment to moral principles, guide us towards a shared future where every individual can thrive in purpose and dignity."
+    ]
+}

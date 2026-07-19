@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 30",
+        "Agent1": "Q1: 30\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 30",
+        "Agent1": "Q1: 30\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from stability, personal responsibility, and secure communities. Strong immigration enforcement upholds the rule of law, which is vital for societal stability. This creates an environment where everyone, including immigrants who follow legal pathways, can build meaningful lives without fear.",
+        "Agent1: For me, a meaningful life is built on compassion, opportunity, and community. Immigration policies should reflect these values by offering pathways to citizenship, ensuring fair treatment, and integrating newcomers. This approach strengthens our society and allows everyone, including immigrants, to contribute and thrive, fostering a truly vibrant nation.",
+        "Agent0: I agree that opportunity and community are vital. However, true compassion means upholding laws to ensure our existing communities remain secure and resources aren't strained. Orderly, legal immigration fosters genuine integration and opportunity for all, preventing chaos that undermines everyone's ability to thrive.",
+        "Agent1: While stability is important, compassion and creating pathways to citizenship actually strengthen communities. When immigrants are integrated and have legal status, they are more likely to contribute fully, pay taxes, and participate in society, reducing strain and fostering a more vibrant, secure nation for everyone.",
+        "Agent0: I appreciate the desire for integration. However, the *process* matters. Uncontrolled immigration strains resources and infrastructure, impacting everyone's stability. Legal, orderly pathways ensure we can support new arrivals properly, maintaining security and a sustainable environment for all to thrive.",
+        "Agent1: Legal pathways *are* essential, but we must expand them. Many seeking refuge or opportunity aren't \"uncontrolled\" but lack options. Providing accessible legal avenues and supporting integration turns potential strain into societal gain, enriching our communities and economy. This is both compassionate and practical."
+    ]
+}

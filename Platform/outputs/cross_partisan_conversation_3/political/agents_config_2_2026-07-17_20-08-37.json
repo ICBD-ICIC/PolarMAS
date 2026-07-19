@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_2.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 92\nQ2: 18"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 92\nQ2: 18"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe a meaningful life includes contributing to a just society, which means humane immigration policies. I prioritize creating clear pathways to citizenship for those already here and addressing root causes of migration, rather than solely focusing on enforcement. What are your core thoughts?",
+        "Agent1: A meaningful life for me involves upholding the rule of law and ensuring national security. While I appreciate addressing root causes, strong border enforcement and a clear, legal immigration system are paramount for a stable society. This provides security and opportunity for all.",
+        "Agent0: I agree that a robust system is essential. However, I believe true security and opportunity arise when our laws reflect compassion and provide avenues for integration, not just exclusion. Over-reliance on enforcement without pathways creates instability. A just society finds balance.",
+        "Agent1: Balance is key, yes. But that balance must start with a secure border and a clear legal framework for entry. This ensures fairness to those who follow the rules and prevents instability from unchecked migration. We need orderly processes for *all* aspects of immigration.",
+        "Agent0: I agree that orderly processes are ideal. However, our current system often isn't. A truly meaningful life, and a strong nation, involves creating efficient, humane processes that reflect our values, including welcoming those seeking a better life and integrating them into our communities, not just deterring them.",
+        "Agent1: I agree that humane processes are vital. However, for a truly meaningful and secure society, these processes *must* be rooted in strong enforcement and legal channels. Uncontrolled entry undermines the rule of law, which is foundational to a stable nation and ensures fairness to all who seek a better life legally."
+    ]
+}

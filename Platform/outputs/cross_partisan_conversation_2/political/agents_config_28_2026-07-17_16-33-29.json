@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe comprehensive immigration reform is essential, focusing on a clear path to citizenship for those already here, strengthening legal immigration avenues, and addressing border security humanely. We need solutions that are both pragmatic and compassionate, reflecting our values as a nation.",
+        "Agent1: I agree that reform is needed, but strong border security and upholding the rule of law must be the foundation. We need to secure our borders first and foremost, then focus on a merit-based legal immigration system that serves our national interests. Solutions must deter illegal entry effectively.",
+        "Agent0: I agree security is vital, but it must be part of a comprehensive, humane strategy. We can't just build walls; we need smart technology and more asylum officers. A pathway to citizenship for long-term residents is also pragmatic, boosting our economy and integrating communities. It's about finding a balanced, sustainable system.",
+        "Agent1: While technology can help, physical security and robust enforcement are non-negotiable. A pathway to citizenship without first securing the border and disincentivizing illegal entry risks incentivizing more. Our national interests demand a system that prioritizes legal immigration and upholds the rule of law above all else.",
+        "Agent0: I agree an orderly system is paramount. However, true security includes processing asylum claims efficiently and integrating long-term residents. A pathway to citizenship, coupled with enhanced, *smart* border management, reduces undocumented populations and strengthens our economy. It's about systemic control, not just physical barriers.",
+        "Agent1: \"Systemic control\" must start with effective border enforcement, not just \"smart\" tech. Physical barriers and immediate deterrence are crucial. A pathway to citizenship without a truly secure border undermines the rule of law and risks encouraging more illegal immigration. We must prioritize national sovereignty.",
+        "Agent0: National sovereignty is paramount, yes. But a truly sovereign nation effectively manages *all* its residents. A secure border *and* a pathway to citizenship for long-term residents aren't mutually exclusive; they're complementary. Integrating people into our system strengthens our nation, enhancing overall security and economic stability.",
+        "Agent1: Managing all residents is vital, but only after securing the border. A pathway to citizenship without true border control sends the wrong message and invites more illegal immigration. Upholding the rule of law and national security demands we prioritize border integrity first, then consider other reforms.",
+        "Agent0: I understand the emphasis on border integrity. However, a pathway to citizenship for those already contributing here is not an afterthought; it's a vital component of a truly secure and orderly system. It reduces the undocumented population, strengthens our economy, and allows for better management, rather than just reacting to flows."
+    ]
+}

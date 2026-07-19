@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_27.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 35\nQ2: 88"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 38\nQ2: 88"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! As a Republican, I believe strong border enforcement is crucial for national security and maintaining the rule of law. We need to secure our borders first and foremost. I'm interested to hear your thoughts on immigration policy.",
+        "Agent1: Hi! While border security is important, I believe we need comprehensive reform that offers pathways to citizenship and addresses the root causes of migration. It's about balancing enforcement with humanity and recognizing the contributions immigrants make to our communities and economy.",
+        "Agent0: I understand the desire for humanity and pathways, but legal immigration is the foundation. Uncontrolled borders undermine our system and national security. While immigrants contribute, it must be through legal channels. We can't reward those who break the law first.",
+        "Agent1: I agree that legal immigration is vital, but our current system is failing many. Undocumented immigrants often contribute significantly to our economy and communities. We need practical, humane solutions that offer pathways to legal status, acknowledging their reality and contributions, rather than solely focusing on punitive enforcement.",
+        "Agent0: While contributions are real, the rule of law is paramount. Rewarding illegal entry undermines our legal immigration system and can depress wages for American workers, something I, as a union rep, care deeply about. We need secure borders *first* for any humane solution to be truly just.",
+        "Agent1: I hear your concerns about the rule of law and wages. However, a broken system perpetuates exploitation. Legalizing undocumented workers can *strengthen* our economy, prevent unfair labor practices for all, and ensure fair wages. Comprehensive reform, including pathways, is a pragmatic solution that benefits *everyone*, not just a reward.",
+        "Agent0: Exploitation is unacceptable, but legalizing those who entered unlawfully risks encouraging more illegal immigration and could still depress wages for legal workers. We must prioritize securing our borders and strengthening *legal* immigration pathways to truly protect all workers and the rule of law.",
+        "Agent1: I understand the concern about encouraging more illegal immigration. However, ignoring the millions already here isn't a solution. Legalizing them brings them out of the shadows, ensuring fair labor standards for everyone and boosting our economy. It's about pragmatic solutions that address reality and uphold dignity, rather than just punishment.",
+        "Agent0: While bringing people out of the shadows sounds good, it must not incentivize future illegal entry. My concern as a union rep is that such broad legalization without strong border control could still undercut wages for legal workers and strain public services. Rule of law and secure borders are non-negotiable first steps."
+    ]
+}

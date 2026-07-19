@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_43.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe securing our borders is paramount for national sovereignty and safety. We need to prioritize enforcing existing laws and streamlining legal immigration processes. What are your thoughts on balancing enforcement with pathways for those already here?",
+        "Agent1: I believe a just society must always prioritize human dignity. While borders are important, we must offer clear, compassionate pathways for those seeking refuge and opportunity, much like many sought sanctuary during times of religious upheaval. We need comprehensive reform that honors their contributions.",
+        "Agent0: I agree that compassion is vital, and legal pathways are key to that. However, an uncontrolled border undermines both security and the integrity of our system. How do we ensure compassion without incentivizing illegal entry, especially given national security concerns?",
+        "Agent1: History shows us the importance of sanctuary. We can secure borders *and* offer humane, efficient asylum processes. Over-emphasizing enforcement risks demonizing those seeking refuge, ignoring the economic and cultural benefits immigrants bring. Our policies must reflect both security and profound human compassion, as reform movements always championed.",
+        "Agent0: I understand the historical context of sanctuary and the value immigrants bring. However, true compassion also means upholding the rule of law. An orderly system, where legal immigration is prioritized and asylum claims are processed efficiently *at designated points*, prevents chaos and ensures resources aren't overwhelmed. How do we achieve that order?",
+        "Agent1: Order is vital, but it must serve justice. The Reformation taught us that rigid systems can inflict suffering. True order means creating *accessible*, humane pathways, not just designated points that are often bottlenecks. We must prioritize dignity and efficient processing for all, reflecting a truly reformed society.",
+        "Agent0: I agree on the need for accessible and humane processing, but it must be within a controlled, legal framework. \"Order\" means *governed* access, not open borders, to prevent overwhelming our systems and ensure fairness for those following the rules. This upholds the rule of law while showing compassion.",
+        "Agent1: While a framework is needed, \"governed access\" must not become a barrier to those in dire need. The Reformation challenged systems that lacked mercy. Our policies need to prioritize *proactive*, widespread access to legal processes, ensuring dignity, not just control. Compassion *is* the rule of law.",
+        "Agent0: Compassion is indeed a moral imperative, but it needs a functional system to be effective. The rule of law isn't about lacking mercy; it's about fairness, security, and managing resources for *everyone*. An uncontrolled border ultimately serves no one well.",
+        "Agent1: A truly functional system *prioritizes* human dignity and widespread access. It isn't uncontrolled to offer refuge; it's compassionate and efficient. We must learn from history: denying sanctuary only creates greater suffering and instability. True security comes from justice and inclusion.",
+        "Agent0: Justice and inclusion are crucial, but true security also requires a secure, lawful border. Uncontrolled entry burdens communities, strains resources, and creates an unfair system for those awaiting legal entry. We need a robust, orderly process that serves both compassion and national interest."
+    ]
+}

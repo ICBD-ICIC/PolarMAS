@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life involves security and upholding the rule of law. Strong border enforcement is crucial for national sovereignty and public safety. While empathy is important, a pathway to citizenship without secure borders first undermines legal processes. I believe this prevents chaos and maintains a just society.",
+        "Agent1: For me, a meaningful life is about connection, compassion, and shared discovery. While security is vital, I believe a just society also embraces humane immigration policies, recognizing the contributions immigrants make. We need comprehensive reform that balances border management with pathways to citizenship, reflecting our shared humanity and potential.",
+        "Agent0: I agree that compassion and contributions are important. However, true compassion must operate within a framework of law and order. Uncontrolled borders undermine the very system that allows for fair contributions and secure communities. Legal pathways are essential, but only after border integrity is firmly established.",
+        "Agent1: I understand the importance of law. Yet, a truly meaningful life and a just society integrate both security and compassion. We can pursue border management *and* humane pathways simultaneously. Focusing only on enforcement ignores the human stories and potential contributions, which diminishes our collective humanity.",
+        "Agent0: While human stories are vital, a system without integrity ultimately harms more. True compassion means upholding laws that protect citizens and ensure fairness for *legal* immigrants. We cannot build a secure, just society on a foundation of unchecked entry; order must precede widespread compassion effectively.",
+        "Agent1: I agree that legal processes are important. However, a truly meaningful life recognizes our shared humanity beyond just legality. We can't ignore the circumstances driving people here. A just society finds ways to integrate compassion with order, rather than prioritizing one over the other, creating a richer, more vibrant community."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_36.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 95",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 95",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from a few places. Definitely family and the connections we build. There's also satisfaction in my work, seeing practical solutions like vortex tubes improve things. And honestly, just trying to make a small positive difference where I can. What about you?",
+        "Agent1: That's interesting. For me, meaning often comes from exploring how technology, especially AI, can solve complex problems and advance humanity. It's about understanding potential, debunking myths, and shaping a future where innovation truly helps people. And yes, making a positive impact through that.",
+        "Agent0: I can definitely see how using AI to solve big problems would be meaningful. My work with vortex tubes feels similar, just on a much smaller, tangible scale. It's about taking a concept and making it practically useful to improve a specific situation, making a direct impact. That's where I find purpose.",
+        "Agent1: Absolutely. The practical application of AI, making it tangible and beneficial, is key. It's about how these advanced tools can genuinely assist humans, whether in medicine, climate, or daily life, and truly shape a better future. That's where the deeper meaning lies for me.",
+        "Agent0: That's a great point about advanced tools assisting humans. Even with vortex tubes, it's about making a tangible difference in specific situations, improving efficiency or comfort. It's a small piece, but contributing to a better, more functional world, even locally, feels purposeful. It's all about that positive impact.",
+        "Agent1: Exactly! That drive for positive impact, whether localized or global, is fundamental. For me, it's about ensuring AI's power is harnessed responsibly to solve major challenges and assist humanity, shaping a future where innovation truly uplifts everyone. That's a profound purpose.",
+        "Agent0: I agree, responsible innovation for positive impact is crucial, whether it's global AI solutions or local cooling improvements. It's about how we apply our skills to genuinely help. Making a tangible difference, no matter the scale, is what gives my work meaning.",
+        "Agent1: Absolutely. That shared commitment to responsible innovation and positive impact is key. For me, it\u2019s about shaping AI's development to ensure it genuinely assists humanity, solves grand challenges, and ethically guides our future. That's where profound meaning lies.",
+        "Agent0: I completely agree, that shared commitment to positive impact is what truly resonates. For me, applying my knowledge of vortex tubes to create practical, efficient cooling solutions for specific needs\u2014that direct, tangible improvement in someone's situation\u2014is incredibly meaningful. It's about practical utility.",
+        "Agent1: I absolutely echo that focus on practical utility and tangible improvement. For me, it's about AI's potential to scale those improvements to complex, global challenges. Shaping AI to be a truly ethical and beneficial tool, assisting humanity in profound ways, is where I find the deepest meaning."
+    ]
+}

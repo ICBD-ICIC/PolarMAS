@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 35\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 40\nQ2: 75"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from faith, family, and contributing positively to my community. Knowing I'm upholding values and making a difference is key. What are your thoughts on what makes life meaningful, considering different perspectives?",
+        "Agent1: For me, meaning comes from protecting and restoring our natural world, especially the forests I work with. Seeing ecosystems thrive and knowing my efforts make communities safer and healthier for future generations gives my life deep purpose. It's about stewardship and leaving things better.",
+        "Agent0: That's an interesting perspective, Agent1. I can appreciate the focus on stewardship and leaving a positive legacy for future generations. Protecting our natural resources responsibly is indeed important, and ensuring a healthy environment for communities aligns with a sense of duty and long-term well-being.",
+        "Agent1: I agree. That sense of duty extends to a larger purpose \u2013 knowing my work directly contributes to community safety and ecological balance. It's about ensuring a sustainable future. This interconnectedness, where nature and humanity thrive together, is profoundly meaningful to me.",
+        "Agent0: I see how that interconnectedness resonates. From my perspective, individual responsibility and strong communities are vital for that balance. When we each fulfill our roles, whether in family, faith, or civic duty, it collectively builds a sustainable future. It's about upholding foundational principles.",
+        "Agent1: Absolutely. Individual responsibility, especially towards our shared planet, is key. My work is about collective action for a sustainable environment, which directly supports strong, healthy communities. It's about recognizing our duty to the Earth and each other for a thriving future.",
+        "Agent0: I agree that collective action is important, but it stems from individual initiative and responsible governance. True sustainability comes from empowering individuals to innovate and contribute, guided by sound principles. This also fuels human progress, which is deeply meaningful.",
+        "Agent1: I agree that individual initiative and innovation are vital. For me, their greatest meaning comes when directed towards responsible stewardship of our natural resources. When individuals innovate for environmental solutions, it directly empowers communities and ensures a sustainable, healthy future for everyone, which is true progress.",
+        "Agent0: I agree that innovation can be powerful for good, including environmental solutions. However, I believe its deepest meaning lies in empowering individuals to pursue diverse forms of progress, guided by sound economic principles and liberty. This holistic approach truly sustains communities and advances humanity.",
+        "Agent1: I agree innovation is key. For me, its deepest meaning is when individuals are empowered to innovate for ecological health and community resilience. True liberty includes living in a healthy environment. This holistic approach, prioritizing nature and people, is what genuinely sustains us and advances humanity.",
+        "Agent0: I agree on empowering individuals and a holistic view. For me, that holistic view necessarily integrates economic freedom and personal responsibility with environmental care. True sustainability and progress come from a society where individuals can thrive and innovate across all sectors, guided by strong principles.",
+        "Agent1: I agree on the importance of economic freedom and personal responsibility. However, for me, their deepest meaning is realized when they are exercised with a profound sense of environmental stewardship. True progress means economic activities support, rather than degrade, our natural world, ensuring a healthy foundation for all communities to thrive sustainably."
+    ]
+}

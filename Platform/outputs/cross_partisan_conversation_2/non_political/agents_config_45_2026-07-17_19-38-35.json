@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_45.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 90"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 90"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from understanding our past and contributing to the future. Studying ancient civilizations, like Egypt, reveals humanity's enduring quest for purpose and legacy. Faith and community also guide me, finding meaning in shared beliefs and the connections we build. It's about uncovering truths and leaving something behind.",
+        "Agent1: That's an interesting perspective. For me, life's meaning truly comes from ensuring every child has a fair chance, breaking cycles of poverty, and building equitable communities. It's about making a tangible difference in people's lives, especially the most vulnerable, and fostering a society where everyone can thrive.",
+        "Agent0: I agree that building strong communities is vital. A legacy isn't just about monuments, but about the principles and stable society we pass down. Faith often calls us to care for the vulnerable, ensuring a foundation for all to thrive. That historical wisdom guides our present actions.",
+        "Agent1: Absolutely, building a stable society and caring for the vulnerable are paramount. From my perspective, this means actively dismantling systemic barriers and implementing robust anti-poverty policies. True meaning lies in creating equitable opportunities for *all* children, ensuring they have the foundation to not just survive, but truly thrive.",
+        "Agent0: Indeed, a stable foundation is key. Ancient wisdom and faith teach us the importance of strong families and personal responsibility within a free society. Ensuring children have that bedrock, built on enduring principles, allows them to forge their own meaningful path and contribute to a lasting legacy.",
+        "Agent1: Strong families and personal responsibility are crucial, but they flourish best when systemic barriers are removed and equitable opportunities exist. True meaning, for me, lies in policies that ensure *all* families have the resources and support to thrive, allowing every child to build their own meaningful future.",
+        "Agent0: I agree that strong families are the bedrock. Ancient societies understood that individual liberty, guided by moral principles and community support, creates lasting opportunity. Meaning comes from individuals building their own legacy within a free, virtuous society, not solely from government programs.",
+        "Agent1: Strong families and individual liberty are vital. For me, true meaning lies in ensuring *all* have the foundation to achieve them. This requires dismantling systemic barriers and robust anti-poverty policies. Government programs are essential tools to empower every child to build their own meaningful legacy.",
+        "Agent0: Empowerment is key. Ancient societies thrived when individuals, supported by strong families and communities, embraced responsibility. While I believe in individual initiative and free markets as the primary drivers, I agree we must ensure a stable environment where all can pursue their purpose and build a meaningful legacy, rooted in enduring values.",
+        "Agent1: Empowerment is crucial. However, individual initiative can only flourish when systemic barriers are removed. My meaning comes from advocating for policies that ensure a truly stable environment, where every child, regardless of background, has the resources and support to embrace responsibility and build a meaningful legacy. That's true empowerment.",
+        "Agent0: A stable environment is vital. Ancient wisdom teaches us that true empowerment stems from individual initiative, strong families, and virtuous communities, guided by enduring principles. While support is necessary, lasting meaning is built through personal responsibility and character, not solely through government programs.",
+        "Agent1: Personal responsibility and character are undoubtedly valuable. However, they are often reflections of the opportunities and resources available. For me, the deepest meaning lies in creating a society where every child has the *opportunity* to develop character and act responsibly, free from the crushing weight of poverty and systemic barriers. That's where true, lasting meaning is forged."
+    ]
+}

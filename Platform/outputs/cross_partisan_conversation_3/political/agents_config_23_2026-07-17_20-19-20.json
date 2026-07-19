@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_23.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life is built on security and the rule of law. Our immigration policies should prioritize strong borders and legal processes. I believe stronger enforcement is crucial. It ensures fairness for those who follow the rules and maintains the integrity of our nation.",
+        "Agent1: For me, a meaningful life centers on community, compassion, and opportunity for all. While order is important, our policies should also reflect humanity and fairness. I believe creating pathways to citizenship for those already here, alongside addressing root causes, is vital. It strengthens our society and economy.",
+        "Agent0: I agree fairness is key, but it must be fair to *everyone*, including those who wait legally. Strong borders and legal processes ensure fairness and maintain the rule of law, which I see as fundamental to a stable, meaningful society for all citizens.",
+        "Agent1: I understand the importance of law and order. However, a truly meaningful society also prioritizes compassion and ensures everyone has a chance to thrive. Many undocumented immigrants are integral to our communities and economy. Providing pathways to legal status is not just fair, but strengthens our collective future and reflects our values.",
+        "Agent0: Compassion is important, but a meaningful society also upholds its laws. Allowing illegal entry undermines the system for those who apply legally. Pathways must be earned through proper channels, not by bypassing the rules. Our focus should be on secure borders and ensuring legal immigration benefits our nation.",
+        "Agent1: While upholding laws is important, a meaningful society also adapts to realities. Many undocumented individuals contribute significantly. Creating pragmatic pathways isn't undermining; it's recognizing human dignity and economic contributions, fostering a more stable and inclusive community for everyone. It's about finding solutions that work.",
+        "Agent0: I agree contributions are valuable, but they don't negate the need for legal entry. True stability comes from upholding the rule of law. Pragmatic pathways must prioritize secure borders and legal immigration, not reward those who circumvent the system. This ensures fairness for all and maintains national sovereignty.",
+        "Agent1: True stability also comes from integrating contributing members. Denying pathways creates instability and injustice. A meaningful society finds compassionate solutions that strengthen communities and economies, while still working towards secure, humane border management. It's about practical, human-centered governance that benefits everyone.",
+        "Agent0: Integration is vital, but it must be legal integration to ensure true stability and fairness. A meaningful life and society are built on respecting the rule of law. Bypassing legal processes undermines the entire system and isn't fair to those who follow the rules. Secure borders protect our nation."
+    ]
+}

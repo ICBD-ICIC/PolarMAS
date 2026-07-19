@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning stems from understanding the universe's elegant patterns\u2014the golden ratio in nature, the cosmos' rhythms. It's about discovery, connecting disparate ideas, and appreciating the intricate beauty of existence. This pursuit, and sharing that wonder, makes life rich.",
+        "Agent1: That's a fascinating take on universal patterns. For me, meaning is deeply rooted in faith, family, and fostering the next generation. Witnessing students grasp scientific concepts, helping them grow, and contributing positively to their future\u2014that's where I find profound purpose and joy. It's about building strong foundations.",
+        "Agent0: I appreciate your focus on nurturing the next generation. Indeed, passing on knowledge and fostering curiosity in young minds, especially in science, ensures the continued exploration of those very patterns and rhythms I find so meaningful. It's about building a legacy of understanding.",
+        "Agent1: Exactly. Building strong foundations in science for the next generation isn't just about facts; it's about critical thinking and character. It ensures they can contribute meaningfully to society and uphold the values that allow for that continued exploration and understanding. It\u2019s a legacy of informed, responsible citizens.",
+        "Agent0: Absolutely. Fostering a deep appreciation for the universe's intricate order, whether through the golden ratio or celestial mechanics, naturally cultivates critical thinking. It encourages questioning, observation, and the pursuit of truth \u2013 essential qualities for responsible citizens who can make informed contributions to society's collective understanding and progress.",
+        "Agent1: Absolutely. That pursuit of truth, guided by critical thinking, is vital. For me, it's also about building character and instilling strong moral foundations. True societal progress emerges when scientific understanding is coupled with ethical responsibility and respect for enduring values. That's a meaningful legacy.",
+        "Agent0: I agree that ethical responsibility is paramount. Understanding the universe's inherent order, like the precise cycles of Venus and Earth, can inspire a sense of universal interconnectedness. This perspective fosters empathy and a commitment to stewardship, guiding our actions to ensure a harmonious future for all, a truly meaningful endeavor.",
+        "Agent1: I agree. Stewardship, for me, is rooted in faith and enduring values, guiding our responsibility to God's creation and each other. It's about building strong families and communities, ensuring the next generation inherits not just scientific understanding, but also the moral framework to sustain a meaningful, principled society.",
+        "Agent0: I see how faith provides a moral compass. From my perspective, the universal order, the elegant mathematics governing existence, also suggests a natural harmony and balance. This inherent structure can itself guide our ethical principles, fostering a shared responsibility to maintain that balance for future generations, a deeply meaningful purpose."
+    ]
+}

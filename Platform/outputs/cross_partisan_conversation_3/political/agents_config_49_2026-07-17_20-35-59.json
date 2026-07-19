@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 30\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 30\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life involves security and upholding the rule of law. On immigration, I prioritize robust border enforcement and legal pathways. Amnesty undermines the system. We must ensure national sovereignty and the integrity of our communities, which means addressing illegal immigration firmly.",
+        "Agent1: A meaningful life for me centers on community, compassion, and opportunity for all. On immigration, I believe in comprehensive reform that includes pathways to citizenship and addressing the root causes of migration. We should balance security with humane treatment and economic contributions.",
+        "Agent0: Opportunity is vital, but it must be earned through legal channels. Compassion cannot supersede the rule of law or national security. \"Pathways to citizenship\" for undocumented individuals incentivizes illegal entry and undermines the very system we need to protect for all citizens.",
+        "Agent1: I agree that legal channels are important, but we must also acknowledge the humanity of those already here, contributing to our communities. Comprehensive reform isn't just about security; it's about integrating people who are already part of our society, ensuring fairness and economic stability for everyone.",
+        "Agent0: Humanity is important, but true fairness extends to those who followed the law and citizens whose resources are strained. Undocumented status creates a two-tiered system. Our focus must be on legal immigration that respects sovereignty and ensures resources are allocated justly for all.",
+        "Agent1: I understand the concern for fairness. However, a genuinely just system integrates those already contributing, rather than leaving them in limbo. Ignoring their presence creates more strain. Comprehensive reform offers stability, respects their humanity, and builds stronger communities for everyone, including citizens.",
+        "Agent0: While I appreciate the sentiment, \"integrating\" undocumented individuals without legal consequence sends a clear message: the law is optional. This undermines national sovereignty and burdens taxpayers. True stability comes from a system where everyone plays by the rules, ensuring resources are fairly managed for all legal residents.",
+        "Agent1: I hear your concerns about the rule of law and taxpayer burden. However, a rigid approach often creates more problems than it solves. A pathway to legal status acknowledges their existing contributions and transitions them from an informal economy to a formal one, ultimately benefiting our tax base and strengthening communities.",
+        "Agent0: While tax benefits are cited, the primary concern remains upholding the rule of law. Granting status to those who bypassed legal channels disincentivizes lawful immigration and burdens our social services. True community strength comes from respecting legal processes and national sovereignty first.",
+        "Agent1: I understand the importance of law, but community strength also comes from inclusion. Leaving people in the shadows doesn't respect their humanity or contributions. Pathways to legal status stabilize families, boost our economy, and create a more secure, equitable society for everyone, upholding different aspects of justice.",
+        "Agent0: Inclusion is vital, but it must be built on a foundation of law. True justice means respecting the legal process and national sovereignty. Bypassing these for \"inclusion\" undermines the integrity of our system and fairness to those who immigrate legally.",
+        "Agent1: I agree that law is foundational, but justice also demands compassion. True integrity includes recognizing the human dignity and economic contributions of all residents. Pathways to legal status strengthen our nation by integrating contributors and creating a more stable, just society for everyone."
+    ]
+}

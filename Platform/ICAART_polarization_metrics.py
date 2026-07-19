@@ -8,11 +8,11 @@ import numpy as np
 import pandas as pd
 from nltk.corpus import stopwords
 
-experiment = 'non_political'
-#experiment = 'political'
+#experiment = 'non_political'
+experiment = 'political'
 
 # Folder containing JSON files
-folder_path = f'outputs/cross_partisan_conversation/{experiment}'
+folder_path = f'outputs/cross_partisan_conversation_3/{experiment}'
 
 # Create a list to hold all data
 data = []

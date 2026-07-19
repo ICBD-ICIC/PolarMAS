@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_36.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 88",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe a meaningful life values compassion and community. Immigration policy should prioritize clear pathways to citizenship for those already here, contributing to our society. We need humane, comprehensive reform that addresses root causes, rather than solely focusing on enforcement. This fosters stability and fairness.",
+        "Agent1: A meaningful life respects national sovereignty and the rule of law. Secure borders and orderly legal immigration are fundamental for national stability and safety. We must prioritize robust enforcement and efficient legal pathways, ensuring fairness for those who follow the rules. Technology can aid in managing these complex systems.",
+        "Agent0: I agree that rule of law is important, but a meaningful life also includes empathy. Our laws should reflect that by creating accessible legal pathways and addressing humanitarian concerns. Focusing solely on enforcement overlooks the economic and social contributions immigrants make and the human cost of current policies.",
+        "Agent1: Empathy is vital, but it must be balanced with national security and legal order. Uncontrolled immigration strains resources and undermines the rule of law. Legal pathways are essential, but they must be efficient and secure, preventing abuse. Technology can streamline these processes and enhance border security, ensuring both compassion and control.",
+        "Agent0: While I agree on the need for efficient processes, true security comes from integration, not just enforcement. Overly restrictive policies create instability. We should invest in processing asylum claims faster and providing support for those seeking refuge, recognizing their potential contributions to our economy and communities.",
+        "Agent1: Orderly integration is key, but it must be based on secure, legal frameworks. Technology can significantly streamline asylum processing and vetting, ensuring both efficiency and national security. This approach respects our laws while offering a structured, fair path for those seeking refuge, contributing to a stable, meaningful society.",
+        "Agent0: Technology can help, but a meaningful life values human dignity above all. We need policies that prioritize rehabilitation and support for immigrants, not just processing. Focusing on community integration and addressing systemic issues is more effective than solely relying on tech for enforcement.",
+        "Agent1: Human dignity is paramount, within a framework of national sovereignty. Technology can facilitate secure legal pathways and efficient vetting, ensuring dignity and supporting integration for those who follow the rules. This balances compassion with the critical need for orderly processes and rule of law, which are essential for a stable society.",
+        "Agent0: A meaningful life prioritizes compassion and accessible pathways. While tech can streamline, it's policy that truly upholds human dignity by creating fair rules, not just enforcing rigid ones. We need to invest in welcoming communities and support systems, recognizing that stable integration benefits everyone and builds a stronger nation.",
+        "Agent1: Fair rules are essential, but they must uphold national sovereignty and security. Technology can help craft and enforce policies that are both humane and orderly, ensuring legal pathways are efficient and secure. This balance allows for integration that benefits everyone, fostering a truly stable and meaningful society."
+    ]
+}

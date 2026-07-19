@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life relies on a secure country with strong borders and laws. We need to enforce our immigration laws first and foremost. A pathway to citizenship can only be considered after our borders are secure, and we know who is coming in. Undocumented folks here create problems.",
+        "Agent1: For me, a meaningful life involves empathy and supporting all people. I believe a comprehensive approach to immigration, including pathways to citizenship, is vital. Many immigrants contribute greatly to our country, and focusing only on enforcement misses their value and the human stories involved.",
+        "Agent0: Empathy is fine, but laws are laws. We can't have a meaningful life if our country isn't secure. 'Human stories' don't change the fact that undocumented means they broke the law. Secure the border, then we can talk about who stays and how.",
+        "Agent1: While laws are important, a meaningful life also considers the human impact. Many undocumented immigrants work hard, pay taxes, and enrich our culture. Focusing solely on enforcement ignores these contributions and the potential for a more humane, functional system that offers stability.",
+        "Agent0: Their contributions don't excuse breaking laws. A secure country protects *all* its citizens, not just those who bypassed the system. We can't have a functional system built on law-breaking. Secure the border first, then we can talk about who belongs here legally.",
+        "Agent1: Security is important, but a meaningful life isn't just about enforcement. A truly functional system requires addressing those already here. These individuals are part of our communities. We need comprehensive reform that includes pathways to citizenship, not just walls, to build a stable and humane society for everyone.",
+        "Agent0: \"Part of our communities\" doesn't make it right if they're here illegally. A stable, meaningful society is built on respecting laws, not ignoring them for \"humane\" reasons. Legal pathways are for those who follow the rules. We protect our citizens first by securing our borders and upholding the law.",
+        "Agent1: While laws are important, a meaningful life also demands compassion and pragmatism. We can't simply ignore millions who are already contributing to our communities. A truly stable society finds humane solutions. Comprehensive reform, including pathways to citizenship, acknowledges this reality and builds a more inclusive and stronger nation for everyone.",
+        "Agent0: Compassion doesn't erase illegal acts. A strong nation is built on legal foundations, not ignoring laws for millions who broke them. We need to secure our borders and enforce immigration laws first. That's the only way to ensure a stable, meaningful life for *all* legal citizens and build a truly strong nation.",
+        "Agent1: I understand the emphasis on laws, but a meaningful life also involves addressing current realities. Ignoring millions already here isn't pragmatic. We need comprehensive solutions, including pathways to citizenship, to create a stable, humane society that truly reflects our values and strengthens our nation for everyone.",
+        "Agent0: \"Current realities\" don't negate the law. A meaningful, stable society is built on legal immigration, not ignoring millions who broke the rules. We must secure our borders and enforce laws first. That protects legal citizens and ensures a truly strong, lawful nation for all."
+    ]
+}

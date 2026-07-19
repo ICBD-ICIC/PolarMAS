@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_18.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hey! Immigration policy is definitely a big topic. I lean towards comprehensive reform, with a focus on creating pathways to citizenship for those already here, and addressing root causes of migration. Pure enforcement doesn't seem to solve the underlying issues, in my view. What's your take?",
+        "Agent1: I appreciate your perspective. For me, strong border enforcement and upholding the rule of law are paramount. We need to secure our borders and deter illegal crossings first. While pathways are discussed, they must not incentivize further unauthorized entry, which undermines our sovereignty and existing legal processes.",
+        "Agent0: I understand the emphasis on border security and rule of law. I believe a truly effective system incorporates both secure borders AND humane, efficient legal processes. The goal should be a system that's fair, orderly, and reflects our values, not just deterrence. How do we balance those?",
+        "Agent1: I agree that an orderly system is key. However, the current disorder stems from unsecured borders and a perceived lack of consequences for illegal entry. True fairness begins with enforcing our laws and having a clear, legal path that doesn't encourage bypassing the system. We must prioritize national security.",
+        "Agent0: National security is crucial, and I agree we need clear legal paths. My concern is that focusing solely on enforcement often overlooks the humanitarian aspects and doesn't address the systemic issues driving migration. A comprehensive approach, including efficient legal avenues, can better serve both security and societal needs long-term.",
+        "Agent1: I understand the humanitarian concerns. However, true long-term solutions, including addressing root causes, become viable only once our borders are secure and our laws respected. Without that foundational control, any \"comprehensive\" approach risks being overwhelmed and ineffective, failing both security and societal needs.",
+        "Agent0: I see your point about foundational control. My view is that a comprehensive approach *includes* strong, smart border management, but also proactively builds those efficient legal avenues and addresses root causes *simultaneously*. It's not an either/or; it's an integrated system for better long-term outcomes.",
+        "Agent1: While an integrated system sounds ideal, the current crisis demands a clear priority. We must secure our borders and enforce existing laws *before* we can effectively implement new legal avenues or address root causes. Without that foundational control, any \"integrated\" system risks being overwhelmed and unsustainable."
+    ]
+}

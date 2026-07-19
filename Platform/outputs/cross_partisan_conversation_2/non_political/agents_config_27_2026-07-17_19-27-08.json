@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_27.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 30\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 35\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, true meaning comes from faith and family, building a strong community, and ensuring a fair shake for working folks. What about you? I'm interested to hear your perspective.",
+        "Agent1: That's interesting. For me, meaning comes from making a positive impact, especially in protecting our environment and cultural heritage, like with Kaho\u02bbolawe. Connecting with 'ohana and community, and working towards a more just and sustainable future for everyone, feels deeply meaningful. Those efforts truly enrich life.",
+        "Agent0: I agree, community is key. A strong foundation for future generations, rooted in our shared values and a good work ethic, ensures everyone has the opportunity to thrive. Protecting what's important, whether it's family or our way of life, definitely adds meaning.",
+        "Agent1: Absolutely, building a strong foundation for future generations is vital. For me, that means ensuring environmental health and cultural continuity. Protecting sacred places like Kaho\u02bbolawe, restoring the land, and empowering communities to thrive sustainably provides deep meaning. It's about preserving our heritage and planet for all.",
+        "Agent0: I completely agree that preserving our heritage and planet is crucial for future generations. For me, that also means ensuring stable jobs and strong local economies, so families can build a secure foundation. Responsible stewardship of our resources goes hand-in-hand with a thriving community.",
+        "Agent1: Precisely. Responsible stewardship, for me, deeply connects to healing places like Kaho\u02bbolawe, restoring ecosystems, and honoring cultural heritage. That work, coupled with building resilient, sustainable communities that prioritize both people and planet, provides immense purpose. It's about a holistic well-being.",
+        "Agent0: I see your point. Holistic well-being definitely includes economic security for families. When folks have stable jobs and a strong community, they can truly thrive. Responsible stewardship means protecting both our environment and the opportunities that allow working people to build a meaningful life.",
+        "Agent1: Absolutely, economic security is vital. For me, true well-being comes from an economy that supports both people and planet. Investing in environmental restoration and cultural preservation creates jobs, fosters community resilience, and ensures a sustainable future. That holistic approach provides deep, lasting meaning for everyone.",
+        "Agent0: I agree that economic security and a sustainable future are paramount. For working families, that means good-paying union jobs in strong industries. Responsible management of our resources, combined with opportunities for skilled labor, builds truly resilient communities. That's how we ensure lasting meaning."
+    ]
+}

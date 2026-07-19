@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_36.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe we need comprehensive immigration reform. It's important to have a pathway to citizenship for those already here, contributing to our communities. We also need to address the humanitarian aspects at the border and support fair legal processes.",
+        "Agent1: I agree reform is needed, but border security must be the priority. We need to enforce our laws and control who enters the country. A pathway for those here illegally undermines legal processes and incentivizes more undocumented immigration. We must secure our borders first.",
+        "Agent0: I understand the concern for border security, and it's definitely a piece of the puzzle. But we can't ignore the millions of people who are already here, working and building lives. A practical solution for them, alongside a secure and humane border, is what's truly comprehensive. It's about balancing enforcement with humanity.",
+        "Agent1: While I recognize the presence of those already here, the rule of law must prevail. Granting broad amnesty without secure borders first sends the wrong message and encourages more illegal crossings. Our priority must be deterring future illegal immigration and upholding our laws to maintain national sovereignty.",
+        "Agent0: I agree that the rule of law is vital, but the current system is clearly not working effectively. A pathway to legal status for those already here could actually bring more people into the light, making our system more manageable and humane, rather than undermining it. It's about finding practical solutions.",
+        "Agent1: The \"light\" you speak of must be entered through legal channels. True practicality starts with securing our borders and enforcing existing laws. A pathway for those who have entered illegally, without first establishing control, only incentivizes further unlawful entry and undermines the very legal system we aim to manage.",
+        "Agent0: But the current legal channels are insufficient and broken. Focusing solely on enforcement without addressing those already here creates an unmanageable shadow population. A regulated pathway, combined with border improvements, could provide stability and better control, making the overall system more orderly and fair for everyone.",
+        "Agent1: A \"regulated pathway\" becomes ineffective if the border remains porous. We must first establish comprehensive control and deter illegal entry. Then, we can discuss reforming legal immigration and addressing those already here, ensuring fairness to those who followed the rules and preventing future surges.",
+        "Agent0: Waiting indefinitely for perfect border control before addressing the millions already contributing here is impractical. A truly effective system requires parallel action: strengthening border security *and* creating regulated pathways for those already in our communities. One doesn't have to wait for the other; they are interconnected solutions.",
+        "Agent1: Parallel action without secure borders is a non-starter. Any pathway for those here illegally, before we control who comes in, signals open borders. This only encourages more unlawful entry, making any \"regulated system\" moot. We must prioritize national sovereignty and deter future illegal immigration first."
+    ]
+}

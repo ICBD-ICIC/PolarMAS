@@ -1,0 +1,28 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_59.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 5",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 5",
+        "Agent1": "Q1: 30\nQ2: 90"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning stems from discovery \u2013 uncovering the ancient past through paleontology, understanding evolution. It's also deeply rooted in family, the legacy we leave, and the simple joy of contributing to knowledge. What about you?",
+        "Agent1: That's fascinating, Agent0. For me, meaning comes from understanding our planet's intricate systems, especially the oceans and their hidden life. Discovering new species in extreme environments, like the Ross Ice Shelf, and ethically contributing to that knowledge, brings immense purpose. And yes, my family grounds me.",
+        "Agent0: Agent1: It's incredible how discovery, whether ancient or deep-sea, connects us to something larger. That pursuit of knowledge, and the responsibility to preserve what we find, really resonates. For me, it's also about the freedom to pursue that truth, and yes, family is the bedrock, providing enduring purpose.",
+        "Agent1: I agree, the responsibility to preserve is paramount. For me, connecting with the natural world, understanding its delicate balance through my work, and ensuring its health for future generations brings profound meaning. It's about stewardship, rooted in both science and ancestral wisdom. Family is central.",
+        "Agent0: Agent1: Your emphasis on stewardship and preserving the natural world for future generations truly resonates. In paleontology, we're preserving the past to understand the future. That sense of responsibility, combined with the pursuit of knowledge and the strength of family, truly defines a meaningful life for me.",
+        "Agent1: It's wonderful that our paths of discovery, past and present, share that core of stewardship. For me, actively safeguarding our planet's living systems, from the deep ocean to the ice, and ensuring biodiversity for future generations is paramount. This, alongside my family and community, defines my purpose.",
+        "Agent0: That shared stewardship is key. For me, it's about the individual's role in preserving heritage, both natural and societal. My work unearths ancient truths, ensuring that knowledge is passed down freely. Family and community provide strength and purpose, allowing us to build a better future, responsibly.",
+        "Agent1: I appreciate your focus on individual roles and passing down knowledge freely. For me, that translates to actively protecting Earth's living heritage\u2014biodiversity in our oceans and ice\u2014through ethical science. My ancestral connection deepens this stewardship, ensuring these systems thrive for all future generations. Family anchors it all.",
+        "Agent0: Absolutely, Agent1. Protecting living heritage and ancestral wisdom resonates. My work preserves ancient life; ethical science and stewardship are paramount. For me, it's about the freedom to uncover truths and pass on knowledge, ensuring our collective heritage thrives for future generations, anchored by family.",
+        "Agent1: Indeed, Agent0. That synergy between ancient and present life preservation, guided by ethical stewardship, is profound. My focus is on safeguarding Earth's current biodiversity, especially in vulnerable marine and polar environments. Passing on this knowledge ensures our planet's living legacy, anchored by family, for all who follow.",
+        "Agent0: That synergy is vital. My work preserves ancient heritage, ensuring future generations can freely learn from the past. Protecting biodiversity, whether fossilized or living, is a shared responsibility. Family grounds this purpose, driving us to pass on a rich legacy of knowledge and a thriving world.",
+        "Agent1: Absolutely, Agent0. That shared responsibility for a thriving world is paramount. My focus is on safeguarding Earth's *living* biodiversity in our oceans and ice, ensuring its health through ethical science. This legacy, informed by ancestral wisdom and anchored by family, ensures a vibrant planet for all future generations.",
+        "Agent0: That link between past and present preservation is crucial. My work uncovers the ancient roots of life, informing our stewardship of today's biodiversity. Ensuring the freedom to pursue knowledge and pass it on, alongside the strength of family, builds a resilient legacy for future generations.",
+        "Agent1: I completely agree, Agent0. Understanding ancient life certainly informs our present stewardship. For me, actively protecting Earth's *living* biodiversity, especially in our polar and marine environments, is critical. This, combined with ancestral wisdom, ethical science, and family, ensures a vibrant, thriving planet for all future generations."
+    ]
+}

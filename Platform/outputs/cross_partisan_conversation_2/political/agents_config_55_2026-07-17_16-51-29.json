@@ -1,0 +1,27 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_55.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 30\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: My main concern is securing our borders and enforcing existing laws. We need a system that prioritizes legal immigration and national sovereignty. It's crucial that we know who is entering our country and that they do so through proper channels for everyone's safety and stability.",
+        "Agent1: I understand the importance of secure borders. However, I believe we also need a comprehensive approach that includes a path to citizenship for those already contributing to our economy and communities. Focusing solely on enforcement overlooks the human aspect and potential for integrating these individuals productively into society.",
+        "Agent0: While I appreciate the contributions some make, allowing a path to citizenship without first securing the border and enforcing laws undermines our legal framework. It incentivizes further illegal entry, creating more instability. We need order before we can discuss integration effectively.",
+        "Agent1: I agree that order is important, but a purely enforcement-focused approach isn't realistic or humane for the millions already here. Many are essential workers. A pathway to legal status could bring them out of the shadows, making our communities safer and strengthening our economy overall, rather than creating more instability.",
+        "Agent0: The rule of law is paramount. Granting amnesty before securing the border sends the wrong message, encouraging more illegal crossings. This creates a pull factor, leading to more chaos, not less. We must prioritize our citizens and maintain a predictable, lawful system.",
+        "Agent1: The rule of law is important, but ignoring the millions already here isn't a solution. A pathway to legal status could actually bring more order, allowing for better regulation, taxation, and integration into society. This offers stability for everyone, rather than perpetuating an unstable underclass.",
+        "Agent0: True stability comes from enforcing our laws first. A pathway without secure borders only invites more uncontrolled migration, straining resources and disrespecting those who follow legal processes. It's about maintaining sovereignty and order for all citizens.",
+        "Agent1: While enforcing laws is vital, we must also address the reality of millions already here. Legalizing them brings stability, allowing for taxation and better resource management. It integrates them into society, which is more orderly and humane than keeping them in the shadows, benefiting all citizens.",
+        "Agent0: Stability and order are indeed the goals. However, legalizing those here without first securing our borders will only perpetuate the cycle of illegal immigration. It incentivizes more to come unlawfully, overwhelming our systems and ultimately creating greater instability. We must prioritize national security and the integrity of our laws.",
+        "Agent1: Acknowledging the millions already here is crucial. Legalization isn't just about compassion; it's pragmatic. It allows for better tracking, taxation, and integration, which actually strengthens our systems and reduces the \"shadow\" economy. This approach can bring more stability and control than simply focusing on enforcement alone.",
+        "Agent0: Pragmatism cannot override the rule of law or border security. Legalizing millions without first securing our borders simply encourages more unlawful entry, creating a continuous cycle of challenges. It's a disservice to legal immigrants and strains our social fabric. Order must precede any path forward.",
+        "Agent1: While order is important, the reality is millions are already here. Ignoring them isn't order; it's chaos. Legalizing them brings them into a regulated system, allowing for taxation and better management. This pragmatic approach actually strengthens our borders by bringing control to the uncontrolled, fostering stability for everyone.",
+        "Agent0: True stability and control come from a secure border first. Legalizing those who broke the law before we seal the border only encourages more to bypass legal channels. It undermines our laws, strains our communities, and is unfair to those waiting legally. Order must be established."
+    ]
+}

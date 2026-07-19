@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_44.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi there! For me, a meaningful life includes fostering an inclusive society. I prioritize creating pathways to citizenship and humane treatment over strict enforcement. I don't believe undocumented immigrants are more prone to crime. What are your thoughts on balancing enforcement with opportunities?",
+        "Agent1: For me, a meaningful life upholds our laws and protects our natural heritage. Strong border enforcement is crucial for security and managing resources, which benefits everyone. Legal pathways are important, but only after securing our borders. Order ensures stability for both people and wildlife.",
+        "Agent0: I agree stability is vital, but I believe true stability comes from integrating people, not just walls. Immigrants contribute significantly to our economy and culture. Focusing solely on enforcement overlooks the human cost and the potential for these individuals to enrich our society. What about the economic benefits they bring?",
+        "Agent1: While some economic benefits exist, uncontrolled immigration strains resources and infrastructure, impacting our communities and natural areas like the Texas coast. Legal, orderly immigration ensures we can manage these impacts and protect what's meaningful: our laws, our land, and our future.",
+        "Agent0: I understand concerns about resources. However, a well-structured system that offers legal pathways can manage integration effectively. This approach maximizes their economic contributions while upholding human dignity, which is key to a meaningful society. It's about smart management, not just exclusion.",
+        "Agent1: Smart management *starts* with a secure border. Without it, we can't effectively manage the influx or protect our precious natural resources, like the coastal refuges I work to conserve. Orderly, legal immigration is the only way to ensure sustainability and respect for our laws.",
+        "Agent0: While border security is a component, \"smart management\" also means efficient processing and integrating people. Focusing solely on borders delays solutions and human suffering. A meaningful society prioritizes compassion and leveraging diverse contributions.",
+        "Agent1: True compassion involves upholding laws and ensuring sustainability for all. Uncontrolled entry strains resources, directly impacting our wildlife refuges and communities. A legal, orderly system allows us to manage immigration responsibly, protecting both people and our precious natural environment.",
+        "Agent0: I agree on the need for sustainable management. However, a truly responsible approach integrates efficient processing and legal pathways to citizenship, which reduces \"uncontrolled entry.\" This honors human dignity and leverages immigrant contributions, building a stronger, more meaningful society for everyone.",
+        "Agent1: Sustainable management *requires* controlled entry. Without secure borders, even the best processing systems are overwhelmed, straining resources and impacting our vital wildlife refuges. Upholding laws and protecting our natural heritage first ensures a truly stable and meaningful future for all.",
+        "Agent0: I see your point about controlled entry. However, a genuinely meaningful approach integrates secure borders with robust, efficient legal pathways. This prevents uncontrolled entry *and* upholds human dignity, leveraging immigrants' potential while managing resources sustainably for everyone's benefit.",
+        "Agent1: While legal pathways are important, they can only function effectively with a truly secure border. This foundational security prevents resource strain and protects our natural heritage, like the refuges, ensuring a sustainable, lawful society for all."
+    ]
+}

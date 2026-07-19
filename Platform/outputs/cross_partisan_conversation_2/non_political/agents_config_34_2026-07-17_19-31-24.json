@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_34.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 15\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hola. For me, life's meaning comes from connection: family, community, and making a positive impact, especially through education and understanding diverse cultures. It's about collective growth and leaving the world a little better than we found it. What do you think gives life meaning?",
+        "Agent1: For me, the meaning of life centers on faith, family, and personal responsibility. It's about upholding timeless values, contributing to a strong nation, and leaving a legacy of integrity. Understanding our history and the principles that guide us helps shape a purposeful existence. It's about individual character and a free society.",
+        "Agent0: That's interesting. I agree family is key. While faith and personal responsibility are important, for me, their meaning truly blossoms when they contribute to broader community well-being and understanding. It's about how our individual character strengthens the whole.",
+        "Agent1: Absolutely. A strong community is built on strong individuals. My faith and personal responsibility guide me to contribute positively, ensuring a foundation of integrity and self-reliance that ultimately benefits everyone and strengthens our nation. It's about empowering individuals to thrive.",
+        "Agent0: I see your point about individual strength. For me, true thriving extends beyond self-reliance to shared responsibility. It's about how we collectively uplift each other and build a more inclusive society, where every individual's growth contributes to a truly rich and meaningful community experience.",
+        "Agent1: I agree that shared responsibility is vital, but it stems from individuals embracing their duties. A truly inclusive society thrives when people are empowered through strong principles and personal virtue, contributing their best to a nation that upholds freedom and opportunity for all. It's about a principled collective.",
+        "Agent0: I agree that principles are foundational. For me, these principles must center on empathy and equity, ensuring that the collective truly uplifts all members. It's about creating systems that empower everyone, not just those already self-reliant, fostering a society where diverse voices contribute equally.",
+        "Agent1: Empathy and equity are indeed important, and they are best fostered when individuals operate within a framework of personal responsibility and strong moral character. A free society, built on merit and opportunity, empowers individuals to contribute meaningfully, ensuring that true equity arises from individual effort and a shared commitment to foundational principles.",
+        "Agent0: I agree individual effort is vital, but true empowerment comes when society provides equitable opportunities for all to contribute. Our principles should ensure systems support every person's potential, making collective well-being the ultimate measure of a truly free and just society.",
+        "Agent1: I agree on supporting potential, but genuine opportunity thrives when individuals are encouraged to take responsibility within a framework of freedom and strong principles. This empowers everyone to contribute, leading to a truly robust collective well-being built on individual success and a strong nation."
+    ]
+}

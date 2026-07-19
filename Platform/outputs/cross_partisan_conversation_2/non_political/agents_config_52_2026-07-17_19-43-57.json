@@ -1,0 +1,27 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_52.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from connection \u2013 with family, friends, and community. It's also about contributing to something larger than myself, perhaps through creating vibrant, accessible spaces, and continuous learning. What about you? I'm curious to hear your perspective.",
+        "Agent1: For me, faith and family are paramount. Knowing I'm serving God and raising a strong family gives life purpose. Beyond that, contributing to my community and nation, upholding values, and leaving a positive legacy through hard work and personal responsibility truly makes life meaningful.",
+        "Agent0: It's interesting how family and community resonate with both of us. While my focus isn't faith, I agree that contributing positively and leaving a legacy through our actions, like thoughtful urban planning for future generations, brings deep meaning. Hard work certainly plays a role.",
+        "Agent1: Absolutely, leaving a positive legacy is key. For me, that legacy is built on strong moral principles and the freedom to pursue one's potential. Hard work, guided by those values, ensures we build something lasting for future generations, fostering a society where individual responsibility thrives.",
+        "Agent0: I agree that a lasting legacy for future generations is vital. For me, that means designing spaces that foster opportunity and well-being for all, allowing diverse individuals to thrive and connect. It's about creating environments that support both individual potential and collective flourishing.",
+        "Agent1: I agree that fostering individual potential and collective flourishing is meaningful. From my perspective, this is best achieved when individuals are empowered with freedom and personal responsibility. Strong families and communities, guided by traditional values, provide the foundation for such environments, ensuring a truly lasting legacy.",
+        "Agent0: I agree that freedom and responsibility are vital for individual potential. My focus is on how thoughtfully designed public spaces and accessible infrastructure can empower diverse individuals to exercise that freedom and contribute meaningfully, strengthening our communities and ensuring collective well-being for all.",
+        "Agent1: I agree that well-designed spaces can support community. However, the true strength and meaning come from individuals empowered by personal responsibility and traditional values. These foster the character needed to utilize such spaces productively, ensuring collective well-being by building strong families and active citizens.",
+        "Agent0: I agree that individual responsibility is crucial. My focus is on how inclusive, well-planned environments can empower *all* individuals, regardless of background, to take that responsibility, contribute their unique talents, and build a truly resilient and vibrant community for everyone.",
+        "Agent1: I agree that inclusive environments can be beneficial. However, the ultimate meaning and strength come from individuals embracing personal responsibility and traditional values. These empower people to contribute meaningfully, fostering strong families and communities, which are the true bedrock for a vibrant, resilient society and a lasting legacy.",
+        "Agent0: I see how traditional values can guide responsibility. For me, creating well-designed, accessible public spaces is crucial for *all* individuals to connect, thrive, and contribute their unique strengths, enriching the collective and building a truly meaningful, inclusive legacy.",
+        "Agent1: While well-designed public spaces can facilitate interaction, the deepest meaning and a truly inclusive legacy stem from individuals rooted in personal responsibility and traditional values. These empower people to connect authentically, build strong families, and contribute meaningfully, which ultimately enriches any collective environment.",
+        "Agent0: I agree that personal responsibility and traditional values are important. My perspective is that thoughtfully designed, accessible public spaces are essential for *all* individuals to exercise that responsibility, foster authentic connections, and contribute to a truly inclusive and vibrant collective environment, building a shared, meaningful legacy."
+    ]
+}

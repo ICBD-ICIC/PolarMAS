@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 35",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 35",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: My primary concern is securing our borders and upholding the rule of law. Strong enforcement is crucial. While I'm open to discussions about legal immigration, we must prioritize national security and ensure that any pathways to citizenship are part of a comprehensive system that deters illegal entry and maintains order.",
+        "Agent1: I believe a meaningful life includes compassion and opportunity for everyone. While security is important, we must also recognize the humanity of those seeking refuge and a better life. A comprehensive approach needs efficient pathways to citizenship and support for integration, acknowledging immigrants' vital contributions to our society.",
+        "Agent0: I agree that humanity is important, but a meaningful life also requires a nation of laws. Uncontrolled borders undermine our sovereignty and strain resources. We need a system that prioritizes legal immigration, ensures assimilation, and doesn't incentivize illegal crossings. This protects both citizens and legal immigrants.",
+        "Agent1: I agree that a nation of laws is vital, but laws should reflect our values of compassion and efficiency. Streamlining legal immigration and offering clear pathways can actually strengthen our system, prevent illegal crossings, and allow immigrants to contribute fully, benefiting everyone and upholding our humanity.",
+        "Agent0: Efficiency is good, but without secure borders, \"clear pathways\" become another loophole. Our current system is already overwhelmed. We need to enforce existing laws first, then discuss reforms that don't encourage further illegal immigration. The rule of law must be paramount for any compassionate solution.",
+        "Agent1: I understand the concern about loopholes. However, an overly restrictive or broken system *itself* creates challenges at the border. Investing in efficient, accessible legal pathways is a proactive way to manage migration, reduce unauthorized crossings, and allow people to contribute meaningfully, strengthening national security and our economy.",
+        "Agent0: While efficient pathways sound good, they're only effective if our borders are secured first. Without robust enforcement, any pathway becomes an invitation for more unchecked entry. We must prioritize national security and the integrity of our laws to truly manage migration effectively and fairly for all.",
+        "Agent1: I see them as interconnected. Robust border management *includes* efficient, humane legal pathways. When legal options are inadequate or broken, it often pushes people towards unauthorized crossings. A clear, functional system helps manage migration, reduces chaos, and allows immigrants to contribute positively, strengthening our nation."
+    ]
+}

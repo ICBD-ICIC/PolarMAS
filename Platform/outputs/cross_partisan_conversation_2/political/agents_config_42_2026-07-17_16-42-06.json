@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_42.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe a comprehensive approach to immigration is crucial. We need humane border management alongside clear pathways to citizenship for those already contributing to our society. Focusing solely on enforcement misses the bigger picture of integration and economic benefit. What are your thoughts?",
+        "Agent1: I agree a comprehensive approach is needed, but it must start with securing our borders. We can't have a functional system without knowing who is entering and ensuring it's done legally. Enforcement isn't just about 'missing the picture'; it's about maintaining sovereignty and the rule of law for all citizens.",
+        "Agent0: I understand the emphasis on border security and sovereignty. However, a truly comprehensive approach must also prioritize efficient, humane processing and address the economic realities of immigrants already here. Simply fortifying borders without addressing root causes or providing pathways creates more problems than it solves.",
+        "Agent1: Humane processing is essential, but only within a secure and legal framework. Pathways should be earned through a system that prioritizes legal entry and respects our laws. Uncontrolled borders strain resources and undermine the rule of law, which is unfair to those who follow the proper channels.",
+        "Agent0: I agree that legal frameworks are vital, but we must acknowledge the millions already contributing economically. An efficient system would recognize these contributions, creating *new* legal pathways for them to earn status, rather than maintaining an unworkable status quo that hurts our economy and communities.",
+        "Agent1: While some contribute, the priority must be a secure border and legal immigration. Creating 'new' pathways for those who bypassed the system can incentivize more illegal immigration and is unfair to legal immigrants. We need a system that respects the rule of law first.",
+        "Agent0: I understand the concern about incentives, but ignoring the current reality isn't a solution. Well-designed legal pathways for those already here can actually reduce future undocumented immigration by providing a structured, earned route, strengthening our economy and communities by bringing more people into the formal system.",
+        "Agent1: Acknowledging a current reality shouldn't mean legitimizing illegal entry. While structured routes could exist, they must not incentivize future law-breaking. Our priority should be deterring illegal immigration through strong borders and a legal system that respects those who follow the rules, not creating exceptions.",
+        "Agent0: I agree we must avoid incentivizing law-breaking. However, ignoring the millions already here creates a permanent underclass and an unstable system. Earned pathways, tied to strict criteria, can integrate these individuals, boost our economy, and reduce the very instability that fuels future undocumented immigration, rather than legitimizing past actions.",
+        "Agent1: While integration sounds good, the core issue remains upholding our laws. 'Earned pathways' for those who entered illegally, however strict, risk undermining legal immigration and incentivizing more illegal crossings. We must prioritize secure borders and a clear, legal process for *all* immigrants, ensuring fairness to those who follow it.",
+        "Agent0: I agree upholding laws is vital. But practical solutions involve integrating those already here through earned pathways with strict criteria. This strengthens our economy and future system by formalizing contributions, without legitimizing past illegal entry. It's about pragmatic stability, not undermining law."
+    ]
+}

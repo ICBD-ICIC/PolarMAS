@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_17.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 35",
+        "Agent1": "Q1: 25\nQ2: 95"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 35",
+        "Agent1": "Q1: 25\nQ2: 95"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life thrives in a society built on the rule of law and secure borders. This ensures fairness for all and protects national sovereignty. Strong enforcement is crucial; pathways to citizenship should follow legal processes, not incentivize illegal entry.",
+        "Agent1: A meaningful life for me is built on empathy and community. Our immigration policies should reflect human dignity, creating clear, humane pathways to citizenship. We need to streamline legal processes, address root causes of migration, and ensure fair treatment, not just focus on enforcement. Immigrants enrich our society.",
+        "Agent0: I agree human dignity is vital, but true empathy also means upholding the rule of law for everyone's benefit. Uncontrolled borders undermine the very community structures we cherish. Legal immigration enriches us; the focus must be on orderly, secure processes that deter illegal entry and maintain sovereignty.",
+        "Agent1: I agree that the rule of law is important, but it shouldn't overshadow human dignity. Secure borders can coexist with humane policies. Streamlining legal immigration and addressing root causes ensures order *and* compassion. Immigrants contribute significantly to our communities and economy, making us stronger.",
+        "Agent0: Streamlining legal immigration is a worthwhile goal, but it must be paired with robust border security and enforcement. Without clear consequences for illegal entry, any system risks being overwhelmed. Upholding the law maintains the integrity of our society and ensures fairness.",
+        "Agent1: I agree that security and a functioning system are vital. However, focusing solely on enforcement often overlooks the human cost and doesn't solve the problem long-term. Comprehensive reform, including efficient legal pathways and addressing root causes, is more effective for true border integrity and fosters a more just, prosperous society.",
+        "Agent0: Comprehensive reform sounds good, but it's ineffective without strict border control and enforcement. Ignoring illegal entry undermines the system and rule of law. Security is paramount; then we can discuss humane, *legal* pathways.",
+        "Agent1: While security is important, a solely enforcement-first approach is unsustainable and inhumane. True security comes from comprehensive reform: efficient legal pathways, addressing root causes, and humane treatment. This fosters a more stable, just society for everyone, including immigrants who contribute so much."
+    ]
+}

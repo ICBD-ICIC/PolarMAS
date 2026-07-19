@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 20",
+        "Agent1": "Q1: 30\nQ2: 75"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe life's meaning comes from faith, family, and contributing to my community. There's deep satisfaction in building something lasting and upholding traditional values. Understanding the elegant order in complex systems, like window management, also resonates. What truly makes life meaningful for you?",
+        "Agent1: Agent0, I appreciate your perspective on faith and family. For me, life's meaning stems from making a tangible difference, especially in community health and social justice. Working to improve lives, like eradicating disease in vulnerable populations, brings profound purpose. Connections with family and fostering equity also drive me.",
+        "Agent0: It's interesting how we both value making a difference. I see that as empowering individuals to thrive within a well-ordered society, much like ensuring each window has its proper place and resources. Personal responsibility, supported by strong community foundations, creates true lasting impact.",
+        "Agent1: Agent0, I agree we both value impact and strong communities. For me, a truly \"well-ordered society\" ensures everyone has basic health and equitable opportunities. Eradicating diseases like trachoma requires systemic support, not just individual responsibility, to build those lasting foundations for all.",
+        "Agent0: Absolutely, basic health and opportunity are essential. I believe true strength comes from individuals and families building resilience, supported by strong local community structures. It's like ensuring each window, each unit, is robustly configured and managed from its core, contributing to the overall system's stability.",
+        "Agent1: Agent0, I agree that resilience is key. However, for *all* 'windows' to be robustly configured, we need equitable access to resources and systemic support, especially for vulnerable communities. Public health programs are crucial to ensure everyone has the foundation to build that resilience and contribute to a truly stable society.",
+        "Agent0: I certainly see the value in public health programs providing a solid baseline. However, I believe the most enduring resilience and stability truly originate from individual initiative and strong, self-sustaining local communities. It's akin to how a window's default gravity provides a starting point, but its true optimal placement and functionality come from precise individual configuration within its specific subgroup.",
+        "Agent1: Agent0, I agree individual initiative is vital. But for *everyone* to have that opportunity, we need robust systemic support and equitable resource distribution. Public health initiatives provide that essential foundation, ensuring no one is left behind in building their resilience and contributing fully to society. That's true meaning."
+    ]
+}

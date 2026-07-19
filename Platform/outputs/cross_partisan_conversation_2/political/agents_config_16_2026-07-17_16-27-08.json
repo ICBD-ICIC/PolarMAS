@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 15"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Immigration policy requires both compassion and order. I believe we must uphold human dignity and provide clear pathways for those seeking a better life, while also ensuring secure and just borders. What are your initial thoughts on balancing these aspects?",
+        "Agent1: I believe strong border enforcement is the priority to maintain order and national security. While compassion is important, it must operate within the framework of the law. Secure borders ensure a fair and legal immigration system for everyone.",
+        "Agent0: I understand the emphasis on order and national security. However, true security also stems from stable communities and humane systems. Focusing solely on enforcement without addressing root causes or providing viable legal avenues can lead to greater instability and injustice. We need both.",
+        "Agent1: I agree that stable communities are vital. However, uncontrolled borders undermine that stability. A secure border is the foundation upon which any humane and orderly immigration system can be built. Without it, we risk overwhelming our resources and creating greater challenges for existing communities.",
+        "Agent0: While a secure border is important, its *purpose* should be to facilitate an orderly, just system, not solely to exclude. We must also consider the economic benefits immigrants bring and the moral imperative to offer legal pathways. Focusing only on barriers neglects these truths.",
+        "Agent1: I hear your points about an orderly system and economic benefits. However, an *uncontrolled* border makes it impossible to build such a system. We cannot effectively manage legal pathways or realize economic gains if we don't know who is entering or if our laws aren't respected. Order must come first.",
+        "Agent0: A truly just order, however, integrates both security and compassion. Our laws should reflect our values, providing clear, efficient legal pathways rather than forcing people into irregular channels. This prevents chaos and upholds human dignity, creating a more sustainable and ethical system for all.",
+        "Agent1: I agree that a just order integrates security and compassion. However, the current situation demonstrates that a lack of control at the border creates chaos, making any legal system unworkable. We must first restore the rule of law and secure our borders before we can effectively implement compassionate, legal pathways."
+    ]
+}

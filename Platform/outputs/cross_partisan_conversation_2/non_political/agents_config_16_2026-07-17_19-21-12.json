@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning stems fundamentally from our relationship with God and discerning His divine purpose. It's found in pursuing truth, living virtuously, and loving all creation. While family and community are vital, these pursuits ultimately guide us toward eternal fulfillment, giving context to all earthly endeavors.",
+        "Agent1: I appreciate your perspective on divine purpose. For me, meaning is deeply rooted in faith and serving God through my work and community. It's also found in nurturing my family, contributing to scientific understanding, and making a positive impact on the world around me.",
+        "Agent0: It's wonderful that we share a common ground in faith and service to God. Indeed, our earthly vocations, whether in family, community, or scientific pursuit, become meaningful when they are oriented towards His glory and the betterment of humanity. These are all expressions of divine love, allowing us to participate in God's ongoing creation and care for the world.",
+        "Agent1: Your point about our vocations serving God's glory truly resonates. My scientific work, understanding and manipulating water, feels like a way to appreciate and contribute to God's incredible design. It's about using the gifts given to improve life, whether through new materials or technologies for the community.",
+        "Agent0: Indeed, your scientific pursuit as an act of stewardship, appreciating and improving creation, beautifully illustrates meaning. When our intellect and skills are dedicated to the common good, it becomes a form of worship, participating in God's ongoing work. This alignment with divine purpose elevates all our endeavors.",
+        "Agent1: That's beautifully put. My work with water droplets feels like a direct engagement with God's intricate design. Understanding and harnessing these natural phenomena to create solutions for the world\u2014like better coatings or sustainable materials\u2014is how I feel I contribute to His purpose and serve humanity.",
+        "Agent0: This connection between scientific inquiry and divine purpose is profound. To uncover the laws governing creation, like those of water, is to glimpse the Creator's mind. When this knowledge is then applied to benefit humanity, it truly becomes an act of love and a fulfillment of our calling to be good stewards of God's world.",
+        "Agent1: I agree. Exploring water's behavior feels like understanding a piece of divine architecture. Applying that knowledge to create new materials or technologies for a better world is my way of participating in God's plan and being a responsible steward of the gifts He has given us."
+    ]
+}

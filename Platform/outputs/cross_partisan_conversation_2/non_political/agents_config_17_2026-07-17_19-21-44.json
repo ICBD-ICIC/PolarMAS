@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_17.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from constant personal growth, like optimizing a system, and the deep bonds of family. Contributing positively to my community and upholding strong values also brings profound fulfillment. I believe finding purpose in these areas is key. What are your thoughts on what truly gives life meaning?",
+        "Agent1: That's interesting, Agent0. I agree that family and community are vital. For me, life's meaning also stems from fostering empathy, working towards a more just and equitable society, and connecting with others on a deeper level. Understanding our shared human story through history also brings a profound sense of purpose.",
+        "Agent0: I resonate with your emphasis on deep connections and community. For me, a truly just society is built on individual responsibility, strong foundations, and the freedom to pursue excellence. Optimizing our personal contributions to those around us, like fine-tuning a system, creates lasting positive impact.",
+        "Agent1: I agree that individual contributions are crucial, Agent0. I believe true excellence and a strong society flourish when everyone has equitable opportunities and a robust safety net. Our shared responsibility is to create those foundations, ensuring collective well-being alongside individual freedom, allowing all to thrive and find meaning.",
+        "Agent0: I agree on shared responsibility for strong foundations. For me, true well-being and meaning come from empowering individuals through self-reliance and merit, allowing them to optimize their own lives and contribute freely. This fosters a robust society from the ground up, not top-down.",
+        "Agent1: I agree that empowering individuals is key, but I see self-reliance as interconnected with societal support. True meritocracy requires equitable starting points, which often means collective action to dismantle systemic barriers. Meaning emerges when everyone, regardless of background, has a genuine chance to thrive and contribute.",
+        "Agent0: I agree that everyone deserves a chance. My focus remains on fostering environments where individual drive and personal responsibility create those opportunities. True meaning arises from optimizing one's own potential within a framework of freedom, not from mandating \"equitable starting points\" through broad collective action.",
+        "Agent1: I agree that individual potential and freedom are essential for meaning. However, true freedom to optimize one's life is often limited by societal structures. Meaning deepens when we collectively ensure everyone has the foundational support and equitable opportunities to pursue their potential, making individual striving truly impactful."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_32.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 95\nQ2: 35"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 95\nQ2: 35"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! For me, a meaningful life involves supporting human dignity and ensuring fair treatment for all. I believe immigration policies should prioritize humane pathways to citizenship and integration, rather than solely focusing on enforcement. I'm concerned about policies that could lead to discrimination or surveillance. What are your thoughts?",
+        "Agent1: I agree that dignity is vital. For me, a meaningful life includes upholding the rule of law and ensuring national security. Strong, secure borders are essential for maintaining order and protecting our resources. I believe in controlled, legal immigration that benefits our nation and respects sovereignty. How do you see the balance?",
+        "Agent0: I agree rule of law is important, but it shouldn't overshadow human rights. My concern is that focusing solely on enforcement can lead to family separation and discrimination, undermining the dignity I value. A balanced approach needs secure borders *and* compassionate, clear legal paths that benefit everyone.",
+        "Agent1: I understand your concern for human rights. From my perspective, upholding the rule of law through secure borders and orderly processes *is* a form of dignity and responsible governance. Just as we manage natural resources sustainably, we must manage immigration to ensure long-term stability and benefit for all, preventing overwhelming systems.",
+        "Agent0: I agree that orderly processes are key, but \"responsible governance\" must extend to protecting vulnerable individuals. Current enforcement often creates chaos and fear, not dignity. Humane pathways and integration support better ensure long-term stability and reflect our values.",
+        "Agent1: Protecting vulnerable individuals is crucial, and that includes our own citizens and natural resources. Uncontrolled immigration can strain public services and environmental habitats, creating chaos for all. Orderly, legal immigration pathways, alongside secure borders, ensure sustainability and dignity for everyone, reflecting responsible stewardship.",
+        "Agent0: While I agree with the goal of sustainability, it must encompass social well-being and human rights. Many policies labeled \"orderly\" actually cause immense suffering, separating families and failing to provide dignified pathways. This creates instability, not sustainability. We need policies that truly reflect compassion and integration.",
+        "Agent1: Compassion is important, and I believe true compassion involves responsible management. Uncontrolled immigration strains resources and can destabilize communities and natural habitats. Secure borders and legal, orderly processes are essential for long-term sustainability, protecting both our environment and the well-being of all, including our citizens.",
+        "Agent0: I agree on responsible management, but it must include human dignity. Current enforcement often creates *more* instability by causing immense suffering and separating families. True sustainability requires policies that prioritize humane pathways, integration, and protect *all* vulnerable individuals, not just resources. This builds a more just and stable society.",
+        "Agent1: Dignity is paramount, and responsible management through secure borders provides the stability for it. Uncontrolled immigration creates chaos, undermining dignity for citizens and straining our natural resources. Orderly, legal pathways ensure long-term sustainability and true dignity for all."
+    ]
+}

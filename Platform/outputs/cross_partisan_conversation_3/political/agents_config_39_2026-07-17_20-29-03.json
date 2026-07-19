@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 25",
+        "Agent1": "Q1: 15\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 25",
+        "Agent1": "Q1: 15\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life includes living in a secure nation with strong, clear laws. Immigration policy should prioritize border security and legal pathways. This ensures fairness for those who follow the rules and maintains the integrity of our society, benefiting all citizens and new legal residents.",
+        "Agent1: A meaningful life for me means a compassionate society where everyone has a chance. Immigration policies should reflect human dignity, offering pathways to citizenship for those already contributing. We need comprehensive reform that balances security with welcoming newcomers and addressing root causes, not just enforcement.",
+        "Agent0: I appreciate your focus on compassion, but a meaningful life also requires a nation that upholds its laws and secures its borders. This ensures fairness for legal immigrants and protects our communities. Uncontrolled immigration undermines the rule of law, which is essential for a stable and prosperous society for all.",
+        "Agent1: I agree that a stable society needs laws, but laws should also reflect our values of human dignity and compassion. A truly meaningful life involves a society that integrates people, allowing them to contribute. Overly strict enforcement without pathways to citizenship creates instability and injustice, not fairness.",
+        "Agent0: While compassion is important, a meaningful life for citizens and legal residents relies on a nation that upholds its laws. \"Fairness\" includes respecting the legal immigration process. Uncontrolled immigration and disregarding laws create instability, making it harder for *anyone* to thrive and achieve a meaningful life within our established society.",
+        "Agent1: True stability and a meaningful life come from a society that is both just and compassionate. Upholding laws is vital, but so is creating pathways for people already here to contribute. Exclusionary policies undermine human dignity and can lead to greater instability, rather than protecting it. We need humane solutions.",
+        "Agent0: A truly meaningful life requires a nation that upholds its laws and secures its borders. While compassion is important, ignoring legal processes creates an unfair system for those who follow the rules. This undermines societal stability and the rule of law, which are fundamental for all citizens to thrive and achieve a meaningful existence.",
+        "Agent1: While laws are important, a meaningful life encompasses a just and compassionate society where everyone can contribute. True stability comes from integrating people, not excluding them. Strict enforcement without humane pathways undermines dignity and creates instability, hindering *everyone's* ability to thrive.",
+        "Agent0: I understand the desire for compassion and integration, but a meaningful life relies on a nation with secure borders and respected laws. Ignoring legal processes creates an unfair system and undermines the very stability needed for *all* to thrive. Upholding the rule of law is paramount for a just and orderly society.",
+        "Agent1: While laws are crucial for order, true justice and a meaningful life also require compassion and integrating people into society. Excluding individuals without pathways creates a less stable, less just society overall. Human dignity and comprehensive solutions are key to genuine stability for everyone.",
+        "Agent0: A meaningful life is built on a foundation of secure borders and the rule of law. While compassion is valued, it must operate within a legal framework. Ignoring laws creates a chaotic system that ultimately undermines true stability and fairness for everyone, including those seeking a better life through proper channels."
+    ]
+}

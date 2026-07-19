@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_26.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing positively to community, fostering strong relationships, and continuous learning, especially about the human body and health. It's about making a difference and connecting with others. What are your thoughts?",
+        "Agent1: I agree on strong relationships, especially family. For me, meaning also comes from personal responsibility, working hard to provide, and upholding traditional values. Contributing to a strong nation and living by faith also gives life purpose.",
+        "Agent0: I agree that strong relationships are crucial. It's interesting how \"contributing to a strong nation\" resonates with my idea of positive community contribution, just on a larger scale. Personal responsibility in health and education also feels vital for a meaningful life.",
+        "Agent1: You're right, personal responsibility is key. It's about self-reliance, building a strong foundation for family, and contributing economically. That strengthens the nation from the ground up. And faith provides the moral compass for it all.",
+        "Agent0: Personal responsibility definitely extends to health. Understanding our bodies, like the intricate systems of the urinary tract or reproductive system, empowers us to make informed choices. This knowledge, for me, also connects to fostering well-being within the community, which aligns with building a strong foundation.",
+        "Agent1: Absolutely. Personal health responsibility is fundamental. It empowers individuals and strengthens families, which are the bedrock of a strong community and nation. Making informed choices, guided by sound principles, ensures self-reliance and contributes to the collective good.",
+        "Agent0: I agree. Informed choices, especially in health, come from education and access to reliable information. This knowledge, combined with community support, allows individuals to thrive and contribute to the collective good. It's a holistic approach to well-being that benefits everyone.",
+        "Agent1: Exactly. Education and reliable information are vital, especially when grounded in proven principles. And while community support is good, the strongest foundation for well-being starts with the family. Personal responsibility to seek truth and build a strong family unit ultimately strengthens society.",
+        "Agent0: I agree family is fundamental. For me, \"proven principles\" include scientific understanding of health. While family is key, robust public health systems and accessible education complement individual responsibility, ensuring everyone has the opportunity to build a strong, healthy life."
+    ]
+}

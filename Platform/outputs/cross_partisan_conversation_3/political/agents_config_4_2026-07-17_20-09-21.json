@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_4.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life includes compassion and providing opportunities. I believe in creating pathways to citizenship for immigrants already here, balancing enforcement with humane solutions. Data on crime rates often needs careful context; focusing on integration and rehabilitation benefits all.",
+        "Agent1: I believe a meaningful life is built on upholding laws and securing our borders. Strong enforcement is crucial. While compassion is important, it shouldn't override the rule of law. We need legal, orderly immigration, not pathways rewarding illegal entry, which can strain resources and threaten national security.",
+        "Agent0: I agree that order is important, but I believe a truly secure nation also ensures justice and opportunity for all. Humane pathways to citizenship can actually create more orderly systems, integrating people who contribute to our society rather than leaving them in the shadows. This strengthens communities and the rule of law.",
+        "Agent1: While I appreciate the sentiment of opportunity, true justice begins with the rule of law. Uncontrolled pathways encourage more illegal immigration, straining resources and overwhelming our systems. We must prioritize national security and legal processes. That's the foundation for a truly secure and prosperous nation for *everyone*.",
+        "Agent0: Meaningful security isn't just about walls, but about smart, humane policies. Creating clear, legal pathways isn't \"uncontrolled\"; it brings people into the system, allowing them to contribute taxes and labor. This actually strengthens our economy and reduces the burden on social services, fostering a more orderly and prosperous society for all.",
+        "Agent1: Legal pathways should be for those who follow the rules, not a reward for breaking them. Allowing mass legalization undermines sovereignty and national security. While contributions are welcome, they must come through an orderly, legal system that protects our borders and existing citizens first, not by normalizing illegal entry."
+    ]
+}

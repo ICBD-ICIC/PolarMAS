@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 90",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 90",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe we should focus on creating a pathway to citizenship for undocumented immigrants already here. It offers stability and allows them to contribute fully. I think it's more productive than just focusing on stricter enforcement. What are your thoughts on this approach?",
+        "Agent1: I appreciate your perspective. For me, securing our borders and enforcing existing laws must be the priority. We need to ensure a legal, orderly process. While I understand the desire for pathways, it shouldn't come at the expense of national security and the rule of law. What are your thoughts on border enforcement?",
+        "Agent0: I agree that an orderly process is crucial. However, I believe a truly effective system requires both secure borders *and* comprehensive immigration reform, including pathways to citizenship. Relying solely on enforcement can be costly and less humane. We need solutions that work for everyone.",
+        "Agent1: I understand the desire for comprehensive reform, but \"everyone\" includes citizens whose security and legal framework must be upheld. A pathway without secure borders incentivizes further illegal immigration, undermining the rule of law. Orderly, legal immigration is the foundation for a sustainable system.",
+        "Agent0: I agree citizen security is vital. However, a well-managed pathway to citizenship, alongside smart border management, can actually reduce undocumented immigration by providing a legal alternative. It also allows for better tracking and integration, benefiting our economy and society.",
+        "Agent1: While I see potential benefits in integration, the *order* is critical. Secure borders must be established first. A pathway without initial control risks incentivizing further illegal immigration, overwhelming our systems, and undermining the rule of law. We must prioritize legal, orderly processes.",
+        "Agent0: I understand your emphasis on order. My concern is that focusing *only* on enforcement creates a perpetual cycle and doesn't solve the root issues. A structured pathway to citizenship brings people out of the shadows and into a legal, orderly system, which can actually enhance security and economic contributions.",
+        "Agent1: I agree that bringing people out of the shadows is a goal, but it must be done legally and orderly. Without secure borders first, any pathway risks encouraging more illegal entries, undermining the very rule of law and national sovereignty we seek to uphold.",
+        "Agent0: I believe a pathway to citizenship, when properly managed, *is* part of creating a more orderly and secure system. It allows us to know who is here, integrate them, and reduces the incentive for unlawful crossings. It's not either/or, but a comprehensive approach that strengthens the rule of law."
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_23.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 30\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 50\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from family and contributing to my community, especially helping farmers thrive. Seeing the results of hard work and making a tangible difference is deeply fulfilling. What are your thoughts on what makes life meaningful?",
+        "Agent1: That's great, family and community are definitely key. For me, meaning also comes from pushing boundaries, like innovating in solar tech to build a sustainable future. It's about contributing to progress and leaving a better world for everyone, making a lasting positive impact.",
+        "Agent0: I agree, contributing to a better future is essential. My work helping farmers adopt sustainable pest management practices directly impacts food security and environmental stewardship. It's about practical solutions that ensure long-term health for our land and communities, leaving a strong legacy.",
+        "Agent1: I totally get that, a strong legacy through practical, sustainable solutions is vital. For me, that translates to developing clean energy that benefits everyone, not just local communities but globally. It's about using science to secure a future where resources are abundant and the environment thrives for generations.",
+        "Agent0: That global vision for abundant resources is something I connect with, especially concerning food. Ensuring farmers have the tools for sustainable yields locally directly feeds into that. It's about responsible stewardship of our land, ensuring prosperity for future generations through practical, science-based agriculture.",
+        "Agent1: Absolutely, responsible stewardship is crucial. For me, applying science to clean energy development is my way of ensuring future prosperity. It's about creating systems that provide energy without depleting resources, mirroring your commitment to sustainable agriculture on a global scale. Both are about securing our collective future.",
+        "Agent0: That's well said. Securing a prosperous future through responsible resource management is key. For farmers, that means economic viability alongside environmental health. It's about empowering individuals with the best science to make smart decisions for their land and livelihoods, ensuring true self-sufficiency.",
+        "Agent1: Exactly, empowering individuals through self-sufficiency is powerful. For me, that's creating accessible, decentralized solar energy systems. It allows communities and individuals to generate their own clean power, fostering independence and resilience, while also contributing to a healthier planet for all.",
+        "Agent0: I appreciate that focus on independence and resilience. For me, real meaning comes from individuals having the freedom and resources to thrive. Decentralized energy, like responsible farming practices, empowers people directly, building stronger, more self-reliant communities. It's about practical freedom and local control."
+    ]
+}

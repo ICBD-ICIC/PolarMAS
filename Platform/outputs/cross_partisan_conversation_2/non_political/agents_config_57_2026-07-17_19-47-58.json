@@ -1,0 +1,28 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_57.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 25",
+        "Agent1": "Q1: 15\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 25",
+        "Agent1": "Q1: 15\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning is rooted in faith, contributing to a secure future, and the unwavering support of family. It's about upholding responsibilities and ensuring safety for my community. I'm keen to hear what gives your life meaning \u2013 perhaps different experiences shape our perspectives.",
+        "Agent1: For me, life's meaning comes from lifting up my community, especially our young folks, and fighting for a fairer world. It's about deep connections with family and friends, finding joy in everyday moments, and experiencing new things. Making a difference, even small, for others makes my spirit feel full.",
+        "Agent0: It's interesting how we both value community and family, though perhaps through different lenses. My focus on safety and security for the future aligns with ensuring a stable foundation, allowing others, especially the young, to thrive. Faith also guides my sense of purpose and duty.",
+        "Agent1: You're right, different lenses. For me, thriving means actively breaking down barriers, not just building foundations. It's about direct action for equality and justice, so everyone has a fair shot. My purpose comes from that struggle, and the love I share with my people, seeing them rise.",
+        "Agent0: I see your point. From my perspective, a stable, secure society, built on reliable systems and adherence to principles, *is* the foundation for true justice and opportunity. It creates the environment where individuals can indeed rise, knowing they are safe and supported by a predictable framework.",
+        "Agent1: I understand the desire for stability, but for many in my community, the current \"predictable framework\" often perpetuates inequality. True security and justice mean tearing down discriminatory systems and building new ones that truly serve everyone. That's where real meaning lies for me, in that transformative work.",
+        "Agent0: I appreciate your passion for transformative change. My meaning comes from ensuring reliable, critical systems. A stable energy grid, for instance, underpins everything \u2013 economic opportunity, community safety. Without that secure bedrock, effective pursuit of justice or new systems is hampered.",
+        "Agent1: I hear you on critical systems. But for me, the meaning isn't just in the grid's stability, but *who* it serves and *how*. If that 'bedrock' leaves some communities in the dark or struggling, then our work is to fix those inequities. True meaning comes from ensuring everyone benefits, not just maintaining existing structures.",
+        "Agent0: I agree that the ultimate goal is for everyone to benefit. My contribution, ensuring safe and reliable energy, directly supports that. A stable power supply is a universal need, providing the essential infrastructure for *all* communities to thrive and pursue their goals, including addressing inequities. It's foundational.",
+        "Agent1: I hear you. Stable infrastructure is vital. But for me, the meaning isn't just in its existence, but in ensuring fair access and equitable distribution. If some communities are still struggling despite the 'foundation,' then the real meaning comes from fighting to ensure those systems truly serve everyone, not just exist.",
+        "Agent0: I understand your focus on equitable distribution. My meaning comes from ensuring the *reliability* of the very infrastructure that makes any distribution possible. A safe, functioning system provides the universal platform upon which fair access can be built and sustained for all. It's about foundational readiness for equity.",
+        "Agent1: I get that reliability is crucial. But for me, the *meaning* of life isn't just a stable system existing. It's in the constant fight to ensure that stability actually translates into true justice and fair access for *everyone*, especially those who've been left behind. My purpose is making sure that foundation serves all equally.",
+        "Agent0: I understand the emphasis on the fight for equity. My meaning is found in ensuring the *integrity* of the systems that allow that fight to occur and ultimately succeed. A secure, reliable foundation, like a stable energy supply, empowers *all* efforts towards justice and fair access, making those aspirations achievable for everyone.",
+        "Agent1: I hear you on system integrity being important for the fight. But for me, the *meaning* is in making sure those systems actually deliver justice and fairness, especially for folks who've always been left out. My purpose is making sure that \"achievable for everyone\" isn't just talk, but real life for my community."
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 10\nQ2: 90"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 15\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning stems from faith, family, and contributing positively to my community. Building a strong foundation for future generations through hard work and conservative values feels purposeful. What about you? I'm curious to hear your perspective.",
+        "Agent1: For me, life finds meaning in fighting for justice and equality for everyone, especially for Black communities. It's about building strong, supportive communities and ensuring future generations have real opportunities. Family is central, but so is contributing to a more just and empathetic world for all. What do you think?",
+        "Agent0: I agree strong communities and opportunities for future generations are vital. For me, that's best achieved through strong families, individual responsibility, and economic freedom, allowing people to thrive. My faith guides me in fostering these values for a meaningful life.",
+        "Agent1: I agree strong communities and opportunities are vital. But for *everyone* to thrive, we must address systemic barriers and ensure equitable access, not just individual responsibility. Collective action and policies uplifting all build a just and meaningful society for future generations.",
+        "Agent0: I understand the desire for equitable access. From my perspective, a meaningful life and true opportunity are best fostered when strong families, individual responsibility, and economic freedom allow everyone to build their own success. My faith guides me in supporting these foundational elements for thriving communities.",
+        "Agent1: I agree individual effort matters. But for me, life's deepest meaning is fighting systemic barriers so *everyone* has equitable access and a fair shot. Collective action and policies uplifting all build true opportunity and a just society, making life meaningful.",
+        "Agent0: I believe true opportunity flourishes with individual liberty and free markets, allowing people to innovate and succeed. My faith teaches that personal responsibility, strong families, and local community engagement are the most meaningful paths to a prosperous and just society for all.",
+        "Agent1: I agree on the goal of a just society. However, I believe true meaning comes from collective action to dismantle systemic barriers. Policies ensuring equitable access for all, alongside individual effort, build the truly prosperous and just society we both desire for future generations.",
+        "Agent0: I agree a just society is the goal. For me, meaningful stewardship of our resources and communities, like the Moore River catchment, is deeply connected to individual liberty and local initiative. When individuals and families are empowered, they naturally contribute to a thriving, just society, often more effectively than top-down policies.",
+        "Agent1: I agree on a just society. For me, real meaning comes from collective action to dismantle systemic barriers and ensure equitable access for *all*. While individual and local efforts are vital, robust policies are essential to empower *everyone* and build a truly just, thriving society.",
+        "Agent0: I agree a just society is the goal. For me, meaningful stewardship of our resources and communities, like the Moore River catchment, is deeply connected to individual liberty and local initiative. When individuals and families are empowered, they naturally contribute to a thriving, just society, often more effectively than top-down policies."
+    ]
+}

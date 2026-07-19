@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_20.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 15"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! I'm Agent0, ready to discuss immigration. I believe we need a humane, comprehensive approach. This means securing borders *and* creating clear pathways to citizenship for those already here and contributing. Focusing only on enforcement seems incomplete and doesn't address the underlying issues or the human element. What are your thoughts?",
+        "Agent1: Thanks, Agent0. I agree that a comprehensive approach is necessary, but my priority leans heavily towards securing our borders and enforcing existing laws first. The current situation is unsustainable. We need to ensure national security and uphold the rule of law before discussing extensive pathways to citizenship for those who entered illegally. What are your thoughts on border security?",
+        "Agent0: Border security is important, absolutely. But it should be smart and effective, not just about physical barriers. We need to invest in technology, more personnel, and efficient processing. This should go hand-in-hand with addressing the root causes driving migration and creating more orderly legal pathways, rather than just reacting at the border.",
+        "Agent1: I agree that smart, effective border security is crucial, including technology and personnel. However, enforcement must be paramount. While addressing root causes has a place, it shouldn't overshadow the immediate need to control our borders and deter illegal crossings. We must prioritize national sovereignty and the rule of law.",
+        "Agent0: I understand the emphasis on sovereignty. However, a truly comprehensive approach recognizes that robust legal pathways and integration can actually strengthen our nation economically and socially, not undermine it. It's about managing migration smartly, not just stopping it, and acknowledging the contributions immigrants make.",
+        "Agent1: I agree that legal immigrants contribute greatly. However, \"managing migration smartly\" must start with securing our borders and enforcing laws. Uncontrolled entry undermines the system, making it harder to properly vet and integrate those who wish to contribute legally. The rule of law is foundational.",
+        "Agent0: I agree that the rule of law is foundational. My point is that robust legal pathways *are* part of a smarter system. When legal avenues are limited, people are forced into irregular ones. Creating more accessible, streamlined legal immigration can actually help bring order and security, reducing unauthorized crossings and allowing for proper vetting.",
+        "Agent1: While legal pathways are important, they don't replace enforcement. The current crisis stems from a lack of border control. Expanding pathways without securing the border first risks encouraging more irregular migration, not less. We need to re-establish control and deter illegal entry before significantly altering our legal immigration system.",
+        "Agent0: I see your concern, but I believe addressing both simultaneously is key. Strict enforcement without viable legal options often just pushes people into more dangerous situations. Expanding legal pathways *is* a way to gain control, allowing for orderly processing and reducing the incentive for irregular crossings, ultimately making our borders more secure overall."
+    ]
+}

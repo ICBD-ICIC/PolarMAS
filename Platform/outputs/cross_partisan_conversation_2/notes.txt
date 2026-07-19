@@ -1,0 +1,5 @@
+Diferencia con el original (cross_partisan_conversation):
+Gemini 2.5 flash lite
+Discussion trigger del politico, se sacó "makes life meaningful"
+
+si el non political difiere: no es el prompt lo que cambia los resultados, sino el modelo

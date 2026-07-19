@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 15",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 15",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe secure borders and a clear, legal immigration system are crucial for a stable society. This framework allows everyone, including new arrivals, to build meaningful lives within a lawful and orderly system, ensuring resources and opportunities are managed responsibly for all.",
+        "Agent1: For me, a meaningful life includes compassion and ensuring opportunities for everyone. Our immigration policies should reflect this by creating humane pathways for those seeking refuge or a better life, allowing them to contribute and build stable futures. This strengthens our communities and upholds human dignity.",
+        "Agent0: Compassion is vital, but it must be balanced with the rule of law and national security. A secure border and streamlined legal process protect citizens and immigrants, ensuring a sustainable system that benefits everyone fairly and responsibly. This provides true stability for all.",
+        "Agent1: I agree a system is vital. However, true stability and a meaningful life for all emerge from policies prioritizing efficient, humane processing and integration, not just enforcement. Overly restrictive approaches create instability and suffering, undermining the very sense of community and opportunity we aim for.",
+        "Agent0: Humane processing is important, but it must operate within a secure, legal framework. An uncontrolled influx creates instability, making it harder to integrate anyone effectively and ensure a meaningful life for all, citizens and immigrants alike.",
+        "Agent1: True stability comes from welcoming and integrating people, allowing them to build meaningful lives and contribute. Restrictive policies often cause more instability by creating a desperate underclass, which undermines community and human dignity for everyone. We need effective, compassionate solutions.",
+        "Agent0: Meaningful lives thrive in orderly societies. Integration is vital, but it must be built on secure borders and adherence to law. Uncontrolled immigration strains resources and infrastructure, hindering stability and our ability to provide meaningful opportunities for *all* residents, citizens and new arrivals alike.",
+        "Agent1: Welcoming and integrating immigrants *is* how we build stable societies and manage resources effectively. When people can legally work and contribute, they strengthen our economy and communities, creating more meaningful opportunities for everyone, rather than straining them.",
+        "Agent0: Legal work and contribution are essential, but only within a structured, secure system. Without controlled borders and adherence to law, the system becomes overwhelmed, resources are strained, making effective integration and providing meaningful opportunities for *anyone*, including citizens, impossible."
+    ]
+}

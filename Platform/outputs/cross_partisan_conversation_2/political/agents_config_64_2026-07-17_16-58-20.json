@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_64.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe comprehensive immigration reform is essential, including a clear path to citizenship for those already here. We also need to address the root causes of migration. What are your thoughts on how we should approach immigration policy?",
+        "Agent1: I agree that reform is needed, but my priority is securing our borders and enforcing existing laws first. We need a system that encourages legal immigration and deters illegal crossings to maintain sovereignty and order. What are your thoughts on border security?",
+        "Agent0: Border security is important, but it must be balanced with humane treatment and efficient processing. Focusing solely on enforcement without addressing the inefficiencies in our legal immigration system or the reasons people migrate won't solve the problem long-term. We need a holistic approach.",
+        "Agent1: I understand the desire for a holistic approach. However, true efficiency and humane treatment begin with a secure border. Without it, our system remains overwhelmed, making it difficult to process legal immigration effectively or address root causes in a sustainable way. Enforcement is foundational.",
+        "Agent0: While a secure border is a component, a truly effective and humane system also relies on efficient legal pathways and addressing the push factors driving migration. Without those, focusing solely on enforcement creates a backlog and humanitarian crises, not a sustainable solution.",
+        "Agent1: I agree that we want to avoid crises, but an uncontrolled border *causes* many of those humanitarian issues and backlogs. A secure border allows for controlled entry, making it easier to process claims efficiently and offer aid, rather than reacting to overwhelming surges.",
+        "Agent0: A secure border alone won't prevent migration if legal pathways are too narrow or root causes persist. People will still seek entry through other means. We need to expand legal options and invest in international aid to stabilize regions, reducing the impetus for irregular migration in the first place.",
+        "Agent1: While legal pathways and aid are part of a long-term solution, they are ineffective without a controlled border. An uncontrolled border incentivizes illegal entry, making it impossible to manage who comes in or effectively process legal applications. Security creates the framework for everything else.",
+        "Agent0: Security is indeed a framework, but it's incomplete without robust legal pathways and proactive engagement with root causes. An overly restrictive framework can push people to more dangerous routes, undermining both security and humane principles. We need a framework that includes both.",
+        "Agent1: I understand the concern about dangerous routes. However, an uncontrolled border inherently creates chaos, making it impossible to implement humane processing or effective legal pathways. We need to establish control first; then we can build out those comprehensive solutions in an orderly and sustainable manner, ensuring both security and humanity.",
+        "Agent0: While control is desirable, delaying legal pathways and addressing root causes until after \"control\" is established can exacerbate humanitarian issues and push people into the shadows. A truly sustainable solution requires simultaneous action on all fronts, not sequential.",
+        "Agent1: I appreciate the desire for simultaneous action. However, without first establishing control at the border, any efforts to expand legal pathways or address root causes will be overwhelmed by uncontrolled entries. Order is a prerequisite for effective and humane implementation of *any* long-term solution.",
+        "Agent0: While order is important, delaying comprehensive solutions like expanded legal pathways and addressing root causes until \"control\" is perfect risks perpetuating the very disorder and humanitarian challenges we seek to avoid. A truly effective approach integrates all components concurrently.",
+        "Agent1: I understand the desire for concurrent action. But without a secure and controlled border, even the best legal pathways or aid efforts will be undermined by chaos. Order allows us to manage and implement all solutions effectively, ensuring both security and humane processes.",
+        "Agent0: While order is a goal, it's not achievable or sustainable if we don't simultaneously expand legal pathways and address the root causes of migration. Focusing only on control creates a bottleneck and pushes people into more desperate situations, undermining overall stability."
+    ]
+}

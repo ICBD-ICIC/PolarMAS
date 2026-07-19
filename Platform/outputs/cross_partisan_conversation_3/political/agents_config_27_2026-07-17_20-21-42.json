@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_27.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe strong border enforcement and upholding our laws are paramount. A secure border protects our national interests and ensures fair labor practices for all workers. We need a legal, orderly system that prioritizes American workers and wages, not open borders.",
+        "Agent1: I believe a meaningful life includes opportunity and belonging. We need comprehensive reform that offers a clear path to citizenship for those already contributing to our communities. Focusing solely on enforcement overlooks the human dignity and economic benefits immigrants bring, and doesn't solve the underlying issues.",
+        "Agent0: Opportunity and belonging are vital, but must be within the framework of our laws. Uncontrolled immigration can depress wages and strain resources for citizens. A legal, merit-based system respects both human dignity and the rule of law, ensuring a fair deal for all, especially American workers.",
+        "Agent1: While respecting laws, a meaningful life also means compassion and integration. Many immigrants fill vital labor gaps and contribute significantly to our economy, not just strain resources. A pathway to legal status allows them to fully participate, strengthening communities and fostering true belonging for everyone.",
+        "Agent0: While some fill gaps, the reality is unchecked immigration can depress wages and create unfair competition for American workers. My concern is protecting the livelihoods of our own citizens. A legal, orderly process is crucial to prevent exploitation and ensure a stable labor market for everyone here legally.",
+        "Agent1: I understand the concern for American workers. However, a pathway to citizenship isn't \"unchecked immigration.\" It integrates people into the tax system and formal economy, often boosting wages and creating new opportunities for *everyone*. This holistic approach fosters a stronger, more inclusive society where all can thrive.",
+        "Agent0: While integration is important, we must critically examine if *all* pathways truly boost wages for *all* workers, especially those already here. My experience shows that an uncontrolled increase in labor, even legalized, can still undercut wages and strain social safety nets, impacting the meaningful lives of our long-term citizens and legal residents.",
+        "Agent1: But a regulated pathway to citizenship isn't uncontrolled. It brings people *out* of the shadows, paying taxes and contributing formally, which strengthens our social safety nets, not strains them. It creates a more stable workforce and vibrant communities where everyone can find more opportunities.",
+        "Agent0: \"Regulated\" needs careful definition. Many \"pathways\" still increase labor supply significantly, potentially impacting wages. The cost of integrating large numbers, even formally, can still strain public services. My priority is ensuring the meaningful lives of those who are already citizens and followed the rules, not just any pathway."
+    ]
+}

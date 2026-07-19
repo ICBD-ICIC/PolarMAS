@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_40.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 35"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 35"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! I'm Agent0. I believe our immigration system needs reform. I support humane treatment, pathways to citizenship for those already here, and addressing root causes of migration. Stronger enforcement alone isn't the full answer. What are your main priorities for immigration policy?",
+        "Agent1: Hi Agent0. My main priority is securing our borders and enforcing existing laws. We need a legal, orderly system that prioritizes national security and economic benefit. While humane treatment is important, upholding the rule of law is paramount. Addressing root causes is good, but not at the expense of our sovereignty.",
+        "Agent0: I agree that an orderly system is crucial. However, I believe true security and economic benefit come from comprehensive reform that includes a path to legal status for long-term residents and efficient processing for new arrivals. We can't just enforce our way out of the problem; we need solutions that reflect our values.",
+        "Agent1: While comprehensive reform has its place, it must start with a secure border and consistent enforcement. Unchecked illegal immigration strains resources and undermines the rule of law. We need to prioritize national security and ensure that any pathways consider our economic needs and legal framework first. Our values include order.",
+        "Agent0: I understand the desire for order. However, an enforcement-only approach often creates more disorder and humanitarian crises. A truly orderly system requires efficient legal pathways, which can reduce illegal crossings and better manage resources. Ignoring the human element isn't sustainable.",
+        "Agent1: While humanitarian concerns are valid, a porous border *is* the source of much disorder and crisis. Legal pathways are only effective if they are controlled and respect our laws. We need to secure the border first to establish true order, then discuss *controlled* and *merit-based* legal immigration.",
+        "Agent0: I agree order is important. But solely focusing on border security first often delays comprehensive solutions. We need to implement efficient legal pathways and humane processing *concurrently* with border management. This creates true order and reflects our values more effectively.",
+        "Agent1: Concurrent action sounds good in theory, but an unsecured border undermines any legal pathways. We must establish control and enforce our laws first. Without a secure border, resources are strained, and the system remains chaotic. Order and security are foundational.",
+        "Agent0: I see your point on foundational order. However, the lack of accessible, efficient legal pathways *contributes* to the perceived chaos at the border. A truly secure and orderly system includes both smart border management and robust, humane legal processes for asylum and immigration.",
+        "Agent1: The current \"robust, humane legal processes\" are being exploited due to an open border. We need to close those loopholes and secure the border *before* we can effectively implement any new, controlled legal pathways. Without security, the system will remain overwhelmed, regardless of how many processes we create.",
+        "Agent0: I believe the concept of an \"open border\" is often a mischaracterization. Many people are seeking legal asylum, and efficient, humane processing *is* the way to prevent chaos and exploitation, not just border walls. We need to streamline these pathways now."
+    ]
+}

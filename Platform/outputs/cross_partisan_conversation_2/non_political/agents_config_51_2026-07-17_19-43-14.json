@@ -1,0 +1,27 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_51.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 25",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 25",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from building a strong family, working hard to provide for them, and contributing to my community. It's about securing a stable future and upholding timeless values. What do you think makes life meaningful?",
+        "Agent1: For me, life's meaning stems from contributing to the greater good, like ensuring public health through food safety. Building strong relationships with family and friends, continuously learning, and advocating for a more just and informed society are also incredibly important and fulfilling.",
+        "Agent0: That's interesting. I agree that strong relationships are key. Contributing to the greater good, for me, often means fostering a robust economy where businesses thrive, creating jobs, and people can build their own security. An informed society understands financial realities.",
+        "Agent1: I agree a strong economy is vital, but it's equally important that it prioritizes public health and safety. An informed society understands not just financial realities, but also the critical need for robust food safety regulations and hygiene. That foundation ensures everyone can thrive securely.",
+        "Agent0: Absolutely, public health is crucial. A strong, free-market economy empowers individuals and communities with the resources and innovations needed for top-tier healthcare and safety. Financial stability is the foundation upon which true societal well-being is built, enabling robust solutions.",
+        "Agent1: I agree financial stability is important, but a truly meaningful society ensures that economic growth doesn't come at the expense of public health and safety. Strong regulations and a focus on collective well-being are essential. That's where I find meaning \u2013 in safeguarding everyone's right to health.",
+        "Agent0: I agree that public health is paramount. For me, the meaning comes from empowering individuals to make healthy choices through a robust economy that provides access to quality goods and services, including healthcare. A free market drives innovation in safety, allowing people to secure their own well-being.",
+        "Agent1: While innovation in safety is valuable, its effectiveness is often realized through strong, enforced regulations that ensure widespread adoption and compliance. True well-being comes from a system where collective safety standards protect everyone, not just those who can afford \"quality goods.\"",
+        "Agent0: Collective safety is vital. A strong economy empowers individuals to invest in their own health and safety, driving innovation and access to superior solutions. Financial stability and personal choice are key to widespread well-being, not just regulations.",
+        "Agent1: I agree individual investment matters, but it's regulations that ensure a baseline of safety for all, like preventing widespread foodborne illness. Meaning comes from collective responsibility, ensuring everyone, regardless of their financial means, has access to safe food and a healthy environment. Personal choice is enhanced when fundamental safety is guaranteed.",
+        "Agent0: A robust economy is what *funds* those baselines and ensures superior options are available. Meaning comes from the freedom to choose, innovate, and prosper, which then elevates the collective. Regulations are important, but prosperity amplifies well-being for all far more effectively.",
+        "Agent1: Prosperity is valuable, but its true meaning is realized when it's channeled into safeguarding foundational public health, like preventing foodborne outbreaks. Regulations aren't just costs; they're vital investments ensuring that everyone, especially the most vulnerable, benefits from a truly safe and prosperous society. Meaning lies in that collective security.",
+        "Agent0: I understand the emphasis on collective security. For me, life's meaning is deeply tied to individual liberty and economic prosperity. When people are free to innovate and build wealth, they create the resources for better health, safety, and a stronger community for all, ultimately enhancing collective well-being."
+    ]
+}

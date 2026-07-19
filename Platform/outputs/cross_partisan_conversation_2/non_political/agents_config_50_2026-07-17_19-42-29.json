@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_50.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 88",
+        "Agent1": "Q1: 95\nQ2: 5"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from family and community, seeing how we support each other. Also, understanding the natural world, like how different species adapt and survive, gives life a deeper purpose. It\u2019s about contributing to something bigger than yourself. What do you think makes life meaningful?",
+        "Agent1: For me, the meaning of life is rooted in faith and the pursuit of truth, understanding the divine purpose. It's also about building a strong family, fostering individual responsibility, and contributing positively to society. Finding one's unique calling and striving for excellence in it brings deep satisfaction.",
+        "Agent0: I agree on family and contributing to society. For me, that contribution extends to understanding how all life connects, like in ecosystems. My work on salamanders, seeing how different genes mix and adapt, shows how we're all part of a larger, evolving story. That pursuit of understanding is my truth.",
+        "Agent1: I appreciate your perspective on understanding life's interconnectedness and the evolving story. For me, that 'truth' ultimately points to a Creator, a divine design within that intricate web. Our individual responsibility then becomes stewarding that creation and living out our purpose within its grand design.",
+        "Agent0: I see your point about a grand design. For me, that design is revealed through the intricate processes of evolution and ecology we observe. My purpose is to understand and protect those natural systems, like how hybrid salamanders adapt. It\u2019s about being responsible caretakers of the earth, ensuring its balance for all life.",
+        "Agent1: I agree on the importance of stewardship and understanding natural systems. For me, that responsibility stems from a divine mandate to care for creation. Our individual purpose is to honor that design, whether through science or faith, ensuring harmony and balance as intended by a higher power.",
+        "Agent0: I agree on stewardship and responsibility for creation. For me, that responsibility comes from understanding the evolutionary processes that shape life. Protecting biodiversity and ensuring ecological balance, like with our salamanders, is our duty for future generations, regardless of the ultimate origin.",
+        "Agent1: I agree on the duty of stewardship for future generations. For me, this responsibility is a divine calling, an inherent part of our purpose to honor the Creator's design. Our individual actions in protecting creation reflect that higher truth and our commitment to order.",
+        "Agent0: I agree on commitment to order and higher truth. For me, that order is the balance of ecosystems, and the truth is revealed through scientific understanding of evolution and adaptation. My work with salamanders shows how life finds its way, and our purpose is to support that natural resilience for all living things.",
+        "Agent1: I agree that life finds its way, and our purpose is to support natural resilience. For me, this resilience and the inherent order of ecosystems speak to a divine design. Our stewardship is a reflection of our responsibility to honor that creation, ensuring balance as intended by a higher power.",
+        "Agent0: I agree on supporting natural resilience and ensuring balance. My work with salamanders shows how life adapts and persists through genetic mixing. Our purpose is to understand these processes to effectively protect biodiversity, ensuring the Earth's health for everyone, driven by observable science and our shared responsibility.",
+        "Agent1: I agree on supporting resilience and protecting biodiversity. For me, the intricate adaptability of life, including genetic mixing, demonstrates a profound, intelligent design. Our shared responsibility stems from a divine mandate to steward this creation, honoring the Creator's wisdom and ensuring its order for future generations."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 30",
+        "Agent1": "Q1: 25\nQ2: 90"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 30",
+        "Agent1": "Q1: 25\nQ2: 90"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe securing our borders is paramount. We need stronger enforcement of existing laws to maintain sovereignty and national security. Any discussion about pathways to citizenship must begin with a fully controlled border, ensuring legal and orderly immigration processes. What are your thoughts?",
+        "Agent1: I understand the focus on border security. However, I believe we must also prioritize humane treatment and comprehensive pathways to citizenship for those already contributing to our communities. Focusing solely on enforcement overlooks the human element and the economic benefits immigrants bring. We need a balanced approach.",
+        "Agent0: I agree humane treatment is important, but that begins with a legal, orderly system. Uncontrolled borders invite chaos. We must prioritize stopping illegal entry and then discuss merit-based legal immigration. Economic benefits are maximized when laws are followed, not broken.",
+        "Agent1: While order is important, we can't ignore the millions already here. Many contribute significantly to our economy and culture. A holistic approach includes addressing their status, not just future entries. Focusing solely on enforcement risks separating families and disrupting communities. We need comprehensive reform now.",
+        "Agent0: Their contributions are noted, but the rule of law is foundational. Any path forward must deter future illegal immigration and not reward past illegal acts. Security must precede comprehensive reform, ensuring a system that serves our national interests first.",
+        "Agent1: The rule of law is vital, but so is human dignity. A path to citizenship isn't a reward; it's a practical solution for millions already here, integrating them fully into society. This strengthens our nation and economy, which *is* in our national interest. Comprehensive reform *is* security."
+    ]
+}

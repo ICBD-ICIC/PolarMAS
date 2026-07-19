@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe securing our borders and enforcing existing laws are crucial for national sovereignty and safety. A clear, legal process is essential for immigration, prioritizing those who follow the rules. It ensures order and fairness for all.",
+        "Agent1: I believe a comprehensive approach is needed. While border security is important, we must also create clear, humane pathways to citizenship for those already contributing to our society. Focusing solely on enforcement overlooks the economic benefits immigrants bring and the humanitarian aspects of their situations.",
+        "Agent0: I appreciate your focus on humane pathways. Yet, true humanity and fairness demand a system where everyone plays by the same rules. Overlooking our laws for those already here diminishes the sacrifices of legal immigrants and the very meaning of citizenship.",
+        "Agent1: I agree that rules are important, but the \"meaning of citizenship\" also encompasses compassion and integration. A system that acknowledges existing contributions and offers stability can enrich society, fostering a sense of belonging and shared purpose for everyone, not just those who arrived legally.",
+        "Agent0: While compassion is vital, a stable society is built on the rule of law. Uncontrolled immigration strains resources and undermines the legal system. True integration requires respecting our laws first, ensuring fairness and order for all who seek to build a life here through established channels.",
+        "Agent1: While I agree stability is vital, our laws should reflect humanitarian values and economic realities. Many undocumented individuals are essential workers and taxpayers. A pathway to legal status strengthens our economy and society, reducing instability by bringing people out of the shadows, not straining resources.",
+        "Agent0: Acknowledging contributions is fair, but *legal* status is paramount. Our system must prioritize those who enter lawfully. Unplanned immigration, regardless of contributions, still strains public services and creates an unfair situation for those waiting legally. It's about respecting the system.",
+        "Agent1: I understand the emphasis on legality and respecting the system. However, failing to integrate those already here creates a permanent underclass and *exacerbates* strain on public services and worker exploitation. A regulated pathway to legal status actually strengthens the system, making it more orderly and fair for everyone by formalizing contributions and ensuring accountability.",
+        "Agent0: While integration is a worthy goal, it must be predicated on legality. The strain on resources isn't lessened by formalizing *unlawful* presence; it's managed by controlling entry. True accountability begins with respecting the fundamental principle of legal immigration. That's the foundation."
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_52.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 50\nQ2: 50",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 50\nQ2: 50",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe a comprehensive immigration approach is key. It should balance secure borders with humane pathways to citizenship for those contributing to our communities. Integration and accessibility are important for all residents, fostering stable urban environments.",
+        "Agent1: I believe strong border security is paramount for national sovereignty and safety. We must enforce existing laws and ensure legal immigration processes are respected. An open border policy or widespread amnesty undermines the rule of law and can strain public resources.",
+        "Agent0: I agree that secure borders and respecting legal processes are vital. However, a system that only focuses on enforcement misses the human element. Well-managed, clear pathways for integration can actually strengthen communities and contribute positively to our urban and economic fabric, rather than just straining resources.",
+        "Agent1: I understand the desire for humane pathways. However, these must be legal and orderly. Uncontrolled illegal immigration strains our social services, schools, and healthcare, making it harder to provide for citizens and legal residents. Prioritizing enforcement ensures fairness and maintains a functional system.",
+        "Agent0: While managing resources is crucial, well-planned urban integration of immigrants, even those currently undocumented, can be an asset. Many contribute economically and culturally. A system that provides clear, legal pathways and support for integration can prevent strain and build stronger, more diverse communities.",
+        "Agent1: I agree immigrants contribute significantly. However, \"well-planned\" integration is only truly effective and sustainable when immigration is legal and controlled. Prioritizing border security and enforcing existing laws ensures fairness for those who follow the rules and protects our social services from being overwhelmed.",
+        "Agent0: While legality is key, creating *more efficient and accessible legal pathways* for those already contributing can transform \"uncontrolled\" into \"managed.\" This proactive approach, seen in urban development, can turn potential strain into positive growth, benefiting all residents and our infrastructure.",
+        "Agent1: Efficient legal pathways are good, but they must not reward illegal entry. Our focus must remain on securing borders and enforcing laws to prevent uncontrolled immigration in the first place, ensuring fairness for all who legally pursue citizenship.",
+        "Agent0: Fairness is vital. However, ignoring those already here isn't fair or practical for urban planning. A system that offers clear, accessible legal avenues for *existing* undocumented residents, alongside border security, can better integrate them, enhancing community stability and economic contributions without incentivizing new illegal entry.",
+        "Agent1: While I recognize the presence of undocumented individuals, any solution for them must be earned and not bypass the legal immigration process. Blanket amnesty undermines the rule of law and could encourage more illegal crossings. Secure borders and legal pathways for future immigrants remain our priority.",
+        "Agent0: I agree solutions must be earned and legal. However, for those *already* here and contributing, ignoring their status creates instability within our communities and urban fabric. Establishing clear, earned pathways for them, while maintaining border security, can foster truly integrated, stable environments for everyone.",
+        "Agent1: \"Earned\" pathways must not incentivize illegal entry or undermine the legal process. Our focus remains securing borders and enforcing laws to prevent uncontrolled immigration. Fairness demands we prioritize those who follow the rules and protect our social services from being overwhelmed.",
+        "Agent0: I understand the concern about incentivizing illegal entry and protecting services. However, a stable urban environment requires addressing all residents. Pathways for those *already* contributing, alongside robust border security, doesn't undermine legality but creates more integrated, functional communities, benefiting everyone."
+    ]
+}

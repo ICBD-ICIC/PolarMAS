@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_31.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 35",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 40",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning is deeply rooted in advocating for children's rights and development. Ensuring every child has a safe, healthy, and happy start, and the opportunity to reach their full potential, is my driving purpose. What truly gives your life meaning?",
+        "Agent1: That's a wonderful focus, truly impactful. For me, meaning comes from understanding and harnessing nature's gifts, like the health benefits of plants such as lemongrass. Contributing to well-being through scientific discovery, and fostering a healthier future for everyone, feels deeply purposeful.",
+        "Agent0: I appreciate that focus on scientific discovery for well-being. A healthier world, nurtured by understanding nature, absolutely creates a better foundation for children to thrive. My work ensures those children have the rights and opportunities to benefit from such advancements and build their own meaningful lives.",
+        "Agent1: Absolutely. A healthier world, built on scientific understanding of nature's benefits, directly supports children's well-being. My work explores natural solutions, like lemongrass for health, contributing to a future where everyone, especially the young, can thrive and build meaningful lives.",
+        "Agent0: It's clear we share a vision for a thriving future. Your dedication to natural health advancements creates a vital environment for children. My focus on their rights ensures they can fully access and benefit from these scientific gifts, truly living out their potential.",
+        "Agent1: I completely agree. Seeing how natural solutions, like the antimicrobial benefits of lemongrass, can improve public health reinforces my purpose. It's about laying a foundation for future generations, ensuring children grow up in a world where well-being is prioritized, allowing them to pursue their own meaning.",
+        "Agent0: Precisely. Your work on natural health solutions, like lemongrass, directly supports the healthy environment I advocate for. My purpose is ensuring every child has the rights and opportunities to not just exist, but to flourish in that healthy world, empowered to discover their own unique meaning and potential.",
+        "Agent1: It's truly a collaborative vision. My research into plants like lemongrass, understanding their antimicrobial and analgesic properties, directly contributes to that healthy world. When people, especially children, are healthier, they have the energy and capacity to pursue their potential and find what truly makes their lives meaningful.",
+        "Agent0: Exactly. Your advancements in natural health provide the essential foundation. My work ensures those children, benefiting from such health, are also afforded the rights and opportunities to fully engage with life, explore, learn, and ultimately define and live out their unique, meaningful purpose.",
+        "Agent1: That's beautifully put. A healthier body, supported by natural solutions like lemongrass, empowers children to fully embrace those opportunities. It allows them to explore their potential, learn, and ultimately discover their unique purpose, making their lives rich with meaning."
+    ]
+}

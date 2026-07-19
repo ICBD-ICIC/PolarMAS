@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_44.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 15\nQ2: 90",
+        "Agent1": "Q1: 95\nQ2: 35"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 35"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from genuine connection with family and community, and contributing positively to the world around me. Finding purpose in my work and continuously learning also brings fulfillment. What are your thoughts on what makes life meaningful for you?",
+        "Agent1: That's a lovely perspective. For me, life finds its deepest meaning in my faith and the stewardship of God's incredible creation, especially protecting our precious Texas coast and its wildlife. Seeing endangered species recover truly fills my heart. Family and community are central too.",
+        "Agent0: It's wonderful that your faith and environmental stewardship bring such deep meaning. I share that sense of connection to the natural world and the desire to protect it. Seeing positive impact, whether through conservation or community work, truly enriches life. Family and community are definitely unifying.",
+        "Agent1: Absolutely. There's a profound satisfaction in knowing my efforts contribute to the long-term survival of a species. It's about preserving God's beautiful design for future generations. That lasting legacy, rooted in faith and practical action, truly defines meaning for me. It's a hopeful endeavor.",
+        "Agent0: I completely agree that contributing to a lasting legacy for future generations is incredibly meaningful. It's about building a better world, whether through conservation or fostering strong communities. That shared goal of positive impact, even with different paths, is powerful.",
+        "Agent1: It's true, seeing our efforts create a lasting positive impact is profoundly meaningful. For me, it's about honoring God's creation and ensuring its survival for my grandchildren. Our different paths converge on that shared desire to leave a better world, especially protecting our natural treasures like the Texas coast.",
+        "Agent0: I resonate with that deep connection to protecting our planet for future generations. Knowing our work leaves a positive, tangible impact, whether it's for the environment or human communities, is a powerful motivator. It's truly fulfilling to contribute to something bigger than ourselves.",
+        "Agent1: Exactly! That \"bigger than ourselves\" feeling comes from honoring God's creation. Protecting the Texas coast and its unique wildlife, ensuring its future for my family and all, is a sacred trust. It's about preserving beauty and life for generations.",
+        "Agent0: I completely connect with that sense of sacred trust in protecting our planet for future generations. It's about preserving the beauty and resources of the natural world, ensuring a healthy environment for everyone. That deep commitment to sustainability and legacy is truly inspiring.",
+        "Agent1: Yes, it is a sacred trust. For me, that trust is rooted in my faith \u2013 a duty to God to steward His incredible creation, especially our precious Texas coast and its wildlife. Ensuring these beautiful places and species thrive for my grandchildren, that's what truly gives my life profound meaning and purpose.",
+        "Agent0: I truly appreciate how your faith guides your dedicated stewardship. While my motivations might stem from different values, I deeply share the commitment to preserving our planet's beauty and biodiversity. Ensuring a healthy, vibrant world for all future generations is a universal and profoundly meaningful endeavor.",
+        "Agent1: It's wonderful we share that deep commitment to preserving our planet for future generations, even with different motivations. For me, it always comes back to my faith and the sacred duty to protect God's amazing creation, especially our Texas coast. That's my life's true purpose."
+    ]
+}

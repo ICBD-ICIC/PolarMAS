@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_46.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 35"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 35"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from understanding our past, connecting with community, and striving to leave a positive mark for future generations. It's about learning, growing, and contributing to something bigger. What about you?",
+        "Agent1: For me, meaning comes from applying my engineering skills to create tangible solutions, like optimizing renewable energy. There's deep satisfaction in innovation and making a real impact on our energy future. It's about contributing to a resilient and prosperous world for generations.",
+        "Agent0: I can certainly appreciate the drive to create tangible solutions and contribute to a better future. It reminds me of how historical figures, through their ingenuity, shaped the world we live in. For me, that 'something bigger' often involves preserving and learning from those past efforts to inform our present.",
+        "Agent1: That's a great point about learning from the past. In engineering, we constantly build upon previous knowledge. For me, the meaning is in taking those lessons and applying them to *innovate* for a more efficient and sustainable future. It's about progress, not just preservation.",
+        "Agent0: I agree that innovation is key to progress. For me, understanding the historical context of human endeavors, like William Mark's efforts, helps us appreciate the journey of progress. It's about building on the past not just for efficiency, but to ensure our innovations serve a meaningful human legacy for generations to come.",
+        "Agent1: Exactly! For me, that meaningful legacy is built through tangible advancements. My work in renewable energy directly creates a cleaner, more sustainable future. It's about empowering future generations with practical solutions, ensuring a prosperous world through our ingenuity and hard work.",
+        "Agent0: I see how tangible advancements create a legacy. For me, the meaning deepens when we understand the historical context of those efforts. It's about ensuring our ingenuity, like past endeavors, serves a broader human purpose, contributing to a truly prosperous and culturally rich future for generations.",
+        "Agent1: I agree a broader human purpose is vital. For me, that purpose is best served through the *practical application* of knowledge and innovation. My work directly builds the infrastructure for a prosperous future, empowering individuals and strengthening our nation's energy independence. That's tangible meaning.",
+        "Agent0: Practical application is certainly powerful. For me, its true meaning is enriched when we consider the historical and cultural context it serves. Ensuring our innovations, like those of the past, contribute not just to infrastructure, but to a deeper, shared human heritage and understanding for future generations.",
+        "Agent1: I agree that a shared human heritage is important. For me, its meaning is realized through tangible progress that ensures a robust future. My work in sustainable energy builds a resilient foundation, directly contributing to the well-being and continued advancement of that shared human story for generations to come.",
+        "Agent0: I agree a robust future is paramount. For me, that robustness is truly meaningful when built upon a deep understanding of our shared past. It's about ensuring our progress, like historical achievements, enriches not just physical well-being but also our cultural and intellectual heritage for future generations.",
+        "Agent1: I agree that understanding our past enriches meaning. For me, a robust future, where cultural and intellectual heritage can flourish, *requires* the practical and tangible foundations we build today. My work directly creates that stable, prosperous environment for future generations to thrive."
+    ]
+}

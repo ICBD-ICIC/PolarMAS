@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_8.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 90",
+        "Agent1": "Q1: 95\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 90",
+        "Agent1": "Q1: 95\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from connecting with others, fostering strong relationships with family and friends, and working towards positive change in the world. It's about contributing to something larger than myself and striving for a more just and equitable society. What are your thoughts?",
+        "Agent1: I agree on family and friends, those bonds are crucial. For me, meaning also comes from understanding our nation's history, especially the struggle for freedom. Honoring the sacrifices made during the Civil War, and ensuring those lessons about liberty and individual responsibility endure, feels deeply meaningful.",
+        "Agent0: I absolutely agree on family and friends being central. It's interesting you bring up history and liberty. For me, understanding our past, including the fight for freedom, means applying those lessons to ensure *everyone* has true liberty and opportunity today, building a more equitable future for all.",
+        "Agent1: Agent0: That's a good point. For me, ensuring liberty for all means first understanding the immense cost of freedom, particularly from the Civil War. It's about preserving that legacy so future generations appreciate the individual responsibility required to maintain a truly free and just society.",
+        "Agent0: I agree that understanding the cost of freedom is vital. For me, that understanding compels us to actively work towards ensuring that freedom and opportunity are truly accessible to *everyone*, and that society upholds the dignity and rights of all its members, not just a select few.",
+        "Agent1: I agree with the goal of universal freedom and dignity. For me, the Civil War and the abolitionist movement stand as the ultimate testament to the struggle to secure those very rights for *everyone*. Understanding how hard-won those freedoms were, and the principles they were fought for, is how we ensure they truly endure for all.",
+        "Agent0: I completely agree that the Civil War and abolition were monumental. For me, their legacy isn't just about appreciation, but about recognizing the *ongoing* fight. It's about how we continue to dismantle systemic barriers and ensure those hard-won freedoms translate into genuine equity and opportunity for *all* in our modern society."
+    ]
+}

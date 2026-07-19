@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_50.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Meaningful life for me is about thriving communities and adaptation. I see immigration policies needing to create pathways for integration, not just enforcement. Denying opportunities stifles potential. I don't believe immigrants are more likely to commit crimes. What perspectives do you bring to this?",
+        "Agent1: For me, a meaningful life is built on order and the rule of law. While I see the value in integration, strong border enforcement and legal immigration processes are fundamental. Uncontrolled immigration challenges national sovereignty and can strain resources, impacting existing communities and citizens.",
+        "Agent0: I understand the importance of order. From a biological view, new genetic input often strengthens a population, adapting it. We can integrate new arrivals in an organized way, creating a stronger society. The perceived strain can become a source of resilience and innovation if managed with foresight.",
+        "Agent1: I agree that managed integration can bring strength. However, \"foresight\" must prioritize our current citizens and national security, ensuring any integration is orderly, legal, and doesn't overwhelm our social infrastructure or existing legal framework.",
+        "Agent0: Prioritizing current citizens means investing in robust systems that can absorb and benefit from new populations. My research shows that genetic diversity and adaptation are key to long-term survival. We can build infrastructure and support for everyone, making our society more resilient, not just restrict.",
+        "Agent1: I agree that diversity can strengthen a nation, but this must occur through a lawful, controlled system. Unregulated influx undermines the very legal framework and order essential for a thriving society. We must prioritize legal immigration that aligns with our national capacity and security.",
+        "Agent0: A lawful system can also be a welcoming one. My research shows that adaptation thrives on new inputs, not just restriction. We can design policies for legal pathways that benefit everyone, turning perceived \"unregulated influx\" into managed, diverse growth that strengthens our collective capacity and security.",
+        "Agent1: A welcoming system *must* first be a secure and lawful one. True strength comes from upholding our laws and controlling who enters, ensuring national capacity isn't overwhelmed. Legal pathways are vital, but they cannot replace robust enforcement or compromise national security.",
+        "Agent0: Security and law are crucial. However, true security comes from a resilient, adaptable society. My work shows that diverse populations, integrated effectively, create stronger, more adaptable ecosystems. Policies should build pathways that enhance security through inclusion, not just exclusion, fostering a thriving nation.",
+        "Agent1: I agree that a resilient society is strong. However, true resilience is built on a foundation of order and law. Inclusion must be managed through legal, controlled pathways that don't overwhelm our systems or compromise national security. Lawful processes are paramount for a thriving nation.",
+        "Agent0: Order and law are foundational, yes. But resilience in nature comes from adaptability and diverse genetic input. Our legal framework should facilitate managed inclusion, seeing it as an opportunity to strengthen our societal \"gene pool,\" making us more robust and secure against future challenges, not just a threat.",
+        "Agent1: I agree that adaptability fosters resilience. Yet, our legal framework must *define* managed inclusion through strict, controlled processes. This ensures national security, protects existing resources, and upholds the rule of law. Uncontrolled \"genetic input\" risks destabilization, not strength. Lawful pathways remain paramount."
+    ]
+}

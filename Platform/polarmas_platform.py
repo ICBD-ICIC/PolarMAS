@@ -7,6 +7,9 @@ from google.api_core.exceptions import ResourceExhausted
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.schema import SystemMessage, HumanMessage
 import json
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 class Agent:
@@ -46,7 +49,7 @@ class Agent:
             demographics (str): A second-person narrative string describing the agent's demographic background.
             is_observer (bool): Flag indicating whether the agent is an active participant or a passive observer in interactions.
         """
-        self.llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0.7)
+        self.llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.7)
         self.name = name
         self.political_standpoint = political_standpoint
         self.persona_description = persona_description
@@ -221,6 +224,7 @@ class Platform:
         full_path = os.path.join(path, full_filename)
 
         try:
+            os.makedirs(path, exist_ok=True)
             with open(full_path, 'w') as output_file:
                 json.dump(self.logs, output_file, indent=4)
             print(f"Run successfully saved to: {full_path}")

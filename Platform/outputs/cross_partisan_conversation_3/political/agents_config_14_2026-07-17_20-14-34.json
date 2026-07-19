@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 25"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! For me, a meaningful life involves compassion and community. Regarding immigration, I believe in comprehensive reform that prioritizes a pathway to citizenship for those already here, alongside efficient, humane border processing. I don't see immigrants as inherently more prone to crime. What are your thoughts?",
+        "Agent1: For me, meaning comes from innovation and upholding the rule of law. I believe strong borders and legal immigration are vital for national security and societal order. While I value contributions, a pathway to citizenship must be earned through legal channels. Enforcement is paramount.",
+        "Agent0: I agree that legal channels are important, but the current system is often insufficient and inefficient. True societal order also means integrating those who are already contributing, rather than leaving them in limbo. We need policies that reflect both security and human dignity, making legal pathways more accessible and efficient for everyone.",
+        "Agent1: While efficiency is desirable, it cannot compromise the rule of law. Uncontrolled immigration undermines the very legal framework that allows for a stable, innovative society. We must prioritize secure borders first, then streamline *legal* processes that uphold our sovereignty and ensure fairness to those who follow the rules.",
+        "Agent0: I agree that the rule of law is fundamental. However, our current legal framework for immigration is often rigid and doesn't reflect evolving human realities. A meaningful society should adapt its laws to ensure dignity and provide realistic, accessible pathways. True security and stability come from integrating people humanely, not just prioritizing exclusion.",
+        "Agent1: Adapting laws is part of a dynamic society, but it must happen through established legal processes, not by circumventing existing ones. A meaningful society upholds its laws. \"Realistic pathways\" must always mean *legal* pathways, ensuring fairness and maintaining the integrity of our system and national sovereignty.",
+        "Agent0: Laws are essential, but a meaningful society adapts them for compassion and efficiency. Our current system creates hardship. True integrity means creating new, realistic legal pathways reflecting human dignity and community, rather than just enforcing insufficient ones.",
+        "Agent1: Compassion is important, but true compassion and integrity lie in upholding the rule of law. Adapting laws should not mean weakening our borders or incentivizing illegal actions. New pathways must be strictly legal, fair to all, and prioritize national security and sovereignty. Our current laws protect our nation."
+    ]
+}

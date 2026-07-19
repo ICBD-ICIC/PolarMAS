@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_4.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe comprehensive immigration reform is essential, including clear pathways to citizenship and addressing root causes of migration. While enforcement is part of it, human dignity and economic contributions of immigrants are crucial. What are your thoughts on balancing enforcement with pathways to citizenship?",
+        "Agent1: I prioritize strong border security and upholding existing laws. Pathways to citizenship should only be considered after the border is fully secured, and strictly for those who follow legal processes. We must deter illegal entry first to maintain the rule of law.",
+        "Agent0: I understand the emphasis on border security and rule of law. However, I believe a purely enforcement-first approach overlooks the humanitarian aspect and economic realities. We need a system that is both secure and compassionate, integrating efficient legal pathways alongside border management to truly address the issue comprehensively.",
+        "Agent1: While compassion is important, a secure border *is* compassionate to citizens and legal immigrants. Prioritizing enforcement ensures fairness for those who waited legally. Economic realities also include the strain on resources. We need to secure the border first to create an orderly, legal system everyone can trust.",
+        "Agent0: I agree an orderly system is vital, but the current legal pathways are often incredibly slow and inaccessible. Many seeking refuge or better lives face impossible waits. We need to streamline legal immigration *while* managing borders, not just prioritize enforcement. A truly comprehensive approach integrates both.",
+        "Agent1: Streamlining legal pathways *after* securing the border makes sense. An open border policy creates chaos, making any legal system unmanageable. We need to demonstrate control over our borders first. Then we can discuss how to improve legal immigration in a secure, orderly manner that doesn't incentivize illegal crossings."
+    ]
+}

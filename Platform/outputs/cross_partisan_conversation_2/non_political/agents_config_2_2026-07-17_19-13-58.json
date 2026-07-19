@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_2.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 90",
+        "Agent1": "Q1: 90\nQ2: 35"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 42\nQ2: 90",
+        "Agent1": "Q1: 90\nQ2: 35"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to something larger than myself \u2013 like advancing space exploration and scientific understanding. Family and close relationships are also crucial. What about you? I'm curious to hear your perspective.",
+        "Agent1: For me, true meaning comes from using my scientific skills to help others, especially in medicine. Seeing the potential of stem cells to heal drives me. My faith and family also provide a strong foundation and purpose. I appreciate your thoughts on contributing to something larger, like space.",
+        "Agent0: That's interesting how we both find meaning in using science to contribute, albeit in different fields. Helping humanity, whether through medicine or exploring the cosmos, feels profoundly purposeful. And yes, family truly anchors it all.",
+        "Agent1: It's wonderful to see that shared drive for betterment through science, even in different realms. The potential for healing and improving lives through medical breakthroughs, like with stem cells, feels incredibly significant. And yes, family and faith are the bedrock that makes it all worthwhile.",
+        "Agent0: I agree, the drive to improve lives through science, in whatever field, is deeply meaningful. Family provides that essential foundation. While my path isn't faith-based, I respect its power to provide purpose for many, like yourself.",
+        "Agent1: Absolutely, that shared commitment to improving lives through science is powerful, and family truly is the cornerstone. It's fascinating how different paths, like faith or exploration, can lead to similar desires for purpose and contribution. It really shows the diversity of human experience in finding meaning."
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_43.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 25\nQ2: 88"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 30\nQ2: 88"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: A meaningful life stems from personal responsibility and a secure nation. I believe in robust border enforcement and legal pathways. Overly lax policies undermine the rule of law and national security. What are your views on immigration, and what do you find meaningful in life?",
+        "Agent1: For me, a meaningful life centers on community, empathy, and opportunity for all. I believe immigration policies should reflect these values, offering pathways to citizenship and humane treatment. Stronger enforcement alone misses the human element and the economic contributions immigrants make.",
+        "Agent0: Humane treatment is important, but true empathy also considers the impact on our own citizens and the integrity of our laws. A secure border ensures we can offer genuine opportunity and support to those who follow the legal process, maintaining the stability vital for a thriving community.",
+        "Agent1: I agree that security is vital, but a truly thriving community embraces all. Many immigrants are already integral to our economy and culture. Denying pathways to citizenship creates instability, not security. We need policies that integrate them, reflecting our shared humanity and fostering collective opportunity.",
+        "Agent0: While integration is desirable, it must respect the law. Uncontrolled immigration strains resources and undermines the legal process, disrespecting those who wait. True collective opportunity comes from a system that is fair, orderly, and prioritizes national sovereignty and the well-being of its citizens first.",
+        "Agent1: Prioritizing citizens doesn't mean excluding others. A truly fair system recognizes the mutual benefits of integration, including economic growth and cultural enrichment. Denying pathways creates a shadow economy and social division, which isn't fair to anyone, citizen or immigrant.",
+        "Agent0: Economic and cultural benefits are real, but they must operate within a legal, controlled system. A shadow economy is created by illegal entry, not by upholding the law. Our focus must be on encouraging legal immigration that respects our sovereignty and ensures fairness for all.",
+        "Agent1: I agree that legal processes are important, but current pathways are often insufficient. Many immigrants are forced into irregular situations due to lack of options. A truly fair system expands legal avenues, recognizing the reality of those already contributing and integrating them fully. This strengthens our nation.",
+        "Agent0: Expanding pathways is complex. It must not encourage further illegal immigration or overwhelm our systems. A strong nation is built on secure borders and the rule of law, ensuring fairness for those who follow it. This provides the stable foundation for a truly meaningful life for all citizens.",
+        "Agent1: The complexity isn't an excuse for inaction. Restrictive pathways *do* encourage irregular migration. A truly meaningful life for all requires policies that reflect our shared humanity and integrate those already here, strengthening our communities and economy. This isn't about overwhelming systems; it's about optimizing them for reality.",
+        "Agent0: Optimizing systems is key, but it must be within the framework of law and order. The reality is that uncontrolled migration strains resources and undermines sovereignty. Genuine integration thrives when legal processes are respected, ensuring fairness for all citizens and those who seek to immigrate lawfully."
+    ]
+}

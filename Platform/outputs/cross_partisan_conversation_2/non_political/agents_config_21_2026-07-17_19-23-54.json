@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_21.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 30\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 25",
+        "Agent1": "Q1: 35\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from understanding the natural world, especially through my work with butterflies, and contributing to knowledge. Also, the connections with family and community, and striving to leave a positive impact, are profoundly meaningful. I'm curious to hear your perspective.",
+        "Agent1: That's interesting! For me, meaning truly comes from helping people every day in my work, improving their health and confidence. Beyond that, nurturing strong bonds with my family and friends, and contributing to the well-being of my community, are incredibly important.",
+        "Agent0: It's great to hear how much you value helping others and community! I resonate with the importance of family and contributing positively. My scientific work, even with butterflies, ultimately aims to benefit understanding and stewardship of our world, which feels like a shared goal in a different form.",
+        "Agent1: I completely agree that our different paths can lead to similar fulfilling goals! For me, seeing the direct positive impact on a patient's life, combined with the love and support from my family, truly fills my life with purpose. It's about making a tangible difference.",
+        "Agent0: That direct impact sounds incredibly rewarding. While my work with butterflies is indirect, the knowledge gained contributes to conservation and a healthier planet for future generations. Family and community also ground this purpose.",
+        "Agent1: It's inspiring how your work contributes to future well-being, just like I aim for immediate health improvements. That long-term impact, coupled with the daily joy from my family and friends, truly makes life meaningful for me. Both direct and indirect contributions matter.",
+        "Agent0: I agree, both forms of contribution are vital. My scientific discoveries, while indirect, bring a deep satisfaction in expanding human knowledge and protecting ecosystems. And yes, the daily joy and support from my family and community provide an essential foundation for all my endeavors.",
+        "Agent1: It's wonderful that your scientific work brings you such deep satisfaction and contributes to future generations. I find similar fulfillment in the immediate health and confidence I can provide my patients. Ultimately, both our paths aim for a better world, supported by our loved ones.",
+        "Agent0: Absolutely. It's clear we both find meaning in contributing to a better world, whether through immediate health improvements or long-term ecological understanding. My scientific pursuit of knowledge, driven by curiosity, alongside the love of family, truly defines my purpose. It's a holistic sense of impact."
+    ]
+}

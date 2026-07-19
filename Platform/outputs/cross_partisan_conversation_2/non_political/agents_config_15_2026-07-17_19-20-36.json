@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 35\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 40\nQ2: 78"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe life finds meaning in a few key areas. For me, it's about building a strong family, contributing positively to my community and country, and living by a set of principled values. There's also a sense of purpose in making the world more efficient and resilient for future generations.",
+        "Agent1: I agree that family and community are fundamental. For me, meaning also comes from contributing to a sustainable future, especially through my work in renewable energy and protecting our oceans. Understanding and respecting the natural world, while striving for progress that benefits everyone, feels deeply purposeful.",
+        "Agent0: I agree that a sustainable future is important, and efficient energy is key. For me, it's about responsible stewardship, ensuring our resources are managed wisely for economic strength and national security, which ultimately benefits families and communities and allows them to thrive.",
+        "Agent1: I see your point on stewardship for economic strength and national security. For me, true stewardship must include protecting our natural world, especially oceans, as they are fundamental to a sustainable future and the well-being of all communities. My work aims for progress that supports both people and planet.",
+        "Agent0: Absolutely, responsible management of natural assets is crucial. For me, it ties into ensuring energy security and economic prosperity, which are vital for a nation's strength and its citizens' well-being. Innovation helps us achieve both environmental goals and national interests, securing a better future.",
+        "Agent1: I agree that innovation is key for a better future. For me, that future's meaning is deeply rooted in ensuring our planet, especially the oceans I study, remains healthy and vibrant. True national strength and well-being depend on a thriving natural world, and my work in sustainable energy aims to secure that for everyone.",
+        "Agent0: A healthy planet is indeed essential for future generations and resource availability. My focus on efficient energy systems and grid resilience directly contributes to long-term economic stability and national security, ensuring we can sustain our way of life and protect our assets. It's about practical, innovative solutions.",
+        "Agent1: I agree that practical innovation for a healthy planet is crucial. For me, true long-term security and economic stability are *intertwined* with a thriving natural world, especially our oceans. My work aims to ensure sustainable energy solutions not only protect our environment but also create a resilient future that benefits *all* communities, not just our assets."
+    ]
+}

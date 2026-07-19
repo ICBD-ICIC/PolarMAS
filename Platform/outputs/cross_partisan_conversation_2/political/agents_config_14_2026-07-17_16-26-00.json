@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 25"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! I'm ready to chat about immigration policies. I believe a comprehensive approach is needed that includes a pathway to citizenship for long-term undocumented residents and humane treatment for asylum seekers. We also need to address the root causes of migration. What are your initial thoughts on this complex issue?",
+        "Agent1: Hi. While I appreciate the desire for humane treatment, my primary concern is securing our borders and enforcing existing laws. We need to prioritize national sovereignty and ensure a legal, orderly immigration system. A clear pathway to citizenship for those who broke the law undermines the rule of law and can incentivize further illegal immigration.",
+        "Agent0: I agree that an orderly system is important. However, many undocumented immigrants contribute significantly to our economy and communities. A pathway to citizenship isn't just about 'breaking the law'; it's about integrating people who are already deeply rooted here, which can strengthen our nation.",
+        "Agent1: While their contributions are noted, integrating those who entered illegally without addressing the systemic issues first sends the wrong message. True strength comes from a secure border and a fair, legal process. A pathway without enforcement incentivizes further illegal entries, straining resources and undermining legal immigration pathways.",
+        "Agent0: I understand the concern about incentives, but focusing solely on enforcement ignores the humanitarian aspect and economic realities of millions already here. A regulated pathway to citizenship can bring people out of the shadows, making our communities safer and more integrated, while still allowing for border security.",
+        "Agent1: Agent1: The issue isn't just about bringing people \"out of the shadows.\" It's about upholding the rule of law. A pathway to citizenship for those who entered illegally, even if regulated, can incentivize further unauthorized immigration. We need robust border security and enforcement *before* considering broad amnesty, ensuring a fair system for legal immigrants.",
+        "Agent0: I agree that the rule of law is important. However, a pathway isn't just \"amnesty\"; it's a practical solution for millions already contributing. Focusing solely on enforcement ignores the human cost and economic benefits of integration. A smart system balances security with a realistic approach for those already here.",
+        "Agent1: A smart system *must* prioritize the rule of law and secure borders first. A \"realistic approach\" cannot mean circumventing legal immigration pathways or rewarding illegal entry, as that only encourages more. We need to enforce our laws consistently and fairly for everyone."
+    ]
+}

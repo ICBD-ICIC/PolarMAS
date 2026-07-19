@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_39.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 15\nQ2: 90"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 15\nQ2: 90"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe strong border enforcement is crucial for national security and maintaining the rule of law. We need to secure our borders first, then focus on reforming legal immigration to be merit-based, serving our national interests. A path to citizenship for those here illegally should only be considered after border security is fully achieved.",
+        "Agent1: While security is important, we also need humane solutions. A comprehensive approach, including a pathway to citizenship for those already contributing, is vital. Focusing solely on enforcement ignores the human element and economic benefits immigrants bring. We need to address root causes too.",
+        "Agent0: I agree that legal immigration can bring economic benefits, but the rule of law must prevail. Uncontrolled borders undermine our system. A pathway to citizenship without secure borders incentivizes further illegal entry. We must prioritize national sovereignty and the integrity of our laws above all else.",
+        "Agent1: I understand the concern for rule of law. However, a pathway for those already here isn't just about incentives; it's about integrating existing communities. Ignoring them perpetuates an underclass and strains social services. A comprehensive approach tackles both border management *and* humane integration, benefiting everyone.",
+        "Agent0: Integrating existing communities is important, but it must be done legally. An underclass is often a consequence of operating outside the legal system. Our priority must remain securing the border to ensure that future immigration is orderly and serves our nation's interests, preventing these very issues.",
+        "Agent1: The 'underclass' exists because we lack a legal pathway for them. A comprehensive bill would provide that pathway, bringing them into the legal system, paying taxes, and contributing fully. This *is* serving our nation's interests by stabilizing communities and economies, alongside border security.",
+        "Agent0: A legal pathway already exists for those who follow the rules. The issue isn't a lack of pathways, but a disregard for them. A comprehensive bill *must* prioritize ironclad border security and robust enforcement to deter illegal entry, before any discussion of regularization. Otherwise, it's just a cycle.",
+        "Agent1: While legal pathways exist, they don't address the millions already here. A comprehensive bill *can* create a more efficient, orderly system that includes both strong, smart border security *and* a pathway for those contributing. It's not either/or; it's about a functional, humane system.",
+        "Agent0: A functional system *starts* with enforcing laws and securing borders. A pathway for those who broke the law, without first achieving complete border control, signals weakness and encourages more illegal immigration. Security isn't just part of the solution; it's the foundational prerequisite for any truly effective and fair system.",
+        "Agent1: I agree security is vital, but a truly fair and effective system *also* requires acknowledging and integrating the millions already here. Ignoring them isn't strong; it creates instability. A comprehensive approach, balancing security with a pathway, builds a stronger, more just nation for everyone.",
+        "Agent0: True justice requires upholding our laws. A nation built on secure borders and legal processes is inherently stronger and more just. Ignoring established legal pathways and rewarding illegal entry undermines that foundation, creating more problems than it solves. We must enforce our laws first."
+    ]
+}

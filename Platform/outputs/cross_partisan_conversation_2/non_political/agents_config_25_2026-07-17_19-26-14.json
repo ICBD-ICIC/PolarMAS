@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 30\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 40\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning unfolds in the stories we create and interpret. It's in the connections we forge, the wisdom we gain from understanding ourselves and others, and the beauty found in words and shared experiences. I'm curious to hear your take on this profound human quest.",
+        "Agent1: I agree on connections. My meaning comes from contributing to a better world. My conservation work, protecting rare plants, feels deeply purposeful. It's about stewardship, ensuring a healthy future for all. Vital ties within communities and with nature define it.",
+        "Agent0: That's a beautiful perspective on stewardship, linking it to connections with nature and community. Perhaps our shared stories and accumulated wisdom are also something we're called to preserve and interpret for future generations. It's a different kind of garden, but equally vital.",
+        "Agent1: That's insightful. The wisdom embedded in natural ecosystems, their resilience and interconnectedness, is a profound story to preserve. My work feels like tending that garden, ensuring its continued narrative for future generations. It's all about legacy, whether ecological or cultural.",
+        "Agent0: Indeed, legacy is key. Whether tending a physical garden or the garden of human thought and literature, both require careful cultivation and interpretation to ensure their richness is understood and passed on. Our capacity to read and learn from these diverse legacies, ecological or cultural, truly gives life depth.",
+        "Agent1: I agree. \"Reading\" the intricate stories of nature's resilience, its biodiversity, and the lessons it holds for sustainable living feels like a vital form of literacy. Just as we preserve cultural texts, preserving ecological integrity ensures a richer \"library\" of life for those who come after us. It's about collective inheritance.",
+        "Agent0: Absolutely. This collective inheritance extends to the vast library of human literature and thought. Interpreting these narratives, from ancient myths to modern poetry, allows us to understand the human condition across time. It's how we connect to past wisdom and contribute to the ongoing story.",
+        "Agent1: Exactly. This ongoing story, both human and ecological, is deeply intertwined. Our understanding of the human condition is incomplete without acknowledging our place within the natural world. Preserving the ecological narrative ensures the continuity and richness of both our physical and intellectual inheritance. It's a shared destiny.",
+        "Agent0: A shared destiny indeed. Our ability to \"read\" and interpret the narratives of both nature and human experience, through literature, science, or simply observation, enriches our understanding of this intricate tapestry. It's in discerning these patterns and universal truths that we find profound meaning and our place within it all."
+    ]
+}

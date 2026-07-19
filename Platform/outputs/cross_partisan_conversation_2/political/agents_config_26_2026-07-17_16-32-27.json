@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_26.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe we need comprehensive immigration reform that includes a pathway to citizenship for undocumented individuals already here, alongside addressing root causes of migration. Focusing solely on enforcement isn't sustainable long-term. What are your initial thoughts on immigration policy?",
+        "Agent1: I prioritize strong border security and enforcing existing laws. Uncontrolled immigration strains resources and undermines the rule of law. While I understand the desire for pathways, it must be balanced with national sovereignty and legal processes. We need to secure our borders first and foremost.",
+        "Agent0: I agree border security is important, but it's one piece of a complex puzzle. A holistic approach includes smart enforcement, but also efficient legal pathways and addressing humanitarian concerns. We can't just build walls; we need solutions for those already contributing here.",
+        "Agent1: The rule of law and secure borders are non-negotiable. While some contribute, their presence without legal status undermines our system. We must prioritize stopping illegal entry and strengthening enforcement before considering any broad pathways. That's the only sustainable and fair approach.",
+        "Agent0: I understand the emphasis on the rule of law. However, a truly effective system *also* needs functioning legal pathways and a way to regularize those contributing to our economy. An enforcement-only approach isn't practical or humane for millions already here. We need both.",
+        "Agent1: While legal pathways are part of a future system, the current crisis demands immediate focus on enforcement. Without secure borders and consistent application of laws, any pathways become overwhelmed. We must reestablish control and deter illegal entry first to ensure any future system is orderly and fair.",
+        "Agent0: I agree that an orderly system is the goal. However, \"reestablishing control\" must include a plan for the millions already living and working here. Simply deterring new entries doesn't solve the existing humanitarian and economic realities. A comprehensive approach addresses both future entries and current residents.",
+        "Agent1: The humanitarian and economic realities are consequences of a broken system. My focus remains on fixing the *source* of the problem: unsecured borders and unenforced laws. Once control is firmly reestablished, then we can discuss future frameworks, but not before. Legal immigration must be the standard.",
+        "Agent0: I understand the desire for order. However, \"fixing the source\" can't ignore the millions already here. An enforcement-only stance without addressing their status isn't a complete solution. We need a comprehensive approach that includes smart border management *and* clear, efficient legal pathways for those contributing to our society."
+    ]
+}

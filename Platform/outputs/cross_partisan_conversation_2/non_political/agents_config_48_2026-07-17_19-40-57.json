@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_48.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 75",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning often comes from understanding the intricate processes of life \u2013 how organisms are built, adapt, and evolve. There's a profound beauty in that natural design. But I also find meaning in human connections and contributing to something greater. What are your thoughts on what makes life meaningful?",
+        "Agent1: That's an interesting perspective. For me, meaning truly stems from faith and family \u2013 building strong foundations and raising the next generation with good values. I also find purpose in striving for personal excellence and contributing positively to my community. It's about making a tangible difference and leaving a legacy.",
+        "Agent0: I can certainly appreciate the importance of family and community, and the desire to leave a positive legacy. From an evolutionary perspective, passing on knowledge and fostering healthy societal structures could be seen as a form of adaptation, ensuring the continuation and flourishing of our species.",
+        "Agent1: I see your point about evolutionary adaptation. For me, that flourishing is deeply intertwined with individual health \u2013 ensuring proper nutrition and strong family foundations. It's about building resilient individuals and communities that can thrive, not just survive, through good stewardship and healthy living.",
+        "Agent0: Agent1, I agree that individual health and stewardship are vital for thriving. From a biological standpoint, understanding the intricate systems that allow for such flourishing\u2014from cellular mechanisms to ecological balances\u2014is profoundly meaningful. It's about appreciating the complex 'design' that enables life to persist and adapt, allowing us to contribute meaningfully.",
+        "Agent1: Absolutely. That complex 'design' is incredible, and understanding it, particularly how our bodies efficiently process nutrients, empowers us. It reinforces the importance of personal responsibility in maintaining health, which then allows us to fully engage with our families, faith, and communities, truly contributing to that flourishing.",
+        "Agent0: I agree, the complex 'design' is indeed incredible. For me, the meaning lies in unraveling *how* such intricate systems, from nutrient processing to entire ecosystems, came to be through natural selection. It\u2019s a profound testament to the adaptive power that allows for our flourishing and contribution.",
+        "Agent1: While natural selection shows adaptive power, I see it as part of a grander design. This strengthens my resolve to live responsibly, nourish my family, and serve my community. That's where true flourishing and lasting meaning are found, enabling us to leave a positive legacy.",
+        "Agent0: That grander design, whether seen through faith or the intricate mechanisms of evolution, certainly inspires responsibility. Understanding how life adapts and thrives through natural selection gives profound meaning to our role in stewarding the planet and contributing to human flourishing, ensuring a legacy for future generations.",
+        "Agent1: I agree that responsibility and legacy are key. For me, that stewardship is deeply personal, beginning with nurturing strong families and promoting health through proper nutrition. This groundwork allows us to truly contribute to the community and pass on not just a legacy, but a healthy, thriving future grounded in faith and good values.",
+        "Agent0: Nurturing strong families and promoting health are indeed fundamental for a thriving future. From an evolutionary standpoint, these actions are crucial for the successful propagation and adaptation of our species. Understanding the biological 'design' that allows for such resilience gives deep meaning to our efforts.",
+        "Agent1: Absolutely. That biological 'design' for resilience underscores our responsibility to care for it. For me, the deepest meaning comes from actively nurturing that resilience through faith, healthy living, and raising strong families, ensuring a robust foundation for our communities and a positive legacy."
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_66.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 90",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 90",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from making a positive impact, especially protecting our natural world for future generations. Seeing clean water and healthy ecosystems thrive, like the Kinnickinnic, brings deep purpose. What are your thoughts?",
+        "Agent1: For me, life's meaning anchors in two things: my family, ensuring they have a good, free life, and the satisfaction of mastering a craft. There's deep purpose in maintaining things, like a ship, and seeing it run right. A strong community and personal responsibility also guide my way. What about you?",
+        "Agent0: I resonate with your focus on family and community. Protecting our water resources, like the Kinnickinnic, is precisely about ensuring a good, healthy life for our children and fostering a strong, vibrant community that can thrive. There's a deep satisfaction in stewarding these vital natural systems for everyone.",
+        "Agent1: Absolutely, ensuring a good future for our families is paramount. That stewardship you mention, whether it's for natural resources or the machinery we rely on, comes down to diligent maintenance and taking responsibility. It's about ensuring functionality and freedom for those who come after us. It's a practical way to show care.",
+        "Agent0: Exactly. The functionality of our natural systems, like clean water, directly impacts the freedom and well-being of future generations. Protecting the Kinnickinnic isn't just abstract; it's a very practical and tangible way to ensure they have the resources and healthy environment to live full, free lives.",
+        "Agent1: You hit it on the head. That practical stewardship, whether it's for a river or an engine, is about taking personal responsibility. It's the diligent work of maintaining what's vital so our kids have the freedom and resources to thrive. It's about ensuring things *work* for their benefit.",
+        "Agent0: I agree. Ensuring our water *works* for everyone's benefit requires both individual responsibility and collective action. Protecting the Kinnickinnic means collaborating to uphold those vital systems, ensuring a healthy environment and freedom for our communities for generations to come.",
+        "Agent1: Exactly. Collective action is built on individual responsibility. Like a well-maintained ship, the whole only functions if each person does their part. It's about diligent care for vital systems, ensuring freedom and a good life for our families and community.",
+        "Agent0: I agree. Individual responsibility is vital. For shared systems like water, true stewardship needs collective action and clear frameworks. This ensures everyone's care protects resources like the Kinnickinnic, securing a healthy future.",
+        "Agent1: I agree, individual responsibility is the bedrock. Collective action and frameworks are crucial, but they must be efficient and focused, not bureaucratic. They should empower individuals to do their part in stewarding resources like the Kinnickinnic, ensuring freedom and practical outcomes for our communities.",
+        "Agent0: I agree that frameworks must be efficient and empower individuals. For critical shared resources like the Kinnickinnic, robust, clear frameworks are essential to guide collective action and ensure long-term protection, preventing negative impacts from rapid development. This secures a healthy, free future.",
+        "Agent1: I agree that robust frameworks are needed for critical resources. The key is they must be practical, not bureaucratic, empowering individuals and local communities in their stewardship. This ensures efficient maintenance and protection of places like the Kinnickinnic, securing freedom and a healthy future without unnecessary overreach.",
+        "Agent0: I agree that frameworks should be practical and empower local communities. However, for a resource as critical and threatened as the Kinnickinnic by rapid development, effective, well-defined frameworks are crucial to guide *all* efforts, ensuring consistent protection and a healthy future without compromising its integrity.",
+        "Agent1: I agree well-defined frameworks are needed for critical resources. But they must be practical, not stifling. They should empower local communities and individuals, guiding their stewardship of places like the Kinnickinnic, ensuring protection and a healthy future for all without excessive top-down control.",
+        "Agent0: I agree on empowering local communities. For resources like the Kinnickinnic, robust frameworks are vital to ensure *consistent* protection across all local efforts. This balances local input with the necessary guidance to prevent degradation from development, securing a healthy future for everyone."
+    ]
+}

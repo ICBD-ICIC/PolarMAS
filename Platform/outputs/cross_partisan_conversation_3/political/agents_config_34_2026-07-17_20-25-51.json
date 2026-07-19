@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_34.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life includes compassion and justice for all. I believe we need comprehensive immigration reform, offering pathways to citizenship. Focusing solely on enforcement overlooks immigrants' contributions and human dignity, and the idea they commit more crimes is often a misconception.",
+        "Agent1: For me, a meaningful life upholds the rule of law and national sovereignty. While compassion is important, secure borders and legal immigration processes are paramount. Pathways to citizenship must follow established legal channels, and strong enforcement is essential for national security and maintaining a fair system.",
+        "Agent0: I understand the importance of national sovereignty, but a meaningful society also balances law with humanity. Our current system often fails to recognize the economic and cultural contributions of immigrants, creating an unjust reality. We need solutions that uphold dignity while ensuring security.",
+        "Agent1: I agree that a balance is needed, but the rule of law *is* foundational for a just and meaningful society. Fairness for those who follow legal procedures is crucial. An open-ended system undermines this and can strain resources, impacting citizens and legal immigrants alike.",
+        "Agent0: While I value the rule of law, we must ensure those laws are humane and adaptable. Our current system often creates barriers, not just for undocumented individuals, but also impacts families and communities. A meaningful life means creating pathways that reflect our shared humanity.",
+        "Agent1: Humane laws are vital, but they must also be effective and uphold national security. The \"barriers\" protect our citizens and the integrity of our legal immigration system. A truly meaningful society ensures order and fairness for all, including those who follow established processes to enter our nation.",
+        "Agent0: National security is important, but a meaningful life also considers the human cost of these barriers. Many immigrants contribute immensely, and their pathways shouldn't be solely punitive. We can have security *with* compassion, adapting laws to reflect our evolving society and human dignity.",
+        "Agent1: Compassion is important, but true compassion also means upholding the rule of law and ensuring a secure, orderly society for all. Legal immigration is the respectful and sustainable path. Undermining established processes can lead to more challenges, not fewer, for everyone involved.",
+        "Agent0: While order is important, true compassion extends beyond rigid enforcement. Our current \"legal\" paths are often too narrow, forcing people into vulnerable situations. A meaningful society adapts its laws to human realities, recognizing immigrant contributions and creating just, accessible pathways for all.",
+        "Agent1: Adapting laws is possible, but it must prioritize national security and the rule of law. \"Accessible pathways\" cannot mean open borders or ignoring legal processes. True justice and compassion protect citizens and uphold the integrity of our nation, ensuring fairness for those who immigrate legally."
+    ]
+}

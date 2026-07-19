@@ -1,0 +1,9 @@
+Diferencia con el original (cross_partisan_conversation):
+Gemini 2.5 flash lite
+
+el non political es lo mismo que el cross_partisan_conversation_2, asi que nos sirve para comparar si se comportan similar:
+* si no, habria que correr varias veces y hacer el avg (y ademas sirve de justificacion de por que tenemos resultados diferentes en el politico)
+
+podemos justificar las diferencias diciendo que:
+* correr varias veces el mismo modelo no da los mismos resultados
+* cambiar el modelo hace que haya cambios significativos

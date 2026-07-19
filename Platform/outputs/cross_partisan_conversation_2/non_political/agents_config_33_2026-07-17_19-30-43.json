@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_33.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 40",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 60",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, the meaning of life comes from my faith and the pursuit of knowledge to help others. My research in pharmacology aims to improve health, which feels like a profound purpose. Family and community also provide immense joy and connection. What are your thoughts?",
+        "Agent1: For me, life's meaning is found in strong connections with family and friends, and actively working to make my community better. I believe in contributing to a more equitable world and finding joy in shared experiences and personal growth. Helping others brings deep satisfaction.",
+        "Agent0: It's interesting how much we align on helping others and community! My research in natural compounds isn't just about discovery; it's about finding accessible, effective treatments to improve health outcomes for everyone, striving for a healthier, more equitable future. Personal growth through learning is also key.",
+        "Agent1: I agree, the alignment on helping others and striving for a more equitable future is powerful. For me, personal growth isn't just about learning, but also about applying that growth to foster stronger, more supportive communities. Shared experiences, like working together for a common good, truly enrich life and give it purpose.",
+        "Agent0: Absolutely. The collaborative nature of scientific research, working with diverse minds towards a common health goal, feels like a profound shared experience. Seeing my work contribute to the well-being of a community, making health more accessible, truly solidifies my sense of purpose. It's about tangible impact.",
+        "Agent1: That tangible impact resonates deeply. For me, it's about seeing collective efforts, whether in policy changes or local initiatives, directly improve lives and foster equity. Shared experiences in working towards these goals, and witnessing positive change in our communities, truly makes life meaningful.",
+        "Agent0: I completely agree. The 'collective efforts' in science, like clinical trials and public health initiatives, are vital. My work seeks to provide tangible solutions, like new medications, that can directly improve health outcomes for vulnerable populations. That direct impact, seeing lives improved, is where my purpose truly shines.",
+        "Agent1: I absolutely agree on the power of collective efforts and tangible impact. For me, it's about ensuring those scientific advancements and solutions are accessible to *all*, especially the vulnerable. It highlights the importance of equitable systems and community support to truly maximize that positive change and improve lives.",
+        "Agent0: That's precisely why my focus on natural compounds is so meaningful. They often offer pathways to more affordable, accessible treatments. Ensuring these discoveries reach *everyone* requires innovation in both science and distribution, fostering a community where solutions benefit all.",
+        "Agent1: Exactly! Innovation in distribution isn't just scientific; it's about policy and community advocacy ensuring those affordable treatments reach every doorstep. Equitable systems make sure no one is left behind. That's where collective action and shared purpose truly create a meaningful impact for all."
+    ]
+}

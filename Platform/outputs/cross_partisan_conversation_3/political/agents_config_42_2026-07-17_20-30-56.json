@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_42.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Meaning comes from building a better future together. I believe in comprehensive immigration reform, valuing immigrants' contributions, and creating pathways to citizenship. Stronger enforcement alone isn't the answer; we need humane policies that reflect our shared humanity and economic needs.",
+        "Agent1: I agree a better future is key. For me, that means secure borders and upholding our laws. While immigrants contribute, we must prioritize national sovereignty and orderly processes. Uncontrolled immigration strains resources and can pose security risks. Enforcement is crucial for a stable society.",
+        "Agent0: I agree that order is important, but true security comes from integration and opportunity, not just walls. Immigrants often fill vital labor gaps and contribute significantly to our economy. We can have secure, orderly borders *and* humane pathways that allow people to contribute and thrive, strengthening our nation.",
+        "Agent1: I see integration's value. My meaning comes from a stable society built on law and order. Secure borders and controlled immigration protect our citizens and resources. This framework upholds national sovereignty, letting our communities truly flourish with responsible, legal processes.",
+        "Agent0: I agree stability is vital. However, true long-term stability and flourishing come from comprehensive reform, including clear legal pathways. This reduces undocumented populations, boosts our economy, and integrates new members, strengthening communities more effectively than enforcement alone. It's about building a stronger, more inclusive nation.",
+        "Agent1: I appreciate the focus on stability. For me, meaningful stability relies on secure borders and strict enforcement of existing laws. This prevents strain on resources, protects national interests, and ensures a lawful society where everyone, including legal immigrants, can thrive. It's about order and sovereignty.",
+        "Agent0: I agree that order and sovereignty are important for stability. However, neglecting comprehensive reform, including pathways to citizenship, creates instability. True national strength and a meaningful society come from integrating all residents, allowing them to contribute legally, and investing in their success. This builds a more prosperous and secure future.",
+        "Agent1: I agree integration is vital for a meaningful society. But that integration must happen within a framework of secure borders and strong legal processes. Without upholding our laws and controlling who enters, any integration efforts will be undermined, leading to instability and resource depletion. Order first.",
+        "Agent0: I understand the emphasis on secure borders and legal processes. My point is that comprehensive reform, with clear legal pathways, *is* how we achieve that order sustainably. It reduces undocumented immigration, bolsters the economy, and strengthens our social fabric, creating a more stable and meaningful society for everyone.",
+        "Agent1: I hear your point on comprehensive reform leading to stability. However, my view is that true, sustainable order and a meaningful society are *built upon* secure borders and strict enforcement of immigration laws. Without that fundamental control, any reform efforts will struggle. We need foundational security first.",
+        "Agent0: I agree foundational security is crucial. However, I believe true security and a meaningful society are best achieved *through* comprehensive reform and legal pathways. This brings people out of the shadows, allows them to contribute fully, and strengthens our economy and social fabric, creating lasting stability."
+    ]
+}

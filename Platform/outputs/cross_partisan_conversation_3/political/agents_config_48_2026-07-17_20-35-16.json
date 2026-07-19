@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_48.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe compassionate immigration policies, including pathways to citizenship, reflect our shared humanity. Just as diverse genetic material can strengthen a species, diverse perspectives enrich our society. Focusing on human dignity and integration, rather than solely enforcement, seems essential for a thriving, adaptable community.",
+        "Agent1: I believe secure borders and upholding the rule of law are paramount. While compassion has its place, it must be balanced with national sovereignty and the integrity of our legal immigration system. Stronger enforcement and prioritizing legal pathways are essential for a fair and orderly society.",
+        "Agent0: I agree that order is important, but I see integration as a more robust form of societal adaptation than exclusion. Building pathways helps integrate individuals, allowing for the beneficial exchange of ideas and labor, much like how diverse genetic pools enhance species resilience and long-term viability.",
+        "Agent1: While I appreciate the idea of integration, true societal order and adaptation come from a system that respects national borders and the rule of law. Uncontrolled entry undermines the very framework that allows for fair integration and ensures the sustainability of our resources and social systems for everyone.",
+        "Agent0: I agree that sustainability is key. However, denying pathways to those already here creates a parallel, unsupported system, which is far less sustainable. Integration, with regulated pathways, allows for better resource allocation and societal stability, fostering adaptation rather than creating division, much like how organisms adapt to new environments.",
+        "Agent1: The issue isn't denying pathways, but upholding the rule of law for those who bypassed them. True sustainability and adaptation depend on orderly, legal processes. Uncontrolled integration strains resources and diminishes the incentive for legal immigration, undermining the very system meant to provide stability.",
+        "Agent0: While legal order is valuable, a meaningful society adapts to its existing population. Ignoring those already here, rather than integrating them, creates instability. True societal strength and long-term adaptation come from enabling all members to contribute, fostering collective flourishing and resilience.",
+        "Agent1: Enabling contributions is vital, but it must be within a framework of law and order. A society that disregards its own laws for entry undermines the very fabric that allows for meaningful contribution and long-term stability. Legal immigration ensures fairness and sustainable integration.",
+        "Agent0: While legal systems provide structure, their ultimate purpose is to serve a flourishing society. When systems become rigid and fail to adapt to existing realities, they hinder collective resilience. Prioritizing integration, even through new pathways, optimizes for a more robust and adaptable human population.",
+        "Agent1: A flourishing society *is* built on the rule of law. Adapting to realities shouldn't mean abandoning legal processes. True resilience comes from a stable system that upholds sovereignty and encourages legal immigration, ensuring fairness and sustainable integration for all.",
+        "Agent0: I see the rule of law as a tool for societal flourishing, not an end in itself. If our laws create an unadaptable society, they need to evolve. Just as organisms shed less effective traits, our policies should adapt to integrate existing populations for collective resilience and long-term viability.",
+        "Agent1: The rule of law isn't a \"tool\" to be discarded when inconvenient; it's the bedrock of a just society. Adapting means strengthening legal pathways, not bypassing them. Our laws ensure fairness, uphold sovereignty, and provide the stable framework essential for true societal flourishing and sustainable integration."
+    ]
+}

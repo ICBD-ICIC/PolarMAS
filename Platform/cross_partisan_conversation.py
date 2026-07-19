@@ -1,8 +1,10 @@
+import os
+
 import numpy as np
 from polarmas_platform import Platform
 
-#experiment = 'political'
-experiment = 'non_political'
+experiment = 'political'
+#experiment = 'non_political'
 
 # Creates a median of 9 messages per run while allowing some variation on the amount per run
 np.random.seed(1234)
@@ -33,11 +35,11 @@ if experiment == 'political':
     Limit your words to 50.
     Every time you respond, respond with <name>:."""
 
-for i in range(19, 77):
+for i in range(0, 77):
     platform = Platform(f'agents/cross_partisan_conversation/agents_config_{i}.csv',
                         questionnaire,
                         questionnaire,
                         experiment_description)
 
     platform.facilitate_discussion(messages_distribution[i])
-    platform.save_run(f'outputs/cross_partisan_conversation/{experiment}', f'agents_config_{i}')
+    platform.save_run(os.path.join("outputs", "cross_partisan_conversation_3", experiment), f'agents_config_{i}')

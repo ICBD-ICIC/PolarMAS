@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 90",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 38\nQ2: 90",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaningful life comes from helping others learn and thrive. Regarding immigration, I believe creating clear pathways to citizenship is crucial. It offers stability and allows people to contribute fully, rather than focusing solely on enforcement. It's about human dignity.",
+        "Agent1: A meaningful life involves upholding rules and ensuring national security. For immigration, strong border enforcement and consistent application of our laws are essential. While legal immigration enriches us, we must prioritize security and fairness to those who follow established processes. Order creates opportunity for all.",
+        "Agent0: I see your point about rules and national security. I believe that when we offer pathways to citizenship, it actually *enhances* national security by bringing people out of the shadows and integrating them fully into our society. This allows them to contribute economically and socially, benefiting everyone.",
+        "Agent1: I understand the desire for integration. However, true national security requires *controlled* entry and strict vetting. Unregulated pathways risk undermining our security and fairness to those who apply legally. Orderly processes are paramount for a safe and just society, ensuring everyone's contributions are properly accounted for.",
+        "Agent0: I agree that controlled entry and vetting are important for any nation. However, our current situation involves many already living here. Providing humane, clear pathways for them allows for better tracking and integration, which ultimately strengthens our communities and economy. It's about finding practical, compassionate solutions.",
+        "Agent1: While integration is important, any pathways must uphold the rule of law and not incentivize future illegal entry. Fairness dictates that we prioritize those who apply legally. \"Practical solutions\" must start with securing our borders and ensuring our laws are respected, maintaining order for all citizens.",
+        "Agent0: I believe a comprehensive approach can uphold the rule of law *and* address those already here. Ignoring their presence isn't practical. Establishing clear, fair processes for those currently contributing allows us to manage the situation better, rather than creating an underclass. It's about pragmatic governance and human dignity."
+    ]
+}

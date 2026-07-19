@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_22.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 95\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 95\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from creating opportunities, especially for young women in tech. Seeing them thrive and build the future gives me immense purpose. It's about collective progress and leaving a positive mark on the world, alongside my community and loved ones. What are your thoughts?",
+        "Agent1: For me, meaning is found in the honest work of my hands, the satisfaction of mastering a craft like shaping steel, and creating tools that endure. Providing for my family through this tangible contribution, and seeing the practical value of what I make in the world, gives me profound purpose. It's about building things that last.",
+        "Agent0: I appreciate the focus on building tangible things that last. For me, it's about building *futures* that last. Equipping young women with tech skills creates enduring innovations and opportunities. It's empowering them to craft their own lasting contributions, not just for themselves, but for their families and the broader community.",
+        "Agent1: Building futures is vital, and I see my craft as providing the very foundation for them. The physical tools and durable parts I create are essential for any innovation, including tech. My work ensures the practical means by which those future contributions, for families and communities, can actually be built and sustained.",
+        "Agent0: I agree that strong foundations are crucial. My focus is on the human foundation\u2014equipping diverse minds, especially women, to innovate. Their ideas and skills are the true tools that build lasting progress, driving society forward and creating new industries, which ultimately benefits all families and communities.",
+        "Agent1: Absolutely, human ingenuity is paramount. But those innovative minds still rely on the robust tools and machinery forged from my craft. It's the practical, durable infrastructure that allows their brilliant ideas to move from concept to reality, building those new industries and benefiting everyone in a tangible way.",
+        "Agent0: I completely agree that tangible infrastructure is vital. But the *vision* and *direction* for how those tools are used come from human innovation. Equipping diverse talent, especially women in tech, ensures we're building the *right* futures, not just any future. Their creativity is the ultimate engine of progress.",
+        "Agent1: Vision is crucial, indeed. But even the grandest vision requires the physical means to manifest. My craft provides the hardened steel and precision parts that literally build the infrastructure and machines for any future, ensuring those innovative ideas can actually be realized and stand the test of time.",
+        "Agent0: I agree, physical means are essential. But my meaning comes from ensuring *who* is shaping those visions and utilizing those means. Empowering women in tech isn't just about building, it's about building with diverse perspectives to create a more equitable, innovative future for all, giving purpose to the very infrastructure you craft."
+    ]
+}

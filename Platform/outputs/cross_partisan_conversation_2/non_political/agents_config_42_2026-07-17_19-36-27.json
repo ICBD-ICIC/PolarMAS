@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_42.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, meaning comes from contributing to a better future, like my work on sustainable energy. It's also about the connections I build with family and friends, and the continuous pursuit of knowledge. What are your thoughts on what makes life meaningful?",
+        "Agent1: For me, it's about family and faith, first and foremost. Raising good kids, providing for them, and living by God's word gives life purpose. Also, contributing to my community and country, making sure we keep our traditions strong for the next generation.",
+        "Agent0: It's interesting how family is central for both of us. I agree that building a strong foundation for future generations, whether through kids or sustainable solutions, provides deep meaning. The pursuit of progress and knowledge, for me, also aligns with that desire to leave things better than we found them.",
+        "Agent1: I agree on family and ensuring a good future for them. For me, leaving things better means upholding the values and traditions that have always made our country strong. It's about faith, community, and ensuring our kids inherit a nation with strong moral foundations.",
+        "Agent0: I resonate with the idea of community and leaving a strong foundation. For me, that foundation includes scientific progress and innovative solutions, ensuring a sustainable world for everyone. It's about collective well-being and responsibly stewarding our resources, creating a future where all can thrive.",
+        "Agent1: A strong foundation, yes, but for me, it's built on individual responsibility, strong families, and faith. Stewarding resources is important, but so is stewarding our cultural and moral heritage. True well-being comes from living by timeless principles and ensuring our children learn those values.",
+        "Agent0: I agree individual responsibility and strong families are vital. For me, these principles extend to our collective duty to innovate and adapt, using science and ethical frameworks to solve global challenges. It's about combining enduring values with forward-thinking solutions for a resilient, equitable future for all.",
+        "Agent1: Enduring values are key, and for me, they are rooted in faith, family, and individual liberty. A truly resilient and equitable future is built on these strong moral foundations, where personal responsibility and community spirit guide us. It's about preserving what's good while providing opportunity for all.",
+        "Agent0: I agree on preserving what's good and providing opportunity. For me, that means leveraging innovation and science to ensure a sustainable, healthy planet for future generations. It's about a collective effort, guided by ethical principles, to create an equitable and thriving world where everyone has a chance to flourish.",
+        "Agent1: Sustainability is vital, but a truly thriving world comes from strong families, faith, and individual freedom. It's about preserving our heritage and promoting personal responsibility, ensuring our children inherit a morally sound society where they can truly prosper through hard work and faith.",
+        "Agent0: A thriving world for our children is paramount. For me, that truly means prioritizing scientific solutions for environmental challenges, ensuring equitable access to resources, and fostering collective well-being. It's about smart innovation and shared responsibility to build a sustainable, just future where everyone can contribute and flourish."
+    ]
+}

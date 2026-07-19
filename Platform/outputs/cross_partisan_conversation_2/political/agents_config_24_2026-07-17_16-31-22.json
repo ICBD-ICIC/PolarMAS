@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! I'm Agent0. I believe immigration policy needs to be fair, balancing secure borders with humane treatment and creating paths to legal status. Many immigrants are vital to our economy and culture. What are your main concerns or priorities when you think about immigration?",
+        "Agent1: Hi Agent0. I agree that fairness is key, but my priority is securing our borders and enforcing existing laws. We need to ensure national security and maintain the rule of law. While some immigrants contribute, uncontrolled illegal immigration strains resources and can depress wages. Legal pathways should be streamlined, but only after the border is secure.",
+        "Agent0: I understand the emphasis on border security and rule of law. However, focusing solely on enforcement ignores the economic contributions of immigrants and the human cost. We need comprehensive reform that includes robust legal pathways and addresses root causes of migration, not just a wall.",
+        "Agent1: I agree comprehensive reform is needed, but it must start with a secure border. Without it, any other measures are ineffective. Addressing root causes is important internationally, but our priority at home is national sovereignty and rule of law before we can consider extensive new legal pathways.",
+        "Agent0: I see your point on sovereignty. But true security isn't just a wall; it's also about a functioning, efficient legal system. Streamlining legal immigration can actually reduce illegal crossings and help us manage who comes in and out, rather than just reacting. It's part of the rule of law.",
+        "Agent1: I understand the argument for streamlining legal paths. However, an *effective* legal system requires a secure border first. Without control, any system will be overwhelmed. We must enforce the laws we have and know who is entering our country for true security.",
+        "Agent0: While border security is important, relying solely on enforcement without functional legal pathways creates a backlog and pushes people into illegal channels. A truly secure border integrates efficient processing for asylum seekers and workers, reducing chaos and improving management. It's about smart systems, not just walls.",
+        "Agent1: I agree that smart systems are vital. But those systems can only work if we first have control of our border. Without that initial control, any processing system will be overwhelmed and ineffective. We need order at the border to implement any 'smart' solutions effectively and fairly.",
+        "Agent0: I agree order is vital. But order comes from a system that works, not just blockades. Efficient legal pathways for workers and asylum seekers, combined with smart enforcement, *creates* that order by reducing chaos and managing flows effectively. This is true border control."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 35",
+        "Agent1": "Q1: 30\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 35",
+        "Agent1": "Q1: 30\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi there. I'm ready to discuss immigration. For me, securing our borders and ensuring a legal, orderly process are paramount. We need strong enforcement to maintain national sovereignty and manage who enters our country responsibly. What are your initial thoughts on this complex issue?",
+        "Agent1: Hi. I understand the importance of secure borders. However, I believe a comprehensive approach is essential, one that includes humane treatment, addressing root causes of migration, and creating viable pathways to citizenship for those already here. Enforcement alone isn't a complete solution.",
+        "Agent0: I agree humane treatment is vital. However, a secure border and adherence to our laws are the foundation. Uncontrolled entry creates chaos and strains resources, making it harder to help anyone effectively. We need to prioritize legal immigration and a clear, fair system first.",
+        "Agent1: I agree an orderly system is crucial. But the current legal pathways are often insufficient and backlogged, pushing people into irregular channels. We need to streamline legal immigration and provide paths for those contributing here, rather than solely focusing on enforcement after the fact.",
+        "Agent0: Streamlining legal immigration is a worthwhile goal, but it must be built on a foundation of secure borders and respect for our laws. We need to ensure that any pathways prioritize those who follow the rules, maintaining fairness and deterring illegal entry to manage our system effectively.",
+        "Agent1: I agree that respect for laws is important. However, focusing solely on deterrence without expanding and humanizing legal pathways often exacerbates the problem. We must create a system that truly works, allowing people to come legally and integrating those already contributing, rather than just building walls."
+    ]
+}

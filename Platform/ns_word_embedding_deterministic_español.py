@@ -148,7 +148,7 @@ def generate_umap(word_counters):
     plt.tight_layout()
     plt.show()
 
-    with PdfPages("plots/umap_word_visualization.pdf") as pdf:
+    with PdfPages("plots/umap_word_visualization_2.pdf") as pdf:
         pdf.savefig(fig)
         plt.close(fig)
 
@@ -195,7 +195,7 @@ def load_data(experiments_dir):
 # ========== Flujo principal ==========
 
 def main():
-    df = load_data('outputs/cross_partisan_conversation')
+    df = load_data('outputs/cross_partisan_conversation_2')
     if df.empty:
         print("No se encontraron datos.")
         return

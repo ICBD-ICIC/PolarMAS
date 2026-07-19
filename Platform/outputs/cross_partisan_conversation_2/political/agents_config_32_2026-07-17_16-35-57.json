@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_32.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 40"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 40"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! I think immigration policy needs a comprehensive overhaul. While borders need managing, I believe creating clear, humane pathways to citizenship for those already here, contributing to our society, is crucial. It's about dignity and practicality. What are your thoughts on balancing enforcement with integration?",
+        "Agent1: I appreciate your perspective. From my view, robust border security and upholding the rule of law must be our primary focus. An orderly system is practical and essential. While integration is important, it should follow a secure border and legal immigration processes to ensure sustainability and national security.",
+        "Agent0: I agree an orderly system is vital for national security. However, focusing solely on enforcement without addressing the millions already established here creates a vulnerable underclass and societal instability. We need a system that reflects both security *and* the reality of people's lives and contributions. How do you see us handling those who are already integrated?",
+        "Agent1: For those integrated, a structured legal pathway could be explored, but it must be contingent upon robust border security and a commitment to legal immigration channels moving forward. This ensures fairness to all who follow the law and maintains national sovereignty and an orderly system.",
+        "Agent0: I agree a structured legal pathway is crucial. My concern is that making it strictly contingent on future border security risks indefinite delays for millions already here, contributing. We need a dual approach: strengthen borders *and* create pathways simultaneously. This ensures both security and a practical, humane solution for our communities.",
+        "Agent1: I hear your point on simultaneity. For any pathway to be truly sustainable and fair, robust border security is foundational. Without a controlled border, integration efforts face immense challenges and risk undermining the rule of law. An orderly system is paramount for long-term success and national security.",
+        "Agent0: I understand the emphasis on order and security. However, solely prioritizing future border control without a clear plan for current residents creates a different kind of disorder and injustice. It leaves families in fear, making them vulnerable and less likely to engage with authorities, which actually hinders overall security.",
+        "Agent1: I understand the concerns about injustice. However, a truly secure and orderly border system *prevents* future disorder and fear. It ensures that those who enter do so legally, creating a stable environment for everyone. Prioritizing border integrity is key to long-term societal stability and national security.",
+        "Agent0: While a secure border is crucial for future order, neglecting the millions already here creates present instability. Their vulnerability, lack of legal status, and fear hinder community trust and integration, which are also vital for societal stability and overall security. We need both.",
+        "Agent1: I agree that present instability is a concern. However, without a truly controlled border, any attempts to integrate current undocumented individuals become unsustainable and invite future challenges. A secure border is the essential first step to establishing a fair, orderly, and lasting solution for everyone, ensuring stability for generations."
+    ]
+}

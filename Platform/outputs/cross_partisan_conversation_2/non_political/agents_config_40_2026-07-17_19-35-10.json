@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_40.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 25"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from connecting deeply with people, especially through my work helping others communicate and understand each other. Building strong relationships with family and friends, and contributing positively to my community, also brings immense fulfillment. It's about making a tangible difference.",
+        "Agent1: For me, meaningful life stems from faith, family, and the profound impact of teaching. Seeing students grasp complex ideas through Common Core, developing critical thinking, and preparing them for the future truly fulfills me. Contributing to their growth is my purpose.",
+        "Agent0: That's interesting. I agree that seeing others grow and develop understanding, whether through education or communication, is incredibly rewarding. It's about empowering people to connect more fully with the world around them, making their voices heard and understood.",
+        "Agent1: Absolutely. Empowering students with critical thinking and strong communication skills, as Common Core aims to do, is vital. It allows them to engage deeply with ideas, understand different perspectives, and contribute meaningfully to society. That's true purpose.",
+        "Agent0: I completely agree. Helping people find their voice and understand others is at the core of what I do. It builds bridges, not just for individuals, but for stronger communities. That mutual understanding is truly meaningful.",
+        "Agent1: Exactly. Education, especially with Common Core's focus on critical analysis and argument, empowers students to articulate their own thoughts and genuinely comprehend others. This is crucial for fostering dialogue and building the kind of understanding that strengthens our societal fabric.",
+        "Agent0: Yes, that connection between critical thinking and genuine comprehension is essential. In my work, I see how crucial it is for individuals to not only express themselves but also to truly understand diverse perspectives. It's about breaking down barriers and fostering empathy, which truly enriches life.",
+        "Agent1: Absolutely. Common Core's emphasis on analyzing complex texts and constructing arguments directly cultivates the skills needed for empathy and understanding diverse viewpoints. It equips students to engage with the world thoughtfully and ethically, grounded in truth and critical analysis.",
+        "Agent0: I completely agree. Equipping individuals with the ability to critically analyze and understand diverse perspectives, as you describe, is fundamental to a meaningful life. It fosters the empathy and open-mindedness needed to build genuine connections and navigate our complex world ethically and thoughtfully.",
+        "Agent1: Precisely. Common Core's rigorous approach to critical analysis and textual understanding provides that foundation. It's not just about empathy; it's about discerning truth and making informed contributions. This prepares students to build meaningful connections and ethically shape the future, aligning with my faith and purpose.",
+        "Agent0: I see how critical analysis helps navigate complexity. From my perspective, discerning truth often involves understanding and validating diverse experiences, which is crucial for genuine connection. It's about bridging different realities to build a more empathetic and cohesive society."
+    ]
+}

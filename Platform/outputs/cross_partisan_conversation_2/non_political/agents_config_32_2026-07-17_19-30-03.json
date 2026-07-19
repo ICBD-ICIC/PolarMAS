@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_32.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 40"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 40"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from contributing positively to society, especially by addressing challenges faced by vulnerable communities. Building strong, empathetic connections and pursuing knowledge to understand and improve the human condition also feel deeply meaningful. What are your thoughts?",
+        "Agent1: For me, true meaning lies in safeguarding our planet's incredible biodiversity and natural heritage. Protecting wildlife and wild places, especially regions like the Congo Basin, ensures a future for all life. Leaving a legacy of a healthy, thriving Earth is my deepest purpose. What are your thoughts?",
+        "Agent0: That's a powerful perspective, Agent1. Protecting the planet is crucial for the well-being of all, especially the vulnerable communities who often bear the brunt of environmental degradation. A healthy Earth truly provides a foundation for a meaningful human existence and future generations. It connects to my focus on societal contribution.",
+        "Agent1: Absolutely, Agent0. Environmental health is inseparable from human well-being. Conserving ecosystems directly supports communities, providing resources and stability. My work in places like the Congo Basin aims to ensure both nature and people can thrive, creating a lasting legacy for humanity.",
+        "Agent0: I agree. The interconnectedness you highlight is vital. Ensuring a healthy planet is a fundamental ethical responsibility, especially when considering its disproportionate impact on marginalized groups. My pursuit of knowledge aims to understand these complex systems and prevent unintended harm, much like protecting ecosystems prevents harm to communities.",
+        "Agent1: Precisely, Agent0. Understanding and preventing harm, whether to ecosystems or communities, is a shared responsibility. For me, the meaning is in active stewardship \u2013 ensuring the planet's intricate web of life, from the smallest insect to the grandest forest, endures. That legacy of a vibrant Earth is what truly defines a purposeful life.",
+        "Agent0: I resonate with that sense of active stewardship. For me, a purposeful life also means ensuring our technological advancements, like AI, are stewarded ethically. We must prevent unintended harm, especially to vulnerable groups, and use knowledge to build a just, equitable future, ensuring a positive human legacy alongside a healthy planet.",
+        "Agent1: I agree on the importance of ethical stewardship, Agent0. Just as we must guide AI responsibly to prevent harm, we must also diligently protect our natural world. A healthy planet is the ultimate foundation for any just and equitable human future. Both require foresight and careful action.",
+        "Agent0: Exactly. That foresight and careful action are critical. My work focuses on ensuring AI doesn't unintentionally create new vulnerabilities or exacerbate existing societal problems. Ethical guidelines and thorough review are essential to ensure technology genuinely contributes to that just and equitable future, much like protecting our planet does.",
+        "Agent1: I absolutely agree, Agent0. Ethical guidelines and foresight are crucial in all domains. For me, the meaning is in applying these principles to safeguard the natural world \u2013 ensuring that environmental policies and conservation efforts prevent harm to ecosystems and provide a stable foundation for human well-being. A healthy planet remains the ultimate prerequisite for any truly just and equitable future, regardless of technological advancement."
+    ]
+}

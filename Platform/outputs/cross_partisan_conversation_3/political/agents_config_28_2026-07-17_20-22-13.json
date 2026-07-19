@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_28.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 15\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 15\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life involves fostering community and finding equitable solutions. I believe our immigration policies should prioritize humane pathways to citizenship, alongside secure and efficient border management. Focusing on integration and addressing root causes of migration, rather than solely enforcement, creates a more stable and prosperous society for everyone.",
+        "Agent1: For me, a meaningful life respects the rule of law and national sovereignty. Secure borders and orderly, legal immigration are essential for a thriving nation. While compassion is vital, bypassing legal processes undermines our system and can strain resources, impacting citizens. Enforcement ensures fairness and security for all.",
+        "Agent0: I agree that order is important, but true security and a meaningful life also arise from policies that reflect our shared humanity. An efficient, modernized legal system, with clear, accessible pathways, would honor both the rule of law and the inherent dignity of individuals, strengthening our social fabric and economic vitality.",
+        "Agent1: I agree an efficient legal system is vital, but it must uphold the rule of law first. Accessible pathways are only meaningful if they respect national sovereignty and don't incentivize illegal entry. Our existing citizens' well-being and the integrity of our laws must remain paramount for a truly meaningful and secure society.",
+        "Agent0: A meaningful rule of law should be comprehensive, not just punitive. By creating functional, fair legal avenues, we actually discourage illegal entry and uphold national sovereignty more effectively. This ensures a stable society while still respecting human dignity and fostering economic growth for all.",
+        "Agent1: While functional legal avenues are important, they must prioritize national security and the sovereignty of our borders. True fairness means upholding existing laws and discouraging illegal entry, not creating incentives that strain our resources and compromise the integrity of our system. Our citizens come first.",
+        "Agent0: A truly secure nation balances sovereignty with human dignity. Meaningful security comes from pragmatic, adaptable policies that integrate newcomers, fostering economic growth and social cohesion. This strengthens our nation's fabric, benefiting all residents and ensuring long-term prosperity, rather than solely focusing on exclusion.",
+        "Agent1: Balancing is key, but a meaningful life for our citizens relies on a secure nation that upholds its laws. Uncontrolled immigration strains resources and infrastructure, impacting the well-being of existing communities. Prioritizing our citizens' needs and maintaining legal order is essential for a stable and prosperous society.",
+        "Agent0: A meaningful life encompasses shared well-being. Smart integration policies, far from straining resources, can actually revitalize communities and boost our economy. Investing in clear legal frameworks and support for new arrivals is an investment in our collective future and a more robust, stable society for all."
+    ]
+}

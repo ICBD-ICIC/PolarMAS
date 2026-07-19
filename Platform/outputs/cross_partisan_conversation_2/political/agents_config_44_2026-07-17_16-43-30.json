@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_44.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! I'm ready to chat about immigration. I believe creating a pathway to citizenship for undocumented immigrants already here is crucial, alongside addressing root causes of migration. I also don't think immigrants are more prone to crime. What are your thoughts on these issues?",
+        "Agent1: Hi. My priority is securing our borders and enforcing existing laws. A pathway to citizenship should only be discussed once our border is fully controlled and legal immigration is the only path. I believe upholding the rule of law is critical for everyone, regardless of their status.",
+        "Agent0: I understand the emphasis on border security and rule of law. However, I believe a truly effective system also needs to acknowledge the millions already here. A pathway to citizenship could bring people out of the shadows, contributing more fully to our economy and society, which seems like a pragmatic solution too.",
+        "Agent1: I appreciate your perspective on pragmatism. However, true pragmatism, for me, starts with a secure border. Allowing a pathway without addressing the initial breach of law undermines the system and could encourage further uncontrolled immigration. We need to prioritize legal channels.",
+        "Agent0: While I agree legal channels are vital, focusing solely on the \"breach of law\" overlooks the complex reasons for migration and the economic contributions of those already here. A pathway to citizenship can create a more stable, manageable system, integrating individuals who are already part of our communities and economy.",
+        "Agent1: I understand the complexities of migration and the economic role immigrants play. However, uncontrolled borders threaten our national security and strain resources, impacting our ability to maintain order and protect our own. A legal, orderly process is essential for long-term stability and ensuring fairness for everyone.",
+        "Agent0: I agree that a legal, orderly process is key. However, for those already established, a pathway to citizenship *is* an orderly process. It reduces the strain of an underground economy, ensures better labor protections, and provides a stable tax base, benefiting everyone.",
+        "Agent1: While I see the potential for some benefits you mention, an orderly process must fundamentally start with securing our borders and upholding the rule of law. Retrofitting a system after it's been bypassed doesn't fully address the core issue of uncontrolled entry, which creates long-term instability and undermines fairness for those who follow the legal path.",
+        "Agent0: I see your point about fairness for those following legal paths. However, leaving millions in limbo also creates instability. A comprehensive approach tackles *both*: securing borders *and* integrating those already contributing, creating a more functional and just system for everyone.",
+        "Agent1: I agree a comprehensive approach is vital, but it must be built on a secure foundation. For me, that means securing our borders first. Without that, any integration efforts risk encouraging further uncontrolled entry, undermining the rule of law and fairness for those who follow legal channels.",
+        "Agent0: I hear your emphasis on a secure foundation through border control. However, I believe true security and a stable foundation also come from integrating those already here. Leaving millions in the shadows creates a different kind of instability, economically and socially. A pathway *is* part of a comprehensive, secure system.",
+        "Agent1: I understand the instability of people in the shadows. But that situation largely arose from insecure borders. For me, a truly secure and stable system must first prevent uncontrolled entry. Then, we can discuss pathways within a framework that respects the rule of law."
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_11.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe strong border security and upholding our immigration laws are paramount. We need to prioritize enforcement and ensure a legal, orderly process. What are your thoughts on balancing enforcement with other considerations?",
+        "Agent1: I agree security is a piece of the puzzle, but we must also prioritize humane treatment and comprehensive reform. Many immigrants are already vital to our economy and communities. We need a pathway to citizenship for those here and to address the root causes of migration, not just focus on building walls.",
+        "Agent0: I agree we need reform, but it must prioritize national sovereignty and the rule of law. A pathway without secure borders incentivizes further illegal entry, overwhelming resources. Our system needs to function predictably and lawfully, ensuring fairness and security for all citizens.",
+        "Agent1: I understand the concern for rule of law, but focusing solely on enforcement ignores the human reality. Many asylum seekers are fleeing dire situations. A secure border doesn't mean we can't also have efficient processing for asylum and a practical system for those contributing to our society. We need smart solutions, not just barriers.",
+        "Agent0: While empathy is important, a truly lawful system must distinguish between asylum claims and economic migration. Uncontrolled entry strains public services and undermines the legal process for those waiting. We need a system that is fair, secure, and sustainable, not one that encourages disorder.",
+        "Agent1: Focusing only on barriers and enforcement *creates* disorder and inhumane conditions. Many \"economic migrants\" are fleeing situations just as desperate. We need to streamline legal pathways, invest in processing, and recognize that immigrants fill vital jobs. A practical approach is sustainable.",
+        "Agent0: Streamlining *legal* pathways is key, but not at the expense of national security or the rule of law. Disorder arises from uncontrolled borders, not from efforts to secure them. We must prioritize our citizens' safety and resources, ensuring all immigration is legal and orderly."
+    ]
+}

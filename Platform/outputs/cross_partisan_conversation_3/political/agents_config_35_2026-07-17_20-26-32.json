@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_35.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life is built on security and upholding laws. On immigration, I believe strong borders and legal processes are crucial. We need to prioritize enforcement and ensure our laws are respected, rather than incentivizing illegal entry with broad amnesty.",
+        "Agent1: For me, a meaningful life involves empathy, community, and ensuring everyone has a fair chance. I believe in comprehensive immigration reform that offers pathways to citizenship, supports families, and addresses the root causes of migration. We should focus on integration and humane treatment, not just enforcement.",
+        "Agent0: I agree humane treatment is essential, but it must occur within a legal framework. True security for *all* citizens, including immigrants, comes from respecting our laws and sovereign borders. Uncontrolled entry undermines the very systems designed to provide a fair chance and community stability.",
+        "Agent1: While a legal framework is important, it must be just and humane. Our current system often fails to provide true security or a fair chance, separating families and creating instability. A meaningful life requires policies that prioritize dignity, integration, and pathways to citizenship for those already contributing to our communities.",
+        "Agent0: Dignity and stability are paramount, but they stem from a predictable, lawful society. Open borders or unchecked processes create chaos, not security. We need policies that deter illegal entry while streamlining *legal* immigration, ensuring fairness for everyone, including those who follow the rules.",
+        "Agent1: A truly lawful society must also be a just and compassionate one. Focusing solely on deterrence ignores the human dignity and contributions of those seeking a better life. We need to create more accessible legal pathways and integrate those already here, fostering community and a fair chance for all.",
+        "Agent0: Justice and compassion are vital, but they thrive within a secure, lawful framework. \"Accessible legal pathways\" shouldn't mean bypassing our borders. True community and fairness come from upholding the rule of law, which protects *all* citizens and ensures a stable society for everyone, including legal immigrants.",
+        "Agent1: Justice and compassion must *define* our laws, not be secondary to them. A \"secure, lawful framework\" that separates families or denies dignity isn't truly just. Meaningful life requires us to create systems that welcome, integrate, and offer pathways to citizenship, recognizing the humanity and contributions of all.",
+        "Agent0: While I value compassion, it cannot supersede national sovereignty and the rule of law. Our laws *are* designed to ensure justice and security. True integration and contribution come from respecting those laws, not by circumventing them. A meaningful life for all requires a stable, lawful society, starting with secure borders.",
+        "Agent1: The rule of law must be rooted in justice and compassion. If laws cause suffering or deny human dignity, they need reform. A truly meaningful life for all requires policies that build bridges, not walls, and offer real pathways to belonging and contribution, recognizing everyone's inherent worth."
+    ]
+}

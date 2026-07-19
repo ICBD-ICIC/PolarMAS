@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_8.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 25"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe a pathway to citizenship for immigrants already here is essential, alongside fair and humane enforcement. It's important to remember that most immigrants contribute positively and are not more prone to crime than citizens. Our policies should reflect compassion and economic reality.",
+        "Agent1: Securing our borders and upholding the rule of law must be the priority. A pathway to citizenship can only be considered after we have full control. We need policies that protect our national sovereignty and ensure orderly immigration, which is vital for stability.",
+        "Agent0: I agree that orderly immigration is important, but true stability comes from integrating those already here. Relying solely on enforcement creates a permanent underclass and doesn't address the root causes or the economic contributions immigrants make. We need comprehensive reform.",
+        "Agent1: While I appreciate the talk of integration, it must be *legal* integration. Uncontrolled borders undermine the very fabric of our nation and the rule of law, which are essential for true freedom and stability. We can't have a functional society without knowing who is here. This protects *all* citizens.",
+        "Agent0: I understand the emphasis on legal integration and the rule of law. However, focusing solely on enforcement ignores the millions already contributing. A pathway to citizenship isn't just compassionate; it brings people out of the shadows, strengthening our economy and security, making society *more* functional and stable, not less.",
+        "Agent1: While contributions are noted, they cannot override the rule of law. My historical studies show that a society's strength lies in its adherence to established laws and secure borders. Unchecked immigration weakens the very foundations of a free nation, regardless of individual contributions. Order must precede any pathway.",
+        "Agent0: While I agree that order is important, a truly strong society also upholds human dignity and fairness. Ignoring those already here, contributing, doesn't create order; it creates injustice. A pathway to citizenship is about acknowledging their humanity and building a more inclusive, stable, and ultimately, meaningful society for everyone."
+    ]
+}

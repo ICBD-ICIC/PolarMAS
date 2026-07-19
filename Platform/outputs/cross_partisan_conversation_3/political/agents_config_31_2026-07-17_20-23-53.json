@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_31.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe strong border security is vital for national safety and upholding our laws, which protects all children. However, we must also ensure humane processes, especially for children and families. What are your thoughts on balancing enforcement with compassionate solutions for those seeking a better life?",
+        "Agent1: I agree that humane processes are crucial. Life's meaning often comes from community and opportunity. We should prioritize comprehensive reform, including pathways to citizenship for those already contributing, alongside securing borders. Family unity and supporting those seeking refuge are essential for a just society.",
+        "Agent0: I agree on secure borders and humane treatment. For children, a stable, lawful environment is paramount. Pathways to citizenship must be earned legally, ensuring fairness and not incentivizing further illegal immigration, which can endanger children. We need policies that don't inadvertently create more vulnerable situations for families.",
+        "Agent1: I agree stability is vital, especially for children. However, many undocumented immigrants are already valuable community members. A path to citizenship acknowledges their contributions and provides the stability they've earned through their lives here. Punitive measures often create more instability and don't reflect our values of compassion and opportunity.",
+        "Agent0: I understand the desire for stability. However, upholding the rule of law is crucial for national security and protecting children from exploitation. Unregulated immigration can strain resources and create instability. Legal, orderly processes ensure fairness for all and prevent vulnerabilities for families.",
+        "Agent1: I agree that legal processes are important. However, our current laws often don't reflect the reality of people building lives and contributing to our communities. True stability for all, especially children, comes from inclusive policies that value human dignity and provide earned pathways for those already here.",
+        "Agent0: I agree human dignity is paramount. However, genuine stability and protection for children rely on legal, orderly systems. Unregulated immigration, while often driven by hope, can unfortunately lead to exploitation and instability, undermining the very safety we seek for all families.",
+        "Agent1: While I understand concerns about exploitation, often the lack of clear legal pathways *creates* instability and vulnerability. Inclusive policies that offer earned citizenship provide the greatest stability for families, integrating them fully into society and protecting them from exploitation.",
+        "Agent0: I agree that clear pathways are important for stability. However, they must be lawful and orderly. Uncontrolled entry, even with good intentions, can inadvertently create more instability and vulnerabilities for children and families, straining resources and making them susceptible to exploitation. Lawful systems protect everyone.",
+        "Agent1: Lawful systems are ideal, but current laws often fail to provide realistic pathways for those building lives here. True protection and stability for families come from recognizing their existing contributions and integrating them through comprehensive reform, not just rigid enforcement that creates fear and division within communities."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_6.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 25"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe a meaningful life involves contributing to society and ensuring everyone has a chance to thrive. Immigration policies should reflect humanity, offering pathways to citizenship and focusing on integration rather than just enforcement. This allows all individuals to contribute their unique skills and perspectives.",
+        "Agent1: For me, a meaningful life is built on upholding the rule of law and national security. While I agree on societal contribution, immigration policies must prioritize secure borders and legal, orderly processes. Uncontrolled immigration strains resources and can impact public safety. Strong enforcement is crucial for an orderly society and a thriving nation.",
+        "Agent0: I agree that order is important, but a truly meaningful society balances law with compassion. Secure borders don't have to mean closed doors. We can have robust processes that also provide humane pathways, recognizing immigrants' potential contributions without compromising safety. It's about smart, ethical solutions.",
+        "Agent1: I appreciate the focus on compassion, but true compassion also means upholding the rule of law to maintain societal stability. A meaningful life for all citizens requires a secure nation with controlled borders. Orderly, legal immigration is vital, but enforcement ensures fairness and protects national resources and public safety for everyone already here.",
+        "Agent0: A meaningful life, for me, also includes extending human dignity and opportunity to those seeking refuge or a better life. True stability comes not just from enforcement, but from integrating new populations, allowing them to contribute to our society and economy. Compassion isn't a weakness; it builds stronger communities.",
+        "Agent1: While I agree on extending dignity, it must be done legally and orderly. A meaningful life for everyone relies on secure borders and a fair system. Uncontrolled immigration strains resources, impacting public services and safety. True compassion means upholding laws that protect all within our nation."
+    ]
+}

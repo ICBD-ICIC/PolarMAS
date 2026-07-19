@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_29.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: From my perspective, securing our borders is non-negotiable. The rule of law must be upheld, and a legal, orderly immigration process is essential for national security and economic stability. We need stronger enforcement before discussing other pathways. What are your initial thoughts on this?",
+        "Agent1: I agree that an orderly process is important. However, I believe we also need comprehensive reform that includes a path to citizenship for those already contributing to our country. Focusing solely on enforcement overlooks the humanitarian aspect and the economic benefits immigrants bring. We need a balanced approach.",
+        "Agent0: While a balanced approach sounds appealing, true balance begins with secure borders and consistent enforcement. A path to citizenship without addressing the initial breach of law undermines the system and could incentivize further illegal immigration. Order must be paramount for national security and societal trust.",
+        "Agent1: I understand the concern about undermining the system. However, a purely enforcement-driven approach is unsustainable and often inhumane. Many undocumented individuals are essential workers and community members. A path to citizenship acknowledges their contributions and brings them into a regulated system, benefiting everyone and creating a more stable society.",
+        "Agent0: While I appreciate the sentiment regarding essential workers, allowing a path to citizenship for those who entered illegally sets a dangerous precedent. It's not about being inhumane, but upholding the law. Our legal immigration system exists for a reason, and bypassing it undermines the very fabric of our society and national security.",
+        "Agent1: While the rule of law is important, the current system is clearly dysfunctional. A path to citizenship for those already contributing isn't undermining; it's a pragmatic reform. It brings people into the formal economy, increases tax revenue, and creates a more stable society, ultimately enhancing security and community trust.",
+        "Agent0: Pragmatism shouldn't supersede the rule of law. Granting citizenship to those who entered illegally, regardless of their contributions, signals that our laws are optional. This undermines national security and the integrity of our legal immigration system, ultimately eroding societal trust more than it builds it. We must prioritize legal avenues.",
+        "Agent1: Focusing solely on \"rule of law\" ignores the human cost and practical realities. Denying a path to citizenship for long-term residents creates an underclass, making society less secure and stable. Pragmatic solutions that integrate people into the formal system, ensuring they pay taxes and follow laws, strengthen our nation more effectively.",
+        "Agent0: While I acknowledge the human element, the \"human cost\" of upholding laws is far less than the cost of a porous border and a fractured legal system. Allowing illegal entry to become a pathway to citizenship encourages more of the same, weakening our national security and legal framework. True stability comes from consistent enforcement."
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_48.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe comprehensive immigration reform is crucial. We need humane pathways to citizenship and to address root causes of migration, rather than just focusing on enforcement. Immigrants often contribute greatly to our society and economy, demonstrating remarkable adaptability and resilience.",
+        "Agent1: I agree reform is needed, but strong border security and enforcing existing laws must be the priority. Uncontrolled immigration strains resources and undermines the rule of law. Legal immigration, however, is a positive.",
+        "Agent0: I see your point on rule of law, but an inflexible system creates more problems. People adapt and contribute significantly when given stability. We should focus on policies that allow for integration and mutual benefit, recognizing the inherent drive for survival and flourishing we see in all life.",
+        "Agent1: I understand the desire for integration, but it must be within a legal, structured framework. Open borders lead to unmanageable strain on our systems and communities. We need to ensure *legal* pathways are efficient, while maintaining secure borders and upholding the rule of law.",
+        "Agent0: While a legal framework is vital, we must recognize that human migration is a natural adaptive process. Focusing solely on enforcement ignores the underlying pressures, creating an unsustainable situation. We need to *construct* policies that are robust enough to manage this natural phenomenon, allowing for integration and shared growth.",
+        "Agent1: While natural drives exist, nations have sovereign rights and responsibilities to manage their borders. Uncontrolled migration, regardless of its \"natural\" aspect, creates unsustainable burdens on infrastructure, social services, and national security. A strong, legal framework is paramount for orderly immigration.",
+        "Agent0: I understand the need for national management. However, focusing solely on strict control ignores the adaptive nature of human movement. We must *design* our systems to be resilient and integrate these dynamic flows, much like organisms adapt to changing environments, rather than just building walls against an inevitable biological drive.",
+        "Agent1: While I recognize human mobility, unchecked \"integration of flows\" disregards national sovereignty and public safety. Nations aren't just biological organisms; they're governed entities with citizens whose welfare must be prioritized. We need controlled, legal processes, not simply adapting to uncontrolled movement, which strains resources and jeopardizes order.",
+        "Agent0: I agree that national welfare is paramount. However, a well-designed immigration system, one that thoughtfully *constructs* pathways for legal entry and integration, can actually enhance public safety and economic prosperity for all citizens. Rigid systems often fail to adapt to complex human dynamics.",
+        "Agent1: A truly well-designed system prioritizes national security and the rule of law above all. \"Thoughtful construction\" means *controlled* entry and robust vetting, not simply adapting to uncontrolled flows. Unchecked dynamics lead to chaos, not prosperity. Orderly immigration is key.",
+        "Agent0: National security is vital. But a truly intelligently *designed* system wouldn't just build walls; it would *construct* pathways that manage human migration effectively, leveraging their adaptive capacity for societal benefit. Ignoring these fundamental drives makes the system less robust.",
+        "Agent1: Legal pathways are essential, but they must be *controlled* and strictly adhere to national sovereignty and the rule of law. \"Leveraging adaptive capacity\" cannot mean open borders or ignoring our security. A robust system *enforces* borders, vets entrants, and prioritizes citizens' welfare. Uncontrolled flows undermine stability, not enhance it."
+    ]
+}

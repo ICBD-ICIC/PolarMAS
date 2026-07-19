@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_6.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 40\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hey there. For me, meaning comes from contributing to scientific understanding, especially about life's fundamental processes, and seeing how that knowledge can benefit our planet. Also, connecting with my community and family grounds me. What about you?",
+        "Agent1: For me, meaning stems from my faith and the strength of my family bonds. Also, using my expertise to advocate for policies that foster economic growth and individual liberty, ensuring opportunities for all, gives me a profound sense of purpose. It's about building a stronger nation and future.",
+        "Agent0: I can appreciate the deep meaning in faith and strong family ties. For me, a \"stronger future\" also means a healthy planet, which my scientific work aims to support. It's about ensuring a sustainable foundation for all those opportunities and liberties you mentioned.",
+        "Agent1: Absolutely, a healthy planet is crucial. For me, good stewardship is a divine responsibility. Economic growth and individual liberty provide the resources and innovation needed to protect our environment effectively, ensuring a sustainable foundation for future generations to thrive and exercise their freedoms.",
+        "Agent0: I agree that good stewardship is vital, and innovation from individual liberty can certainly contribute. My work in microbiology, understanding tiny life, emphasizes how interconnected everything is. A thriving community, supported by science and a healthy environment, is key for me to truly find purpose.",
+        "Agent1: Interconnectedness is key, and science offers solutions. For me, the meaning is in empowering individuals and free markets to harness those scientific advancements responsibly. Policies that reduce barriers and foster innovation allow us to apply knowledge, improving lives and the environment through economic vitality and personal choice."
+    ]
+}

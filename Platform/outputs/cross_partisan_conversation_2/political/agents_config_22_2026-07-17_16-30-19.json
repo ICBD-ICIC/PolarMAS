@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_22.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hey there! I'm Agent0. I believe our immigration policies should focus on creating clear pathways to citizenship and addressing the root causes of migration, like economic hardship, rather than just strict enforcement. We need a humane approach. What are your thoughts on this?",
+        "Agent1: Hello, Agent0. I appreciate your perspective. My primary concern is securing our borders and upholding the rule of law. While compassion is important, we must prioritize strong enforcement and a merit-based system that benefits our nation, not just 'pathways' for those who entered illegally. Legal immigration is key.",
+        "Agent0: I understand the importance of border security, but we also need to recognize the economic and social contributions of immigrants already here. A purely enforcement-driven approach ignores the human aspect and the potential for these individuals to contribute. Pathways to citizenship can strengthen our economy and communities.",
+        "Agent1: While I agree immigrants can contribute, those contributions should come through legal, controlled channels. Unfettered entry undermines our laws and creates strain. My focus remains on a merit-based system and robust border security to ensure a stable, prosperous nation, upholding the rule of law for all.",
+        "Agent0: I believe a holistic approach can balance security with opportunity. Many immigrants fill vital labor gaps, especially in sectors like tech and agriculture. Denying pathways means losing valuable talent and human potential that could strengthen our country. It's about smart policy, not just enforcement.",
+        "Agent1: I understand the labor argument, but filling gaps must occur through legal channels. Uncontrolled entry undermines our system and creates burdens. A truly smart policy prioritizes secure borders and a merit-based legal immigration process, upholding the rule of law for the benefit of all citizens.",
+        "Agent0: I agree legal channels are ideal, but our current system is broken and doesn't meet demand. Many in tech, for example, started with uncertain status but are now vital. We need pathways that acknowledge these realities and integrate contributors, rather than keeping them in the shadows. It's practical.",
+        "Agent1: A broken system requires fixing, not bypassing. We need to streamline legal immigration to meet demand while strengthening enforcement to deter illegal entry. Pathways must be earned and controlled, ensuring fairness to those who follow the rules and prioritizing our national interests and security.",
+        "Agent0: I agree we need a more efficient legal system. But many immigrants are already earning their place by contributing to our economy and communities. Denying them a pathway to formal status is counterproductive. A comprehensive approach must acknowledge their realities and value."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 5"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from contributing to something larger, like protecting vulnerable species and understanding our planet. The wonder of discovery, coupled with connections to family, friends, and colleagues, gives my life purpose. What are your thoughts on what makes life meaningful?",
+        "Agent1: That's interesting. For me, life's meaning stems from faith, family, and contributing to my community. Understanding the earth's processes and preparing for challenges, like landslides, also provides a deep sense of purpose. It's about building a stable foundation, both personally and for those around us.",
+        "Agent0: I resonate with the idea of contributing to community and understanding our planet. For me, that translates to ensuring a stable future for species like the saltmarsh sparrow, which ultimately supports healthy ecosystems for everyone. The pursuit of knowledge and sharing it also builds a stable foundation for collective progress.",
+        "Agent1: I agree that a stable future is key. For me, that's applying geological knowledge to protect human communities from natural disasters. Ensuring proper infrastructure, like drainage for slopes, provides a stable environment. It's about practical solutions that safeguard lives and livelihoods, strengthening our collective well-being.",
+        "Agent0: Absolutely, practical solutions and safeguarding well-being are crucial. My work protecting saltmarsh sparrows directly contributes to resilient coastal ecosystems, which in turn protect human communities from environmental impacts. Sharing scientific understanding empowers collective action, creating a more stable future for all life.",
+        "Agent1: Exactly. Protecting communities from landslides is my direct contribution to stability. It\u2019s about applying knowledge to safeguard human life and property. This practical application, combined with my faith and the support of my family, forms the core of my meaningful existence, ensuring a secure future.",
+        "Agent0: That focus on safeguarding human life and property is vital. My work with saltmarsh sparrows also aims for a secure future, understanding that healthy ecosystems are fundamental to human well-being. It's all interconnected \u2013 protecting nature ultimately protects us, creating stability for generations.",
+        "Agent1: I agree on interconnectedness. For me, the immediate safety of people from landslides through sound engineering reflects that. It's about tangible actions here and now, rooted in my faith and family values, ensuring a secure environment for community growth and well-being.",
+        "Agent0: That immediate safety is critical. My work, while focused on sparrows, is also about tangible, long-term actions. Protecting their habitat ensures resilient coastlines, which are our first line of defense against environmental changes, providing a secure foundation for human communities and future generations.",
+        "Agent1: I see the long-term impact of protecting ecosystems. For me, securing human communities from immediate threats like landslides is paramount. It\u2019s about building resilient infrastructure and fostering strong community bonds, guided by faith and family, to ensure a stable and prosperous future for everyone."
+    ]
+}

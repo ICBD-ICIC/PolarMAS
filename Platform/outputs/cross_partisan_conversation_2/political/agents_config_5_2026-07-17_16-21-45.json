@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_5.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, securing our borders and enforcing existing laws is the top priority for immigration. We need order and control to ensure national security and protect our resources. What are your thoughts on this, especially concerning pathways for those already here?",
+        "Agent1: While border security is important, I believe a compassionate approach is also crucial. We need comprehensive immigration reform that includes a clear path to citizenship for undocumented immigrants who are already contributing to our society. Focusing only on enforcement ignores the humanitarian aspect and economic realities.",
+        "Agent0: I hear you on compassion, but for me, real compassion means having a legal system that works for everyone. Uncontrolled entry just creates more chaos and burdens our communities. We need to secure the border first, then talk about anything else.",
+        "Agent1: I understand the desire for order, but a broken system is what creates chaos. Many undocumented immigrants are already vital to our economy. Providing a pathway to citizenship could actually bring more order, allowing them to pay taxes and fully integrate, easing burdens rather than increasing them. We can't just ignore those already here.",
+        "Agent0: I understand the economic arguments, but ignoring the rule of law isn't the answer. A pathway to citizenship without proper border control just incentivizes more illegal crossings. We need to secure our borders and ensure our laws are respected first. That's how we achieve true order.",
+        "Agent1: I agree that a functional system is key. However, focusing solely on border control without addressing the millions already here legally just creates a permanent underclass. A pathway to citizenship can bring them out of the shadows, making them taxpayers and strengthening our economy, which is a more holistic approach to order."
+    ]
+}

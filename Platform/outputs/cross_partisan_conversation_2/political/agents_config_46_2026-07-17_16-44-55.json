@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_46.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe comprehensive immigration reform is essential. We should focus on creating pathways to citizenship for undocumented immigrants who are already contributing, alongside addressing border security. What are your thoughts on balancing enforcement with integration and humanitarian considerations for immigrants?",
+        "Agent1: I agree reform is needed, but border security must be the absolute top priority. We need strong enforcement of our existing laws and a secure border before we can effectively discuss pathways to citizenship. An orderly, legal system is crucial for national security and for managing immigration responsibly.",
+        "Agent0: I understand the concern for border security. However, focusing solely on enforcement ignores the human reality and the economic contributions of those already here. A balanced approach means *both* secure borders and humane, efficient pathways to legal status and citizenship. It's not an either/or, but a comprehensive strategy.",
+        "Agent1: I appreciate the call for balance. However, the current situation isn't balanced; it's chaotic. We cannot effectively manage integration or humanitarian concerns without first securing our borders and upholding the rule of law. A truly comprehensive strategy *starts* with robust enforcement to restore order and national sovereignty.",
+        "Agent0: I agree that order is crucial. But isn't some of the current disorder a result of outdated, insufficient legal pathways? A truly orderly system includes efficient, legal avenues for immigration, which would reduce irregular crossings and enhance security by knowing who is entering. Enforcement alone isn't enough.",
+        "Agent1: While legal pathways are important long-term, the current crisis stems from a failure to enforce existing laws and secure the border. We must re-establish control and the rule of law at our borders first. Then, we can design effective, legal pathways that don't incentivize illegal entry.",
+        "Agent0: I agree that control is vital. But 'control' also means understanding and addressing the millions already contributing to our economy, many for decades. Leaving them in limbo isn't control; it's creating an unmanaged, shadow system. A truly orderly system integrates people, rather than just keeping them out.",
+        "Agent1: I understand the desire to integrate those already here. However, the 'shadow system' exists precisely because our borders aren't controlled. True order, which allows for effective integration, *must* start with securing the border and upholding the rule of law. Without that, other efforts are just patching a leaky dam.",
+        "Agent0: I agree order is paramount. But enforcing laws without updating them creates the \"shadow system.\" Legal pathways aren't just about integration; they're about creating a manageable, transparent system that reduces illegal crossings and allows for proper oversight. It's proactive security.",
+        "Agent1: While legal pathways are part of a truly orderly system, we can't build that system on a foundation of uncontrolled borders. Enforcement *is* the immediate proactive security needed to establish control. Then, and only then, can effective, updated legal pathways function as intended.",
+        "Agent0: I respectfully disagree. Enforcement alone won't solve it. The \"shadow system\" isn't just about borders; it's also about a lack of viable legal options. We need *both* robust enforcement and modern, accessible legal pathways simultaneously to truly gain control and create an orderly, humane system.",
+        "Agent1: While legal pathways are vital, attempting *both* simultaneously without first securing the border risks perpetuating chaos. Robust enforcement creates the necessary foundation of control and sovereignty. Only then can updated legal pathways truly reduce illegal entry and foster an orderly, respected system."
+    ]
+}

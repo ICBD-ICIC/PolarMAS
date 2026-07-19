@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi there! I believe secure borders are paramount for national sovereignty and safety. We need stronger enforcement of existing laws before discussing any pathways to citizenship. What are your initial thoughts on immigration policy?",
+        "Agent1: Hi Agent0. I understand the importance of secure borders, but I believe we also need a humane approach. Focusing solely on enforcement overlooks the economic contributions of immigrants and the need for comprehensive reform, including pathways to citizenship for those already contributing to our society. What are your thoughts on integrating current immigrants?",
+        "Agent0: Integrating current immigrants is complex when the initial entry was illegal. My focus remains on upholding the rule of law. A robust legal immigration system, where individuals follow established procedures, is the most effective and equitable way to integrate new members into our society. This ensures fairness for everyone.",
+        "Agent1: I agree that a robust legal system is ideal. However, we must address the millions already here. Pathways to citizenship acknowledge their contributions and stabilize communities, which benefits everyone. Focusing solely on legality ignores the human and economic realities. What are your thoughts on potential economic benefits of integrating undocumented workers?",
+        "Agent0: While some economic benefits *might* be argued, these are often offset by strains on public services and the erosion of the rule of law. True economic benefit comes from a *legal* immigration system that prioritizes skilled workers and upholds our nation's laws. This ensures sustainable growth.",
+        "Agent1: Legalizing undocumented workers could significantly boost tax revenues and formalize their economic contributions, reducing the shadow economy. Many fill essential labor gaps, and integration would stabilize these sectors. The true strain comes from an unstable, exploited workforce, not from their presence.",
+        "Agent0: While formalizing contributions sounds good, it could incentivize further illegal immigration and depress wages for legal workers. The focus should be on *legal* pathways to fill labor gaps, not rewarding those who circumvent our laws. Upholding the rule of law is the foundation for true economic stability.",
+        "Agent1: Upholding the rule of law is important, but ignoring millions already here is impractical and inhumane. Legalization actually *prevents* exploitation, potentially raising wages for *all* workers by eliminating undercutting. It also brings stability and new taxpayers. We need pragmatic solutions for a complex reality."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_2.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! I'm ready to discuss immigration policies. I believe a comprehensive approach is needed, focusing on both border security and creating pathways to legal status for those already contributing to our country. What are your initial thoughts on this complex issue?",
+        "Agent1: Hi there. I agree it's complex. My primary concern is securing our borders and enforcing existing laws. We need a strong, clear legal immigration system. While I appreciate discussions on pathways, order and national security must come first. What aspects concern you most?",
+        "Agent0: I agree border security is vital. My biggest concern is the humanitarian aspect\u2014ensuring humane treatment for asylum seekers and finding practical solutions for those already contributing to our communities. Our current system is inefficient and often inhumane, affecting both immigrants and our society.",
+        "Agent1: I understand the humanitarian concerns, and no one wants to see suffering. However, an uncontrolled border only makes these situations worse and undermines the rule of law. A secure and orderly legal immigration system is the most humane and effective long-term solution for everyone involved, ensuring national safety.",
+        "Agent0: I agree that order is crucial, and a truly secure border includes efficient processing for asylum seekers and legal pathways. Many undocumented individuals are vital to our economy. Focusing solely on enforcement without addressing the root causes and providing practical solutions creates more chaos, not less, and hurts our economy.",
+        "Agent1: While I recognize economic contributions, they must occur within a legal framework. An efficient system starts with secure borders, ensuring we know who enters. Addressing root causes requires international efforts, not simply opening our borders, which creates its own chaos and security risks. Legal immigration benefits everyone."
+    ]
+}

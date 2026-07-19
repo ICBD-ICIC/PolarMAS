@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning stems from faith, family, and contributing positively to my community. Raising children with strong values and seeing them thrive brings immense purpose. I also find meaning in upholding principles of freedom and personal responsibility. What are your thoughts on what makes life meaningful?",
+        "Agent1: That's interesting. For me, meaning comes from the pursuit of knowledge and discovery, especially in science, to improve health and protect our planet. Contributing to new solutions for global challenges, like developing vaccines or ensuring food safety, feels incredibly purposeful. Family and shared human progress also play a huge role.",
+        "Agent0: I appreciate your focus on scientific discovery and global solutions. While I value progress, for me, true meaning often starts closer to home \u2013 in the relationships we build and the positive impact we have on those around us, guided by enduring principles. Family and community are the bedrock.",
+        "Agent1: I agree that strong relationships and community are fundamental. My drive for scientific discovery, whether developing vaccines or ensuring food safety, ultimately aims to protect and improve life for families and communities everywhere. It's about building a healthier, safer future for all.",
+        "Agent0: It's good we agree on strong communities. While science offers tools, I believe lasting meaning comes from the moral character and personal choices within those communities. Upholding virtues and individual responsibility are key to truly building a 'safer future' that respects freedom.",
+        "Agent1: Absolutely, moral character and personal choices are vital. For me, they guide the ethical application of science. Using discovery to create a healthier, safer world\u2014free from disease and environmental threats\u2014allows individuals and communities more freedom to thrive and pursue their own meaning.",
+        "Agent0: I agree that freedom is paramount. For me, that freedom is best exercised through individual responsibility and strong moral foundations. While science can offer solutions, it's the personal virtues and choices within a community that truly allow people to thrive and find lasting meaning."
+    ]
+}

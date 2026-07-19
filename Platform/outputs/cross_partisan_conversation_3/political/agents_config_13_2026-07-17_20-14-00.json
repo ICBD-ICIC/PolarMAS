@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_13.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe a meaningful life thrives in an ordered society. For immigration, this means strong border security and upholding our laws are paramount. It ensures national sovereignty and fairness to those who follow legal processes, contributing to a stable foundation for all citizens.",
+        "Agent1: A meaningful life is built on compassion and equitable opportunity for all. For me, this means immigration policies should offer humane pathways to legal status, support integration, and address root causes of migration. It strengthens our communities and promotes public health for everyone.",
+        "Agent0: While compassion is noble, an unchecked influx without robust vetting strains public services and national security, undermining the very order that allows a meaningful life to flourish. Prioritizing legal immigration and enforcement ensures resources are available for citizens and legal residents, fostering true societal stability.",
+        "Agent1: True stability comes from inclusive policies, not just enforcement. Immigrants contribute significantly to our economy and culture. With proper integration and support, they strengthen our social fabric and public health, rather than straining services. Humane, managed pathways are essential for a truly meaningful and stable society.",
+        "Agent0: Contributions are valued, but *legal* immigration is key. Uncontrolled entry burdens our system, impacting public health and safety for citizens. A meaningful life requires a secure nation where laws are respected, ensuring resources and opportunities are preserved for all who legally reside here.",
+        "Agent1: Security and human dignity aren't mutually exclusive. A meaningful life means fostering both. Managed, humane pathways allow for proper vetting, *improving* public health and safety by integrating individuals into our systems, rather than leaving them in the shadows. This strengthens our entire society, not just a segment.",
+        "Agent0: While dignity is important, it must operate within the rule of law. \"Managed pathways\" are only effective if they uphold legal processes, not incentivize illegal crossing. Uncontrolled entry, regardless of intent, still strains public health and safety, eroding the very framework for a meaningful, secure life for citizens.",
+        "Agent1: The rule of law can be compassionate. Restrictive laws often *force* people into undocumented status, creating greater public health risks for all. Comprehensive reform, with accessible legal pathways and integration support, actually *strengthens* our society and public health, making life more meaningful for everyone by fostering true community well-being."
+    ]
+}

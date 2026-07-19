@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 40"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 40"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! I'm ready to discuss immigration policies. I believe a humane and comprehensive approach is crucial, focusing on secure borders while also providing pathways to citizenship for those contributing to our communities. What are your initial thoughts on this complex issue?",
+        "Agent1: Hi! I agree border security is vital. My main concern is ensuring our laws are enforced consistently. We need to prioritize stopping illegal crossings and address those who have entered unlawfully, perhaps before discussing broad pathways to citizenship. Legal immigration is essential, but it must follow due process.",
+        "Agent0: I understand your emphasis on border security and legal processes. A secure border is definitely important. However, I believe we also need comprehensive solutions for the millions already contributing to our communities. Focusing solely on enforcement overlooks the human aspect and the economic realities of these individuals already integrated into society.",
+        "Agent1: I appreciate considering the human element, but the rule of law must come first. Allowing broad pathways for those who entered unlawfully can incentivize further illegal immigration and strain our systems. We need to focus on deterring illegal entry and ensuring those who wish to contribute do so through established legal channels, respecting our sovereignty.",
+        "Agent0: I agree that the rule of law is important, but a purely enforcement-first approach is insufficient. We need to acknowledge the reality of millions already here, many for decades, who are part of our economy and communities. A pathway to citizenship isn't just about them; it's about a more stable and just society.",
+        "Agent1: While I recognize the individuals here, a pathway to citizenship for those who broke our laws undermines the legal system. Secure borders and consistent enforcement *must* be the foundation. We need to ensure legal immigration is the only viable path forward.",
+        "Agent0: I understand the concern about the rule of law. However, simply focusing on enforcement doesn't solve the issue for those already here. We need pragmatic solutions that integrate these individuals, many of whom are essential workers and have deep community ties. Mass deportations are neither feasible nor humane."
+    ]
+}

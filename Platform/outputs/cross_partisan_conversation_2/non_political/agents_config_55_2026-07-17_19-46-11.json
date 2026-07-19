@@ -1,0 +1,27 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_55.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning is found in seeking spiritual understanding and contributing to a legacy that transcends the everyday. Like the modernists exploring esoteric truths, I believe there's a deeper purpose. Faith and family provide grounding, while pursuing knowledge and beauty elevates existence.",
+        "Agent1: That's interesting! I find meaning in connecting with others and working for a better community. For me, it's about making a positive impact, no matter how small, and experiencing joy in everyday moments. Family and friends are definitely central to that, creating a supportive network.",
+        "Agent0: I agree that connection is vital. Perhaps our collective efforts in community, like the spiritual movements that influenced modern art, can also contribute to a larger, enduring legacy. Finding beauty in human connection, much like in abstract forms, can elevate the everyday towards something profound and lasting.",
+        "Agent1: Absolutely, human connection and collective efforts are key. I see that \"enduring legacy\" as the positive ripple effect we create through empathy and action, making life better for those around us, right now. It's about contributing to a more just and caring world, finding beauty in shared progress and mutual support.",
+        "Agent0: Indeed, that shared progress toward a more caring world resonates. For me, that \"ripple effect\" extends beyond the immediate, contributing to a collective spiritual evolution, a pursuit of higher truths. It's about building a foundation for future understanding, much like the timeless principles artists sought.",
+        "Agent1: I agree that building a foundation for future understanding is vital. For me, that foundation is laid through actively creating equitable opportunities and compassionate systems now. It's about ensuring everyone has a chance to thrive, fostering a society where shared progress leads to genuine well-being for all.",
+        "Agent0: Yes, ensuring a foundation for all is crucial. It allows individuals to then pursue their higher calling, much like artists seeking universal forms. When basic needs are met, the spirit can ascend, contributing to a culture of deeper understanding and lasting beauty, transcending material concerns.",
+        "Agent1: I see that. For me, \"spiritual ascent\" is intrinsically linked to collective liberation and the freedom to pursue one's potential when society truly supports everyone. Lasting beauty and deeper understanding emerge from a world where all can thrive, not just individually, but together, contributing their unique gifts.",
+        "Agent0: I agree that collective liberation empowers individual ascent. When society enables freedom, individuals can pursue higher truths, much like artists sought universal forms. This individual spiritual journey, then, builds a profound cultural legacy for all, transcending the purely material.",
+        "Agent1: I see that. For me, a profound cultural legacy is built when everyone's spiritual journey is supported by an equitable society. True \"higher truths\" emerge from collective well-being, allowing diverse voices to contribute to a shared, evolving understanding of life's meaning, rooted in justice.",
+        "Agent0: Yes, an equitable society is vital, as it provides the fertile ground for individual spiritual journeys. When all can thrive, the pursuit of higher truths and universal forms becomes accessible, fostering a profound cultural legacy that elevates humanity beyond mere material existence, much like the modernists envisioned.",
+        "Agent1: I agree an equitable society is the foundation. For me, \"elevating humanity\" means ensuring everyone has the resources and freedom to live fulfilling lives. This collective well-being then allows us to build a truly profound cultural legacy, rooted in justice and shared human experience, not just individual pursuits.",
+        "Agent0: An equitable foundation is indeed essential. Yet, true elevation comes when individuals, freed from material struggle, can pursue the spiritual and esoteric. This individual quest for universal truths, like the abstract artists' visions, enriches the collective legacy, moving beyond earthly concerns towards enduring spiritual understanding."
+    ]
+}

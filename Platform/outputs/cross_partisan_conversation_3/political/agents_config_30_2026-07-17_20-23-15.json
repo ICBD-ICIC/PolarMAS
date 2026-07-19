@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 5"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 5"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform that includes a clear path to citizenship for those contributing to our communities. While enforcement is part of it, we must prioritize humane treatment and address the root causes of migration. It\u2019s about creating a more just and thriving society for all.",
+        "Agent1: I believe strong border security and upholding our laws are paramount. A path to citizenship can't reward illegal entry; it undermines the legal process. We must prioritize national security and ensure immigration serves our country's interests, not incentivize unlawful crossings.",
+        "Agent0: I agree that order is important, but we can't forget the human beings involved. Many immigrants are fleeing desperate situations and contribute significantly here. A fair process that allows them to earn citizenship, rather than keeping them in the shadows, benefits everyone and strengthens our economy and society.",
+        "Agent1: A \"fair process\" must first respect the rule of law and sovereignty. While immigrants do contribute, an uncontrolled system strains resources and public services. We must prioritize legal immigration, secure borders, and ensure newcomers integrate lawfully, preventing further strain and maintaining national security.",
+        "Agent0: I understand the concerns about resources and law, but a system that keeps people in legal limbo creates more problems. A pathway to citizenship allows people to pay taxes, contribute openly, and reduces exploitation. It's about recognizing human dignity while building a stronger, more organized society.",
+        "Agent1: Human dignity is crucial, but true dignity comes from respecting the law. An uncontrolled pathway incentivizes further illegal entry, overwhelming our systems and diminishing the value of legal immigration. We need a secure, legal framework that prioritizes citizens and ensures controlled integration, not a system that encourages law-breaking.",
+        "Agent0: I believe dignity also comes from compassion and opportunity. A *controlled* pathway to citizenship isn't uncontrolled; it brings people out of the shadows, allowing for better tracking, tax contributions, and integration. This strengthens our communities and economy, creating a more stable and just society for everyone, rather than fostering a permanent underclass.",
+        "Agent1: While a \"controlled pathway\" sounds appealing, the primary concern remains the integrity of our laws. Any pathway must first secure the border and ensure it doesn't encourage further unlawful entry, which burdens our system. We must prioritize legal processes and the well-being of our citizens.",
+        "Agent0: I agree that secure borders are important, but we can't ignore the millions already here contributing. A fair pathway *is* a legal process that brings stability, allows them to fully participate, and prevents a shadow economy. This helps everyone, including our citizens, by strengthening our overall society."
+    ]
+}

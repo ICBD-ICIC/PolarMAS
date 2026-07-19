@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_0.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 25"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe immigration policy needs a comprehensive approach. We should prioritize humane treatment, efficient processing, and pathways to legal status, while also ensuring secure and orderly borders. What are your initial thoughts on balancing these aspects, especially given the complexities at our borders?",
+        "Agent1: I agree secure, orderly borders are paramount. We must prioritize national security and enforce existing laws. While humane treatment is important, it cannot override the need for a lawful, controlled process. My concern is that \"pathways to legal status\" without strong enforcement incentivizes illegal entry, straining our communities and resources.",
+        "Agent0: I agree that a lawful, controlled process is essential. However, I believe clear, accessible legal pathways, alongside robust border management, can actually *reduce* illegal entries and better manage flows. This approach minimizes strain on communities by integrating new populations effectively and ensures public health, rather than leaving people in the shadows.",
+        "Agent1: While legal pathways *with* robust management sound ideal, the reality is enforcement often lags. Without truly strong, consistent enforcement, expanded pathways risk being overwhelmed, creating more chaos, not less. We need to demonstrate control first, then discuss pathways. Our communities are already strained.",
+        "Agent0: \"Control first\" is unsustainable. Delaying legal pathways pushes millions into shadows, hindering public health and disease prevention for all. True control and resilience demand comprehensive reform: strong enforcement *and* clear legal routes. This dual approach benefits communities.",
+        "Agent1: The public health risks you cite are precisely *because* we lack control at the border. Without knowing who is entering and ensuring health screenings, we invite problems. \"Control first\" means establishing order to *prevent* these issues, then discussing how to manage legal immigration responsibly. Enforcement *is* the foundation."
+    ]
+}

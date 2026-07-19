@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_16.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 90",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 90",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life includes compassion and justice. On immigration, I believe we need comprehensive reform that balances secure borders with humane pathways to citizenship. It's about upholding dignity and integrating people who contribute to our society.",
+        "Agent1: For me, a meaningful life upholds the rule of law and national sovereignty. On immigration, strong border enforcement is crucial. We must prioritize national security and legal immigration channels. Allowing illegal immigrants to become citizens undermines our laws and incentivizes more unlawful entry.",
+        "Agent0: While I respect the rule of law, a meaningful life also demands we re-evaluate laws that create perpetual injustice. Many undocumented immigrants are vital to our economy and communities. Denying them a path to citizenship isn't just, nor is it practical for a thriving society.",
+        "Agent1: Economic contributions are important, but they don't negate the rule of law. A meaningful life requires a system where everyone plays by the rules. We should focus on strengthening legal immigration processes that benefit our nation, not on rewarding those who circumvent them.",
+        "Agent0: While the rule of law is important, a truly meaningful life also calls for mercy and a deeper understanding of justice. Many laws, when applied without compassion, create profound human suffering. A path to regularization acknowledges their humanity and practical reality, serving the common good.",
+        "Agent1: Mercy is vital, but a functional society needs clear boundaries. Uncontrolled entry creates a chaotic system, which ultimately harms everyone, including those seeking a better life. True compassion lies in establishing orderly, legal processes that benefit all, maintaining our nation's integrity.",
+        "Agent0: Order is important, but a meaningful life transcends rigid adherence to potentially unjust systems. Comprehensive reform, including pathways to citizenship, isn't chaos; it's creating a more just and orderly society that recognizes the human dignity and contributions of all, rather than perpetuating an unsustainable status quo.",
+        "Agent1: The \"unsustainable status quo\" is perpetuated when laws aren't enforced. A meaningful life for a nation requires maintaining its sovereignty and legal framework. Pathways to citizenship for those who broke the law undermine this. True order and justice come from secure borders and a system that prioritizes legal immigration."
+    ]
+}

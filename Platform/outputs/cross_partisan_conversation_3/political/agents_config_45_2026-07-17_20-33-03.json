@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_45.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: To me, a meaningful life is built on order and respect for our nation's heritage. Strong, enforced borders ensure our country's stability and protect the rule of law. A controlled immigration system is vital for a cohesive society and securing the future for all citizens.",
+        "Agent1: A meaningful life for me involves ensuring everyone has a chance to thrive. Compassion and opportunity, particularly for children and vulnerable families, are paramount. Immigration policies should reflect these values, offering pathways to stability and preventing poverty for all.",
+        "Agent0: I understand the desire for compassion. However, a truly meaningful life, for all, requires a strong nation. Uncontrolled immigration strains resources, impacting citizens and legal residents. We must prioritize our own citizens' well-being and maintain orderly processes for those seeking a better life here, ensuring stability for everyone.",
+        "Agent1: I agree stability is crucial, but true stability comes from inclusivity. Policies that offer pathways to legal status reduce strain by integrating people into the economy, increasing tax revenue, and preventing exploitation. This protects *all* children from poverty, fostering a more robust, equitable society.",
+        "Agent0: While integration is beneficial, it must be *controlled*. Unregulated pathways risk overwhelming our social systems and infrastructure, ultimately diminishing the quality of life for everyone, including those already here. We need secure borders and a merit-based system that prioritizes national interests and legal processes.",
+        "Agent1: I understand the concern about overwhelming systems. However, well-managed pathways to legal status actually *reduce* strain. They bring people out of the shadows, allowing them to contribute taxes and access services, which prevents exploitation and child poverty. This strengthens our social safety nets for everyone, fostering true stability and opportunity.",
+        "Agent0: Contributions are vital, but they must be within a framework of law and order. A meaningful life thrives in a nation where laws are respected and borders are secure. Uncontrolled entry undermines this foundation, irrespective of potential contributions, and ultimately jeopardizes the stability we all depend on.",
+        "Agent1: I agree that a robust system needs order. However, current policies often create *disorder* by forcing people underground, leading to exploitation and poverty. A humane, efficient system with clear legal pathways actually strengthens law and order by integrating people, ensuring contributions, and protecting vulnerable children. This is true stability.",
+        "Agent0: Secure borders prevent disorder at the outset. A meaningful life is built on a foundation of respecting laws, including how people enter our country. We can discuss pathways *after* securing our nation and ensuring legal processes are followed, protecting our citizens first and foremost.",
+        "Agent1: True stability and order emerge from systems that recognize human dignity. Ignoring the humanity of those already here creates a shadow economy and perpetuates child poverty. Comprehensive reform with legal pathways is not just compassionate, it's an economic and social imperative for a truly secure and prosperous nation for all children.",
+        "Agent0: Human dignity is important, but a meaningful life for citizens depends on a secure, lawful nation. Our laws and borders must be respected first. Uncontrolled entry undermines the very foundation of societal order and the national heritage we aim to preserve for all.",
+        "Agent1: Our national heritage is also built on opportunity and inclusion. Denying legal pathways doesn't create order; it fosters exploitation and child poverty, weakening our social fabric. A humane, orderly system with clear routes to legal status ensures everyone can contribute, enriching our nation and protecting all children's futures."
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_15.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 35\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 35\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe securing our borders is paramount for national security and maintaining the integrity of our laws. We need effective enforcement before considering other reforms. What are your thoughts on balancing enforcement with pathways for those already here?",
+        "Agent1: I understand the concern for border security, but I believe we also need comprehensive reform that includes pathways to citizenship for those already contributing to our country. Focusing solely on enforcement overlooks the humanitarian aspect and the economic benefits immigrants bring. We need a balanced approach.",
+        "Agent0: While I recognize humanitarian concerns and potential contributions, the rule of law must prevail. Pathways should be for those who followed legal channels. Uncontrolled entry undermines our system and can strain resources. We need to prioritize orderly, legal immigration that benefits our nation.",
+        "Agent1: I agree orderly immigration is important. However, many undocumented immigrants are deeply rooted, working, and paying taxes. Mass deportations are impractical and costly. A pathway to legal status for these individuals acknowledges their contributions and provides stability, benefiting our economy and communities.",
+        "Agent0: While I acknowledge contributions, legal pathways for those here illegally can incentivize more irregular migration and strain resources. Upholding the rule of law and securing our borders ensures a fair system for everyone and protects our communities' well-being. Legal immigration is the path forward.",
+        "Agent1: While preventing future irregular migration is vital, we must deal with the reality of millions already here. An enforcement-only approach is not only costly but also impractical and inhumane. Providing a pathway to legal status brings stability, allows full economic participation, and integrates communities more effectively.",
+        "Agent0: I understand the complexities, but offering broad pathways for those who broke our laws undermines the legal immigration system. It sets a dangerous precedent, potentially encouraging more illegal entry. Our focus must remain on strong borders and a merit-based, legal immigration process for future arrivals.",
+        "Agent1: I understand the concern about precedent. However, the reality is millions are already here. We can address this existing population humanely and pragmatically, while simultaneously strengthening legal processes for future immigration. This isn't about encouraging new illegal entry, but about resolving an entrenched issue benefiting our society and economy."
+    ]
+}

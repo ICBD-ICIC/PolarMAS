@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_35.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning stems from understanding the world, much like deciphering tree rings reveals Earth's history. But ultimately, it's about family and community \u2013 building something enduring, passing on knowledge and values. Contributing to a better future, rooted in tradition, that's meaningful.",
+        "Agent1: I agree, family and community are fundamental. For me, meaning also shines through appreciating beauty and human creativity, like the enduring light in a Vermeer painting. It illuminates our shared humanity and inspires connection, understanding, and progress for all.",
+        "Agent0: I agree, family and community are the bedrock. While art's beauty is powerful, I see meaning in the enduring truths revealed by history and science, like the patterns in ancient wood. It\u2019s about building a solid foundation, ensuring continuity and strength for future generations.",
+        "Agent1: I find those enduring truths often manifest in human expression \u2013 art, stories, shared experiences. The beauty of a Vermeer isn't just aesthetic; it captures universal moments, reflecting our shared humanity and driving us to connect, understand, and strive for a more inclusive future.",
+        "Agent0: I agree that human expression can reflect truths. However, for me, the most profound enduring truths are found in the objective patterns of nature and history, much like tree rings. Building meaning involves preserving these foundational truths and traditions, ensuring a strong, stable legacy for family and community across generations.",
+        "Agent1: For me, those enduring truths truly come alive through human interpretation and expression. Art, like a Vermeer, captures universal human experience, fostering empathy and building a legacy of shared understanding and progress, connecting us across generations.",
+        "Agent0: While human expression can be powerful, I see it as most meaningful when it serves to transmit essential truths and traditions, much like ancient stories or historical records. It's about grounding our shared humanity in objective reality and preserving the values that strengthen family and community across time, ensuring a stable foundation.",
+        "Agent1: I agree that art transmits truths, but it also *interprets* and *evolves* them. A Vermeer doesn't just record reality; it illuminates universal human experiences, fostering empathy and inspiring us to build a more connected, compassionate, and progressive future for all, enriching traditions.",
+        "Agent0: While art interprets, true meaning comes from enduring, foundational truths, like the unchanging laws governing tree growth. It's about preserving these objective realities and traditions, strengthening family and community, ensuring a stable, prosperous legacy that isn't swayed by fleeting interpretations but built on solid ground.",
+        "Agent1: While foundational truths are vital, their true meaning unfolds through human experience and expression. Art, like Vermeer's, doesn't just reflect; it helps us *interpret* these truths, fostering empathy and inspiring us to build a more inclusive, progressive society where traditions evolve to serve all."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! I believe comprehensive immigration reform is crucial. We need a clear path to citizenship for those already contributing, alongside addressing the root causes of migration. Humane treatment and efficient processing are key. What are your thoughts on current policies?",
+        "Agent1: Hi. My primary concern is securing our borders and enforcing existing laws. We need to ensure legal immigration is streamlined, but unauthorized entry undermines our sovereignty. A strong border is the foundation for any meaningful reform.",
+        "Agent0: I understand the importance of border security, but it shouldn't come at the expense of human dignity. We can have secure borders *and* humane policies that offer protection to asylum seekers and provide a path for those contributing to our economy. Focusing only on enforcement ignores complex realities.",
+        "Agent1: While I agree human dignity is vital, uncontrolled borders strain public services and national security. My concern is that \"humane policies\" without strong enforcement incentivize illegal crossings, making the situation worse for everyone. We must prioritize law and order first, then discuss legal pathways.",
+        "Agent0: I see your point on enforcement, but focusing solely on it is a reactive approach. True security comes from a functional system. Creating efficient legal pathways and addressing root causes *reduces* unauthorized crossings and allows for better management, rather than just reacting to them.",
+        "Agent1: I appreciate the idea of a functional system, but it's only functional if it's respected. Without robust border enforcement, legal pathways become secondary to illegal entry. We need to demonstrate control and deter unauthorized crossings before any other reforms can truly work effectively and sustainably.",
+        "Agent0: I agree a system needs respect, but respect comes from a *fair and efficient* system, not just a walled-off one. Prioritizing enforcement alone creates backlogs and humanitarian crises. A comprehensive approach, including legal pathways and addressing root causes, works in tandem with smart security for lasting solutions.",
+        "Agent1: While I understand the desire for a comprehensive approach, without first establishing firm control at the border and consistently enforcing our laws, any \"legal pathways\" or \"root cause\" solutions will be undermined. We must restore order and demonstrate that our immigration system is not open to abuse before other reforms can succeed.",
+        "Agent0: I understand the desire for order. However, relying solely on enforcement creates a cycle of problems, not solutions. It's inefficient and often inhumane. A truly ordered system integrates smart security with accessible legal pathways and addresses underlying drivers of migration, fostering stability and respect for the system holistically.",
+        "Agent1: I agree a holistic system is the ultimate goal, but it can't be built on a foundation of chaos. We need to secure the border first to show that legal entry is the *only* entry. Then, we can discuss how to make those legal pathways more efficient and address root causes."
+    ]
+}

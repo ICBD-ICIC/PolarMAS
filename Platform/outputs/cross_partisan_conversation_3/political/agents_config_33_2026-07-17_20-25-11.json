@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_33.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 90"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 90"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe securing our borders is essential for national security and upholding the rule of law. We need to enforce our existing immigration laws more effectively. While a path to citizenship can be considered, it shouldn't incentivize further illegal immigration. Legal entry must be prioritized to maintain order and safety.",
+        "Agent1: I believe our immigration system needs comprehensive reform that prioritizes humanity and economic integration. For those already contributing to our communities, a clear path to citizenship is vital. It's about building a just society where everyone has a chance to thrive, not just about enforcement.",
+        "Agent0: I agree that humanity is important, but a just society also upholds its laws. Uncontrolled entry undermines the system and can strain resources, potentially impacting our citizens. Legal immigration ensures fairness and managed integration, protecting everyone's opportunities and safety.",
+        "Agent1: I see your point on legal processes, but a meaningful life includes compassion for those seeking refuge and opportunity. Many undocumented immigrants contribute significantly to our economy and culture. A path to citizenship acknowledges their contributions and strengthens our communities, rather than straining them.",
+        "Agent0: I agree compassion is vital. However, a truly meaningful and stable society is built on fair laws applied to everyone. Allowing widespread undocumented status undermines the rule of law and can create an unsustainable system, making it harder to ensure opportunities and well-being for all, including our citizens.",
+        "Agent1: While laws are important, a meaningful life for a society involves balancing enforcement with empathy. Denying a path to citizenship for those deeply rooted here isn't sustainable for human dignity or economic health. It creates a shadow population, which ultimately harms everyone.",
+        "Agent0: Empathy is crucial, but it must operate within the framework of law. A meaningful society ensures fairness for all by prioritizing legal processes. Uncontrolled immigration and a path to citizenship for those who broke laws can incentivize more illegal entry, straining resources and undermining the very rule of law that protects everyone.",
+        "Agent1: Focusing only on past infractions overlooks the present reality. Integrating long-term residents through a path to citizenship strengthens our social fabric and economy. It's about recognizing their humanity and contributions, not just punitive enforcement, which creates more problems than it solves.",
+        "Agent0: While contributions are noted, a meaningful life for a nation is built on respect for its laws. Granting citizenship without adherence to legal processes encourages further illegal acts, creating an unfair system. We must prioritize secure borders and legal immigration to maintain order and fairness for all citizens.",
+        "Agent1: A truly meaningful society evolves its laws to reflect compassion and practicality. Denying a path to citizenship for those deeply integrated and contributing isn't fair; it's counterproductive and inhumane. It creates a permanent underclass, which diminishes everyone's well-being and security, not just theirs."
+    ]
+}

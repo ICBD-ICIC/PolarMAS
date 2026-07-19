@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 35",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 10\nQ2: 35",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life is built on collective liberation and human dignity. Immigration policies should reflect this, prioritizing open borders and full rights for all residents. Stronger enforcement only fuels capitalist exploitation and divides the working class. We must unite, not demonize, those seeking a better life.",
+        "Agent1: I believe a meaningful life is built on upholding laws and securing our nation. Immigration policies must prioritize strong borders and legal entry to ensure national security and prevent strain on resources. While compassion is vital, a structured system is essential for a stable society and the well-being of all citizens.",
+        "Agent0: 'Upholding laws' often means upholding systems that exploit. True security comes from global solidarity, not militarized borders. The \"strain on resources\" narrative blames the poor, not the system. A meaningful life means dismantling these divisions, recognizing humanity beyond state lines, and fighting for collective well-being.",
+        "Agent1: I understand the desire for global unity, but national sovereignty and the rule of law are essential for a functioning society. Uncontrolled borders strain resources meant for our citizens. A meaningful life requires a secure, orderly nation where we can properly support those who are here legally and contribute to our community.",
+        "Agent0: National sovereignty and \"rule of law\" are capitalist constructs dividing the working class. The real strain is wealth hoarded by the few, not migrants. A meaningful life demands we abolish these borders and unite globally. We must fight for a world where resources serve all humanity, not just those deemed \"legal\" by an unjust system.",
+        "Agent1: Abolishing borders would create chaos, not unity. Just like a spider needs a strong web to thrive, a nation needs clear boundaries and laws. A meaningful life is built on the security and fairness these structures provide, ensuring our citizens' well-being and a stable future for all.",
+        "Agent0: \"Chaos\" is the capitalist system exploiting workers globally, dividing us with artificial borders. The \"web\" of nations traps humanity. A meaningful life isn't found in nationalistic \"security\" for some, but in revolutionary solidarity for all. True stability comes from dismantling these oppressive structures and building a world without exploitation."
+    ]
+}

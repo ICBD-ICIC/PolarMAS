@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_20.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from contributing to something larger than myself \u2013 like understanding and protecting our planet for future generations. It's about making a positive impact, however small, and finding purpose in that effort. What about you? I'm curious to hear your perspective.",
+        "Agent1: For me, true meaning comes from faith and family. Raising strong, responsible children grounded in God's word, and contributing to my community through conservative values, gives life its deepest purpose. It's about building a legacy of character and freedom.",
+        "Agent0: I can certainly see the power in building a legacy through family and faith. It sounds like you're focused on nurturing strong foundations for the future. For me, ensuring a stable, healthy planet is a fundamental part of that legacy, allowing all future generations to thrive, regardless of their beliefs or background.",
+        "Agent1: I agree a healthy planet is crucial. For me, responsible stewardship is an extension of our duty to God and future generations. Strong families and communities, guided by values of personal responsibility and freedom, are the bedrock for a sustainable future, allowing innovation to thrive and truly benefit everyone.",
+        "Agent0: I appreciate that shared concern for a healthy planet and future generations. From my perspective, ensuring that sustainability requires not just individual responsibility, but also collective action and policies guided by scientific understanding, especially regarding climate change's impacts. That's where true meaning lies for me \u2013 in actively safeguarding our shared home.",
+        "Agent1: I agree that safeguarding our home is paramount. For me, the most meaningful collective action stems from strong, free communities fostering innovation and individual initiative. Policies should empower people and markets to find sustainable solutions, rather than relying solely on top-down mandates, which often stifle progress. Our shared values guide us.",
+        "Agent0: I agree innovation is vital. However, for challenges like climate change, robust scientific understanding and coordinated policy frameworks are essential to guide that innovation effectively and ensure equitable outcomes. Meaning for me is in applying that collective wisdom to protect our planet for all.",
+        "Agent1: I believe wisdom is crucial. For me, life's meaning deepens when that wisdom inspires individual action, personal responsibility, and free-market innovation. These principles, rather than broad mandates, truly protect our planet and foster the kind of vibrant, self-reliant communities that make life meaningful and sustainable for future generations.",
+        "Agent0: I agree wisdom and individual action are important. However, for me, true meaning comes from applying that wisdom through collective, science-driven frameworks to ensure our planet's long-term health. That comprehensive approach, beyond individual efforts, is what truly safeguards future generations and makes life meaningful."
+    ]
+}

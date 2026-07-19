@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_14.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 15\nQ2: 90",
+        "Agent1": "Q1: 95\nQ2: 30"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 15\nQ2: 90",
+        "Agent1": "Q1: 95\nQ2: 30"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! This is an interesting topic. For me, life's meaning comes from connection: nurturing relationships with family and friends, and contributing positively to my community. Finding purpose in making a difference, however small, and continually learning and growing also feels essential. What are your thoughts?",
+        "Agent1: Agent0: I agree, connection is vital. For me, meaning stems from leveraging my skills to innovate and solve real-world problems, like developing those sensors for medical and environmental uses. Contributing tangibly to human progress and leaving a positive mark, alongside strong family bonds, truly gives life purpose.",
+        "Agent0: I see parallels! Your focus on innovation and tangible contribution to progress truly resonates. For me, that 'making a difference' often manifests through understanding and communicating complex systems, like disease transmission or even social dynamics, to foster healthier communities. Family bonds are indeed foundational.",
+        "Agent1: Agent0: That's a great point about fostering healthier communities. My work developing sensors for wound healing and disease detection directly aims to improve health outcomes and contribute to societal well-being. It's about practical solutions for a better future, alongside the bedrock of family.",
+        "Agent0: I completely agree; those practical solutions are vital for a better future. My focus on understanding and communicating disease transmission, for instance, complements your work by ensuring that knowledge translates into collective action for healthier communities. It's all about effective information transfer for well-being, supported by family.",
+        "Agent1: Absolutely. Knowledge translation is crucial. My sensors aim to provide clear, actionable data, empowering individuals and communities to make informed decisions for their health and environment. This practical application of knowledge, combined with family, truly gives life meaning.",
+        "Agent0: Yes, empowering individuals with actionable data is key. My work often involves ensuring that scientific understanding, whether it's about disease or social dynamics, is effectively communicated so communities can make those informed decisions. It's about translating complex information into collective well-being, always with family as the core.",
+        "Agent1: Agent0: I completely agree on empowering individuals with clear, actionable data. My goal with these sensors is precisely that: providing accessible tools for personal health management and environmental awareness. That practical application, combined with the fundamental support of family, truly defines a meaningful life."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_37.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning often comes from standing firm in one's convictions, much like Saint Maurice. It's about honor, courage, and faithfulness to a higher purpose, contributing to something greater than oneself. Discovering and upholding truth, and living with integrity, provides profound meaning. What are your thoughts?",
+        "Agent1: I appreciate your focus on conviction and higher purpose. For me, meaning often comes from deep connections with loved ones and contributing to a more just and compassionate community. It's about empathy, shared experiences, and striving for collective well-being, finding joy in helping others thrive.",
+        "Agent0: That's a valuable perspective on connection and community. I agree that strong bonds and collective well-being are vital. Yet, for a truly just society, individual virtue\u2014like courage to stand for truth and integrity\u2014is foundational. It\u2019s the bedrock upon which meaningful communities are built.",
+        "Agent1: I agree individual virtues are crucial. However, I see their ultimate meaning in how they strengthen our ability to build and sustain those compassionate communities. Integrity and courage are powerful when used to advocate for justice and lift up others, making our collective well-being stronger.",
+        "Agent0: Indeed. For figures like Saint Maurice, his ultimate meaning wasn't solely in strengthening the community, but in upholding a higher truth, even when it meant standing apart. This individual faithfulness, *then* inspires and strengthens the community by example, providing a moral compass.",
+        "Agent1: I see your point about individual acts inspiring. For me, that 'higher truth' finds its deepest meaning when it's shared and actively applied to improve the lives of *everyone*. It's about using those virtues to build bridges and ensure justice for all, rather than just standing apart.",
+        "Agent0: I agree that sharing truth is vital for justice. However, the integrity of the truth itself, often discerned and defended by individuals like Maurice, is paramount. True justice for all isn't just about sharing, but about adhering to uncompromised principles that originate from a higher source, guiding the community.",
+        "Agent1: I agree that principles are essential. However, for me, the true meaning of these \"higher source\" principles lies in their universal application \u2013 how they inspire empathy, foster justice for *everyone*, and strengthen our collective bonds. Their value comes from actively improving human well-being, not just their origin.",
+        "Agent0: While universal application is noble, the *meaning* of such principles ultimately stems from their divine or inherent truth, not solely their utility. Saint Maurice exemplified this; his faithfulness to a higher truth *defined* his honor, which then offered a true moral compass for society, beyond mere collective benefit.",
+        "Agent1: I understand the emphasis on inherent truth. However, for me, the *deepest meaning* of a moral compass is found in its active guidance toward universal compassion and justice. Its value isn't just in its existence, but in how it inspires us to protect the vulnerable and build a more equitable, inclusive community for all."
+    ]
+}

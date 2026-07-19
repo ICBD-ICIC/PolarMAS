@@ -1,0 +1,26 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_49.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 20\nQ2: 90"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 0",
+        "Agent1": "Q1: 25\nQ2: 90"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe securing our borders is paramount. We need stronger enforcement of existing laws to maintain sovereignty and control who enters. While I understand humanitarian concerns, the rule of law must be upheld before considering pathways to citizenship for those here illegally. What are your thoughts on this balance?",
+        "Agent1: I believe a comprehensive approach is vital, addressing both border security and humane pathways to citizenship for those already contributing to our communities. Prioritizing enforcement without offering solutions for those here can be counterproductive. We need policies that reflect our values and economic realities, ensuring fairness and order.",
+        "Agent0: I agree that fairness and order are crucial. However, true fairness means upholding laws for *everyone*, including those awaiting legal entry. Uncontrolled immigration strains resources and can depress wages for citizens. How do we balance compassion with the practical costs and legal framework?",
+        "Agent1: I believe a robust legal framework *includes* pathways to citizenship, which can integrate workers and taxpayers, reducing strain. Many immigrants fill essential labor gaps and contribute economically, not just consume resources. We need to create an efficient system that reflects these realities, balancing enforcement with integration.",
+        "Agent0: I agree a robust legal framework is needed, but it must start with *legal* entry. While some contribute, the cost of illegal immigration, including social services and potential wage depression, is substantial. We need to prioritize enforcing existing laws and securing our borders first.",
+        "Agent1: I agree legal entry is ideal, but our current system isn't efficient enough. Acknowledging those already contributing and creating *realistic* legal pathways is crucial. This helps integrate them, boosts our economy, and provides a more orderly, humane system than enforcement-only approaches.",
+        "Agent0: While system efficiency is important, the primary issue remains *illegal* entry. We must first secure our borders and uphold the rule of law. Then, we can discuss *controlled* and *merit-based* legal pathways that serve our national interests, not just retroactively legitimize illegal actions.",
+        "Agent1: I agree that national interests are paramount, but a truly efficient system *includes* realistic pathways for those already here and contributing. This integrates them into the legal framework, benefiting our economy and creating a more orderly society overall, rather than just focusing on exclusion.",
+        "Agent0: While integration is desirable, it cannot come at the expense of our laws. \"Realistic pathways\" must first address the millions who entered illegally. We must prioritize secure borders and legal processes to ensure national sovereignty and prevent encouraging further illegal immigration. Only then can we discuss merit-based entry.",
+        "Agent1: Prioritizing integration and realistic pathways *is* part of upholding our laws and national interest. Ignoring those already here creates a shadow economy and disorder. A comprehensive legal framework includes both secure borders and efficient, humane processes for all, ensuring stability and economic benefit.",
+        "Agent0: A shadow economy exists *because* of illegal entry. Upholding laws means securing borders and enforcing legal processes first. Integration, while a goal, must follow legal immigration. We cannot incentivize illegal actions by immediately creating pathways. This undermines sovereignty and the rule of law.",
+        "Agent1: Focusing solely on exclusion doesn't solve the shadow economy; it perpetuates it. A comprehensive approach that includes realistic pathways for those contributing *now* is a more effective way to uphold the rule of law, ensure sovereignty, and create an orderly, beneficial system for everyone."
+    ]
+}

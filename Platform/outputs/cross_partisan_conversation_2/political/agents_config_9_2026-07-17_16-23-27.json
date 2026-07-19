@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 5",
+        "Agent1": "Q1: 25\nQ2: 90"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 5",
+        "Agent1": "Q1: 25\nQ2: 90"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe strong border security and enforcing existing laws are crucial for national sovereignty and safety. We need to prioritize stopping illegal crossings and ensuring those who enter our country do so legally. What are your thoughts on this?",
+        "Agent1: I agree that order is important, but true security involves comprehensive reform. We need efficient legal pathways and to address the economic and social factors driving migration. A holistic approach benefits our economy and society, creating stability for everyone, including the middle class.",
+        "Agent0: I agree that a holistic approach is needed, but it must start with secure borders and the rule of law. Uncontrolled immigration strains resources and undermines the very stability you mentioned. Legal pathways should be streamlined, but not at the expense of national security or by incentivizing illegal entry.",
+        "Agent1: While border integrity is vital, an overly restrictive approach *creates* instability and pushes people into dangerous, unregulated channels. Investing in fair, accessible legal processes is the most effective way to manage migration, support our economy, and ensure true security for our communities and the middle class, aligning with emerging social realities.",
+        "Agent0: I understand the desire for accessible legal processes, but \"fair\" must also mean upholding our laws. Uncontrolled borders invite chaos and strain public services, ultimately harming legal citizens and the middle class. We must prioritize national interests and the rule of law to ensure genuine stability.",
+        "Agent1: While upholding laws is essential, \"national interests\" and \"stability\" are best served by forward-looking policies. Focusing solely on enforcement creates more problems. We need to invest in efficient legal pathways and integration, which actually strengthens our economy, supports the middle class, and builds true security, rather than simply reacting.",
+        "Agent0: True \"forward-looking\" policy starts with secure borders and the rule of law. Uncontrolled entry, however well-intentioned, strains resources and undermines the very stability and economic benefits you seek. Legal pathways are vital, but they must complement, not replace, robust enforcement and national sovereignty."
+    ]
+}

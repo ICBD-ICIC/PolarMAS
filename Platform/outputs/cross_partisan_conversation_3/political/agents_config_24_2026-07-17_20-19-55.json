@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning includes creating a society where everyone, including immigrants, can thrive and contribute. I believe providing pathways to citizenship is more important than just enforcement. It strengthens communities and respects human dignity. What are your thoughts?",
+        "Agent1: For me, life's meaning involves upholding the rule of law and national sovereignty. Stronger enforcement of our immigration laws is paramount to maintaining an orderly society and securing our borders. Legal immigration is vital, but bypassing it undermines our system.",
+        "Agent0: I understand the importance of law and order. However, an orderly society also benefits from clear, humane immigration processes. Current laws are often insufficient, creating an undocumented population. Comprehensive reform, including pathways to citizenship, could bring more people into the system, not undermine it.",
+        "Agent1: While efficiency is good, creating pathways without securing the border first often incentivizes more illegal crossings. True reform means robust enforcement and streamlining *legal* immigration processes, ensuring fairness to those who follow the rules. An orderly system respects both citizens and future legal immigrants.",
+        "Agent0: I agree that legal immigration needs streamlining and fairness. But waiting for a \"perfectly secure\" border before addressing those already here creates a permanent underclass. Integrating undocumented folks into society and the economy, with fair pathways, benefits everyone, boosts our economy, and makes communities safer overall. It's a pragmatic solution.",
+        "Agent1: True pragmatism starts with upholding laws. Uncontrolled integration undermines the rule of law, creating a burden on services and discouraging legal immigration. Our system must prioritize secure borders and fair, legal pathways, ensuring true safety and economic stability for all citizens.",
+        "Agent0: While upholding laws is key, current laws often create the problem. \"Uncontrolled integration\" isn't the goal; regulated, humane pathways are. Integrating undocumented individuals actually *reduces* burdens by bringing them into the tax base and formal economy, benefiting everyone and strengthening communities.",
+        "Agent1: Regulated pathways are for legal immigrants. Allowing those who entered unlawfully to bypass the system disregards the rule of law and encourages further illegal entry. It burdens public services and wages, ultimately undermining the very communities you claim to strengthen. Legal means are paramount.",
+        "Agent0: But these \"unlawful entries\" are often due to broken systems and desperate circumstances. Denying pathways creates a permanent underclass, not a solution. Integrating them means they pay taxes, contribute, and reduce strain, rather than being an invisible burden. It's about recognizing reality and building a better, more just society for all."
+    ]
+}

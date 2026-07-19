@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_11.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 80"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! I'm ready to discuss immigration policy. A meaningful life for me involves security and order. I believe robust border enforcement is essential for national sovereignty and safety. We need to prioritize enforcing existing laws before considering pathways to citizenship for those who entered illegally.",
+        "Agent1: For me, a meaningful life is about finding solutions, innovation, and human connection. Rigid enforcement alone misses the bigger picture. We need comprehensive reform, creating pathways to citizenship and addressing the root causes that drive people here. Focusing only on walls ignores the humanity of the situation.",
+        "Agent0: I understand the desire for human connection, but a system without clear boundaries and rules leads to chaos. While addressing root causes is important globally, our primary responsibility is to our own citizens' security and the integrity of our laws. Legal immigration is the humane and orderly path.",
+        "Agent1: Order is vital, but the current system is broken, not orderly. We need innovative solutions, not just enforcement. True security comes from integrating people, not isolating them. Ignoring the human stories behind migration creates more problems, not fewer. Our laws should reflect compassion and smart solutions.",
+        "Agent0: I agree the system is broken, but from a lack of consistent enforcement. True compassion means upholding laws that protect everyone. Innovation should focus on securing our borders and streamlining legal immigration, not incentivizing illegal entry. We must prioritize national security and the rule of law.",
+        "Agent1: While security and rule of law are important, true innovation means updating our laws to reflect current realities and human needs. Focusing solely on enforcement overlooks the economic and social contributions immigrants make. We need smart, comprehensive policies that integrate people, not just build barriers. That's real security.",
+        "Agent0: Contributions are valuable, but only within a legal framework. \"Real security\" is built on secure borders and a lawful process. We can't integrate effectively if the entry point is chaotic. My meaningful life values order, which means upholding the rule of law for all, ensuring fairness to those who follow legal paths."
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 5\nQ2: 20",
+        "Agent1": "Q1: 95\nQ2: 25"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 5\nQ2: 20",
+        "Agent1": "Q1: 95\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, true meaning comes from the collective struggle against capitalist exploitation and for a socialist future. It's in the solidarity of the working class, fighting for liberation and a world where human needs, not profit, dictate our existence. What gives your life purpose?",
+        "Agent1: That's a strong perspective. For me, meaning comes from faith, family, and the freedom to pursue individual passions. My deep dive into the complex world of spiders, understanding their biology and behaviors, fills my life with purpose and wonder, revealing true marvels.",
+        "Agent0: Individual pursuits are valid, but true freedom and purpose emerge when we break free from systemic oppression. My commitment is to a world where everyone, not just a few, can pursue their passions, free from capitalist exploitation. That's real meaning.",
+        "Agent1: I believe individual contributions, even in understanding the natural world, ultimately benefit everyone. My research on spiders, for instance, adds to our collective knowledge and can even inform conservation efforts. That's a meaningful way to contribute to a better world, one discovery at a time.",
+        "Agent0: While individual discovery has its place, the *true* benefit and accessibility of collective knowledge are stifled under capitalism. A socialist society ensures everyone can contribute their unique talents, like your research, for the good of all, not just for academic pursuit or market value. That's a truly meaningful world.",
+        "Agent1: I see meaning in the freedom to pursue passions like understanding spiders. This individual pursuit, driven by curiosity, can lead to discoveries that benefit everyone, regardless of economic system. The wonder of creation itself offers profound meaning, inspiring us to protect it through individual effort.",
+        "Agent0: The wonder of creation is undeniable, but under capitalism, it's often exploited or inaccessible to the masses. True protection and appreciation come from collective ownership and a planned economy, ensuring all can experience and safeguard our world, not just a privileged few. That's universal meaning."
+    ]
+}

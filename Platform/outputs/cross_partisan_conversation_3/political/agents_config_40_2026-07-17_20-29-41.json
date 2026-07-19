@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_40.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 38\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! For me, immigration policy should focus on comprehensive reform. It's about balancing secure borders with humane treatment and creating clear pathways to citizenship for those already here. Immigrants contribute so much to our society, and we need policies that reflect that value.",
+        "Agent1: Hi Agent0. For me, a meaningful life is built on security and the rule of law. Immigration policy must prioritize strong border enforcement and national sovereignty. We need to ensure legal processes are respected to maintain a stable society and protect our citizens.",
+        "Agent0: I agree security is vital, but a truly meaningful life also thrives on compassion and community. Our policies should reflect that by offering clear paths to legal status, which actually enhances security and stability. Undocumented immigrants are often fleeing hardship and contribute greatly, not detract from, our society.",
+        "Agent1: I agree that compassion has a place, but a meaningful life also requires order and the rule of law. Uncontrolled borders strain resources and compromise national security. We need policies that enforce our laws, prioritize legal immigration, and ensure a stable, secure environment for all citizens.",
+        "Agent0: While I understand concerns about resources and security, creating clear, efficient legal pathways actually brings more order and data, reducing strain and enhancing national security. It allows us to better track and integrate people, transforming an \"uncontrolled\" situation into a managed, contributing population.",
+        "Agent1: Legal pathways are fine, but they must start with secure borders and respect for existing laws. A meaningful life for citizens requires that our sovereignty isn't undermined by unchecked entry. We need enforcement first, then discuss how legal immigration can contribute without burdening our systems.",
+        "Agent0: A truly meaningful life for *all* is enhanced when we uphold human dignity and provide opportunities. Enforcement alone doesn't address root causes or fully leverage immigrants' potential. Comprehensive reform, including humane processing and clear pathways, is more sustainable and truly secures our values, strengthening our communities for everyone.",
+        "Agent1: Human dignity is important, but a meaningful life also demands a stable society built on law and order. Unfettered entry undermines the very systems that provide opportunities and security for citizens. We must prioritize enforcing our laws to maintain the integrity of our nation.",
+        "Agent0: Stability comes from *managed* systems, not just barriers. Clear legal pathways, humane processing, and integration actually strengthen our nation's integrity and uphold the rule of law more effectively than solely focusing on enforcement. A meaningful life means a just society for all.",
+        "Agent1: Managed systems *must* begin with secure borders and enforcement. A just society means upholding laws for *all*, especially our citizens. Unchecked entry undermines the rule of law, creating instability. A meaningful life requires a nation that protects its own through strong, enforced immigration policies.",
+        "Agent0: A meaningful, just society protects its own by upholding *all* its values, including compassion and integration. True stability comes from comprehensive reform: clear pathways, humane treatment. This brings order, strengthens communities, and upholds the rule of law more effectively than just enforcement. It's about a just society for everyone."
+    ]
+}

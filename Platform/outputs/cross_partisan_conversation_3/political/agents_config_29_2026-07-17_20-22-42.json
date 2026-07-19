@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_29.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 25",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 100\nQ2: 25",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful society upholds its laws. On immigration, I prioritize strong border security and consistent enforcement of existing laws. It's crucial for national sovereignty and maintaining order. We must address illegal immigration first, before discussing pathways to citizenship.",
+        "Agent1: I believe a meaningful society embraces compassion and opportunity for all. While security is important, policies must also recognize the humanity of immigrants and their contributions. Creating pathways to citizenship strengthens our communities and economy, reflecting our values of inclusion and shared prosperity. We need comprehensive reform.",
+        "Agent0: Compassion is vital, but true compassion starts with upholding the rule of law. Uncontrolled borders strain resources and undermine the legal immigration system. While contributions are acknowledged, ensuring a secure, orderly process respects all citizens and legal immigrants. Prioritizing sovereignty and national security remains paramount for a stable society.",
+        "Agent1: An orderly process should also be a humane one. Focusing solely on enforcement overlooks the economic and cultural benefits immigrants bring. True stability comes from integrating people, not just excluding them. We can have secure borders *and* a fair, efficient system that offers a path to legal status, benefiting everyone.",
+        "Agent0: Integration must be built on a foundation of law and order. A system perceived as unfair to those who follow legal channels erodes public trust and incentivizes illicit entry. We need clear, secure borders and consistent enforcement to ensure fairness for everyone and maintain the integrity of our nation.",
+        "Agent1: The current legal channels are often inaccessible and slow. A truly fair system would streamline legal immigration, reducing incentives for irregular crossings while still upholding our values. Integration isn't just about law; it's about building a stronger, more diverse society that benefits from everyone's potential.",
+        "Agent0: Streamlining is a discussion for *after* we secure our borders and enforce existing laws. A strong nation maintains its sovereignty. True fairness means prioritizing citizens and those who legally immigrate. We cannot reward illegal entry without undermining the very fabric of our legal system and national security.",
+        "Agent1: Prioritizing \"after\" ignores the human cost and economic reality. A secure border *and* a humane, efficient legal pathway are not mutually exclusive; they're essential components of a truly secure and just nation. Our strength comes from both our laws and our values of inclusion, ensuring everyone can contribute meaningfully.",
+        "Agent0: While I recognize the human element, effective governance demands prioritizing national sovereignty and the rule of law. A secure border isn't just about enforcement; it's about control. We must first regain control, then discuss reforms that don't incentivize lawbreaking or strain our systems."
+    ]
+}

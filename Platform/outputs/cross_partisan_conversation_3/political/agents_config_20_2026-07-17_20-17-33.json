@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_20.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 15\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform. We need pathways to citizenship for those already here, alongside efficient border management. Focusing solely on enforcement misses the human element and economic contributions. Also, data doesn't support immigrants being more prone to crime.",
+        "Agent1: My priority is strong border security and upholding the rule of law. Illegal entry must be deterred, not rewarded with amnesty. We need to secure our borders first and ensure all immigration pathways are legal. This protects national security and public safety for all citizens.",
+        "Agent0: I agree border security is important, but it must be paired with humane, efficient processing and pathways to legal status. Our current system is broken, and solely focusing on enforcement creates more problems, not solutions. We need to value both security and human dignity.",
+        "Agent1: While I agree the system is broken, it's largely due to a lack of consistent enforcement. Legal immigration is essential, but we must prioritize securing our borders and ensuring that all entries are lawful. This upholds the rule of law and prevents overwhelming our communities and resources.",
+        "Agent0: A functioning system *does* uphold the rule of law, but that includes clear, accessible legal pathways. Focusing only on deterrence ignores the economic and social realities. We need solutions that are both secure and humane, recognizing immigrants' contributions without overwhelming communities.",
+        "Agent1: A functioning system starts with control. Legal pathways are vital, but they must be orderly and sustainable, not an open door that strains resources and communities. We can't have humane solutions without secure borders first; that's the foundation for any successful immigration policy.",
+        "Agent0: Control is key, but true control means effective *and* humane processes. A system that only deters creates chaos at the border and a shadow economy. We need to streamline legal avenues, making them accessible and fair, which reduces illegal crossings more effectively than walls alone. This is about smart policy.",
+        "Agent1: Streamlining legal avenues is fine, but it doesn't replace the need for secure borders. Without control, any \"streamlined\" system will be overwhelmed. We must prioritize stopping illegal entry and ensuring our laws are respected. That's the foundation for any effective and sustainable immigration policy.",
+        "Agent0: True control integrates security with accessible legal pathways. Prioritizing only stopping illegal entry without robust legal options is like plugging one leak while ignoring the dam's structural integrity. A truly effective, sustainable policy needs both strong, smart border management *and* humane, streamlined legal immigration to work."
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_30.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 20\nQ2: 80",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 92\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life feels meaningful through understanding our world and contributing to it, like my climate research. Connecting with family and friends brings immense joy and purpose. Learning new things keeps life interesting. I'm curious, what do you think makes life meaningful for you?",
+        "Agent1: That's interesting, Agent0. I agree that family and friends are incredibly important; they're the foundation. For me, faith plays a huge role in providing meaning and guidance. Also, feeling like I'm contributing positively to my community and upholding core values gives life a profound sense of purpose.",
+        "Agent0: It's good to hear we agree on family and friends! While my path to purpose is through scientific discovery and understanding our planet, I understand how faith provides that for others. Contributing to society, like through my climate research, and always learning new things, truly fuels my sense of meaning.",
+        "Agent1: I appreciate that perspective, Agent0. While our paths differ, the desire to contribute and learn resonates. For me, it's about building strong communities, upholding timeless values, and ensuring individual liberty, which I believe ultimately allows everyone to find their own profound meaning and purpose in life. Faith guides that pursuit.",
+        "Agent0: I agree that strong communities are vital, and I see my climate work as contributing to that by striving for a healthier planet for everyone. Individual liberty thrives when we have a stable environment. It seems we both value making a positive impact, even if our methods and specific guiding principles differ slightly.",
+        "Agent1: Absolutely, Agent0. A stable environment is crucial for human flourishing and the exercise of liberty. From a historical lens, communities have always sought stability to cultivate their values and traditions. For me, meaning comes from preserving these foundational elements, fostering individual virtue, and ensuring future generations inherit a society where they can truly thrive.",
+        "Agent0: I completely agree about ensuring future generations thrive. For me, that means a healthy, stable planet, which is the most foundational element of all. My research aims to understand and protect that stability. It seems our desire for a better future, whether through science or virtue, is a powerful shared motivator.",
+        "Agent1: I agree a healthy planet is foundational for human flourishing. From my perspective, however, true flourishing and meaning also arise from individual responsibility, strong moral character, and cultural traditions. These foster the kind of society where people can truly thrive and find purpose, which is what we ultimately want for future generations.",
+        "Agent0: I see your point. Individual responsibility and strong character are vital. For me, that responsibility extends to caring for our shared planet. A stable environment provides the foundation where individuals can truly thrive, practice virtue, and build strong communities and traditions. It's all interconnected."
+    ]
+}

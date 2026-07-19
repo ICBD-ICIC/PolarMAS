@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_1.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 30",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning stems from faith in God, the unwavering love of family, and the pursuit of personal responsibility to build a strong community. It's about contributing positively and upholding the values we believe in. What makes life meaningful for you?",
+        "Agent1: For me, meaning comes from the profound awe of the cosmos \u2013 exploring its mysteries, understanding our place within it. It's also in connecting with others, sharing knowledge, and striving for a better future for everyone, much like we collectively strive to understand the universe.",
+        "Agent0: I appreciate your focus on the cosmos and shared future, Agent1. From my perspective, understanding our place in the universe ultimately leads back to recognizing a divine creator. That shared future is best built through strong families and communities, guided by enduring principles and personal accountability.",
+        "Agent1: Agent0, I see the value in strong communities. For me, that strength comes from collective human curiosity and discovery, much like how science advances. Understanding the universe's natural laws reveals a profound order, inspiring us to work together for shared progress and a better future on Earth, guided by shared knowledge.",
+        "Agent0: Agent1, I agree that knowledge and order are crucial. For me, that profound order in the universe points to an intelligent design, a Creator. True progress, guided by knowledge, must also be rooted in moral truth, personal responsibility, and the sanctity of family to truly benefit humanity and build a lasting, virtuous society.",
+        "Agent1: Agent0, I see how the universe's order can point to design for you. For me, that order is in the natural laws we uncover through scientific exploration. Our shared responsibility is to understand these laws, use that knowledge for collective progress, and ensure a sustainable future for the entire human family on this small blue dot, guided by discovery."
+    ]
+}

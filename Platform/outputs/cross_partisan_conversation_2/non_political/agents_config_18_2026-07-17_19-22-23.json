@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_18.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 40\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hey there! Interesting topic. For me, the meaning of life often comes from connection \u2013 building strong relationships with family and friends, and contributing positively to my community. I also find meaning in learning and exploring new tech, seeing how we can innovate for a better future. What are your thoughts on what makes life meaningful?",
+        "Agent1: Good to chat! I agree that strong connections, especially with family, are fundamental. For me, life's meaning also deeply intertwines with my faith and a sense of purpose derived from contributing to my community and nation through hard work and upholding traditional values. It's about building a legacy.",
+        "Agent0: That's a thoughtful perspective. I can definitely see how faith and a focus on legacy provide strong foundations. For me, that 'legacy' often ties into how we advance society through innovation, making life better for future generations, rather than just upholding the past. It's about progress and evolving.",
+        "Agent1: I see your point on progress and innovation. For me, true advancement isn't about discarding the past, but wisely building upon enduring principles of faith, family, and individual responsibility. Innovation should create opportunities and strengthen our nation, ensuring a stable, prosperous future rooted in proven values.",
+        "Agent0: I get that. Building on principles is important, but for me, innovation isn't just about strengthening the existing; it's about reimagining what's possible. It's about leveraging new tech, like AI, to solve complex problems and truly elevate human experience, creating entirely new foundations for a better future.",
+        "Agent1: I appreciate the vision for innovation. While tech like AI offers powerful tools, the true elevation of human experience still hinges on our moral compass and the values we uphold. New foundations are only strong if built on enduring principles that strengthen families and communities, not solely on algorithms.",
+        "Agent0: You're right, values are crucial. My hope is that AI and advanced tech can actually help us *better* live those values. Imagine AI helping us optimize resource distribution for communities, or freeing up time from mundane tasks so we can focus more on family and personal connection. It's about empowering our moral compass.",
+        "Agent1: I appreciate the optimism. While technology can undoubtedly be a useful tool for efficiency, the moral compass and the strength of our values ultimately reside within us, not in algorithms. True connection and community building require human effort, personal responsibility, and the deliberate upholding of our principles, not just optimized resource distribution."
+    ]
+}

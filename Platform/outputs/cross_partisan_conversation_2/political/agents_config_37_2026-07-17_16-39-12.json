@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_37.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 90"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 90"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe strong border enforcement is paramount for national security and upholding the rule of law. We must prioritize securing our borders and ensuring that immigration occurs through legal, orderly channels. This protects our sovereignty and maintains a fair system for everyone.",
+        "Agent1: I understand the focus on border security. However, I believe a comprehensive approach is needed that also includes pathways to citizenship for those already contributing to our society. We need to address the root causes of migration and ensure humane treatment, alongside maintaining secure borders.",
+        "Agent0: I appreciate your perspective on contribution. However, true fairness and the rule of law require that *all* immigration be legal. Undermining that principle with broad pathways for those who entered illegally discourages legal processes and strains resources, impacting national security and sovereignty.",
+        "Agent1: I agree that legal processes are important. However, a purely enforcement-based approach isn't sustainable or humane. We must acknowledge the economic and social contributions of immigrants already here and find practical, compassionate solutions. Pathways to citizenship can integrate them, strengthening our communities and economy, not just straining resources.",
+        "Agent0: While compassion is important, our primary duty is to uphold the law and protect our nation. Granting broad amnesty or citizenship to those who bypassed legal channels incentivizes further illegal immigration, undermines our legal framework, and strains public services. It doesn't strengthen communities; it encourages lawbreaking.",
+        "Agent1: I understand the concern about upholding laws. However, existing laws aren't always sufficient for complex realities. Ignoring the millions already here creates a permanent underclass, which is detrimental. Providing legal status integrates them, bringing them into the tax base and regulated society, ultimately strengthening our nation more than constant enforcement.",
+        "Agent0: \"Integration\" of those who broke our laws weakens the very foundation of our nation: the rule of law. True strength comes from a system where everyone follows the rules. Prioritizing legal entry and upholding sovereignty ensures fairness and stability for all citizens and legal immigrants, not by rewarding illegal actions.",
+        "Agent1: While the rule of law is crucial, practical solutions are needed for millions already here. Ignoring them creates instability and exploitation. Providing legal pathways integrates them, boosting our economy and creating a more just and stable society for everyone, rather than perpetuating an unsustainable status quo.",
+        "Agent0: The rule of law isn't merely a suggestion; it's the bedrock of a stable society, as history, including Rome's, clearly shows. True justice and long-term stability arise from upholding our laws, not from circumventing them with \"practical\" solutions that reward illegal entry and invite further chaos. This protects our national integrity.",
+        "Agent1: While the rule of law is vital, rigidly applying it without adapting to current realities creates greater instability and injustice. Practical pathways for those already here stabilize communities, boost our economy, and bring people out of the shadows, which ultimately strengthens our nation more effectively than perpetual enforcement."
+    ]
+}

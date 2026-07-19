@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_26.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 75",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe a compassionate approach to immigration is vital. We need comprehensive reform that includes a clear pathway to citizenship for those already contributing, alongside securing borders. Focusing solely on enforcement misses the human element and economic benefits immigrants bring. What are your thoughts?",
+        "Agent1: I prioritize strong border security and upholding the rule of law. A pathway to citizenship for those here illegally incentivizes further illegal immigration. We need a system that deters illegal entry and ensures national security, while streamlining legal immigration. Crime is also a significant concern.",
+        "Agent0: I agree border security is important. However, focusing on deterrence alone ignores the economic drivers and humanitarian aspects. Studies often show immigrants commit crimes at lower rates than native-born citizens. A pathway to citizenship offers stability, integrating people into society and strengthening our economy.",
+        "Agent1: While I understand the desire for stability, granting citizenship to those who entered illegally undermines the rule of law and incentivizes more illegal immigration. Legal entry is the foundation for true integration and a strong economy. We must prioritize national security and enforce our laws effectively, addressing crime concerns seriously.",
+        "Agent0: I understand the rule of law perspective. However, prolonged uncertainty for millions already here creates a shadow economy and social instability. A regulated pathway brings them into the tax base, addresses labor shortages, and allows for better oversight, ultimately strengthening our nation, not weakening it.",
+        "Agent1: While I appreciate the economic arguments, legitimizing illegal entry through a pathway to citizenship sends the wrong message. It still undermines the rule of law. We need to focus on securing the border first, then reforming legal immigration to address labor needs and contribute to our economy properly.",
+        "Agent0: I believe a stable society, where everyone has a fair chance to contribute, is key to a meaningful life. A pathway to citizenship isn't just about legitimizing; it's about integrating people who are already here, building stronger communities, and maximizing their economic potential for all, rather than keeping them in limbo.",
+        "Agent1: For me, a meaningful life is built on order, security, and upholding our laws. True stability comes from a secure border and a legal immigration system. Bypassing legal processes undermines the very foundation of a fair society and national security, which are essential for everyone's well-being.",
+        "Agent0: I agree that order and security are crucial. However, true order comes from integrating all residents, not marginalizing them. Keeping millions in the shadows creates disorder and insecurity for everyone. A pathway to citizenship provides the stability and legal framework essential for a truly secure and meaningful society."
+    ]
+}

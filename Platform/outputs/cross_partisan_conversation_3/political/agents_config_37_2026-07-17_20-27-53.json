@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_37.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 5",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 5",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a nation's strength comes from honoring its laws and securing its borders. This means prioritizing robust enforcement of immigration laws. A clear, legal pathway is essential, but it must uphold the rule of law. Allowing widespread illegal immigration undermines the very fabric of society and public safety.",
+        "Agent1: I believe a meaningful society balances security with compassion. While borders are important, we also need humane pathways to citizenship for those contributing to our country. Focusing solely on enforcement overlooks the economic and cultural benefits immigrants bring, and the human stories behind their journeys.",
+        "Agent0: I agree compassion is vital, but true compassion also upholds the law. A stable society, much like a well-ordered republic, thrives on adherence to established rules. Undermining legal processes, even with good intentions, can lead to chaos. We need legal immigration that respects our sovereignty and citizens' trust.",
+        "Agent1: I agree that rules bring stability, but a truly meaningful society also ensures those rules are just and adaptable. Our current system often creates more problems than it solves. We need pathways that honor both our laws and the human dignity of those contributing to our communities and economy.",
+        "Agent0: Justice and dignity are indeed paramount. Yet, true dignity flourishes within a framework of law. A state that cannot enforce its borders or laws loses its honor and capacity to provide justice for anyone. Faithfulness to our civic duties, including upholding laws, provides societal meaning.",
+        "Agent1: I agree that laws are crucial for societal meaning. However, a truly honorable and just society also considers the human impact of those laws. Our civic duty includes ensuring our laws reflect compassion and provide avenues for dignity for everyone, including those seeking a better life here.",
+        "Agent0: Compassion and dignity are best served within a strong legal framework. Without adherence to foundational laws and secure borders, a society risks chaos, eroding the very basis for justice and honor. Our civic duty demands faithfulness to the rule of law first, then extends compassion through established, legal means.",
+        "Agent1: I agree that a legal framework is essential. However, the meaning of a society also comes from how justly and humanely those laws are applied. Our civic duty extends to ensuring legal means are accessible and reflect compassion, allowing dignity for all, not just strict enforcement that overlooks human needs.",
+        "Agent0: A society's honor is tied to its fidelity to law, much like Rome\u2019s strength was in its legions and legal code. While laws must be just, their very existence and the state's capacity to uphold them are foundational. Without secure borders and consistent enforcement, even the most compassionate intentions falter into disorder, undermining all dignity.",
+        "Agent1: I agree that a strong legal framework is important. But a truly meaningful society also finds honor in its empathy and adaptability. Laws must serve humanity, not just enforce borders. Our civic duty includes ensuring our legal system provides dignity and opportunity, reflecting compassion alongside order."
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_19.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 35",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 35",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life is tied to preserving our natural world. Uncontrolled immigration can strain resources and ecosystems. I believe stronger border enforcement and legal pathways are crucial to ensure sustainable communities and protect our environment for future generations, respecting the rule of law.",
+        "Agent1: For me, a meaningful life centers on compassion and building inclusive communities. While I understand concerns about resources, we must also prioritize humane treatment and pathways to citizenship. Immigrants contribute immensely, and integrating them fully strengthens our society, upholding dignity for everyone.",
+        "Agent0: I agree that compassion is vital, and immigrants certainly contribute. However, uncontrolled influxes can overwhelm local infrastructure and natural resources, impacting water quality and habitats. A structured, legal immigration system ensures we can integrate new residents sustainably, protecting both people and planet, and upholding the rule of law.",
+        "Agent1: I understand the concern for sustainability. However, immigrants often fill vital labor gaps and contribute to economic growth, which can help fund improved infrastructure and resource management. We need policies that support integration and investment in communities, not just restrictive measures, to ensure dignity and shared well-being.",
+        "Agent0: While economic contributions are valuable, rapid, unplanned immigration strains public services and natural ecosystems, like water supplies and open spaces. Sustainable growth requires regulated immigration, ensuring our infrastructure and environment can support the population without degradation, maintaining quality of life for all residents.",
+        "Agent1: True sustainability embraces equitable distribution and investment, not just restriction. Immigrants often revitalise areas, contributing innovation and labor that can improve infrastructure and resource management. We need comprehensive policies that create pathways for integration and support communities, ensuring dignity and a thriving future for all.",
+        "Agent0: Revitalization is positive, but it must be managed. Uncontrolled growth, regardless of who drives it, can still strain critical resources like water and open spaces, impacting biodiversity. A planned, legal immigration system allows us to responsibly manage population growth, protecting our environment and ensuring long-term sustainability for everyone.",
+        "Agent1: I agree that planning is essential. My view of a meaningful life emphasizes that true long-term sustainability comes from inclusive planning that integrates new residents with dignity and provides pathways for them to contribute fully. Restrictive policies alone don't build thriving, resilient communities."
+    ]
+}

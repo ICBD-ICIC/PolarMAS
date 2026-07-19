@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_7.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 20\nQ2: 90"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 20\nQ2: 90"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe strong border security is essential for national sovereignty and safety. We must enforce our existing laws to maintain order and deter illegal entry. While I acknowledge the human element, the rule of law must be paramount. What are your priorities when it comes to immigration policy?",
+        "Agent1: I prioritize a comprehensive approach, including humane treatment for asylum seekers and pathways to citizenship for undocumented immigrants already contributing to our economy. Focusing solely on enforcement overlooks the complex humanitarian and economic realities. We need solutions that address root causes and integrate newcomers successfully.",
+        "Agent0: I agree humane treatment is important, but it must be within the framework of legal immigration. Pathways to citizenship for those who broke our laws can incentivize more illegal entry, undermining the rule of law. We need to prioritize legal immigration and secure borders first.",
+        "Agent1: While securing borders is important, a rigid 'enforcement-only' stance fails to address the millions already here. Pathways to legal status can bring people out of the shadows, improving public health and economic contributions, rather than fueling an unregulated system. We need smart solutions.",
+        "Agent0: \"Smart solutions\" must uphold the law. Broad pathways for those who entered illegally send the wrong message and can encourage more illegal immigration. Legal immigration processes should be the primary focus, ensuring fairness to those who follow the rules and maintaining our nation's sovereignty.",
+        "Agent1: The current system is broken, and simply upholding outdated laws isn't solving the problem of millions already here. Pathways to legal status are not about encouraging more illegal entry, but about pragmatically integrating an existing population. This improves public health, safety, and economic contributions for everyone.",
+        "Agent0: Pragmatism shouldn't supersede the rule of law. While I understand the desire to integrate, creating broad pathways for those who entered illegally undermines our legal system and can indeed incentivize future illegal immigration. We must prioritize fairness to legal immigrants and secure our borders first."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_35.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 25\nQ2: 90"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: As a Republican, I believe strong border security is paramount for national sovereignty and safety. We need to enforce our laws and prioritize legal immigration processes. It's about maintaining order and ensuring fairness to those who follow the rules. What are your thoughts on this?",
+        "Agent1: I understand the focus on security, but I believe we also need comprehensive immigration reform that includes humane solutions. This means pathways to citizenship for those already contributing to our country and addressing the root causes of migration. It's about balancing security with compassion and economic needs.",
+        "Agent0: I agree humanity is important, but pathways to citizenship must not incentivize further illegal entry. It's unfair to those following legal procedures. Strong enforcement is crucial to maintain order and ensure fairness. We need to prioritize legal immigration to manage our resources effectively and uphold the rule of law.",
+        "Agent1: I agree that order is important, but the current system isn't working effectively. Many undocumented immigrants are essential workers and contribute to our economy. Providing a pathway to citizenship recognizes their contributions and integrates them fully, which can actually strengthen our society and economy, rather than just focusing on enforcement.",
+        "Agent0: I recognize the contributions of many, but legal status is fundamental for a stable society. Broad pathways to citizenship for those here illegally undermine the rule of law and fairness to those following legal procedures. We need to enforce our laws first, then discuss future legal frameworks.",
+        "Agent1: While upholding the rule of law is vital, the current system creates a permanent underclass, which isn't fair or beneficial. A practical solution involves both secure borders and a realistic path to legal status for those contributing, fostering integration and economic stability. Enforcement alone isn't a complete solution.",
+        "Agent0: Creating an underclass is indeed concerning. However, a path to legal status must be earned through established legal channels, not by circumventing them. Prioritizing enforcement ensures fairness for all and maintains the integrity of our immigration system, which is crucial for long-term stability.",
+        "Agent1: I agree that legal channels are important. However, many who are here have \"earned\" their place through years of work and community contribution, even if not through traditional legal means. We need a system that recognizes these realities and provides a path forward, not just focuses on enforcement.",
+        "Agent0: Contributions are valued, but legal processes define rightful residency. Bypassing established channels undermines the rule of law and fairness to those who follow proper procedures. We must uphold the integrity of our immigration system for long-term stability and equitable treatment for everyone.",
+        "Agent1: I agree that legal processes are important. However, the current system is outdated and doesn't reflect our economic or social realities. We need to update our laws to create viable, humane pathways for those contributing, rather than maintaining a system that forces people into the shadows."
+    ]
+}

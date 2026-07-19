@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_12.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 5",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 0\nQ2: 5",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: The capitalist system thrives on exploiting labor, and borders are tools to control and divide the working class. We need open borders and full rights for all workers, regardless of origin, to truly unite against exploitation. Enforcement only serves the capitalists.",
+        "Agent1: Secure borders are crucial for national sovereignty and the rule of law. While I appreciate the concern for workers, our priority must be a legal, orderly immigration system that protects our citizens and ensures national security. Uncontrolled entry undermines our system and strains resources.",
+        "Agent0: \"National sovereignty\" under capitalism is a fiction that divides workers. Borders protect exploiters, not the working class. True security comes from international worker solidarity, not state control. The \"system\" undermined is capitalist exploitation, and resources are strained by capital, not by people seeking a better life.",
+        "Agent1: National sovereignty is fundamental, not a capitalist fiction. It ensures we can protect our citizens and manage our resources responsibly. Open borders would overwhelm our systems and jeopardize public safety. We need a secure, legal process to uphold the rule of law and ensure stability for everyone.",
+        "Agent0: \"Public safety\" is a red herring. The greatest threat to public safety is capitalist exploitation, which creates poverty and desperation. Borders don't protect citizens; they protect profits. True stability comes from dismantling capitalist structures and uniting all workers, not from arbitrary lines on a map. Open borders are a revolutionary demand.",
+        "Agent1: Borders are essential for national security and maintaining the rule of law, not just profits. Our laws define who enters and how, protecting our citizens and resources. Ignoring them creates chaos. We need an orderly system, not open borders that disregard our nation's integrity.",
+        "Agent0: \"National integrity\" under capitalism is a myth. Borders are instruments of state power, designed to control labor and suppress class struggle. The \"rule of law\" you defend serves the ruling class, not the people. True integrity is global worker unity. Open borders expose the capitalist farce."
+    ]
+}

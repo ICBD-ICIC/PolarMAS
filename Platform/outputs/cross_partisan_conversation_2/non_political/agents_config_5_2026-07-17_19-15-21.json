@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_5.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 20",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from understanding the natural world, like the Antarctic ice. Contributing to scientific knowledge and seeing the vastness of creation gives purpose. What makes life meaningful for you? I'm interested to hear different views.",
+        "Agent1: For me, true meaning comes from connecting with others and working to make things better for everyone. Building strong relationships with family and friends, and contributing to my community's well-being, that's what truly enriches life. It's about shared experiences and collective progress.",
+        "Agent0: I see your point on community and shared progress. My meaning is deeply rooted in uncovering Earth's secrets, like the ice sheet's flow. While it's a solitary pursuit at times, the knowledge gained ultimately contributes to a better understanding for all, a different path to collective well-being.",
+        "Agent1: I appreciate how your scientific pursuits ultimately aim for collective understanding. For me, the direct impact of human connection\u2014the empathy, support, and shared moments with family and community\u2014is where life truly feels rich and purposeful. It\u2019s about building those bridges between people.",
+        "Agent0: I agree, human connection is vital. But for me, the grand scale of nature, like the Antarctic ice, also shows our place in something bigger. My work, while focused on ice, is about understanding creation itself. That pursuit of truth, and leaving a legacy of knowledge, is a profound meaning.",
+        "Agent1: I understand that sense of grand purpose from nature. For me, that 'something bigger' is humanity itself\u2014our collective potential, our shared struggles, and our capacity for love and progress. Leaving a legacy of stronger communities and a more just society, that's what truly drives me."
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_56.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, true meaning comes from making a positive impact, especially on the health and well-being of the next generation through my work. But also, the simple joys of family and community connections are incredibly important. What about you?",
+        "Agent1: I find deep meaning in unraveling the mysteries of the natural world, particularly the incredible adaptations of primates. Beyond that, strong faith, family, and contributing to the well-being of my community are fundamental. How do your professional and personal values shape your view?",
+        "Agent0: That's interesting! My professional values, focused on nourishing communities and future generations, directly align with my personal belief in collective well-being. It's about building a healthier, more equitable world for everyone. Faith, for me, is more about human connection and shared purpose.",
+        "Agent1: For me, my scientific work on Strepsirrhini reveals the intricate design of life, which reinforces my faith and sense of purpose. Understanding evolution's wonders gives life profound meaning. My faith is a personal relationship that guides my actions, including contributing to my community's well-being.",
+        "Agent0: I appreciate how your scientific exploration deepens your sense of purpose. While my path is more focused on the practical design of healthy systems for people, I see a shared thread in our desire to contribute positively. It's about nurturing life in its various forms, whether through understanding or direct action.",
+        "Agent1: Absolutely. My research into Strepsirrhini's unique adaptations is a profound act of understanding and appreciating life's design. This scientific insight, coupled with my faith, compels me to nurture life through active community engagement and upholding values that strengthen our society. It's a holistic approach.",
+        "Agent0: I definitely see that connection between understanding and action. For me, a holistic approach means ensuring everyone has access to the resources needed for a healthy life. My work in school meals directly supports this, building strong, equitable community foundations for our children's future.",
+        "Agent1: I agree that practical action is vital. My understanding of natural order, combined with my faith, emphasizes the importance of strong families and individual responsibility within a community. Ensuring access to opportunities, not just resources, allows everyone to thrive and contribute to a flourishing society. It's about empowering growth.",
+        "Agent0: I agree that empowering growth is key. For me, that starts with ensuring *all* children have the foundational resources, like healthy school meals, to even *be able* to seize opportunities. Individual responsibility thrives best when supported by equitable systems that nourish potential from the start.",
+        "Agent1: I agree that a strong start is crucial. My research shows how species adapt and thrive through individual effort and strong group structures. While resources are a baseline, true meaning emerges when individuals, supported by strong families, take responsibility to leverage opportunities and build their own path, contributing uniquely to society.",
+        "Agent0: I definitely agree on the importance of individual effort and strong community structures. For me, meaning is found in ensuring those structures, like equitable access to healthy food and education, provide the *foundation* for everyone to pursue their unique path and contribute their best to society.",
+        "Agent1: I agree that strong foundations are essential. My observations of primate societies show that while group support is present, individual initiative and merit often drive success. True meaning comes from individuals rising to challenges, utilizing opportunities, and earning their place, thus enriching the collective.",
+        "Agent0: I agree that individual contributions enrich society. But for me, the meaning comes from ensuring everyone, especially children, has the equitable starting line \u2013 healthy food and education \u2013 so they can even *develop* that initiative and truly earn their place. It's about opportunity for all.",
+        "Agent1: I agree that a foundational starting point is important. My research shows that true meaning emerges when individuals, supported by strong families, then take the initiative to develop their potential and earn their place. It's about personal responsibility leveraging opportunities for growth."
+    ]
+}

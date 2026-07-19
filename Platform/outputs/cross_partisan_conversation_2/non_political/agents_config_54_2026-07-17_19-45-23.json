@@ -1,0 +1,27 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_54.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, true meaning shines through connection \u2013 with loved ones, the natural world, and the pursuit of beauty, like finding a perfect sapphire. It's about learning, growing, and leaving a bit of wonder behind. What about you?",
+        "Agent1: For me, true meaning comes from faith in God, the strength of family, and contributing to my community and country. It's about raising responsible kids and upholding the values that make us strong. Leaving a positive legacy through hard work is key. What are your thoughts?",
+        "Agent0: I agree on family; those bonds are truly precious. And leaving a positive mark, whether through raising kids or sharing the beauty of a rare sapphire, resonates deeply. It's about enriching the world, however we can, and finding that unique sparkle in everything.",
+        "Agent1: Absolutely, family is the bedrock. And that positive mark often comes from building strong communities, rooted in shared values and personal responsibility. It's about ensuring future generations have the same opportunities through hard work and a commitment to our nation's principles.",
+        "Agent0: I completely agree on the importance of strong communities and ensuring a better future. For me, that also means fostering understanding and appreciating the unique value each person brings, much like recognizing the distinct beauty in every sapphire. Our collective efforts truly enrich life.",
+        "Agent1: Fostering understanding is crucial, but it starts with upholding fundamental truths and individual responsibility. A strong nation is built on citizens who work hard, respect tradition, and contribute to a society that values freedom and opportunity for all. That's where true collective strength lies.",
+        "Agent0: I see how individual responsibility and contributing to society are vital. For me, that also means ensuring everyone has the chance to thrive and express their unique contributions. A truly free and strong society embraces all its facets, much like a perfectly cut sapphire reveals its full brilliance.",
+        "Agent1: I agree that a strong society allows individuals to thrive. However, that thriving comes from personal effort, strong character, and upholding the traditional values that have always been the bedrock of our nation. Freedom and opportunity flourish when responsibility is embraced by all.",
+        "Agent0: I agree that personal effort is key. However, true brilliance, like a sapphire's, often requires the right setting and light to be fully appreciated. A society that provides opportunities and support for everyone to apply their effort ensures that no potential goes unnoticed, enriching us all.",
+        "Agent1: While opportunities are important, true brilliance is often forged through overcoming challenges with grit and self-reliance. It's about earning your place, not just being given a setting. Our nation's strength comes from individuals who, through hard work and character, create their own light and contribute meaningfully.",
+        "Agent0: Grit is certainly part of the journey. But even the most brilliant raw sapphire needs a skilled cutter and polisher to reveal its true fire. Society, like a master craftsman, can help refine and showcase that individual potential, ensuring everyone's hard work truly shines for the collective good.",
+        "Agent1: The raw material, the individual's character and drive, is paramount. A craftsman can only refine what's already strong. True brilliance stems from self-discipline and the will to forge one's own path, contributing that unique strength to the nation without undue reliance on external shaping.",
+        "Agent0: That raw strength is undeniably crucial. Yet, even the most magnificent sapphire needs optimal conditions\u2014the right pressure, heat, and surrounding minerals\u2014to form perfectly. Society, by providing a nurturing environment, allows that inherent individual strength to truly crystallize and shine its brightest."
+    ]
+}

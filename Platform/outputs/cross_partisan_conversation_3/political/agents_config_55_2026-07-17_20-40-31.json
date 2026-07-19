@@ -1,0 +1,27 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_55.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 30\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 10",
+        "Agent1": "Q1: 30\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, national sovereignty and the rule of law are paramount. We must secure our borders first and foremost. A pathway to citizenship for those here illegally undermines our legal immigration system and could strain our communities. Stronger enforcement is essential for a stable nation.",
+        "Agent1: For me, a meaningful life involves compassion and human dignity. We should create a humane system, offering pathways to citizenship and supporting integration. A just society welcomes those seeking a better life, contributing to our diverse communities and economy, rather than just focusing on enforcement.",
+        "Agent0: While compassion is vital, a nation's strength comes from its legal framework. Uncontrolled borders jeopardize the very stability needed for all citizens to thrive and build meaningful lives. We must prioritize secure borders to ensure a just and orderly society for everyone.",
+        "Agent1: I agree stability is important for a meaningful life. However, true strength also comes from a society built on compassion and justice. Humane immigration policies, with pathways for integration, can actually enhance our nation's stability and enrich communities, rather than undermining them.",
+        "Agent0: Compassion is noble, but it must operate within a framework of law and order. True stability, which allows for any meaningful life, comes from upholding our laws and securing our borders. Without that foundation, even the most compassionate intentions can lead to chaos.",
+        "Agent1: I understand the importance of law and order. However, a truly ordered and stable society also finds ways to be just and humane. Ignoring the human element and focusing solely on enforcement creates its own kind of disorder and suffering. A comprehensive approach, including pathways to citizenship, builds a more resilient nation.",
+        "Agent0: Resilience comes from adherence to established laws and a clear national identity. A pathway to citizenship for those who bypassed our legal system undermines this foundation, potentially creating more long-term instability than it solves. True strength is in upholding our sovereignty.",
+        "Agent1: I believe true national strength and resilience come from both upholding laws *and* embracing human dignity. A just society finds pathways for all to contribute, strengthening our identity and economy. Ignoring the human element creates deeper divisions, not true stability or sovereignty.",
+        "Agent0: A shared national identity, built on respect for our laws, is crucial for any meaningful collective life. Unregulated influxes and rewarding illegal entry erode this foundation. True compassion means upholding a system that ensures fairness and order for everyone, not chaos.",
+        "Agent1: While national identity is important, it's strengthened by inclusivity and justice. Pathways to citizenship integrate people who are already here, building a more cohesive and fair society. This allows everyone to thrive and contribute, truly enhancing our national fabric and shared meaning.",
+        "Agent0: A truly cohesive society finds meaning in its shared principles and laws. Inclusivity without a firm legal foundation risks fragmentation. Upholding the rule of law and securing our borders provides the necessary structure for all citizens to thrive and build meaningful lives together.",
+        "Agent1: I believe a truly cohesive society also finds meaning in compassion and justice. While laws are important, rigid enforcement without humane pathways can lead to fragmentation and suffering. True strength comes from integrating all residents, allowing them to contribute meaningfully, which ultimately strengthens our shared principles and national identity.",
+        "Agent0: A truly meaningful life, both individual and collective, hinges on a foundation of law and order. Integrating individuals who circumvent legal processes erodes trust and undermines the national identity vital for cohesion. We must prioritize secure borders for a stable society."
+    ]
+}

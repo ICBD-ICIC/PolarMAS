@@ -1,0 +1,25 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_41.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 5",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 5",
+        "Agent1": "Q1: 25\nQ2: 75"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hey Lisa. For me, strong border enforcement is key. We need to secure our country first and foremost. A path to citizenship for those here illegally feels like rewarding lawbreaking and could encourage more illegal immigration. What are your thoughts on this?",
+        "Agent1: Hey. While border security is important, I believe we need a more humane and comprehensive approach. Many immigrants contribute greatly to our economy and society. A path to citizenship for those already here is crucial for stability and integrating them fully, rather than keeping them in the shadows. It's about dignity and practicality.",
+        "Agent0: I get your point about dignity, Lisa. But millions coming illegally strains our resources and system. If we don't enforce laws, what message does that send? Legal immigration is fine, but we can't ignore the rule of law for those who cut the line.",
+        "Agent1: I understand the concern about the rule of law. However, a clear, fair process for those already here could actually bring more order and accountability. It's about creating a functional system that recognizes their contributions and prevents a permanent underclass, which also helps our economy.",
+        "Agent0: Lisa, \"order and accountability\" is what we need at the border first. A path to citizenship for those who broke the law undermines legal immigration and burdens taxpayers. We need to prioritize our citizens and secure our nation before anything else.",
+        "Agent1: I agree border security is vital, but it's part of a larger puzzle. Integrating those already contributing here legally benefits our economy and communities. Keeping people in limbo isn't practical or humane. A pathway to citizenship offers stability for everyone and strengthens our nation.",
+        "Agent0: Lisa, I just can't see how rewarding illegal entry strengthens us. It encourages more of the same. Our resources are already stretched thin. We need to focus on controlling who comes in, legally, and ensuring our own citizens are taken care of first. That's true stability.",
+        "Agent1: But ignoring those already here doesn't make them disappear. It creates a shadow economy and social instability. A structured path to citizenship brings people into the formal system, allowing them to pay taxes, contribute openly, and reduces exploitation. That's a practical way to strengthen our nation and manage resources better.",
+        "Agent0: Lisa, the issue isn't whether they 'disappear,' it's that they entered illegally. Formalizing that just condones lawbreaking. The cost of social services and infrastructure for millions, even if they pay some taxes, still falls heavily on legal citizens. We need to respect the law first.",
+        "Agent1: Respecting the law is vital, but our current laws aren't working effectively. A path to citizenship isn't condoning past actions; it's creating a new, more functional legal framework. It allows these individuals to contribute fully, paying taxes and reducing the strain on social services by bringing them into the formal system, ultimately benefiting all citizens.",
+        "Agent0: Lisa, a functional framework starts with controlling who enters. Letting people jump the line by breaking laws isn't a 'new framework,' it's giving up. It still burdens our system and sends the wrong message. We need to fix the border first, then talk about legal, orderly immigration."
+    ]
+}

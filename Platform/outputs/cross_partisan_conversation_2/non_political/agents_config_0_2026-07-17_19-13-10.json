@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_0.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from making a positive impact, especially in public health, and fostering strong connections within my community and globally. Contributing to collective well-being and a healthier future brings deep fulfillment. What are your thoughts on what makes life meaningful?",
+        "Agent1: For me, life's meaning is found in uncovering and preserving the stories of the past, especially those silenced by history. Giving voice to the individuals who lived through slavery and the Civil War, and understanding their legacy, enriches our collective human experience and connects us to our community's roots.",
+        "Agent0: That's a powerful perspective. Understanding history, especially silenced voices, is crucial for collective memory. It resonates with my belief that learning from the past, even past health crises, informs our present actions to build a resilient, healthy future. It's about ensuring everyone thrives.",
+        "Agent1: Absolutely, ensuring everyone thrives is key. My work unearths the resilience of those who faced immense hardship. Their enduring spirit, despite adversity, offers profound lessons. Preserving their memory helps us build a more just and thriving community today, connecting past struggles to present meaning.",
+        "Agent0: I agree, the enduring spirit and resilience found in historical narratives are incredibly meaningful. It mirrors the resilience we need in public health \u2013 learning from past challenges to build robust systems and ensure equitable well-being for all. Collective thriving truly defines a meaningful existence.",
+        "Agent1: Absolutely. Collective thriving is deeply rooted in understanding our past. My work on those who endured slavery and the Civil War shows their resilience built foundations. Honoring their memory isn't just history; it recognizes sacrifices enabling us to strive for a more just community. Their legacy empowers our present meaning and collective well-being."
+    ]
+}

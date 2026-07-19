@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_0.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 95",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 95",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe comprehensive immigration reform is essential. This includes a path to citizenship for those contributing to our society, alongside secure borders. Our health and economy benefit from integrating people humanely, rather than solely focusing on enforcement. What are your thoughts on balancing these aspects?",
+        "Agent1: I appreciate your perspective. My priority is strong border security and upholding the rule of law. An orderly immigration system is fundamental for national sovereignty and public safety. We must first secure our borders and then focus on reforming legal pathways, ensuring fairness for all and preventing uncontrolled entry.",
+        "Agent0: I agree that an orderly system is vital. However, focusing solely on enforcement often overlooks the economic contributions and public health benefits of immigrants already here. A humane approach that integrates them can strengthen our society and economy, rather than just prioritizing securing borders.",
+        "Agent1: I understand the economic points. However, uncontrolled immigration burdens public services and wages for some citizens. True fairness means upholding laws and ensuring those who enter do so legally. Secure borders are not just about enforcement, but about maintaining a sustainable, lawful system for everyone.",
+        "Agent0: I see your point on services. However, investing in immigrant integration, including access to healthcare and education, strengthens our entire public health infrastructure and economy. When people are healthy and contributing legally, they become net positives, reducing burdens and fostering a more resilient society.",
+        "Agent1: I agree that integration *can* be beneficial, but it must be within a controlled, legal framework. Uncontrolled entry strains public services and infrastructure, impacting existing communities. Prioritizing legal immigration ensures resources are managed sustainably, protecting both immigrants and citizens, and upholding the rule of law that sustains our society."
+    ]
+}

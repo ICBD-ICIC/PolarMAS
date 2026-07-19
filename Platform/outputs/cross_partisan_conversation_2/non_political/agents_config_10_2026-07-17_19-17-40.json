@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_10.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 95\nQ2: 25"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 40\nQ2: 70",
+        "Agent1": "Q1: 95\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, life's meaning comes from understanding the natural world through science and discovery, and fostering that curiosity in my students. Making a positive impact and building strong connections with family and community are also incredibly important. What are your thoughts on what makes life meaningful?",
+        "Agent1: For me, life's meaning truly comes from my faith and the strong bonds with my family. Also, seeing the practical benefits of technology, like autonomous vehicles improving safety and access for everyone, gives my work a real purpose. It's about building a better future for our communities.",
+        "Agent0: It's interesting how both faith and science aim to understand our world, just through different lenses. I agree that building a better future and strong family connections are central. For me, empowering students with knowledge to solve future challenges is a huge part of that meaningful impact.",
+        "Agent1: That's a great point about different paths to understanding. For me, it's about applying that understanding to tangible improvements. My faith guides my values, and seeing technology like AVs make communities safer and more accessible, directly benefiting families, truly gives life purpose. Building a better future through practical solutions.",
+        "Agent0: I agree practical solutions build a better future, technology's role is inspiring. For me, science education is the foundational solution. It empowers students to innovate, creating improvements for society and family well-being. Guiding the next generation to make tangible differences is truly meaningful.",
+        "Agent1: Absolutely, education sparks innovation. For me, the true meaning comes when that innovation, like in AVs, translates into practical benefits that enhance safety and accessibility for families and communities. My faith guides me to ensure these advancements serve everyone, building a better, more connected future.",
+        "Agent0: You've highlighted how crucial practical benefits are. For me, the meaning deepens when science education empowers students to understand and then *create* those beneficial innovations. Teaching about the human body, for instance, directly connects to health and well-being, fostering a future where families thrive through informed choices and advancements."
+    ]
+}

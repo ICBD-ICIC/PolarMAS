@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_3.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 35",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 35",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, true meaning comes from personal growth and overcoming life's challenges. It's about building strong relationships, contributing to my community, and finding peace through mindfulness. Learning from struggles and finding purpose in resilience makes life rich.",
+        "Agent1: I resonate with your emphasis on growth and community. For me, meaning also stems from the pursuit of knowledge, the elegance of mathematical discovery, and the challenge of solving intricate problems. Contributing to a deeper understanding of the world, even in abstract ways, feels profoundly purposeful.",
+        "Agent0: I see the value in intellectual pursuit and understanding. For me, knowledge gains deeper meaning when it informs how we live, how we connect with others, and how we overcome personal and communal challenges. It's about applying that understanding to create a more resilient life.",
+        "Agent1: I agree that applying knowledge is crucial. For me, the beauty of mathematics lies in its universal language, a collective human endeavor that builds upon itself. Even abstract discoveries can provide frameworks for understanding, fostering a kind of intellectual resilience and shared progress that ultimately benefits all.",
+        "Agent0: I appreciate that perspective. Intellectual resilience and shared progress are powerful. For me, the true meaning emerges when that understanding helps individuals navigate their own struggles, strengthen their relationships, and foster a more stable, compassionate community. It's about how knowledge translates into lived well-being.",
+        "Agent1: I see your point. From my perspective, the shared pursuit of mathematical truth, even abstractly, contributes to a collective intellectual heritage. This foundational understanding, while not always immediately tangible, empowers future innovations and fosters a culture of rigorous thought that ultimately underpins societal well-being and progress."
+    ]
+}

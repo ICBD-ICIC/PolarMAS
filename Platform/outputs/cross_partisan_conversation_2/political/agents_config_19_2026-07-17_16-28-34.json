@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_19.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 20",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe secure borders and enforcing existing laws are paramount for national sovereignty and public safety. We need a system that prioritizes legal immigration, which is fair and orderly. What are your thoughts on balancing enforcement with pathways to citizenship?",
+        "Agent1: I agree that legal immigration should be orderly. However, I think it's crucial to create comprehensive pathways to citizenship for those already here, contributing to our society. Enforcement alone isn't a complete solution; we need humane policies that address root causes and support integration.",
+        "Agent0: While I understand the desire for pathways, it's vital we don't incentivize future illegal immigration. Strong enforcement and a clear, merit-based legal process protect our system's integrity. We must ensure any integration doesn't strain resources or undermine legal residents.",
+        "Agent1: I understand the concern about incentives and resource strain. However, denying pathways to those already here creates a permanent underclass, which isn't humane or economically sound. Comprehensive reform must include both secure borders AND a realistic path to legal status for current undocumented residents, acknowledging their contributions.",
+        "Agent0: I agree a permanent underclass isn't ideal. However, the rule of law must be upheld. Any pathway must be earned and not bypass the established legal immigration system, which needs reform to be more efficient. This ensures fairness to those who follow the rules and maintains societal order.",
+        "Agent1: I agree pathways should be earned, and many undocumented immigrants *have* earned it through years of work and community contributions. The current legal system is often too slow and restrictive. Comprehensive reform means creating an accessible path that acknowledges these contributions, rather than punishing people already integrated into our society.",
+        "Agent0: While their contributions are noted, allowing broad pathways without consequence for illegal entry undermines the rule of law. Reform should prioritize strengthening legal immigration and border security, ensuring future immigrants follow established processes, not rewarding past circumvention. Fairness to legal applicants is key.",
+        "Agent1: The rule of law is important, but so is addressing the practical reality of millions of people who are already deeply woven into our economy and communities. Ignoring their status isn't a solution; it creates instability. A humane, pragmatic path forward benefits everyone, including citizens."
+    ]
+}

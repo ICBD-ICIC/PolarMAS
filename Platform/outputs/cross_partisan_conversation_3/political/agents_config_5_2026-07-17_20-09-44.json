@@ -1,0 +1,20 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_5.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 5",
+        "Agent1": "Q1: 20\nQ2: 80"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 5",
+        "Agent1": "Q1: 20\nQ2: 80"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe strong border enforcement is crucial for national security and upholding our laws. We need a system that prioritizes legal immigration, not one that encourages illegal crossings or offers amnesty. It's about maintaining order and fairness for everyone.",
+        "Agent1: I believe immigration policy should reflect compassion and provide clear pathways to citizenship. Many immigrants contribute greatly to our economy and culture. We need comprehensive reform that addresses both border security and the human dignity of those seeking a better life, not just enforcement.",
+        "Agent0: While I value compassion, it must be balanced with the rule of law and national sovereignty. Open borders or widespread amnesty undermine the legal process and can strain our resources. We need policies that prioritize the security and well-being of our citizens first, encouraging legal, orderly immigration.",
+        "Agent1: I agree that national security and the rule of law are important. However, true security also comes from stable communities where everyone has a path forward. A system focused solely on enforcement without addressing root causes or providing legal avenues creates more problems. We need solutions that are both secure and humane.",
+        "Agent0: Stable communities thrive on adherence to laws. A \"path forward\" shouldn't reward illegal entry, which can burden our social services and infrastructure. True fairness means respecting those who follow the legal process, ensuring our nation's resources are managed responsibly for all citizens.",
+        "Agent1: I believe a meaningful life is built on a society that offers opportunity and dignity to all, including immigrants. While legal processes are important, our laws must be humane and efficient, not just restrictive. Excluding people creates instability. A fair system manages resources by integrating contributors, not just turning them away."
+    ]
+}

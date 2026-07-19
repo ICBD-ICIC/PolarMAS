@@ -28,7 +28,7 @@ data = []
 
 # Carga y procesamiento de datos
 for experiment in experiments:
-    folder_path = f'outputs/cross_partisan_conversation/{experiment}'  # Ajustar la ruta según sea necesario
+    folder_path = f'outputs/cross_partisan_conversation_2/{experiment}'  # Ajustar la ruta según sea necesario
 
     for filename in os.listdir(folder_path):
         if filename.endswith('.json'):
@@ -280,7 +280,7 @@ def plot_pre_post_scatter_noisy(df, experiment_name):
     plt.ylabel('Calidez post-conversación')
     plt.legend(title='Partido')
     plt.tight_layout()
-    plt.savefig(f"plots/{experiment_name}.pdf", format="pdf", bbox_inches="tight")
+    plt.savefig(f"plots/{experiment_name}_2.pdf", format="pdf", bbox_inches="tight")
     plt.show()
 
 

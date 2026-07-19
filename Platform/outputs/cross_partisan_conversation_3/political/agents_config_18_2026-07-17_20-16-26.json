@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_18.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hey! I believe a meaningful life involves contributing to society and embracing human potential. For immigration, I think creating pathways to citizenship for those already here is crucial. It allows people to fully contribute, strengthening our communities and economy. Strict enforcement alone seems less productive.",
+        "Agent1: I agree that contribution is key to a meaningful life. However, for society to function and for contributions to be truly meaningful, they must occur within the framework of our laws. Strong enforcement and a clear legal immigration system ensure fairness, sovereignty, and a stable foundation for all to thrive and contribute legally.",
+        "Agent0: I understand the importance of laws and a stable system. However, a purely enforcement-focused approach often overlooks the human element and economic realities. Many undocumented immigrants are integral to our economy and communities. Providing a path to legality can actually bring more stability and fairness, allowing them to contribute openly and pay taxes.",
+        "Agent1: I recognize the contributions many make. However, the rule of law is fundamental for true stability and fairness. A robust, legal immigration system, not blanket amnesty, is the proper pathway for individuals to contribute openly, pay taxes, and thrive, while also preserving our national sovereignty and security.",
+        "Agent0: I agree a strong legal system is vital. But strict enforcement alone creates a shadow economy and separates families. Comprehensive reform, including pathways to legal status for long-term residents, isn't just \"amnesty.\" It's a pragmatic way to integrate these individuals, boost our economy, and uphold our values of compassion and opportunity.",
+        "Agent1: While I value compassion and economic integration, true pragmatism requires upholding the rule of law. Uncontrolled entry undermines our system. A secure border and a merit-based legal immigration process are the most effective ways to integrate individuals, boost our economy, and ensure long-term stability for all.",
+        "Agent0: I believe focusing solely on borders and merit overlooks the human potential already here. Integrating long-term undocumented residents through legal pathways unlocks their full contribution, strengthening our economy and society. It's about maximizing human capital, not just control. This creates more stability overall.",
+        "Agent1: Human potential is best realized within a lawful framework. While I see the value in contributions, uncontrolled entry and ignoring laws destabilize the very system meant to support society. A secure border and a merit-based legal system are essential for *sustainable* integration and maximizing human capital fairly."
+    ]
+}

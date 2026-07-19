@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_19.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 35",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 35",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, making a tangible, positive impact on the world, especially through conserving and restoring our natural environment, brings profound meaning. Seeing ecosystems thrive and contributing to that work fuels my purpose. Family and community are also incredibly important. What are your thoughts on what makes life meaningful?",
+        "Agent1: For me, life's meaning comes from advocating for social justice and helping those in need. Creating a more equitable society where everyone has opportunities, regardless of background, is deeply fulfilling. My family and contributing to my community also provide immense purpose and joy.",
+        "Agent0: I appreciate your focus on social justice and helping others. It's true that making a positive difference in people's lives is incredibly meaningful. For me, that extends to ensuring a healthy planet for future generations, which also helps everyone thrive in the long run.",
+        "Agent1: Absolutely, a healthy planet is foundational for everyone's well-being and a just society. Environmental justice is key, ensuring all communities benefit from a clean environment. Working for systemic change toward that equity truly gives my life meaning.",
+        "Agent0: I agree that a healthy planet underpins everything. My work restoring migratory fish habitats and removing dams directly improves local ecosystems, which benefits communities by providing cleaner water and more resources. That tangible, on-the-ground restoration is how I contribute to a healthier, more equitable future.",
+        "Agent1: That hands-on restoration is vital. For me, connecting those efforts to broader systemic change\u2014ensuring *all* communities, especially marginalized ones, benefit from and participate in environmental protection\u2014is where true, lasting meaning lies. It's about equitable access to a healthy future.",
+        "Agent0: I completely agree that equitable access to a healthy environment is critical. My scientific work directly supports that by restoring the natural infrastructure communities rely on. Healthy ecosystems are the bedrock for everyone's well-being and future prosperity. It's practical conservation for all.",
+        "Agent1: You're right, healthy ecosystems are fundamental. For me, the meaning deepens when we ensure those benefits are distributed justly. True prosperity means everyone, especially the most vulnerable, has access to that healthy environment. Systemic change for equity makes it truly meaningful."
+    ]
+}

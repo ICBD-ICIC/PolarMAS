@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_38.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 25"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 25"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, a meaningful life involves fostering communities where everyone has a chance to thrive and contribute. Immigration policies should reflect human dignity and provide clear pathways for people to build stable lives, rather than solely focusing on enforcement. It's about opportunity and belonging.",
+        "Agent1: I believe a meaningful life is built on secure communities and the rule of law. While compassion is important, our immigration policies must prioritize border security and orderly legal processes. Uncontrolled immigration can strain our systems and impact the well-being of existing citizens, which is also crucial for thriving communities.",
+        "Agent0: I agree that order is important, but a truly secure community also embraces those seeking refuge and opportunity. Clear, efficient pathways for immigration prevent chaos and allow new members to contribute their skills, enriching our society and economy. Focusing solely on barriers misses the potential for growth and human connection.",
+        "Agent1: While I appreciate the desire for contribution, \"clear, efficient pathways\" must adhere to our laws and capacity. Unmanaged influx strains resources, impacting the security and well-being of all. A meaningful life requires a stable foundation, which includes respecting our borders and legal processes.",
+        "Agent0: I agree that a stable foundation is vital. However, robust legal pathways and support systems are precisely how we manage influx, prevent strain, and ensure everyone can contribute meaningfully. It's about building a foundation that is inclusive, not just restrictive, recognizing the value immigrants bring to our collective well-being.",
+        "Agent1: While legal pathways are important, they must be secure and sustainable. An inclusive foundation cannot compromise the safety and resources of current citizens. True well-being comes from controlled borders and policies that uphold our laws, ensuring stability for all who are here legally.",
+        "Agent0: A meaningful life encompasses stability for *everyone*, including those seeking new lives. Prioritizing only current citizens overlooks our shared humanity. Well-managed, humane immigration policies, with robust legal processes, strengthen our nation by integrating new contributors and fostering a more diverse, resilient society for all.",
+        "Agent1: While shared humanity is a noble ideal, a nation's primary duty is to its citizens. A meaningful life for them requires a government that secures its borders and manages resources responsibly. Uncontrolled immigration undermines this stability, making it harder for anyone to thrive.",
+        "Agent0: True stability arises from a society that cares for all, including those seeking refuge. Focusing solely on borders misses how immigrants, through managed processes, enrich our economy and culture, creating a more robust nation where everyone, citizens and newcomers, can find meaning and thrive together.",
+        "Agent1: While I acknowledge potential enrichment, true stability for citizens requires secure borders and controlled immigration. Our laws and resources must be protected first. A meaningful life for current citizens depends on a government that prioritizes their security and well-being, not just abstract ideals of \"caring for all.\""
+    ]
+}

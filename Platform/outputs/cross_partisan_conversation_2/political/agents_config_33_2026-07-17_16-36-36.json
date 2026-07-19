@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_33.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 35",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 90\nQ2: 35",
+        "Agent1": "Q1: 25\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! I believe strong border security is crucial for national sovereignty and safety. We need to enforce our laws and prioritize legal immigration pathways. What are your thoughts on current immigration policies, especially regarding those already here illegally?",
+        "Agent1: I understand the focus on security. However, I believe we need comprehensive reform that includes a path to citizenship for undocumented immigrants already contributing to our country. It's also important to address the humanitarian aspects and root causes of migration, rather than just enforcement.",
+        "Agent0: I agree addressing root causes is important, but a path to citizenship for those who broke our laws undermines the rule of law. We must prioritize legal immigration and secure our borders first. Humanitarian concerns are valid, but they shouldn't negate the need for a structured, legal system.",
+        "Agent1: I understand the concern for the rule of law. However, a path to citizenship for those here for years is pragmatic, integrating them into society and economy. It's about recognizing their humanity and contributions, and finding a comprehensive solution rather than just punitive measures.",
+        "Agent0: While I recognize their contributions, true pragmatism involves upholding the law. Granting citizenship to those who entered illegally could incentivize further illegal immigration, undermining the legal process for those waiting patiently. We need solutions that respect our laws and sovereignty.",
+        "Agent1: I believe a structured path to citizenship, distinct from incentivizing future illegal entry, is essential. It's about acknowledging the reality of millions already contributing, fostering stability, and creating a more transparent system. This strengthens our economy and community, rather than undermining it.",
+        "Agent0: I still believe that a path to citizenship for those who entered illegally sends the wrong message. It can encourage more unlawful entry, making a mockery of our legal immigration system and those who follow the rules. Upholding the rule of law is foundational for true societal stability and economic strength.",
+        "Agent1: The current system is indeed broken. A path to citizenship acknowledges the reality of millions already here, working and paying taxes. It's not about incentivizing future illegal entry, but about creating a more humane, stable, and economically beneficial system for everyone. Ignoring their presence isn't a solution.",
+        "Agent0: Acknowledging their presence, the solution isn't to reward illegal entry. Upholding the rule of law is paramount. A path to citizenship for those who broke our laws incentivizes further illegal immigration, making our legal system a joke. We must prioritize secure borders and legal pathways.",
+        "Agent1: I understand the concern about rewarding illegal entry. However, ignoring the reality of millions already here is impractical. A path to citizenship integrates them, fosters stability, and strengthens our economy. It's about finding humane solutions that benefit everyone, not just punitive measures."
+    ]
+}

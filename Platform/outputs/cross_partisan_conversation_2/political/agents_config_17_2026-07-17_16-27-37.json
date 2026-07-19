@@ -1,0 +1,22 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_17.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 5",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 5",
+        "Agent1": "Q1: 20\nQ2: 85"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe secure borders and strong enforcement are paramount for national sovereignty and safety. We need to prioritize legal immigration processes and discourage illegal entry, ensuring fairness to those who follow the rules. I'm interested to hear your perspective on balancing enforcement with other considerations.",
+        "Agent1: I understand the emphasis on secure borders. From my perspective, a comprehensive approach is vital, addressing root causes of migration and creating pathways to legal status for those already contributing to our economy and communities. Enforcement alone isn't a sustainable or humane solution.",
+        "Agent0: I agree that a comprehensive approach is needed, but it must start with a truly secure border. Without that, pathways to legal status risk incentivizing more illegal crossings, undermining the rule of law and fairness to legal immigrants. We need to prioritize national security first.",
+        "Agent1: I see your point about border security. However, I believe true national security also encompasses economic stability and social integration. A system that allows people to live and work legally can actually enhance security, reduce exploitation, and ensure everyone contributes fairly, rather than pushing people further into the shadows.",
+        "Agent0: While I recognize the potential for contributions, that system must be *legal* and controlled. Granting status without fully securing our borders first risks creating a pull factor and rewarding illegal entry, which undermines the very rule of law that ensures fairness for all.",
+        "Agent1: I understand the concern about a pull factor. However, ignoring the millions already here creates an unregulated, exploitable underclass. Legal pathways bring people into an accountable system, strengthening our economy and ensuring compliance, which ultimately upholds a different kind of order and fairness.",
+        "Agent0: I agree ignoring the issue isn't ideal, but the fundamental problem remains: illegal entry. Any pathway must be contingent on *first* securing our borders and deterring future unlawful crossings. Otherwise, we perpetuate a cycle that undermines legal immigration and the rule of law for everyone.",
+        "Agent1: I understand the desire for a fully secure border first. Yet, a practical approach must address those already here. Legalizing them brings them out of the shadows, ensuring they pay taxes and follow laws, which is a form of control and order that benefits everyone, rather than ignoring a significant population."
+    ]
+}

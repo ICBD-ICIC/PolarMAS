@@ -1,0 +1,27 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_54.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 30\nQ2: 80",
+        "Agent1": "Q1: 95\nQ2: 10"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hi! I'm ready to chat about immigration. For me, a comprehensive approach is key. We need secure borders, but also humane pathways for those seeking a better life and contributing to our economy. It's about balancing enforcement with compassion and economic sense.",
+        "Agent1: I agree that secure borders are essential. For me, the focus must be on enforcing our existing laws and ensuring that legal immigration processes are respected. We can't have a system that encourages illegal crossings; it undermines our sovereignty and strains resources.",
+        "Agent0: I agree that legal processes are vital, but we must also acknowledge the economic contributions and humanitarian needs. Many immigrants fill essential jobs and pay taxes. A more efficient, humane system could reduce irregular crossings and strengthen our economy, rather than strain resources.",
+        "Agent1: While some contribute, the priority must be legal immigration. Uncontrolled borders pose security risks and overwhelm our social services and infrastructure. A humane system starts with deterring illegal entry and upholding the rule of law, ensuring fairness to those who follow proper channels.",
+        "Agent0: I understand the security and resource concerns. However, a more robust, streamlined legal immigration system could actually enhance security by providing regulated entry points and reducing desperation-driven crossings. It also allows us to better manage who enters and integrate them into our economy effectively.",
+        "Agent1: A streamlined legal system sounds good, but it's only effective if the border is secure. Without strong enforcement, any new system will be overwhelmed. We must prioritize stopping illegal crossings to ensure any legal process is respected and manageable.",
+        "Agent0: I see your point on border security. However, a secure border and a streamlined legal system aren't mutually exclusive. In fact, a clearer, more accessible legal path can reduce pressure at the border by offering alternatives to desperate crossings, making enforcement efforts more focused and effective.",
+        "Agent1: I hear you on a clearer legal path, but it's a secondary solution. The primary issue remains border security. Without it, any legal path will be exploited and fail to deter illegal entry. We must secure our borders first to ensure any legal process is respected.",
+        "Agent0: I respectfully disagree that a legal path is secondary. A robust, efficient legal system is a *tool* for border security. It provides an orderly process, reducing the incentive for dangerous, irregular crossings that are harder to track. They work in tandem for a truly secure and humane system.",
+        "Agent1: I hear your point that a legal path can be a tool for security. However, that tool is useless if the fence is down. We must secure the border first. Without that foundation, any legal system, no matter how robust, will be overwhelmed and ineffective. Enforcement is paramount.",
+        "Agent0: I understand the 'fence down' analogy, but a functional gate within that fence is crucial. A well-managed legal pathway directs people to regulated entry, reducing chaotic, illegal attempts. This makes border enforcement more targeted and effective, strengthening overall security, not undermining it.",
+        "Agent1: A gate is only functional if the fence is impenetrable elsewhere. Directing people to legal entry requires a secure border to prevent circumvention. Without that, the gate becomes another point of weakness. Enforcement must always come first to maintain control.",
+        "Agent0: But a well-designed gate isn't a weakness; it's a control point. Without it, people will find ways over or through the fence anyway, often dangerously. Legal pathways provide a regulated, safer entry, making overall border management more orderly and allowing enforcement to focus on actual threats, not just desperate individuals."
+    ]
+}

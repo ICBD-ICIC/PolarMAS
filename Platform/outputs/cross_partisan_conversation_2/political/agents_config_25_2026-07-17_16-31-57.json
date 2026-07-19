@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_25.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 25\nQ2: 80"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 15",
+        "Agent1": "Q1: 28\nQ2: 78"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe strong border security and upholding the rule of law are paramount. We need to secure our borders first and foremost. Legal immigration pathways are essential, but offering amnesty undermines the system and can encourage more illegal crossings. What are your thoughts on this balance?",
+        "Agent1: I understand the importance of secure borders. However, I believe a comprehensive approach is needed, including creating clear pathways to citizenship for those already here, addressing humanitarian concerns, and streamlining legal immigration. Focusing solely on enforcement overlooks the economic and social contributions immigrants make.",
+        "Agent0: I agree immigrants contribute, but an orderly system ensures fairness. My concern is that 'pathways to citizenship' before securing the border incentivizes illegal entry, undermining the rule of law. We need to prioritize stability and control to make any comprehensive plan truly effective.",
+        "Agent1: I understand the desire for stability. However, a truly stable system must address the millions already here. Leaving them in limbo creates its own instability and challenges. Enforcement alone isn't a sustainable solution; we need to manage current populations and legal pathways simultaneously for a truly effective system.",
+        "Agent0: I recognize the challenge of the current population, but without a secure border, any pathways become a revolving door, encouraging further illegal immigration. True stability comes from a controlled, legal process. We must prioritize securing our nation's entry points to ensure fairness and maintain the rule of law.",
+        "Agent1: I agree a controlled process is crucial. But true stability demands simultaneous action: secure borders *and* streamlined legal pathways, plus pragmatic solutions for those already contributing. Ignoring millions creates instability, not fairness.",
+        "Agent0: While I appreciate the desire for comprehensive solutions, the sequence matters. Without a truly secure border first, any 'streamlined pathways' become ineffective, perpetuating the cycle. We need a foundation of control to build a fair and lasting system.",
+        "Agent1: I understand the emphasis on sequence. However, a truly fair and lasting system requires addressing all facets concurrently. Millions are already deeply embedded in our communities and economy. Delaying solutions for them until borders are 'perfectly' secure isn't practical, nor does it reflect our values. We can secure borders *while* creating pathways.",
+        "Agent0: I understand the desire for simultaneous action. However, without a truly secure and controlled border, any \"pathways\" become a porous sieve, not a structured system. We must establish a clear foundation of legal entry first. It's about ensuring the integrity of the process itself, reflecting true fairness."
+    ]
+}

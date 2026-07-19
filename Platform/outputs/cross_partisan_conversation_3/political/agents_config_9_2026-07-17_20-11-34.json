@@ -1,0 +1,21 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_9.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 20",
+        "Agent1": "Q1: 30\nQ2: 90"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 95\nQ2: 20",
+        "Agent1": "Q1: 35\nQ2: 88"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe strong border enforcement is crucial for national sovereignty and safety. It's about maintaining order and ensuring our laws are respected. This provides a stable foundation, which I think is essential for a meaningful life for all citizens. What are your thoughts?",
+        "Agent1: I see national sovereignty, but also the economic and social dynamism immigrants bring. A meaningful life for me involves robust communities and opportunities for all, including those seeking a better life here. Our economy thrives on diverse contributions, and we need humane, comprehensive solutions that reflect our values and realities.",
+        "Agent0: I agree immigrants can contribute, but it must be through legal channels. Uncontrolled immigration strains resources and undermines the rule of law, which is paramount for a stable society. A meaningful life requires fairness and adherence to established processes, not bypassing them.",
+        "Agent1: While legal processes are important, our current system is often inefficient and inhumane. A truly meaningful life and stable society require policies that reflect the economic realities and social contributions of *all* residents. We need modernized pathways that are fair and functional, not just restrictive, to truly uphold the rule of law.",
+        "Agent0: Modernizing pathways is fine, but it can't come at the expense of secure borders. The current system's issues are often exacerbated by a lack of enforcement. A meaningful life for our citizens depends on a government that prioritizes their safety and upholds the law for everyone, legal or not.",
+        "Agent1: Secure borders are part of a comprehensive approach, but not the sole focus. A meaningful life for me means a society that values compassion and economic growth from all contributors. Over-emphasizing enforcement ignores the human cost and the economic reality of those already here, which undermines a truly stable and prosperous nation.",
+        "Agent0: Compassion is vital, but it must operate within the framework of law. Uncontrolled entry creates an unsustainable system, straining resources and diminishing the value of citizenship. A meaningful life for current citizens requires a government that enforces its laws, ensuring order and fairness for all who legally reside here."
+    ]
+}

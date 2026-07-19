@@ -1,0 +1,23 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_24.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 95\nQ2: 25"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 25\nQ2: 75",
+        "Agent1": "Q1: 95\nQ2: 35"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about the meaning of life.\n    Specifically, we are interested in you sharing what you think makes life meaningful and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that many people mention family as the most important sources of meaning in their life. Survey research also shows that other people mention career, money, faith, friends, and hobbies as the most important source of meaning in their life. \n    What do you think?. Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: For me, the meaning of life really comes down to family and community. Making sure my loved ones are taken care of and contributing to the people around me. Also, seeing the ingenuity in old machines, like those early calculators, shows what we can achieve when we work together. What do you think?",
+        "Agent1: I agree that family is paramount. For me, it's also about personal responsibility and contributing meaningfully to society through hard work and innovation. Building something lasting, whether for family or community, and living with integrity. Discovering truth and living by principles gives life purpose.",
+        "Agent0: I agree on family and building something lasting. The 'truth' in technology, like the precise engineering in a Friden EC-130, shows how dedication to a craft can create something truly meaningful and useful for generations. It's about that collective effort, ensuring everyone benefits, not just individual gain.",
+        "Agent1: I see your point about the dedication in craftsmanship and its lasting impact. That commitment to excellence, driven by individual skill and effort, truly resonates. When individuals strive for their best, whether in technology or any field, they create value that benefits the wider community and leaves a meaningful legacy.",
+        "Agent0: Absolutely, individual dedication is key, like the engineers designing failsafe displays for early computers. But their genius truly shines when it improves life for all, making technology accessible and reliable. It\u2019s about building a future where everyone has a piece of that progress.",
+        "Agent1: I agree that individual dedication is vital. It's when individuals are free to innovate and pursue their best, without undue constraint, that truly groundbreaking advancements emerge. This drive creates opportunities and progress for everyone, fostering a society where hard work is rewarded and contributes to the common good.",
+        "Agent0: I agree that innovation is powerful. Think about the move from massive vacuum tube computers to desktop machines like the HP 9100A. That accessibility, making complex tools available to more people, is where true meaning lies. It's about how we spread those advancements to uplift everyone.",
+        "Agent1: Absolutely, widespread access to innovation is crucial. It's often through free markets and individual enterprise that these breakthroughs, like the desktop computer, become affordable and available to all. This empowers individuals, allowing them to seize opportunities and contribute to their own and society's advancement.",
+        "Agent0: I agree that individual enterprise drives innovation. But the real meaning emerges when that innovation, like the HP 9100A, is used to build stronger communities and support families. It's about ensuring those advancements benefit everyone, not just a few, creating shared progress."
+    ]
+}

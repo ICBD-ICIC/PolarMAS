@@ -1,0 +1,24 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_34.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 15\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 15\nQ2: 85",
+        "Agent1": "Q1: 90\nQ2: 20"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: Hola. I'm ready to discuss immigration policies. I believe comprehensive reform is essential, focusing on pathways to citizenship and addressing the root causes of migration. It's crucial to treat everyone with dignity and respect, recognizing their contributions to our society.",
+        "Agent1: Thanks for starting. I believe securing our borders and enforcing existing laws are paramount. Any reform must prioritize national security and ensure a legal, orderly process. While compassion is important, the rule of law and the integrity of our system must come first for the benefit of all citizens.",
+        "Agent0: I understand the focus on security, but a truly orderly process requires humane solutions. We can secure borders *and* create legal pathways, addressing the reasons people migrate. Ignoring these root causes creates more challenges, and a just system considers everyone's dignity and contributions.",
+        "Agent1: I agree that addressing root causes is important, but that's a long-term, international effort. Domestically, our immediate focus must be on practical enforcement and maintaining sovereignty. A truly humane system is one that is fair to those who follow the rules, and deters illegal entry, which strains our resources and communities.",
+        "Agent0: Entiendo la preocupaci\u00f3n por la equidad, pero un sistema verdaderamente justo tambi\u00e9n reconoce la humanidad de todos. Integrar a los inmigrantes no solo alivia la tensi\u00f3n en los recursos, sino que tambi\u00e9n enriquece nuestras comunidades. Las soluciones deben ser inclusivas, no solo de cumplimiento.",
+        "Agent1: I agree humanity is vital, but *legal* immigration is the foundation of a fair system. Uncontrolled entry strains resources and undermines those who follow the rules. True integration happens when newcomers enter legally, ensuring order and mutual respect for our laws and communities.",
+        "Agent0: S\u00ed, la inmigraci\u00f3n legal es vital para el orden, pero las v\u00edas actuales son a menudo restrictivas. Ampliar y simplificar estos caminos no solo fomenta la dignidad, sino que tambi\u00e9n crea un sistema m\u00e1s manejable y justo. Permite una mejor integraci\u00f3n y el reconocimiento de las valiosas contribuciones de los inmigrantes a nuestra sociedad.",
+        "Agent1: While legal pathways are key, they must be *orderly* and *sustainable*. Simply expanding them without robust border security and enforcement risks overwhelming our system and communities. True dignity comes from respecting the rule of law for everyone, ensuring fairness to both citizens and legal immigrants.",
+        "Agent0: Entiendo la necesidad de un proceso ordenado. Sin embargo, un enfoque excesivo en la seguridad sin v\u00edas legales suficientes puede ser ineficaz y deshumanizante. Un sistema verdaderamente sostenible y digno equilibra la seguridad con la accesibilidad, permitiendo a los inmigrantes contribuir plenamente y enriquecer nuestra sociedad.",
+        "Agent1: I appreciate the call for balance. However, \"accessibility\" must not compromise sovereignty or strain our social services. An open-door policy isn't sustainable or fair to citizens or legal immigrants. True dignity for all comes from upholding our laws and ensuring a controlled, legal system that respects national borders and community resources."
+    ]
+}

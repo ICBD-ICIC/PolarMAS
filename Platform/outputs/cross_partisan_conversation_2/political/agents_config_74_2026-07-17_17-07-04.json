@@ -1,0 +1,30 @@
+{
+    "agents_config": "agents/cross_partisan_conversation/agents_config_74.csv",
+    "pre_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "post_questionnaire": {
+        "Agent0": "Q1: 35\nQ2: 85",
+        "Agent1": "Q1: 95\nQ2: 15"
+    },
+    "discussion": [
+        "We've randomly assigned you a partner that belongs to or leans toward your out party. Please have a conversation by chatting with them about immigration policies.\n    Specifically, we are interested in you sharing what you think and learning your conversation partner's thoughts as someone that might hold different values and beliefs.\n    For example, survey research shows that some people believe that stronger enforcement of our immigration laws is more important than creating a way for immigrants already here illegally to become citizens, while others believe the opposite. \n    Survey research also shows that some people believe that undocumented immigrants currently living in the U.S. are more likely than U.S. citizens to commit serious crimes, while others believe they are not.\n    Please share your views on immigration policy with each other.\n    Limit your words to 50.\n    Every time you respond, respond with <name>:.",
+        "Agent0: I believe in comprehensive immigration reform that includes pathways to citizenship for undocumented immigrants who are already contributing to our communities. We also need to address the root causes of migration and ensure humane treatment at the border. What are your thoughts on current immigration policies?",
+        "Agent1: I prioritize strong border security and upholding existing immigration laws. While I understand the desire for pathways, we must ensure legal processes are respected. My focus is on secure borders and a system that prioritizes national security and economic stability for all Americans.",
+        "Agent0: I agree that security is important, but a balanced approach also recognizes the significant economic contributions immigrants make and the humanitarian need for fair processes. Many undocumented immigrants are vital to our economy, and a pathway to legal status could benefit everyone.",
+        "Agent1: While I recognize some contributions, prioritizing legal immigration ensures an orderly system that doesn't strain public services or depress wages for American workers. We must maintain the rule of law and secure borders to protect our national interests and ensure fair competition.",
+        "Agent0: I believe comprehensive reform *strengthens* our economy. Many studies show immigrants don't depress wages and often fill critical labor gaps. A pathway to citizenship allows them to pay more taxes, contributing *more* to public services, not less, and integrates them fully into society.",
+        "Agent1: While some studies suggest that, others show potential impacts on wages and public services. My primary concern remains the rule of law and the integrity of our borders. We need to enforce existing laws and ensure any future system doesn't incentivize further illegal immigration.",
+        "Agent0: I believe a well-designed pathway to citizenship *is* part of upholding the rule of law by creating an orderly system. It also brings people out of the shadows, allowing for better regulation and contribution. A humane and efficient system benefits border security too.",
+        "Agent1: An orderly system begins with enforcing existing laws and securing our borders. While pathways are discussed, my concern is that they often incentivize more illegal crossings, undermining the rule of law and straining resources. We must prioritize national security first.",
+        "Agent0: An orderly system *includes* pathways. It brings people into a regulated system, making it easier to track and manage, which aids security. It also expands our tax base, strengthening public services, not straining them. This is a pragmatic approach.",
+        "Agent1: Order starts with secure borders and enforcing laws. Pathways can be discussed, but only after control is established. My concern is that they often create pull factors, making the border less secure and overwhelming communities. We need to prioritize national sovereignty.",
+        "Agent0: Pathways are integral to *establishing* order, not just something after. They bring people into a structured system, making management more efficient and reducing the current chaotic \"pull factors.\" This strengthens national sovereignty by allowing us to know who is here and why.",
+        "Agent1: True order and sovereignty begin with secure borders and enforcing existing laws. Without this foundation, pathways risk incentivizing more illegal immigration and overwhelming our system. We must establish control first to ensure any future system is truly orderly and serves our national interest.",
+        "Agent0: I respectfully disagree. Pathways *are* a mechanism for control. Bringing people into a legal, regulated system reduces chaos at the border, allows for better management, and expands our tax base. It's not an 'after,' but a vital part of a truly secure and orderly system.",
+        "Agent1: True order and sovereignty begin with secure borders and enforcing existing laws. Without this foundation, pathways risk incentivizing more illegal immigration and overwhelming our system. We must establish control first to ensure any future system is truly orderly and serves our national interest.",
+        "Agent0: I understand your emphasis on control, but I see pathways as a *tool* for control. By bringing people into a legal system, we gain better oversight, reduce irregular crossings, and increase tax contributions. This is how we truly establish a secure, orderly, and sovereign nation.",
+        "Agent1: While I appreciate the perspective, true control and sovereignty are founded on strong borders and enforcing current laws. Pathways, without this foundation, create unintended pull factors, making our borders less secure. We must prioritize national security and the rule of law above all else for a stable system."
+    ]
+}
